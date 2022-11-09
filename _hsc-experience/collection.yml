@@ -2,6 +2,7 @@ collections:
   hsc-experience:
     output: true
     order:
+      - Curriculum/PE & AESTHETICS.md
       - Curriculum/CRAFT & TECHNOLOGY.md
       - Curriculum/HUMANITIES.md
       - Curriculum/SCIENCE.md
