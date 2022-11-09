@@ -55,3 +55,5 @@ _‘I enjoy being in the band because there are endless opportunities to learn f
   
 Tan Zong Ze, Ashton  
 Drum Major
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTiDp_4TBVPgzooq8yXpMXJL57M973yjqUGqVygD0shUxKtKu5moTDa1Ms0bnEecKBTp6yhpVOOO-IU/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
