@@ -2,12 +2,12 @@ collections:
   hsc-experience:
     output: true
     order:
-      - Curriculum/PE & AESTHETICS.md
-      - Curriculum/CRAFT & TECHNOLOGY.md
-      - Curriculum/HUMANITIES.md
-      - Curriculum/SCIENCE.md
-      - Curriculum/MATHEMATICS.md
-      - Curriculum/MOTHER TONGUE.md
+      - Curriculum/.keep
       - Curriculum/Curriculum.md
       - Curriculum/ENGLISH LANGUAGE.md
-      - Curriculum/.keep
+      - Curriculum/MOTHER TONGUE.md
+      - Curriculum/MATHEMATICS.md
+      - Curriculum/SCIENCE.md
+      - Curriculum/HUMANITIES.md
+      - Curriculum/CRAFT & TECHNOLOGY.md
+      - Curriculum/PE & AESTHETICS.md
