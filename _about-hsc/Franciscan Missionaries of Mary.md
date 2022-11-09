@@ -37,3 +37,39 @@ They help the poor, sick, aged and despised, helping people to discover God. The
   
 
 We at Hai Sing endeavor to be like them and bring peace, joy and hope to others and walk the ways of God (Truth) through living for others (Charity). Thus, our school's motto: Truth & Charity.
+
+Our School Supervisor
+---------------------
+
+![](/images/sister1.png)
+
+From 1969 to 1982, Sr Maria Ng held the helm at Hai Sing Girls' High School.
+
+Our FMM Connections
+-------------------
+
+  
+
+Sr. Nora is our school chaplain who oversees Catholic programmes in the school. The annual Mission Seminar is held in the Singapore branch of the FMM at Holland Road on 1st Saturday of school year.
+
+  
+
+However, the school has also reached out to overseas FMM branches, such as the FMM in Kuantan, Malaysia. Students from the SLC team have visited to help out in cleaning, repairs, and renovations in both 2004 and 2005 as part of the FMM Trail and Community Involvement Project.
+
+![](/images/sister2.jpg)
+
+The FMM in Singapore
+--------------------
+
+  
+
+49-D-Holland Road, Singapore 258852. Telephone: (65) 6474 2422 Fax: (65) 6472 4513.
+
+  
+
+The FMM in Malaysia
+-------------------
+
+  
+
+83 Jalan Gambut, 25000 Kuantan, Pahang, Malaysia. Telephone: (60) 37956 8661 Fax: (60) 37541210.
