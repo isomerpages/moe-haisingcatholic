@@ -2,6 +2,7 @@ collections:
   hsc-experience:
     output: true
     order:
+      - Co Curriculum/CHOIR.md
       - Co Curriculum/BOWLING.md
       - Co Curriculum/CONCERT BAND.md
       - Co Curriculum/BADMINTON.md
