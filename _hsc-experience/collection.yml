@@ -2,4 +2,5 @@ collections:
   hsc-experience:
     output: true
     order:
+      - Curriculum/ENGLISH LANGUAGE.md
       - Curriculum/.keep
