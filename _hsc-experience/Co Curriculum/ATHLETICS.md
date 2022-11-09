@@ -53,3 +53,5 @@ _‘I have gained a myriad of benefits from my CCA. Many think that running is a
 
 Warren Illias Tan  
 Captain
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2-4DUn4Cq94hbeGVnLi7LvQFkln5DTQt4CG4aDtXPPQN1w_gbMqBEaT0uT7r9TtO11fLy--FC0aSj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
