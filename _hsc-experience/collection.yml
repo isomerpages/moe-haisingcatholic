@@ -2,6 +2,7 @@ collections:
   hsc-experience:
     output: true
     order:
+      - Co Curriculum/Co curriculum.md
       - Co Curriculum/.keep
       - Curriculum/.keep
       - Curriculum/Curriculum.md
