@@ -29,7 +29,7 @@ Highlights
 ----------
 
 *   National School Games
-*   East Zone Home & Away Competition
+*   East Zone Home &amp; Away Competition
 
 Achievements
 ------------
@@ -44,5 +44,6 @@ Student Voice
 
 _‘In Badminton, we have rigorous and energising training sessions that have allowed us to grow a 'one for all, all for one' team spirit. Even though Badminton is not really a team sport, we believe that it is important that we strengthen our team spirit so we train harder and work harder together. Also, these sessions have trained us not only physically but mentally, and we have stronger fighting spirit when we compete. We try our best each time and take pride in our achievements!’_
 
-
 Jun Yuan Secondary 3, Captain
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQYsSEJpjlCfoj2PJUrsE30f6xekmygLC5RrchABfZ-G_p3PbTzMmDmmEfpbTp8aCVdEmbc-M2qAJpT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
