@@ -18,4 +18,22 @@ Today, the FMM continues to inspire the school. Hai Sing Catholic School endeavo
 
   
 
-Additionally, our school chaplain oversees the Catholic programmes in the school, which include mass for the Catholic students and an annual Mission Seminar for all the staff.
+Additionally, our school chaplain oversees the Catholic programmes in the school, which include mass for the Catholic students and an annual Mission Seminar for all the staff.![](/images/sister.png)
+Sister Theresa Tsang (1911-1979)  
+Foundress of Hai Sing Girls' High School
+
+  
+
+Hai Sing is a Franciscan Missionaries of Mary (FMM) School because it was founded by the FMM Sisters.
+
+  
+
+The Franciscan Missionaries of Mary come from all races and social classes from 67 different nationalities. They work in solidarity with everyone, regardless of race or religion and strive for a more humane and peaceful world.
+
+  
+
+They help the poor, sick, aged and despised, helping people to discover God. They bring peace, joy and hope, always living for others.
+
+  
+
+We at Hai Sing endeavor to be like them and bring peace, joy and hope to others and walk the ways of God (Truth) through living for others (Charity). Thus, our school's motto: Truth & Charity.
