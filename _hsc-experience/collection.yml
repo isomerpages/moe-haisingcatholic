@@ -1,4 +1,5 @@
 collections:
   hsc-experience:
     output: true
-    order: []
+    order:
+      - Curriculum/.keep
