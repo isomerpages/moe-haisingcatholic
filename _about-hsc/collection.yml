@@ -2,6 +2,7 @@ collections:
   about-hsc:
     output: true
     order:
+      - School Yearbook.md
       - School Heritage.md
       - School Identity.md
       - Franciscan Missionaries of Mary.md
