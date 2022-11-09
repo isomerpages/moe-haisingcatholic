@@ -1,4 +1,5 @@
 collections:
   about-hsc:
     output: true
-    order: []
+    order:
+      - PRINCIPAL'S MESSAGE.md
