@@ -2,4 +2,4 @@ collections:
   about-hsc:
     output: true
     order:
-      - PRINCIPAL'S MESSAGE.md
+      - Principal's Message.md
