@@ -2,6 +2,7 @@ collections:
   hsc-experience:
     output: true
     order:
+      - Co Curriculum/NPCC.md
       - Co Curriculum/NCC.md
       - Co Curriculum/INFOCOMM.md
       - Co Curriculum/FLOORBALL.md
