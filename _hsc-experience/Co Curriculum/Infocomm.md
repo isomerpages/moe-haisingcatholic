@@ -28,7 +28,7 @@ Computer Lab (Photo Crew)
 Highlights
 ----------
 
-“Our Schools, Our Stories” Photo & Video Contest
+“Our Schools, Our Stories” Photo &amp; Video Contest
 
 Student voice
 -------------
@@ -38,3 +38,4 @@ _‘Just like a house needs pillars to stand, the PA and Photo crew is here to s
 Bliss Boey  
 Senior Exco
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR8UOq2IxUZe0eq8Gn9PnqTMp9fc50Q5ksHh-ucbAIhHHhRjQz1bGMei77uFRQcJgdhEaQBRaH3qWLx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
