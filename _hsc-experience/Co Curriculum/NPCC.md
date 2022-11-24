@@ -65,3 +65,5 @@ _‘NPCC has been a fun and enjoyable learning experience for me over the course
 
 SGT Tan Jun Yang  
 NPCC Vice Chairman (Head Training)
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSB2Z1NPA1f1FvqA7e9fc85JGoZvpvq8XvNqKi2HMZgMuVL8NAm_PtQXEWp6PJ62gnyCN95JUCOVxAD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
