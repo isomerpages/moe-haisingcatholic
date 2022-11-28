@@ -2,6 +2,7 @@ collections:
   hsc-experience:
     output: true
     order:
+      - Co Curriculum/SINGAPORE YOUTH FLYING CLUB.md
       - Co Curriculum/FOOTBALL.md
       - Co Curriculum/ST JOHN BRIGADE.md
       - Co Curriculum/ROBOTICS.md
