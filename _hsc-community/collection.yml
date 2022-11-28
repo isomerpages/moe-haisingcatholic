@@ -1,0 +1,4 @@
+collections:
+  hsc-community:
+    output: true
+    order: []
