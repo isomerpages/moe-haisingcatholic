@@ -2,5 +2,6 @@ collections:
   hsc-community:
     output: true
     order:
+      - Students/Students.md
       - Students/BOOKLIST AND UNIFORM.md
       - Students/.keep
