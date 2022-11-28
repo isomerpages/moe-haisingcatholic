@@ -22,7 +22,7 @@ Please select your level to view the book list for 2023
 |             | Express | Normal Academic | Normal Technical |
 |:-----------:|:-------:|:---------------:|:----------------:|
 | Secondary 1 |  1 Exp  |       1 NA      |       1 NT       |
-| Secondary 2 |  [2 Exp](/files/Sec%202E.pdf)  |       2 NA      |       2 NT       |
+| Secondary 2 |  [2 Exp](/files/Sec%202E.pdf)  |       [2 NA](/files/Sec%202NA.pdf)      |       2 NT       |
 | Secondary 3 |  3 Exp  |       3 NA      |       3 NT       |
 | Secondary 4 |  4 Exp  |       4 NA      |       4 NT       |
 | Secondary 5 |   5 NA  |                 |                  |
