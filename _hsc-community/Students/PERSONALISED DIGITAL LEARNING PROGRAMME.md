@@ -57,4 +57,5 @@ PLD usage time will be set to 6 a.m. to 11.00 p.m.
 
 *   For parents/guardians who prefer to take charge of the level of restrictions for their child’s/ward’s use of the device after school hours can request to change their choice of DMA settings to Option A and Option B in the [sg form](https://form.gov.sg/6163ec32fadcf1001324b515) link or click on the QR Code below:
 
+<img src="/images/qr-code DMA parents.png" style="width:30%">
 
