@@ -2,9 +2,9 @@ collections:
   hsc-community:
     output: true
     order:
-      - Students/FULL SUBJECT BASED BANDING.md
-      - Students/GRADUATION CEREMONY 2022.md
-      - Students/PERSONALISED DIGITAL LEARNING PROGRAMME.md
+      - Students/.keep
       - Students/Students.md
       - Students/BOOKLIST AND UNIFORM.md
-      - Students/.keep
+      - Students/PERSONALISED DIGITAL LEARNING PROGRAMME.md
+      - Students/GRADUATION CEREMONY 2022.md
+      - Students/FULL SUBJECT BASED BANDING.md
