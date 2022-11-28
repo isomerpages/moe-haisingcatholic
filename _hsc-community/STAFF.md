@@ -114,3 +114,13 @@ Secondary 4 & 5
 | 4 Graciousness | Rafidah Banu       | Noor Aisah          | Preston Tay | rafidah_banu_abdul_razak@moe.edu.sg noor_aishah_haja_mohideen@moe.edu.sg preston_tay_tzu_lin@moe.edu.sg |
 | 5 Independence | Siti Raihanni      | Ng Back Hon         |             | siti_raihanni_salamat@moe.edu.sg ng_back_hon@moe.edu.sg                                                 |
 | 5 Adaptability | Sharon Kang        | Ng Back Hon         |             | lim_siew_hoon@moe.edu.sg ng_back_hon@moe.edu.sg                                                         |
+
+Administrative Staff
+--------------------
+
+| Name                      | Designation              | Email                                      |
+|---------------------------|--------------------------|--------------------------------------------|
+| Lee Mui Sian              | Administration Manager   | lee_mui_sian@schools.gov.sg                |
+| Khairil Anuar             | Operations Manager       | khairil_anuar_mohamad_saleh@schools.gov.sg |
+| Ong Annie                 | Administrative Executive | ong_annie@moe.edu.sg                       |
+| Nur Ismaliah Binte Ismail | Administrative Executive | nur_ismaliah_ismail@moe.edu.sg             |
