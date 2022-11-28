@@ -2,6 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
+      - STAFF.md
       - Students/.keep
       - Students/Students.md
       - Students/BOOKLIST AND UNIFORM.md
