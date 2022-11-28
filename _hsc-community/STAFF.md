@@ -37,3 +37,14 @@ Heads of Department
 Subject Heads
 -------------
 
+| Name                           | Designation                           | Email                                 |
+|--------------------------------|---------------------------------------|---------------------------------------|
+| Sharon Goh Bee Hoon            | Subject Head (Craft & Technology)     | goh_bee_hoon@moe.edu.sg               |
+| Amantha Chong                  | Subject Head (Humanities)             | chong_jing_ting_amantha@moe.edu.sg    |
+| Tay Tzu-Lin, Preston           | Subject Head (Educational Technology) | preston_tay_tzu_lin@moe.edu.sg        |
+| Mohd Zain B Mohd               | Subject Head (MTL)                    | mohamed_zain_b_mohamed@moe.edu.sg     |
+| Ho Hui Ying                    | Ag Subject Head (Mathematics)         | ho_huiying_he_huiying@moe.edu.sg      |
+| Yasmin Bte A Aziz              | Subject Head (Lit & Aesthetics)       | yasmin_a_aziz@moe.edu.sg              |
+| Tracy Yeo                      | Subject Head (Science)                | yeo_bee_hiang_tracy@moe.edu.sg        |
+| Nandakumar Rao s/o Ramachandra | Ast Year Head (Upper Sec)             | nandakumar_rao_ramachandra@moe.edu.sg |
+| Benjamin James                 | Subject Head (Student Management)     | james_benjamin_norman@moe.edu.sg      |
