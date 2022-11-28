@@ -59,3 +59,4 @@ PLD usage time will be set to 6 a.m. to 11.00 p.m.
 
 <img src="/images/qr-code DMA parents.png" style="width:30%">
 
+*   Parent/guardian who wish to learn how to use the DMA to monitor their child’s/ward’s PLD activities. Please click on this [link](https://haisingcatholic.moe.edu.sg/qql/slot/u165/HSC%20Community/Students/PDLP/DMA%20Parent%20Guide%20v2.0.pdf). (link broken)
