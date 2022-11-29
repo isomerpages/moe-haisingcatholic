@@ -2,6 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
+      - ALUMNI.md
       - PSG.md
       - STAFF.md
       - Students/.keep
