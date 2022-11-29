@@ -2,12 +2,12 @@ collections:
   hsc-community:
     output: true
     order:
-      - ALUMNI.md
-      - PSG.md
-      - STAFF.md
       - Students/.keep
       - Students/Students.md
       - Students/BOOKLIST AND UNIFORM.md
       - Students/PERSONALISED DIGITAL LEARNING PROGRAMME.md
       - Students/GRADUATION CEREMONY 2022.md
       - Students/FULL SUBJECT BASED BANDING.md
+      - STAFF.md
+      - PSG.md
+      - ALUMNI.md
