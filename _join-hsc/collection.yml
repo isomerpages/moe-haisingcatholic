@@ -1,0 +1,4 @@
+collections:
+  join-hsc:
+    output: true
+    order: []
