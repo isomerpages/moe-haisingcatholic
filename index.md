@@ -11,8 +11,8 @@ sections:
       subtitle: ONE Home • School • Community
       background: /images/hompage.jpg
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: HSC Upgrading Programme
+          description: Click HERE to read more
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
