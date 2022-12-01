@@ -1,6 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: ABOUT HSC
+    collection: about-hsc
+  - title: HSC EXPERIENCE
+    collection: hsc-experience
+  - title: HSC COMMUNITY
+    collection: hsc-community
+  - title: JOIN HSC
+    collection: join-hsc
