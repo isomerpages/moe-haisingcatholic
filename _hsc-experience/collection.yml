@@ -2,6 +2,16 @@ collections:
   hsc-experience:
     output: true
     order:
+      - Curriculum/.keep
+      - Curriculum/Curriculum.md
+      - Curriculum/ENGLISH LANGUAGE.md
+      - Curriculum/MOTHER TONGUE.md
+      - Curriculum/MATHEMATICS.md
+      - Curriculum/SCIENCE.md
+      - Curriculum/HUMANITIES.md
+      - Curriculum/CRAFT & TECHNOLOGY.md
+      - Curriculum/PE & AESTHETICS.md
+      - Co Curriculum/.keep
       - Co Curriculum/VOLLEYBALL (GIRLS).md
       - Co Curriculum/SINGAPORE YOUTH FLYING CLUB.md
       - Co Curriculum/FOOTBALL.md
@@ -19,13 +29,3 @@ collections:
       - Co Curriculum/BADMINTON.md
       - Co Curriculum/ATHLETICS.md
       - Co Curriculum/Co curriculum.md
-      - Co Curriculum/.keep
-      - Curriculum/.keep
-      - Curriculum/Curriculum.md
-      - Curriculum/ENGLISH LANGUAGE.md
-      - Curriculum/MOTHER TONGUE.md
-      - Curriculum/MATHEMATICS.md
-      - Curriculum/SCIENCE.md
-      - Curriculum/HUMANITIES.md
-      - Curriculum/CRAFT & TECHNOLOGY.md
-      - Curriculum/PE & AESTHETICS.md
