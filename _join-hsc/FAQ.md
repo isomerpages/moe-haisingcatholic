@@ -333,12 +333,9 @@ The school will commence the Personalised Digital Learning Programme (PDLP) for 
 
   
 
-**
-
 **30\. How will my child learn in class with this PLD? How can I get more information regarding the PDLP?**
 
-**
 
   
 
-You may visit our [school website](https://haisingcatholic.moe.edu.sg/hsc-community/students/personalised-digital-learning-programme) for more information and resources pertaining to PLD usage and matters.
+You may visit our [school website](https://haisingcatholic.moe.edu.sg/hsc-community/students/personalised-digital-learning-programme) for more information and resources pertaining to PLD usage and matters. (insert PLD staging link here)
