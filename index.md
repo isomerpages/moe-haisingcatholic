@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: HSC Upgrading Programme
           description: Click HERE to read more
-          url: https://google.com
+          url: /hsc/hsc-upgrading/permalink/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
