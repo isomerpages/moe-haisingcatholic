@@ -37,3 +37,21 @@ Robotics & Engineering is open to all Primary 6 pupils who have two or more of t
 
 Find out more about Robotics [here](https://haisingcatholic.moe.edu.sg/hsc-experience/co-curriculum/robotics).
 (insert robotics staging link)
+
+Student Leadership Development DSA Admission Criteria
+-----------------------------------------------------
+
+In this DSA exercise, we are looking for promising Primary 6 pupils who exhibit the following:
+
+| i. Exemplary Conduct and Behaviour |
+| --- |
+| 1\. Attain an Overall Conduct Grade of “Excellent” in the previous year’s Final Grade and the current year in Semester One. |
+| 2\. Candidates with “Very Good” and demonstrated exemplary conduct and behavior will also be considered. |
+| 3\. Candidates who have demonstrated great resilience and grit will also be considered. |
+
+| ii. Strong Leadership Qualities |
+| --- |
+| 1\. Demonstrate consistency and commitment to development by attaining at least 90 % attendance for the CCA in the previous year and the current year in |
+| 2\. Demonstrate strong potential for further leadership development by assuming key leadership positions in their CCA for at least a year.  
+ | 3\. Demonstrate excellence through strong individual attainment in progress schemes/awards in the various Uniformed Groups :
+ <table class="ive_eobj_left ives_tab_kosong" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 826.938px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top; width: 212px;"><ul style="margin: 0px 0px 0.5em 25px; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Scouts:</li></ul></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top; width: 614px;">Akela Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top;"><ul style="margin: 0px 0px 0.5em 25px; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Boys Brigade:</li></ul></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top;">Chief Leading Boy AND Gold Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top;"><ul style="margin: 0px 0px 0.5em 25px; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Brownies:</li></ul></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top;">Chief Commissioner Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top; width: 60px;"><ul style="margin: 0px 0px 0.5em 25px; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Red Cross:</li></ul></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top; width: 60px;">Directors Award</td></tr></tbody></table>|
