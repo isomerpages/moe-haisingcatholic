@@ -14,12 +14,15 @@ sections:
         - title: HSC Upgrading Programme
           description: Click HERE to read more
           url: /hsc/hsc-upgrading/permalink/
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Secondary 1 registration
+          description: Click HERE to find out more!
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: BOOKLIST AND UNIFORM
+          description: Click here to find out more.
           url: /privacy/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
