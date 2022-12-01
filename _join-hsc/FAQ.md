@@ -123,13 +123,9 @@ Students will be regrouped for English Language, Mother Tongue Languages, Mathem
 
   
 
-**
+
 
 **5\. What are the indicative PSLE score ranges of 202 PSLE students posted to 202 Sec 1?**
-
-**
-
-  
 
 The following are the indicative PSLE score ranges for the different courses offered by the school:
 
@@ -143,11 +139,10 @@ N(T): 25 - 28
 
   
 
-**
+
 
 **6\. My child qualifies for the Express course, but his PSLE score does not meet your cut-off. Can we opt for the Normal Academic course in your school?**
 
-**
 
   
 
@@ -155,11 +150,10 @@ If your child has met the qualifying PSLE score for the Express course, he/she h
 
   
 
-**
+
 
 **7\. Is the school affiliated to any Junior College?**
 
-**
 
   
 
