@@ -161,11 +161,9 @@ The school is affiliated to Catholic Junior College. Hence, 2 bonus points can b
 
   
 
-**
 
 **8\. Where can I find detailed information on transport, subjects offered, CCAs, school outcomes and special student development programmes?**
 
-**
 
   
 
@@ -176,11 +174,9 @@ Such information is made available via MOE SchoolFinder
 
   
 
-**
 
 **9\. As a Catholic school, is there any difference in education experience between a Catholic and a non-Catholic student?**
 
-**
 
   
 
@@ -196,11 +192,10 @@ The school has one chaplain and a small group of Catholic teachers who lead the 
 
   
 
-**
+
 
 **10\. My child’s PSLE cut-off is below that for your school. As a Catholic family, do we get any advantage in terms of admission?**
 
-**
 
   
 
@@ -246,7 +241,7 @@ MOE will identify the level at which a student offers a subject based on their P
   
 **Higher Mother Tongue Matters**  
   
-16\. What are the criteria to take Higher Mother Tongue in Hai Sing Catholic School?  
+**16\. What are the criteria to take Higher Mother Tongue in Hai Sing Catholic School?**  
   
 If your child/ward has an overall PSLE score of 8 or better, or an overall PSLE score of 9 to 14 and attains AL1/AL2 in MTL or Distinction/ Merit in HMTL, your child/ward will be deemed by MOE to be eligible to take Higher Mother Tongue. He/She will receive an “Eligibility Form” from MOE upon entry to Secondary One.  
   
@@ -288,8 +283,8 @@ You will need to register your child/ward at the TL Centres of choice between 2.
   
 You will need to register your child at one of the approved NTIL community groups \[CG: Bangla Language and Literary Society, Bangladesh Language and Cultural Foundation, Singapore Gujarati School Limited, DAV Hindi School, The Hindi Society (Singapore), Singapore Sikh Education Foundation, Urdu Development Society (Singapore)\] with an approved NTIL application letter by MOE. The class will be allocated only after you have completed the registration.  
   
-**24\. Where can I get the NTIL application form if my child has lost the approved letter/yet to apply for it?  
-**  
+**24\. Where can I get the NTIL application form if my child has lost the approved letter/yet to apply for it?**  
+
 You may email the school with your request for the NTIL application form. Once you have completed the application form, the school will submit it to MOE on your behalf. Please note that it can take a few weeks for the application to be approved.  
   
 **Asian Languages/Foreign Languages (French, German, Japanese, Arabic, Burmese, Thai) as Mother Tongue in Lieu Matters**  
