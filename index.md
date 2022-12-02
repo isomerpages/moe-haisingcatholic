@@ -24,9 +24,7 @@ sections:
           description: Key Highlight description
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
+      title: Hai Experiential Week
       button: Button text
       url: /faq/
 ---
