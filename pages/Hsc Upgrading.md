@@ -3,7 +3,6 @@ title: Hsc Upgrading
 permalink: /hsc/hsc-upgrading/permalink/
 description: ""
 ---
-
 HSC UPGRADING
 =============
 
@@ -12,6 +11,7 @@ As part of MOE’s initiative to provide high quality infrastructure for seconda
 During this time of PRIME upgrading, the school will hold at the former Greenview Secondary School site. The school's upgraded permanent site is scheduled to be ready from January 2025.  
   
 Permanent and Holding Sites of Hai Sing Catholic School:
+
 | Permanent Site | Holding Site (Jan 2023- Dec 2024) |
 | --- | --- |
 | 9 Pasir Ris Drive 6 Singapore 519421 | 15 Pasir Ris Street 21 Singapore 518969 |
