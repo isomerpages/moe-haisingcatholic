@@ -24,7 +24,7 @@ sections:
           description: Click HERE to read more!
           url: /hsc-community/Students/graduation-ceremony-2022/permalink/
   - infobar:
-      title: Hai Experiential Week
-      button: Button text
+      title: Personal Digital Learning Programme (PDLP)
+      button: Learn more about our PDLP HERE
       url: /faq/
 ---
