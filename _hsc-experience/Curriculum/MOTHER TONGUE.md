@@ -4,10 +4,9 @@ permalink: /hsc-experience/Curriculum/mother-tongue/permalink/
 description: ""
 third_nav_title: Curriculum
 ---
-
 MOTHER TONGUE
 =============
-
+![](/images/Mother.png)
 We aim to develop our students’ preparedness to succeed in the global world and to remain rooted to their culture and heritage. Through the various programmes we have, we allow students to have a greater appreciation of their history, traditions and values. Our students will be engaged in:  
   
 
