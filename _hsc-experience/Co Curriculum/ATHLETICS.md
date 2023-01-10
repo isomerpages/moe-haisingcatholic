@@ -6,6 +6,7 @@ third_nav_title: Co Curriculum
 ---
 ATHLETICS
 =========
+![](/images/Athelics.png)
 
 Teachers in charge
 ------------------
