@@ -22,7 +22,7 @@ sections:
           url: /hsc-community/Students/booklist-and-uniform/permalink/
         - title: Graduation Ceremony 2022
           description: Read MORE here
-          url: ""
+          url: /hsc-community/Students/graduation-ceremony-2022/permalink/
   - infobar:
       title: Hai Experiential Week
       button: Button text
