@@ -7,6 +7,8 @@ third_nav_title: Co Curriculum
 SINGAPORE YOUTH FLYING CLUB
 ===========================
 
+![](/images/SYFC.png)
+
 Teachers in charge
 ------------------
 
