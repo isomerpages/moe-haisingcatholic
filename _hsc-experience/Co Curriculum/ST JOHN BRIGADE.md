@@ -7,6 +7,8 @@ third_nav_title: Co Curriculum
 ST. JOHN BRIGADE
 ================
 
+![](/images/SJB.png)
+
 Teachers in charge
 ------------------
 
