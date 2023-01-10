@@ -6,7 +6,7 @@ third_nav_title: Curriculum
 ---
 SCIENCE
 =======
-
+![](/images/science.png)
 Our vision is to provide a student-centred, stimulating and energising environment for students to explore the discovery and application of scientific concepts in challenging tasks. We aim for students to generate new and innovative ideas through a diversity of experiences and collaborative learning. To do so, we engage students in:  
   
 
