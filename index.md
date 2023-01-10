@@ -18,7 +18,7 @@ sections:
           description: Click HERE to find out more!
           url: /permalink/secondary-one-information-package/
         - title: BOOKLIST AND UNIFORM
-          description: Click here to find out more.
+          description: Click HERE to find out more!
           url: /hsc-community/Students/booklist-and-uniform/permalink/
         - title: Key Highlight Title
           description: Key Highlight description
