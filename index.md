@@ -12,7 +12,7 @@ sections:
       background: /images/hompage.jpg
       key_highlights:
         - title: HSC Upgrading Programme
-          description: Click HERE to read more
+          description: Click HERE to read more!
           url: /hsc/hsc-upgrading/permalink/
         - title: Secondary 1 registration
           description: Click HERE to find out more!
@@ -21,7 +21,7 @@ sections:
           description: Click HERE to find out more!
           url: /hsc-community/Students/booklist-and-uniform/permalink/
         - title: Graduation Ceremony 2022
-          description: Read MORE here
+          description: Click HERE to read more!
           url: /hsc-community/Students/graduation-ceremony-2022/permalink/
   - infobar:
       title: Hai Experiential Week
