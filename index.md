@@ -16,7 +16,7 @@ sections:
           url: /hsc/hsc-upgrading/permalink/
         - title: Secondary 1 registration
           description: Click HERE to find out more!
-          url: https://gmail.com
+          url: /permalink/secondary-one-information-package/
         - title: BOOKLIST AND UNIFORM
           description: Click here to find out more.
           url: /privacy/
