@@ -4,10 +4,9 @@ permalink: /hsc-experience/Curriculum/english-language/permalink/
 description: ""
 third_nav_title: Curriculum
 ---
-
 ENGLISH LANGUAGE
 ================
-
+![](/images/English.jpeg)
 We aim to develop our students into confident and competent users of the language by exposing them to a myriad of authentic learning experiences. Our students will be engaged in:  
   
 
