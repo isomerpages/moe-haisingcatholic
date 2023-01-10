@@ -7,7 +7,7 @@ third_nav_title: Curriculum
 CURRICULUM
 ==========
 
-|<a href="/hsc-experience/Curriculum/english-language/permalink/"><img style="width:25%" src="/images/English.jpeg"></a>   | <a href="/hsc-experience/Curriculum/mother-tongue/permalink/"><img style="width:25%" src="/images/Mother.png"></a>   |   |
+|<a href="/hsc-experience/Curriculum/english-language/permalink/"><img style="width:25%" src="/images/English.jpeg"></a> English Language  | <a href="/hsc-experience/Curriculum/mother-tongue/permalink/"><img style="width:25%" src="/images/Mother.png"></a>   |   |
 |---|---|---|
 |   |   |   |
 |   |   |   |
