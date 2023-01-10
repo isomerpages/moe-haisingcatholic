@@ -6,6 +6,7 @@ third_nav_title: Co Curriculum
 ---
 CONCERT BAND
 ============
+![](/images/Band.png)
 
 Teachers in charge
 ------------------
