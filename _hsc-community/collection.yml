@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Students/.keep
-      - Students/Students.md
       - Students/BOOKLIST AND UNIFORM.md
       - Students/PERSONALISED DIGITAL LEARNING PROGRAMME.md
       - Students/GRADUATION CEREMONY 2022.md
