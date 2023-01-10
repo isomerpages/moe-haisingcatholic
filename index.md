@@ -19,7 +19,7 @@ sections:
           url: /permalink/secondary-one-information-package/
         - title: BOOKLIST AND UNIFORM
           description: Click here to find out more.
-          url: /privacy/
+          url: /hsc-community/Students/booklist-and-uniform/permalink/
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
