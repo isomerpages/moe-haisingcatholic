@@ -7,6 +7,8 @@ third_nav_title: Co Curriculum
 NPCC
 ====
 
+![](/images/Npcc.png)
+
 Teachers in charge
 ------------------
 
