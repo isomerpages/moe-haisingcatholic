@@ -29,7 +29,7 @@ sections:
       url: /hsc-community/Students/pdlp/permalink/
   - infopic:
       title: Hai Experiential Week
-      description: Infopic description
-      button: Button Text
+      button: Click here to find out more!
       image: /images/week.png
+      url: permalink/
 ---
