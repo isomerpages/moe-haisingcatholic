@@ -35,7 +35,6 @@ sections:
   - infopic:
       title: Last Day of School
       button: Click here to find out more
-      url: permalink/
+      url: /last-day-of-school/permalink/
       image: /images/lastday.jpeg
-      alt: Image alt text
 ---
