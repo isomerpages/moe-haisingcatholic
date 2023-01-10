@@ -2,6 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
+      - Students/STUDENTS TIMETABLE.md
       - Students/.keep
       - Students/BOOKLIST AND UNIFORM.md
       - Students/PERSONALISED DIGITAL LEARNING PROGRAMME.md
