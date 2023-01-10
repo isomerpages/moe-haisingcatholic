@@ -7,6 +7,8 @@ third_nav_title: Co Curriculum
 ROBOTICS
 ========
 
+![](/images/Robotics.png)
+
 Teachers in charge
 ------------------
 
