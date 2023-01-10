@@ -15,4 +15,5 @@ TIME-TABLE
 Secondary 1 Class timetable   
 [Secondary 1](/files/sec1.pdf)
 
-Secondary 2 Class timetable
+Secondary 2 Class timetable   
+[Secondary 2](/files/sec2.pdf)
