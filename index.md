@@ -26,7 +26,7 @@ sections:
   - infobar:
       title: Personal Digital Learning Programme (PDLP)
       button: Learn more about our PDLP HERE
-      url: /faq/
+      url: /hsc-community/Students/pdlp/permalink/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
