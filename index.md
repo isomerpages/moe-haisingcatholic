@@ -31,5 +31,5 @@ sections:
       title: Hai Experiential Week
       button: Click here to find out more!
       image: /images/week.png
-      url: permalink/
+      url: /hai-experiential-week/permalink/
 ---
