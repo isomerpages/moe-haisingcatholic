@@ -27,4 +27,10 @@ sections:
       title: Personal Digital Learning Programme (PDLP)
       button: Learn more about our PDLP HERE
       url: /faq/
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
