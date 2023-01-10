@@ -20,8 +20,8 @@ sections:
         - title: BOOKLIST AND UNIFORM
           description: Click HERE to find out more!
           url: /hsc-community/Students/booklist-and-uniform/permalink/
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Graduation Ceremony 2022
+          description: Read MORE here
           url: ""
   - infobar:
       title: Hai Experiential Week
