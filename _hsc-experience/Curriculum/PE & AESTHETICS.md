@@ -6,7 +6,7 @@ third_nav_title: Curriculum
 ---
 Physical Education (PE)
 -----------------------
-
+![](/images/PE.png)
 The PE Department endeavours to enable students to demonstrate indivisible and with others, the physical skills, practices and values to enjoy a lifetime of active healthy living. We strive to build a strong foundation for the development of physical competencies for recreational participation in our students which are anchored on core values (respect, responsibility, resilience, integrity, care and harmony). Our PE curriculum engages students in:  
   
 
