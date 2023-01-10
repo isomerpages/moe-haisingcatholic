@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Curriculum/.keep
-      - Curriculum/Curriculum.md
       - Curriculum/ENGLISH LANGUAGE.md
       - Curriculum/MOTHER TONGUE.md
       - Curriculum/MATHEMATICS.md
