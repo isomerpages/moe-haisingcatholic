@@ -4,9 +4,10 @@ permalink: /hsc-experience/Co-Curriculum/infocomm/permalink/
 description: ""
 third_nav_title: Co Curriculum
 ---
-
 INFOCOMM
 ========
+
+![](/images/Infocomm.png)
 
 Teachers in charge
 ------------------
