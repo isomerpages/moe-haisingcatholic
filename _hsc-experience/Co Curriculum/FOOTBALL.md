@@ -7,6 +7,8 @@ third_nav_title: Co Curriculum
 FOOTBALL
 ========
 
+![](/images/Soccer.png)
+
 Teachers in charge
 ------------------
 
