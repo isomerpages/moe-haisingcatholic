@@ -66,4 +66,4 @@ The Hai Sing Catholic School Floorball Team is open to all Primary 6 pupils who 
 *   Awards in National School Games Floorball competitions or any relevant competition
 *   The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last 2 years in Primary School Education.
 
-Find out more about our Floorball team [here](https://haisingcatholic.moe.edu.sg/hsc-experience/co-curriculum/floorball). (insert floorball staging link here)
+Find out more about our Floorball team [here](https://staging.d2qbslbi9g4bi3.amplifyapp.com/hsc-experience/Co-Curriculum/floorball/permalink/)
