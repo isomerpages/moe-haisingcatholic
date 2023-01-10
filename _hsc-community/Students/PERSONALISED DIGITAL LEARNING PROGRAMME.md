@@ -6,6 +6,7 @@ third_nav_title: Students
 ---
 PERSONALISED DIGITAL LEARNING PROGRAMME
 =======================================
+![](/images/PDLP.png)
 
 Principal's Message on PDLP
 ---------------------------
