@@ -32,4 +32,10 @@ sections:
       button: Click here to find out more
       image: /images/week.png
       url: /hai-experiential-week/permalink/
+  - infopic:
+      title: Last Day of School
+      button: Click here to find out more
+      url: permalink/
+      image: /images/lastday.jpeg
+      alt: Image alt text
 ---
