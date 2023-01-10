@@ -17,3 +17,9 @@ Secondary 1 Class timetable
 
 Secondary 2 Class timetable   
 [Secondary 2](/files/sec2.pdf)
+
+Secondary 3 Class timetable   
+[Secondary 3](/files/sec3.pdf)
+
+Secondary 4 & 5 Class timetable   
+[Secondary 4 & 5](/files/sec45.pdf)
