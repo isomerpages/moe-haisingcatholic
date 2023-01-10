@@ -4,10 +4,10 @@ permalink: /hsc-community/Students/booklist-and-uniform/permalink/
 description: ""
 third_nav_title: Students
 ---
-
-
 BOOKLIST AND UNIFORM
 ====================
+
+![](/images/hsccommunity%20uniform%20and%20Booklist1.png)
 
 2022 Sales of Textbook and Uniform is now on going at the current Hai Sing Catholic School for walk in purchase from 31 Oct - 18 Nov 2022  
   
