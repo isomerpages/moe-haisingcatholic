@@ -40,5 +40,3 @@ sections:
       image: /images/lastday.jpeg
       alt: alt text
 ---
-
-
