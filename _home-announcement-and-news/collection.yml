@@ -1,0 +1,4 @@
+collections:
+  home-announcement-and-news:
+    output: true
+    order: []
