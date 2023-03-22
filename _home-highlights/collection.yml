@@ -1,5 +1,5 @@
 collections:
-  highlights:
+  home-highlights:
     output: true
     order:
       - Hai Experiential Week.md
