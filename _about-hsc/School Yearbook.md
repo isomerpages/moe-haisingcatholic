@@ -5,10 +5,11 @@ description: ""
 ---
 SCHOOL YEARBOOK
 ===============
-Click on the picture below to access our yearbook for 2022.
 
-<a href="https://issuu.com/touche-design/docs/hsc_yb22_030123"><img style="width:100%" src="/images/yearbook.png"></a>
 
+Click on the [here](https://issuu.com/touche-design/docs/hsc_yb22_030123) below to access our yearbook for 2022.
+
+![](/images/About%20HSC/year%20book%202022.jpg)
 
 Click on the picture below to access our yearbook for 2021.
 
