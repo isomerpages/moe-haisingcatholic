@@ -2,10 +2,10 @@ collections:
   about-hsc:
     output: true
     order:
-      - School Management.md
       - Franciscan Missionaries of Mary.md
       - School Identity.md
       - School Heritage.md
+      - School Management.md
       - School Yearbook.md
       - Principal's Message.md
       - Contact Us.md
