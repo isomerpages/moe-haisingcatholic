@@ -14,19 +14,14 @@ sections:
         - title: HSC Upgrading Programme
           description: Click HERE to read more!
           url: /hsc/hsc-upgrading/permalink/
-        - title: Secondary 1 registration
-          description: Click HERE to find out more!
-          url: /permalink/secondary-one-information-package/
         - title: BOOKLIST AND UNIFORM
           description: Click HERE to find out more!
           url: /hsc-community/Students/booklist-and-uniform/permalink/
-        - title: Graduation Ceremony 2022
+        - title: Personalised Digital Learning Programme
           description: Click HERE to read more!
-          url: /hsc-community/Students/graduation-ceremony-2022/permalink/
+          url: ""
   - infobar:
-      title: Personal Digital Learning Programme (PDLP)
-      button: Learn more about our PDLP HERE
-      url: /hsc-community/Students/pdlp/permalink/
+      title: "Highlights "
   - infopic:
       title: Hai Experiential Week
       button: Click here to find out more
