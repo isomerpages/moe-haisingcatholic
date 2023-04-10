@@ -2,7 +2,6 @@ collections:
   hsc-experience:
     output: true
     order:
-      - LEAPS 2.md
       - Curriculum/.keep
       - Curriculum/ENGLISH LANGUAGE.md
       - Curriculum/MOTHER TONGUE.md
@@ -28,3 +27,4 @@ collections:
       - Co Curriculum/FOOTBALL.md
       - Co Curriculum/SINGAPORE YOUTH FLYING CLUB.md
       - Co Curriculum/VOLLEYBALL (GIRLS).md
+      - LEAPS 2.md
