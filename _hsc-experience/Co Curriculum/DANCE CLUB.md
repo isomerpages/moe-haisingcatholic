@@ -13,8 +13,8 @@ Teachers in charge
 ------------------
 
 1.  Mrs Felicia Loh
-2.  Mdm De Witt Cassandra
-3.  Ms Diyana
+2.  Ms Lim Xin Yi
+3.  Miss Siti Nur Azmina Binte Abdul Razak
 
 Training schedule
 -----------------
