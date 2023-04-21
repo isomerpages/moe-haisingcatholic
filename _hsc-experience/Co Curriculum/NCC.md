@@ -7,7 +7,7 @@ third_nav_title: Co Curriculum
 NCC LAND
 ========
 
-![](/images/Ncc.png)
+![](/images/CCA/Ncc.png)
 
 Teachers in charge
 ------------------
