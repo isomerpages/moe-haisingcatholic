@@ -7,7 +7,7 @@ third_nav_title: Co Curriculum
 INFOCOMM
 ========
 
-![](/images/Infocomm.png)
+![](/images/CCA/Infocomm.png)
 
 Teachers in charge
 ------------------
