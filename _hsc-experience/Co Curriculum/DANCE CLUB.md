@@ -7,7 +7,7 @@ third_nav_title: Co Curriculum
 DANCE CLUB
 =====
 
-![](/images/Dance.png)
+![](/images/CCA/Dance.png)
 
 Teachers in charge
 ------------------
