@@ -11,10 +11,9 @@ CONCERT BAND
 Teachers in charge
 ------------------
 
-1.  Mr Asraf Mohtar
+1.  Mr Mohammed Asraf Bin Mohtar
 2.  Mr Tan Yong An
 3.  Mr Chew Tze Inn
-4.  Ms Tan Jeng Suan
 
 Training schedule
 -----------------
