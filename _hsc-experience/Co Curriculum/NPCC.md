@@ -17,9 +17,8 @@ Teachers in charge
 Training schedule
 -----------------
 
-Every Tuesday: 3 - 6 pm  
-Saturday: 9 am to 12 noon (Nov - Feb)  
-Zoom session for LMSC training (Sec 2)
+Every Tuesdays: 3.00pm - 6.30 pm  
+Selected Saturdays: 8.30am to 1.00 pm
 
 Venue
 -----
