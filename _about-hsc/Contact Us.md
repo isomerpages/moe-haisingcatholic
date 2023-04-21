@@ -9,6 +9,7 @@ CONTACT US
 Hai Sing Catholic School
 ------------------------
 We are currently located at our Holding Site 
+
 Tel: 6582 7864 Fax: 6582 2543
 
 | Permanent Site                        | Holding Site (5 Dec 2022 - 31 Dec 2024 Tentative)                                  |
