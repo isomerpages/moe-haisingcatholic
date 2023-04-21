@@ -83,8 +83,8 @@ Secondary 1 &amp; 2
 | 2 Compassion   | Lee Wan Yin        | Juliane Leung       |                   | lee_wan_yin@moe.edu.sg leung_wai_ching_juliane@moe.edu.sg                                           |
 | 2 Integrity    | Jonathan Tan       | Rafiqah Nordin      | Ho Hui Ying       | chu_chze_jonathan_tan@moe.edu.sg rafiqah_nordin@moe.edu.sg ho_huiying_he_huiying@moe.edu.sg         |
 | 2 Independence | Zainudin A. Razzak | D.W. Cassandra      |                   | zainudin_abdul_razak@moe.edu.sg de_witt_cassandra_shivani@moe.edu.sg                                |
-| 2 Adaptability | Mohd Tafran        | Joaquina Jye Shiow  |                   | mohamed_tafran_angullia@moe.edu.sg joaquina_jye_shiow@moe.edu.sg                                    |
-| 2 Graciousness | Fauzan A. Rahim    | Tan Yong An         | Diyana Fauzi      | fauzan_abdul_rahhim@moe.edu.sg tan_yong_an@moe.edu.sg diyana_mohamed_fauzi@moe.edu.sg               |
+| 2 Adaptability | Grace Eu        | Zainudin A. Razzak  |                   | grace_eu_yi_ying@moe.edu.sg  zainudin_abdul_razak@moe.edu.sg                                  |
+| 2 Graciousness | Shah Dhaval   | Mohd Farhan         | Lee Yueli    | shah_dhaval_prabhaker@moe.edu.sg   mohammed_farhan@moe.edu.sg  lee_yueli@moe.edu.sg              |
 
 Secondary 3
 -----------
