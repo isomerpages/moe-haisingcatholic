@@ -12,14 +12,13 @@ INFOCOMM
 Teachers in charge
 ------------------
 
-1.  Mr Edmund Tham
-2.  Mr MukMien Bin Mohammad Kassim
-3.  Ms Esther Khoo
+1.  Mr Preston Tay
+2.  Miss Siti Nur Aisha Bte Osman
 
 Training schedule
 -----------------
 
-Every Thursday 3.00 - 5.30 pm
+Every Tuesday 3.00 - 5.30 pm
 
 Venue
 -----
@@ -29,8 +28,10 @@ Computer Lab (Photo Crew)
 
 Highlights
 ----------
-
-“Our Schools, Our Stories” Photo &amp; Video Contest
+Mobile concerts 
+Events and Stage Management
+“Our Schools, Our Stories” 
+Video Contest
 
 Student voice
 -------------
