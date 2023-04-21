@@ -3,7 +3,6 @@ title: Staff
 permalink: /hsc-community/staff/permalink/
 description: ""
 ---
-
 STAFF
 =====
 
@@ -12,17 +11,18 @@ School Leaders
 
 | Name                  | Designation    | Email                               |
 |-----------------------|----------------|-------------------------------------|
-| Ang Teck Siang Daniel | Principal      | daniel_ang@schools.gov.sg           |
-| Lim Mui Mui Adeline   | Vice-Principal | adeline_lim@schools.gov.sg          |
-| Shereen Wong Mingrui  | Vice-Principal | wong_mingrui_shereen@schools.gov.sg |
+| Lim Mui Mui Adeline | Principal      | adeline_lim@schools.gov.sg          |
+|  Shereen Wong Mingrui | Vice-Principal | wong_mingrui_shereen@schools.gov.sg |
+| Paul Leong | Vice-Principal | paul_leong@schools.gov.sg |
+| Andy Kong Wei Foong | Vice-Principal | kong_wei_foong@schools.gov.sg |
 
 Heads of Department
 -------------------
 
 | Name                  | Designation                        | Email                                 |
 |-----------------------|------------------------------------|---------------------------------------|
-| Stanley Gng Kuan Lai  | HOD (Character & Citizenship Edn)  | gng_kuan_lai@moe.edu.sg               |
-| Lee Irene             | HOD (Craft & Technology)           | lee_irene@moe.edu.sg                  |
+| Stanley Gng Kuan Lai  | HOD (Character &amp; Citizenship Edn)  | gng_kuan_lai@moe.edu.sg               |
+| Lee Irene             | HOD (Craft &amp; Technology)           | lee_irene@moe.edu.sg                  |
 | Joseph Tabitha Lee    | HOD English Language               | joseph_tabitha_lee@moe.edu.sg         |
 | Ong Siew Choo Lindy   | HOD (Mathematics)                  | ong_siew_choo_lindy@moe.edu.sg        |
 | Sim Hui Teng          | HOD (Mother Tongue)                | sim_hui_teng@moe.edu.sg               |
@@ -30,22 +30,21 @@ Heads of Department
 | Daniel Yong Chee Kong | HOD Ag. (Humanities)               | yong_chee_kong_daniel@moe.edu.sg      |
 | Teo Yee Ming          | HOD (ICT)                          | teo_yee_ming@moe.edu.sg               |
 | Sharifah              | HOD (SSD)                          | sharifah_thalha_syed_osman@moe.edu.sg |
-| Sim Shu Xian          | HOD (Student Well-Being & Support) | sim_shu_xian@moe.edu.sg               |
+| Seow Han Chien          | HOD (PE, CCA &amp; Aesthetics) | seow_han_chien@moe.edu.sg               |
 | Rizal Bin Subani      | Year Head (Upper Sec)              | rizal_subani@moe.edu.sg               |
-| Christine Sarah Toh   | Ag. Year Head (Lower Sec)          | christine_sarah_toh@moe.edu.sg        |
-| Seow Han Chien        | Ag. HOD (PE, CCA & Aesthetics)     | seow_han_chien@moe.edu.sg             |
+| Christine Sarah Toh   |  Year Head (Lower Sec)          | christine_sarah_toh@moe.edu.sg        |
 
 Subject Heads
 -------------
 
 | Name                           | Designation                           | Email                                 |
 |--------------------------------|---------------------------------------|---------------------------------------|
-| Sharon Goh Bee Hoon            | Subject Head (Craft & Technology)     | goh_bee_hoon@moe.edu.sg               |
+| Sharon Goh Bee Hoon            | Subject Head (Craft &amp; Technology)     | goh_bee_hoon@moe.edu.sg               |
 | Amantha Chong                  | Subject Head (Humanities)             | chong_jing_ting_amantha@moe.edu.sg    |
-| Tay Tzu-Lin, Preston           | Subject Head (Educational Technology) | preston_tay_tzu_lin@moe.edu.sg        |
+| Tan En Ci Michelle         | Subject Head (Character &amp; Citizenship Edn) | tan_en_ci_michelle@moe.edu.sg        |
 | Mohd Zain B Mohd               | Subject Head (MTL)                    | mohamed_zain_b_mohamed@moe.edu.sg     |
 | Ho Hui Ying                    | Ag Subject Head (Mathematics)         | ho_huiying_he_huiying@moe.edu.sg      |
-| Yasmin Bte A Aziz              | Subject Head (Lit & Aesthetics)       | yasmin_a_aziz@moe.edu.sg              |
+| Yasmin Bte A Aziz              | Subject Head (Lit &amp; Aesthetics)       | yasmin_a_aziz@moe.edu.sg              |
 | Tracy Yeo                      | Subject Head (Science)                | yeo_bee_hiang_tracy@moe.edu.sg        |
 | Nandakumar Rao s/o Ramachandra | Ast Year Head (Upper Sec)             | nandakumar_rao_ramachandra@moe.edu.sg |
 | Benjamin James                 | Subject Head (Student Management)     | james_benjamin_norman@moe.edu.sg      |
@@ -62,10 +61,14 @@ Lead/Senior Teachers
 | Siti Raihanni Bte Selamat | Senior Teacher (Malay Language)   | siti_raihanni_selamat@moe.edu.sg   |
 | Dhaval Shah               | Senior Teacher (Physics)          | shah_dhaval_prabhaker@moe.edu.sg   |
 
-Secondary 1 & 2
+Secondary 1 &amp; 2
 ---------------
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 1160px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 580px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Well-Being &amp; Support (Lower Sec): Sim Shu Xian<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 580px;"><b style="margin: 0px; outline: 0px; padding: 0px;">sim_shu_xian@moe.edu.sg<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Year Head (Overall Lower Sec)<br style="margin: 0px; outline: 0px; padding: 0px;">Christine Sarah Toh<br style="margin: 0px; outline: 0px; padding: 0px;">Ryan Lok (covering AYH)<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">christine_sarah_toh@moe.edu.sg<br style="margin: 0px; outline: 0px; padding: 0px;">lok_bin_hao@moe.edu.sg</b></td></tr></tbody></table>
+**Year Head (Lower Sec): Christine Sarah Toh**
+**christine_sarah_toh@moe.edu.sg**&nbsp;
+
+****Level IC:&nbsp;Nandakumar Rao s/o Ramachandra****
+**nandakumar_rao_ramachandra@moe.edu.sg**
 
 | Class          | Form Teachers      |                     |                   | Email                                                                                               |
 |----------------|--------------------|---------------------|-------------------|-----------------------------------------------------------------------------------------------------|
@@ -97,24 +100,24 @@ Secondary 3
 | 3 Integrity    | Teo Felicia       | Zhao Xuying   |           | teo_felicia@moe.edu.sg zhao_xuying@moe.edu.sg                                |
 | 3 Independence | Bharathi          | David Wong    |           | bharathi_jayakumaran@moe.edu.sg wong_chun_sheng_david@moe.edu.sg             |
 | 3 Adaptability | Edmund Tham       | Zhang Mingyue |           | tham_mun_kin_edmund@moe.edu.sg zhang_mingyue@moe.edu.sg                      |
+| 3 Confidence | Raihan Omar       | Juliana Lee   | Lee Yueli | raihan_omar@moe.edu.sg juliana_lee_chin_ling@moe.edu.sg lee_yueli@moe.edu.sg |
 | 3 Graciousness | Raihan Omar       | Juliana Lee   | Lee Yueli | raihan_omar@moe.edu.sg juliana_lee_chin_ling@moe.edu.sg lee_yueli@moe.edu.sg |
 
-Secondary 4 & 5
+Secondary 4 &amp; 5
 ---------------
-
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 1160px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 580px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Student Well-Being &amp; Support (Upper Sec): Sim Shu Xian<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 580px;"><b style="margin: 0px; outline: 0px; padding: 0px;">sim_shu_xian@moe.edu.sg<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">Year Head (Overall Upper Sec)<br style="margin: 0px; outline: 0px; padding: 0px;">Rizal Bin Subani<br style="margin: 0px; outline: 0px; padding: 0px;"></b></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;"><b style="margin: 0px; outline: 0px; padding: 0px;">rizal_subani@moe.edu.sg</b></td></tr></tbody></table>
+**Year Head (Upper Sec):&nbsp;Rizal Bin Subani**: **rizal_subani@moe.edu.sg**
 
 | Class          | Form Teachers      |                     |             | Email                                                                                                   |
 |----------------|--------------------|---------------------|-------------|---------------------------------------------------------------------------------------------------------|
-| 4 Truth        | Chew Tze Inn       | Radha Devi          |             | chew_tze_inn@moe.edu.sg radha_devi_r_o@moe.edu.sg                                                       |
-| 4 Charity      | Neo Shu Qi         | June Ng             |             | neo_shu_qi@moe.edu.sg june_ng_goh_suat_hong@moe.edu.sg                                                  |
-| 4 Compassion   | Siti Nurhuda       | Tan Song Teck       |             | siti_nurhuda_hamsani@moe.edu.sg tan_song_teck@moe.edu.sg                                                |
-| 4 Integrity    | Tan Wan Ting (MTL) | Esther Khoo         | Sharifah    | tan_wan_ting@moe.edu.sg khoo_kai_leng_esther@moe.edu.sg sharifah_thalha_syed_osman@moe.edu.sg           |
-| 4 Independence | Dhaval Shah        | Fazzera Kamal (MTL) | Tracy Yeo   | shah_dhaval_prabhaker@moe.edu.sg fazzera_kamal@moe.edu.sg yeo_bee_hiang_tracy@moe.edu.sg                |
-| 4 Adaptability | Raihanah Haron     | Viswanathan         |             | raihanah_haron@moe.edu.sg viswanathan_chockalingam@moe.edu.sg                                           |
-| 4 Graciousness | Rafidah Banu       | Noor Aisah          | Preston Tay | rafidah_banu_abdul_razak@moe.edu.sg noor_aishah_haja_mohideen@moe.edu.sg preston_tay_tzu_lin@moe.edu.sg |
-| 5 Independence | Siti Raihanni      | Ng Back Hon         |             | siti_raihanni_salamat@moe.edu.sg ng_back_hon@moe.edu.sg                                                 |
-| 5 Adaptability | Sharon Kang        | Ng Back Hon         |             | lim_siew_hoon@moe.edu.sg ng_back_hon@moe.edu.sg                                                         |
+| 4 Truth        | Rafi Mohd Rais    | Lim Xin Yi    |           | rafi_b_mohamed_rais@moe.edu.sg lim_xin_yi@moe.edu.sg                         |
+| 4 Charity      | Millicent Chua    | Sophia Goh    |           | chua_bee_hua_millicent@moe.edu.sg sophia_goh_eng_lam@moe.edu.sg              |
+| 4 Compassion   |  Mohd Asraf Mohtar | Pricilla Seah |           | mohammed_asraf_mohtar@moe.edu.sg seah_kai_sing_pricilla@moe.edu.sg           |
+| 4 Integrity    | Teo Felicia       | Zhao Xuying   |           | teo_felicia@moe.edu.sg zhao_xuying@moe.edu.sg                                |
+| 4 Independence | Bharathi          | David Wong    |           | bharathi_jayakumaran@moe.edu.sg wong_chun_sheng_david@moe.edu.sg             |
+| 4 Adaptability | Edmund Tham       | Zhang Mingyue |           | tham_mun_kin_edmund@moe.edu.sg zhang_mingyue@moe.edu.sg                      |                                      
+| 4 Graciousness |  Raihan Omar       | Juliana Lee   | Lee Yueli | raihan_omar@moe.edu.sg juliana_lee_chin_ling@moe.edu.sg lee_yueli@moe.edu.sg 
+| Secondary 5 | Raihanah Haron    |          |             | raihanah_haron@moe.edu.sg   |
+
 
 Administrative Staff
 --------------------
