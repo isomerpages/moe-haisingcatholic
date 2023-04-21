@@ -6,7 +6,7 @@ third_nav_title: Curriculum
 ---
 HUMANITIES
 ==========
-![](/images/HUMANITIES.png)
+![](/images/Curriculum/HUMANITIES.png)
 We seek to ignite students’ curiosity to inquire into real world issues that concern their lives. Through inquiry and authentic learning experiences, our students attain relevant knowledge and understanding about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives. To develop students as informed, concerned and participative citizens, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in, we engage students in:  
   
 
