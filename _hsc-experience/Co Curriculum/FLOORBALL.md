@@ -11,12 +11,8 @@ FLOORBALL
 Teachers in charge
 ------------------
 
-1.  Fauzan A Rahhim
-2.  Sing Geok Qing
-3.  Lok Bin Hao
-4.  Raihanah Haron
-5.  Ye Yiping
-6.  Tan Wan Ting
+1.  Mr Fauzan Abd Rahhim
+2.  Mr Edmund Tham
 
 Training schedule
 -----------------
@@ -26,7 +22,7 @@ Every Tuesday and Thursday 3.00 - 5.30pm
 Venue
 -----
 
-School Hall / SUTD (Indoor sports Hall) / Basketball court
+School Hall / Basketball court
 
 Highlights
 ----------
