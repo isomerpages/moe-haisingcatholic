@@ -13,8 +13,8 @@ Teachers in charge
 ------------------
 
 1.  Ms Virgil Chew Boon Kean
-2.  Ms Goh Suat Hong
-3.  Ms Eliora Neo Shu Qi
+2.  Ms June Goh Suat Hong (Mrs June Ng)
+3.  Mr Teo Hsin Wei
 
 Training schedule
 -----------------
