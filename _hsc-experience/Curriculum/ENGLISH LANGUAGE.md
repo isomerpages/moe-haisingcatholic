@@ -6,8 +6,7 @@ third_nav_title: Curriculum
 ---
 ENGLISH LANGUAGE
 ================
-![](/images/English.jpeg)
-We aim to develop our students into confident and competent users of the language by exposing them to a myriad of authentic learning experiences. Our students will be engaged in:  
+![](/images/Curriculum/English.jpeg)We aim to develop our students into confident and competent users of the language by exposing them to a myriad of authentic learning experiences. Our students will be engaged in:  
   
 
 *   Storytelling
