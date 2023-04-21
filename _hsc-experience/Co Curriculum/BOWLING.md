@@ -6,7 +6,7 @@ third_nav_title: Co Curriculum
 ---
 BOWLING
 =======
-![](/images/Bowling.png)
+![](/images/CCA/Bowling.png)
 
 Teachers in charge
 ------------------
