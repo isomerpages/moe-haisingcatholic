@@ -95,11 +95,12 @@ Secondary 3
 |----------------|-------------------|---------------|-----------|------------------------------------------------------------------------------|
 | 3 Truth        | Rafi Mohd Rais    | Lim Xin Yi    |           | rafi_b_mohamed_rais@moe.edu.sg lim_xin_yi@moe.edu.sg                         |
 | 3 Charity      | Millicent Chua    | Sophia Goh    |           | chua_bee_hua_millicent@moe.edu.sg sophia_goh_eng_lam@moe.edu.sg              |
-| 3 Compassion   | Mohd Asraf Mohtar | Pricilla Seah |           | mohammed_asraf_mohtar@moe.edu.sg seah_kai_sing_pricilla@moe.edu.sg           |
-| 3 Integrity    | Teo Felicia       | Zhao Xuying   |           | teo_felicia@moe.edu.sg zhao_xuying@moe.edu.sg                                |
-| 3 Independence | Bharathi          | David Wong    |           | bharathi_jayakumaran@moe.edu.sg wong_chun_sheng_david@moe.edu.sg             |
-| 3 Adaptability | Edmund Tham       | Zhang Mingyue |           | tham_mun_kin_edmund@moe.edu.sg zhang_mingyue@moe.edu.sg                      |
-| 3 Confidence | Raihan Omar       | Juliana Lee   | Lee Yueli | raihan_omar@moe.edu.sg juliana_lee_chin_ling@moe.edu.sg lee_yueli@moe.edu.sg |
+| 3 Compassion   | Mohd Asraf Mohtar | Pricilla Seah |           | chu_chze_jonathan_tan@moe.edu.sg  
+Lim_tsu_wei_MATHEW@moe.edu.sg           |
+| 3 Integrity    | Radha Devi      | Chan Yu Wei, Dominique   |           | radha_devi_r_o@moe.edu.sg  chan_yu_wei_dominique@moe.edu.sg                                |
+| 3 Independence | Siti Nur A'isha Bte Osman        |     |           | siti_nur_aisha_osman@moe.edu.sg            |
+| 3 Adaptability | Ho Hui Ying       | Siti Nur Azmina Abdul |           | ho_huiying_he_huiying@moe.edu.sg  siti_nur_azmina_abdul@moe.edu.sg                     |
+| 3 Confidence | Noor Aishah       | Preston Tay   |  | noor_aishah_haja_mohideen@moe.edu.sg preston_tay_tzu_lin@moe.edu.sg  |
 | 3 Graciousness | Fauzan A. Rahim    | Tan Yong An         |     | fauzan_abdul_rahhim@moe.edu.sg tan_yong_an@moe.edu.sg               |
 
 Secondary 4 &amp; 5
