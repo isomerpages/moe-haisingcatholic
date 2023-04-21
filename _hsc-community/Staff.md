@@ -100,7 +100,7 @@ Secondary 3
 | 3 Independence | Bharathi          | David Wong    |           | bharathi_jayakumaran@moe.edu.sg wong_chun_sheng_david@moe.edu.sg             |
 | 3 Adaptability | Edmund Tham       | Zhang Mingyue |           | tham_mun_kin_edmund@moe.edu.sg zhang_mingyue@moe.edu.sg                      |
 | 3 Confidence | Raihan Omar       | Juliana Lee   | Lee Yueli | raihan_omar@moe.edu.sg juliana_lee_chin_ling@moe.edu.sg lee_yueli@moe.edu.sg |
-| 3 Graciousness | Raihan Omar       | Juliana Lee   | Lee Yueli | raihan_omar@moe.edu.sg juliana_lee_chin_ling@moe.edu.sg lee_yueli@moe.edu.sg |
+| 3 Graciousness | Fauzan A. Rahim    | Tan Yong An         |     | fauzan_abdul_rahhim@moe.edu.sg tan_yong_an@moe.edu.sg               |
 
 Secondary 4 &amp; 5
 ---------------
