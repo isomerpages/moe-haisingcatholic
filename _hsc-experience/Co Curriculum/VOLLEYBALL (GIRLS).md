@@ -7,7 +7,7 @@ third_nav_title: Co Curriculum
 VOLLEYBALL (GIRLS)
 ==================
 
-![](/images/Volleyball.png)
+![](/images/CCA/cca%20volleyball%20tab%201%20(2).png)
 
 Teachers in charge
 ------------------
