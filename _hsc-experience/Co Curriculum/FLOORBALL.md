@@ -6,7 +6,7 @@ third_nav_title: Co Curriculum
 ---
 FLOORBALL
 =========
-![](/images/Floorball.png)
+![](/images/CCA/Floorball.png)
 
 Teachers in charge
 ------------------
