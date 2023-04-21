@@ -7,7 +7,7 @@ third_nav_title: Co Curriculum
 DRAMA CLUB
 ==========
 
-![](/images/Drama.png)
+![](/images/CCA/Drama.png)
 
 Teachers in charge
 ------------------
