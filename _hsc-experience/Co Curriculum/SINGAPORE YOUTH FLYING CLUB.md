@@ -12,19 +12,20 @@ SINGAPORE YOUTH FLYING CLUB
 Teachers in charge
 ------------------
 
-1.  Ms Rafidah Banu Bte Abdul Razak
-2.  Mr Liang Tian Fa
-3.  Ms Jye Shiow
+1.  Mr Mukmien Bin Mohammad Kassim&nbsp;
+2.  Ms Joaquina Jye Shiow
+3.  Ms Rafidah Banu Bte Abdul Razak
 
 Training schedule
 -----------------
 
-Every Tuesday 3.00 - 6.00 pm
+Every Tuesday and selected Mondays:  
+3.00 - 6.00 pm
 
 Venue
 -----
 
-School&nbsp;
+School
 
 Highlights
 ----------
