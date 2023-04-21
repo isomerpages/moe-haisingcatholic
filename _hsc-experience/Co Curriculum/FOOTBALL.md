@@ -7,7 +7,7 @@ third_nav_title: Co Curriculum
 FOOTBALL
 ========
 
-![](/images/CCA/Soccer.png)
+![](/images/CCA/cca%20soccer%20tab%201%20(2).png)
 
 Teachers in charge
 ------------------
