@@ -6,7 +6,7 @@ third_nav_title: Curriculum
 ---
 MATHEMATICS
 ===========
-![](/images/Maths.png)
+![Mathematics](/images/Curriculum/Maths.png)
 Our vision is to nurture our students to be logical thinkers, analytical problem solvers, and to have a creative mind.  
   
 The mathematics curriculum at Hai Sing Catholic School incorporates a variety of learning experiences. We seek to teach students to learn and understand mathematical concepts, so they discover ways of thinking and problem-solving. We aim to incorporate strong pupil engagement and participation in learning activities that help maximize their learning. Through these activities, pupils are given the opportunity to apply their mathematical knowledge to investigate situations, model real-life phenomena and solve problems.  
