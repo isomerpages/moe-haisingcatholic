@@ -7,7 +7,7 @@ third_nav_title: Co Curriculum
 CHOIR
 =====
 
-![](/images/Choir.png)
+![](/images/CCA/Choir.png)
 
 Teachers in charge
 ------------------
