@@ -4,11 +4,10 @@ permalink: /hsc-experience/Co-Curriculum/robotics/permalink/
 description: ""
 third_nav_title: Co Curriculum
 ---
-
 ROBOTICS
 ========
 
-![](/images/Robotics.png)
+![](/images/CCA/cca%20robotics%20tab%204.png)
 
 Teachers in charge
 ------------------
