@@ -14,6 +14,7 @@ Teachers in charge
 
 1.  Mr Raihan Omar
 2.  Mr Tan Chu Chze, Jonathan
+3.  Mr Lim Tsu Wei Mathew
 
 Training schedule
 -----------------
