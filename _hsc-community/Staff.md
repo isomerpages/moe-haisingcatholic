@@ -93,7 +93,7 @@ Secondary 3
 
 | Class          | Form Teachers     |               |           | Email                                                                        |
 |----------------|-------------------|---------------|-----------|------------------------------------------------------------------------------|
-| 3 Truth        | Rafi Mohd Rais    | Lim Xin Yi    |           | rafi_b_mohamed_rais@moe.edu.sg lim_xin_yi@moe.edu.sg                         |
+| 3 Truth        | Chew Tze Inn    | Yasmin Bte. A. Aziz   |           | chew_tze_inn@moe.edu.sg  yasmin_a_aziz@moe.edu.sg                        |
 | 3 Charity      |  Lee Wan Xin    | Lee Wan Yin    |           | lee_wan_xin@moe.edu.sg  lee_wan_yin@moe.edu.sg             |
 | 3 Compassion   | Jonathan Tan| Mathew Lim|           | chu_chze_jonathan_tan@moe.edu.sg  Lim_tsu_wei_MATHEW@moe.edu.sg           |
 | 3 Integrity    | Radha Devi      | Chan Yu Wei, Dominique   |           | radha_devi_r_o@moe.edu.sg  chan_yu_wei_dominique@moe.edu.sg                                |
