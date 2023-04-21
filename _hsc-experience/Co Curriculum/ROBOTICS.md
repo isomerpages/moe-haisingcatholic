@@ -12,8 +12,10 @@ ROBOTICS
 Teachers in charge
 ------------------
 
-1\. Mr Teo Yee Ming  
-2\. Ms Zhao Xu Ying
+1\. Ms Zhao Xu Ying  
+2\. Mr Chua Rui Zhe Alvin  
+3. Mr Kok Hoe Ming   
+4\. Mr Teo Yee Ming
 
 Training schedule
 -----------------
