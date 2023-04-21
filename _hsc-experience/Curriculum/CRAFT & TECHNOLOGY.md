@@ -6,7 +6,7 @@ third_nav_title: Curriculum
 ---
 CRAFT & TECHNOLOGY
 ==================
-![](/images/Craft.jpeg)
+![craft](/images/Curriculum/Craft.jpeg)
 The Craft & Technology Department comprises three academic disciplines: Art, Design & Technology (D&T) and Nutrition & Food Science (NFS). Three of the subjects, Art, Design & Technology (D&T), Nutrition and Food Science are offered to the upper secondary students. A component of these subjects are coursework based.  
   
 Art: We aim to develop our students’ artistic sensibilities that will enable them to make connections between visual expressions and personal experiences and view the world around them in new ways. Through stimulating tasks, they engage in creative exploration of ideas and integrate knowledge of artists and various art forms into their own works of art. We support students’ creative pursuits through:  
