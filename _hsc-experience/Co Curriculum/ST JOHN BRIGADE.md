@@ -7,19 +7,23 @@ third_nav_title: Co Curriculum
 ST. JOHN BRIGADE
 ================
 
-![](/images/SJB.png)
+![](/images/CCA/SJB.png)
 
 Teachers in charge
 ------------------
 
 1.  Ms Thang Sabrina Lisa
-2.  Ms Lim Xin Yi
+2.  Ms Lee Wan Xin
+3.  Ms Rafiqah Binte Nordin
 
 Training schedule
 -----------------
 
-Every Tuesday 3 - 5.45pm  
-Saturday trainings \[only for First Aid Competition competitors and helpers\], 8am - 12pm
+Parade Square /  
+Foyer Level 1 besides General Office (Wet weather)  
+  
+Every Tuesday 3.30 - 6.00pm  
+Saturday trainings \[only for First Aid Competition competitors and helpers\], 8.30am - 1.00pm
 
 Highlights
 ----------
