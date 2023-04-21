@@ -6,6 +6,7 @@ description: ""
 SCHOOL IDENTITY
 ===============
 **About HSC**
+
 Hai Sing Catholic School was founded in 1959 by the Franciscan Missionaries of Mary (FMM) Sisters as Hai Sing Girls' High School. Back then, many of the families living in the Serangoon and Punggol areas were very poor and the daughters of farmers could neither read nor write. The girls did not have the opportunity to go to school as they had to spend time taking care of their farms and live stocks. Following the teaching of Jesus to care for the less fortunate families, Sister Magdalena Chenti (Theresa Tsang) and Sister Margaret Hiang started two classes of Chinese Secondary level in classrooms provided by Holy Innocents’ Chinese Girls School in Serangoon.   
 
 What started as two classes gradually grew into one school as the school thrived and achieved its mission. In 1990, Hai Sing Girls’ High School moved to Pasir Ris, which heralded two other significant changes in the school. The school became co-educational and its name shortened to ‘Hai Sing High School’. At the same time, the school became multiracial, accepting students from other races too. The last batch comprising only girls completed their secondary education at the new school in Pasir Ris in 1992. 
@@ -20,27 +21,33 @@ Over the years, Hai Sing Catholic School has modernised, embracing the technolog
 One in Truth and Charity, HSC is a Home where hearts belong, a School where students shine forth, and a Community that leads, cares and serves.
 
 **Our Mission**
+
 With God in our presence, we guide our students to seek their true purpose in life, we imbue them with school values and we equip them  with the hearts and minds to live out their purpose to be a positive force  in the world beyond.
 
 **Our Motto**
+
 Ad Veritatem per caritatem – To Truth Through Charity
 
 **Our Values**
+
 Virtues: Integrity, Graciousness, Compassion
 
 Performance Values: Confidence, Independence, Adaptability
 
 # Desired Student Outcomes
-**Purposful Students**
- HAIsians are happy to be in school.
+***Purposful Students***
+ 
 
-_Students feel a sense of belonging and have positive teacher-student and student-student relationships._
+HAIsians are happy to be in school.
+
+Students feel a sense of belonging and have positive teacher-student and student-student relationships.
 
 HAIsians seek to be their best self.
 
-_Students build self-esteem and exercise personal and social responsibility._
+Students build self-esteem and exercise personal and social responsibility.
 
-**Lifelong Learners**
+***Lifelong Learners***
+
 HAIsians have a growth mindset.
 
 Students make continuous improvements and progress towards their aspirations._ 
@@ -49,7 +56,8 @@ HAIsians can excel.
 
 Students can adapt and surpass their own boundaries to thrive in the future.
 
-**Caring Leaders**
+***Caring Leaders**
+
 HAIsians are leaders.
 
 Students positively influence their peers and others to put graciousness into action.
