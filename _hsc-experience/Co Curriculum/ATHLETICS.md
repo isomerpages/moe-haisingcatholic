@@ -6,15 +6,14 @@ third_nav_title: Co Curriculum
 ---
 ATHLETICS
 =========
-![](/images/Athelics.png)
+![Running](/images/CCA/Athelics.png)
 
 Teachers in charge
 ------------------
 
 1.  Ms Millicent Chua
 2.  Mdm Lee Wan Yin
-3.  Mdm Kiranjit Kaur
-4.  Mr Mathew Lim
+3.  Mr Eugene Pang Ming Xi
 
 Training schedule
 -----------------
