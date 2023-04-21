@@ -6,7 +6,7 @@ third_nav_title: Co Curriculum
 ---
 BADMINTON
 =========
-![](/images/badminton.png)
+![](/images/CCA/badminton.png)
 
 Teachers in charge
 ------------------
