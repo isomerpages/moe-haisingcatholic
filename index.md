@@ -34,4 +34,11 @@ sections:
       url: /last-day-of-school/permalink/
       image: /images/lastday.jpeg
       alt: alt text
+  - infopic:
+      title: HSC School Video
+      subtitle: "Hai Sing Catholic School "
+      button: Haisian Experience
+      url: https://youtu.be/qlWlwAZJi4s
+      image: /images/acad mother tongue mt tab.jpeg
+      alt: Image alt text
 ---
