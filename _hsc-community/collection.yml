@@ -2,7 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
-      - Students/Secondary Two Subject Combination.md
+      - Students/SECONDARY TWO SUBJECT COMBINATION.md
       - Students/.keep
       - Students/STUDENTS TIMETABLE.md
       - Students/FULL SUBJECT BASED BANDING.md
