@@ -23,6 +23,13 @@ sections:
   - infobar:
       title: "Highlights "
   - infopic:
+      title: HSC School Video
+      subtitle: "Hai Sing Catholic School "
+      button: Haisian Experience
+      url: https://youtu.be/qlWlwAZJi4s
+      image: /images/acad mother tongue mt tab.jpeg
+      alt: Image alt text
+  - infopic:
       title: Hai Experiential Week
       button: Click here to find out more
       image: /images/week.png
@@ -34,11 +41,4 @@ sections:
       url: /last-day-of-school/permalink/
       image: /images/lastday.jpeg
       alt: alt text
-  - infopic:
-      title: HSC School Video
-      subtitle: "Hai Sing Catholic School "
-      button: Haisian Experience
-      url: https://youtu.be/qlWlwAZJi4s
-      image: /images/acad mother tongue mt tab.jpeg
-      alt: Image alt text
 ---
