@@ -27,7 +27,7 @@ sections:
       subtitle: "Hai Sing Catholic School "
       button: Haisian Experience
       url: https://youtu.be/qlWlwAZJi4s
-      image: /images/acad mother tongue mt tab.jpeg
+      image: /images/website logo.png
       alt: Image alt text
   - infopic:
       title: Hai Experiential Week
