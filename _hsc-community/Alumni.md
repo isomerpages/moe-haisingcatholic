@@ -3,7 +3,6 @@ title: Alumni
 permalink: /hsc-community/alumni/permalink/
 description: ""
 ---
-
 ALUMNI
 ======
 
