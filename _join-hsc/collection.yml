@@ -2,5 +2,5 @@ collections:
   join-hsc:
     output: true
     order:
-      - DSA Talent areas.md
+      - DSA CRITERIA.md
       - FAQ.md
