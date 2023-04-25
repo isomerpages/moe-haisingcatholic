@@ -9,7 +9,7 @@ DSA TALENT AREAS
 1 . ROBOTICS
 ------------
 
-Please click on this [link](https://haisingcatholic-moe-edu-sg-admin.cwp.sg/hsc-experience/co-curriculum/robotics) to know more about Robotics.
+Please click on this [link](/hsc-experience/Co-Curriculum/robotics/permalink/) to know more about Robotics.
 
 2\. STUDENT LEADERSHIP THROUGH UNIFORMED GROUPS
 -----------------------------------------------
