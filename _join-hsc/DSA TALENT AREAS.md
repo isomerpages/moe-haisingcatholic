@@ -14,9 +14,9 @@ Please click on this [link](/hsc-experience/Co-Curriculum/robotics/permalink/)�
 2\. STUDENT LEADERSHIP THROUGH UNIFORMED GROUPS
 -----------------------------------------------
 
-Please click on this [link](https://haisingcatholic-moe-edu-sg-admin.cwp.sg/hsc-experience/co-curriculum/ncc-land) to know more about NCC (Land).  
-Please click on this [link](https://haisingcatholic-moe-edu-sg-admin.cwp.sg/hsc-experience/co-curriculum/NPCC) to know more about NPCC.  
-Please click on this [link](https://haisingcatholic-moe-edu-sg-admin.cwp.sg/hsc-experience/co-curriculum/st-john-brigade) to know more about SJB.  
+Please click on this [link](https://hsc-experience/Co-Curriculum/ncc/permalink/) to know more about NCC (Land).  
+Please click on this [link](https://hsc-experience/Co-Curriculum/npcc/permalink/) to know more about NPCC.  
+Please click on this [link](https://hsc-experience/Co-Curriculum/sjb/permalink/) to know more about SJB.  
 
 3\. Floorball
 -------------
