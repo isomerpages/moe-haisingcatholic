@@ -27,7 +27,7 @@ Heads of Department
 | Ong Siew Choo Lindy   | HOD (Mathematics)                  | ong_siew_choo_lindy@moe.edu.sg        |
 | Sim Hui Teng          | HOD (Mother Tongue)                | sim_hui_teng@moe.edu.sg               |
 | Tey Li Shun           | HOD (Science)                      | tey_li_shun@moe.edu.sg                |
-| Daniel Yong Chee Kong | HOD Ag. (Humanities)               | yong_chee_kong_daniel@moe.edu.sg      |
+| Daniel Yong Chee Kong | Ag. HOD  (Humanities)               | yong_chee_kong_daniel@moe.edu.sg      |
 | Teo Yee Ming          | HOD (ICT)                          | teo_yee_ming@moe.edu.sg               |
 | Sharifah              | HOD (SSD)                          | sharifah_thalha_syed_osman@moe.edu.sg |
 | Seow Han Chien          | HOD (PE, CCA &amp; Aesthetics) | seow_han_chien@moe.edu.sg               |
@@ -71,14 +71,14 @@ Secondary 1 &amp; 2
 
 | Class          | Form Teachers      |                     |                   | Email                                                                                               |
 |----------------|--------------------|---------------------|-------------------|-----------------------------------------------------------------------------------------------------|
-| 1 Truth        | Mukmien Kassim     | Sabrina Thang (MTL) | Yasmin Bte A Aziz | mukmien_mohammad_kassim@moe.edu.sg thang_sabrina_lisa@moe.edu.sg yasmin_a_aziz@moe.edu.sg           |
+| 1 Truth        | Juliane Leung    |  (MTL) | Yasmin Bte A Aziz |   yasmin_a_aziz@moe.edu.sg           |
 | 1 Charity      | Ariston Tay        | Zhao Sen            |                   | ariston_tay_jing_yan@moe.edu.sg zhao_sen@moe.edu.sg                                                 |
 | 1 Compassion   | Lim Daisy          | Mathew Lim          |                   | lim_daisy@moe.edu.sg Lim_tsu_wei_MATHEW@moe.edu.sg                                                  |
 | 1 Integrity    | Alvin Chua         | Ye Yiping           |                   | rui_zhe_alvin_chua@moe.edu.sg ye_yiping@moe.edu.sg                                                  |
 | 1 Independence | Ng Boon Hian       | Sing Geok Qing      |                   | ng_boon_hian@moe.edu.sg geok_qing_sing@moe.edu.sg                                                   |
 | 1 Adaptability | Choo Hong Gang     | Grace Eu            |                   | choo_hong_gang@moe.edu.sg grace_eu_yi_ying@moe.edu.sg                                               |
 | 1 Graciousness | Kiranjit Kaur      | Mohd Farhan         | Amantha Chong     | kiranjit_kaur_tarlok_singh@moe.edu.sg mohammed_farhan@moe.edu.sg chong_jing_ting_amantha@moe.edu.sg |
-| 2 Truth        | Liang Tianfa       | Mohd Zain           |                   | liang_tianfa@moe.edu.sg mohamed_zain_b_mohamed@moe.edu.sg                                           |
+| 2 Truth        | Mukmien Kassim       | Sabrina Thang           |                   | mukmien_mohammad_kassim@moe.edu.sg thang_sabrina_lisa@moe.edu.sg                                           |
 | 2 Charity      | Wendy Koh          | Chew Boon Kean      |                   | wendy_koh_wen_yi@moe.edu.sg chew_boon_kean@moe.edu.sg                                               |
 | 2 Compassion   | Lee Wan Yin        | Juliane Leung       |                   | lee_wan_yin@moe.edu.sg leung_wai_ching_juliane@moe.edu.sg                                           |
 | 2 Integrity    | Jonathan Tan       | Rafiqah Nordin      | Ho Hui Ying       | chu_chze_jonathan_tan@moe.edu.sg rafiqah_nordin@moe.edu.sg ho_huiying_he_huiying@moe.edu.sg         |
