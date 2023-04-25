@@ -3,7 +3,7 @@ title: DSA Talent areas
 permalink: /join-hsc/dsa-talent-areas/permalink/
 description: ""
 ---
-DSA TALENT AREAS
+DSA CRITERIA
 ================
 
 Centralised Direct School Admission (DSA) to Hai Sing Catholic School Application Process
@@ -31,11 +31,11 @@ Ms. Lee Mui Sian at 65827864.
 ROBOTICS DSA Criteria
 ---------------------
 
-Robotics & Engineering is open to all Primary 6 pupils who have two or more of the following competencies.
+Robotics &amp; Engineering is open to all Primary 6 pupils who have two or more of the following competencies.
 
 <table class="iveo_table ive_eobj_center ives_tab_1" style="margin: auto; outline: 0px; padding: 0px; clear: both; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 1160px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 251, 226); color: rgb(0, 0, 0); width: 60px;">Competency One:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 251, 226); color: rgb(0, 0, 0); width: 60px;">Robotics building and programming skills</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Competency Two:</td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0);">Awards in Robotics, ICT or Science-related</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 251, 226); color: rgb(0, 0, 0); width: 60px;">Competency Three:<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 251, 226); color: rgb(0, 0, 0); width: 60px;">The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last 2 years in Primary School Education.</td></tr></tbody></table>
 
-Find out more about Robotics [here](https://staging.d2qbslbi9g4bi3.amplifyapp.com/hsc-experience/Co-Curriculum/robotics/permalink/) .
+Find out more about Robotics [here](https://staging.d2qbslbi9g4bi3.amplifyapp.com/hsc-experience/Co-Curriculum/robotics/permalink/)&nbsp;.
 
 
 Student Leadership Development DSA Admission Criteria
@@ -66,4 +66,4 @@ The Hai Sing Catholic School Floorball Team is open to all Primary 6 pupils who 
 *   Awards in National School Games Floorball competitions or any relevant competition
 *   The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last 2 years in Primary School Education.
 
-Find out more about our Floorball team [here.](https://staging.d2qbslbi9g4bi3.amplifyapp.com/hsc-experience/Co-Curriculum/floorball/permalink/)
+Find out more about our Floorball team&nbsp;[here.](https://staging.d2qbslbi9g4bi3.amplifyapp.com/hsc-experience/Co-Curriculum/floorball/permalink/)
