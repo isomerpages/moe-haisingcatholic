@@ -71,15 +71,15 @@ Secondary 1 &amp; 2
 
 | Class          | Form Teachers      |                     |                   | Email                                                                                               |
 |----------------|--------------------|---------------------|-------------------|-----------------------------------------------------------------------------------------------------|
-| 1 Truth        | Juliane Leung    |  (MTL) | Yasmin Bte A Aziz |   yasmin_a_aziz@moe.edu.sg           |
-| 1 Charity      | Ariston Tay        | Zhao Sen            |                   | ariston_tay_jing_yan@moe.edu.sg zhao_sen@moe.edu.sg                                                 |
+| 1 Truth        | Juliane Leung    |  (MTL) |  |            |
+| 1 Charity      |     |             |                   |                                                  |
 | 1 Compassion   | Lim Daisy          | Mathew Lim          |                   | lim_daisy@moe.edu.sg Lim_tsu_wei_MATHEW@moe.edu.sg                                                  |
 | 1 Integrity    | Alvin Chua         | Ye Yiping           |                   | rui_zhe_alvin_chua@moe.edu.sg ye_yiping@moe.edu.sg                                                  |
 | 1 Independence | Ng Boon Hian       | Sing Geok Qing      |                   | ng_boon_hian@moe.edu.sg geok_qing_sing@moe.edu.sg                                                   |
 | 1 Adaptability | Choo Hong Gang     | Grace Eu            |                   | choo_hong_gang@moe.edu.sg grace_eu_yi_ying@moe.edu.sg                                               |
 | 1 Graciousness | Kiranjit Kaur      | Mohd Farhan         | Amantha Chong     | kiranjit_kaur_tarlok_singh@moe.edu.sg mohammed_farhan@moe.edu.sg chong_jing_ting_amantha@moe.edu.sg |
 | 2 Truth        | Mukmien Kassim       | Sabrina Thang           |                   | mukmien_mohammad_kassim@moe.edu.sg thang_sabrina_lisa@moe.edu.sg                                           |
-| 2 Charity      | Wendy Koh          | Chew Boon Kean      |                   | wendy_koh_wen_yi@moe.edu.sg chew_boon_kean@moe.edu.sg                                               |
+| 2 Charity      | Ariston Tay             | Zhao Sen   |                   | ariston_tay_jing_yan@moe.edu.sg zhao_sen@moe.edu.sg                                               |
 | 2 Compassion   | Lee Wan Yin        | Juliane Leung       |                   | lee_wan_yin@moe.edu.sg leung_wai_ching_juliane@moe.edu.sg                                           |
 | 2 Integrity    | Jonathan Tan       | Rafiqah Nordin      | Ho Hui Ying       | chu_chze_jonathan_tan@moe.edu.sg rafiqah_nordin@moe.edu.sg ho_huiying_he_huiying@moe.edu.sg         |
 | 2 Independence | Zainudin A. Razzak | D.W. Cassandra      |                   | zainudin_abdul_razak@moe.edu.sg de_witt_cassandra_shivani@moe.edu.sg                                |
