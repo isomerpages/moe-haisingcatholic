@@ -11,8 +11,6 @@ ROBOTICS DSA Criteria
 
 Robotics &amp; Engineering is open to all Primary 6 pupils who have two or more of the following competencies.
 
-
-
 | Competency One:|Robotics building and programming skills | 
 
 |Competency Two:|Awards in Robotics, ICT or Science-related | 
@@ -39,9 +37,11 @@ In this DSA exercise, we are looking for promising Primary 6 pupils who exhibit 
  | 3\. Demonstrate excellence through strong individual attainment in progress schemes/awards in the various Uniformed Groups :
  
 
-| Scouts: | Akela Award|
-| Boys Brigade: |Chief Leading Boy AND Gold Award| 
+| Scouts:            | Akela Award|
+| Boys Brigade: |Chief Leading Boy AND Gold Award|
+|Brownies:     | Chief Commissioner Award     |
 |Brownies:     | Chief Commissioner Award     | 
+
 
 
  <table class="ive_eobj_left ives_tab_kosong" style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; color: rgb(0, 0, 0); font-family: Montserrat, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 826.938px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top; width: 212px;"><ul style="margin: 0px 0px 0.5em 25px; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Scouts:</li></ul></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top; width: 614px;">Akela Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top;"><ul style="margin: 0px 0px 0.5em 25px; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Boys Brigade:</li></ul></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top;">Chief Leading Boy AND Gold Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top;"><ul style="margin: 0px 0px 0.5em 25px; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Brownies:</li></ul></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top;">Chief Commissioner Award</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top; width: 60px;"><ul style="margin: 0px 0px 0.5em 25px; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Red Cross:</li></ul></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(255, 255, 255); color: rgb(0, 0, 0); vertical-align: top; width: 60px;">Directors Award</td></tr></tbody></table>|
