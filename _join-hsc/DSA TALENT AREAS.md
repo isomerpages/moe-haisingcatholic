@@ -16,7 +16,7 @@ Please click on this [link](/hsc-experience/Co-Curriculum/robotics/permalink/)�
 
 Please click on this [link](https://hsc-experience/Co-Curriculum/ncc/permalink/) to know more about NCC (Land).  
 Please click on this [link](https://hsc-experience/Co-Curriculum/npcc/permalink/) to know more about NPCC.  
-Please click on this [link](https://hsc-experience/Co-Curriculum/sjb/permalink/) to know more about SJB.  
+Please click on this [link](https://hsc-experience/Co-Curriculum/stjohnbrigade/permalink/) to know more about SJB.  
 
 3\. Floorball
 -------------
