@@ -6,28 +6,6 @@ description: ""
 DSA CRITERIA
 ================
 
-Centralised Direct School Admission (DSA) to Hai Sing Catholic School Application Process
------------------------------------------------------------------------------------------
-
-1\. From 2020, application for DSA- Sec can be submitted through the online DSA-Sec Portal. The application will be open from about May to June week 1.  
-  
-2\. Parents and students are encouraged to choose schools wisely based on the student's aptitudes and strengths, bearing in mind the school's academic and non-academic requirements, and the programmes available to develop the area of talent.  
-  
-3\. Shortlisted applicants will be notified by email from End of June onwards.  
-  
-4\. Interview for selected applicants will be carried out in-person at Hai Sing Catholic School.  
-  
-5\. All DSA applicants will be notified of their application outcome by 12 September 2022.  
-  
-6\. The shortlisted International Students are required to fulfill the requirements of the Admissions Exercise for International Students (AEIS) test to be successful in DSA.  
-  
-7\. Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer.  
-  
-For more details, please refer to MOE website – www.moe.gov.sg/secondary/dsa  
-For enquires please call :  
-Mr. Seow Han Chien  
-Ms. Lee Mui Sian at 65827864.
-
 ROBOTICS DSA Criteria
 ---------------------
 
