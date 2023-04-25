@@ -13,9 +13,9 @@ Robotics &amp; Engineering is open to all Primary 6 pupils who have two or more 
 
 
 
-| Competency One:  |Robotics building and programming skills | 
+| Competency One:|Robotics building and programming skills | 
 
-|Competency Two: |Awards in Robotics, ICT or Science-related | 
+|Competency Two:|Awards in Robotics, ICT or Science-related | 
 | Competency Three:| The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last 2 years in Primary School Education.   |
 
 Find out more about Robotics [here](https://staging.d2qbslbi9g4bi3.amplifyapp.com/hsc-experience/Co-Curriculum/robotics/permalink/)&nbsp;.
