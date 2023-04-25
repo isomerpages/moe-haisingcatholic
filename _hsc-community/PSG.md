@@ -23,7 +23,8 @@ Hai Sing Parent Connect Group
      4)    Teachers’ Day Programme
 		 
 		 
-     5)    Preparation of Encouragement Pack for graduating classes. (Parents come together to sponsor and pack little treats, and write positive messages on bookmarks to encourage our graduating students.)
+     5)    Preparation of Encouragement Pack for graduating classes. 
+		 (Parents come together to sponsor and pack little treats, and write positive messages on bookmarks to encourage our graduating students.)
 		 
 The HSC PCG welcomes parents, guardians and even grandparents of HAIsians to join us in enhancing the students’ school experience.  
   
