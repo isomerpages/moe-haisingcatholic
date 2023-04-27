@@ -22,7 +22,6 @@ Heads of Department
 | Name                  | Designation                        | Email                                 |
 |-----------------------|------------------------------------|---------------------------------------|
 | Stanley Gng Kuan Lai  | HOD (Character &amp; Citizenship Edn)  | gng_kuan_lai@moe.edu.sg               |
-| Lee Irene             | HOD (Craft &amp; Technology)           | lee_irene@moe.edu.sg                  |
 | Joseph Tabitha Lee    | HOD English Language               | joseph_tabitha_lee@moe.edu.sg         |
 | Ong Siew Choo Lindy   | HOD (Mathematics)                  | ong_siew_choo_lindy@moe.edu.sg        |
 | Sim Hui Teng          | HOD (Mother Tongue)                | sim_hui_teng@moe.edu.sg               |
