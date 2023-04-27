@@ -21,7 +21,7 @@ Please click on this [link](/hsc-experience/Co-Curriculum/stjohnbrigade/permali
 3\. Floorball
 -------------
 
-Please click on this [link](https://hsc-experience/Co-Curriculum/floorball/permalink/) to know more about Floorball.
+Please click on this [link](/hsc-experience/Co-Curriculum/floorball/permalink/) to know more about Floorball.
 
 DSA APPLICATION PROCESS
 -----------------------
