@@ -55,7 +55,6 @@ Lead/Senior Teachers
 |---------------------------|-----------------------------------|------------------------------------|
 | Radha Devi Oonnithan (Dr) | Lead Teacher                      | radha_devi_r_o@moe.edu.sg          |
 | Zhao Sen                  | Senior Teacher (Chinese Language) | zhao_sen@moe.edu.sg                |
-| Ng Back Hon               | Senior Teacher (English Language) | ng_back_hon@moe.edu.sg             |
 | Juliane Leung Wai Ching   | Senior Teacher (Social Studies)   | leung_wai_ching_juliane@moe.edu.sg |
 | Siti Raihanni Bte Selamat | Senior Teacher (Malay Language)   | siti_raihanni_selamat@moe.edu.sg   |
 | Dhaval Shah               | Senior Teacher (Physics)          | shah_dhaval_prabhaker@moe.edu.sg   |
