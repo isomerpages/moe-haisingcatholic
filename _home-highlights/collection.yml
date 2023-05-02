@@ -1,0 +1,6 @@
+collections:
+  home-highlights:
+    output: true
+    order:
+      - Hai Experiential Week.md
+      - Last Day of School.md

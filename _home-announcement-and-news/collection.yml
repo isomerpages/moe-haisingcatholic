@@ -1,0 +1,6 @@
+collections:
+  home-announcement-and-news:
+    output: true
+    order:
+      - Personal Learning Device.md
+      - Hsc Upgrading.md

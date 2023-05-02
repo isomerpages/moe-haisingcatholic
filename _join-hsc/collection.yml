@@ -1,0 +1,7 @@
+collections:
+  join-hsc:
+    output: true
+    order:
+      - DSA CRITERIA.md
+      - DSA TALENT AREAS.md
+      - FAQ.md

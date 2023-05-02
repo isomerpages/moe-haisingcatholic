@@ -1,32 +1,38 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Home
+description: An Isomer site of the Singapore Government
+image: /images/logo1.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Vision
+      subtitle: ONE Home • School • Community
+      background: /images/hompage.jpg
+      key_highlights:
+        - title: HSC Upgrading Programme
+          description: Click HERE to read more!
+          url: /hsc/hsc-upgrading/permalink/
+        - title: BOOKLIST AND UNIFORM
+          description: Click HERE to find out more!
+          url: /hsc-community/Students/booklist-and-uniform/permalink/
+        - title: Personalised Digital Learning Programme
+          description: Click HERE to read more!
+          url: ""
+  - infobar:
+      title: "Highlights "
+  - infopic:
+      title: HSC School Video
+      subtitle: "Hai Sing Catholic School "
+      button: Haisian Experience
+      url: https://youtu.be/qlWlwAZJi4s
+      image: /images/website logo.png
+      alt: Image alt text
+  - infopic:
+      title: Hai Experiential Week
+      button: Click here to find out more
+      image: /images/week.png
+      url: /hai-experiential-week/permalink/
+      alt: alt text
 ---
-
