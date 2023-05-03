@@ -9,12 +9,12 @@ DSA CRITERIA
 ROBOTICS DSA Criteria
 ---------------------
 
-Robotics &amp; Engineering is open to all Primary 6 pupils who have two or more of the following competencies.
+The Robotics Club is open to all Primary 6 pupils who meet two or more of the following competencies: 
 
 
 | Competency One: |  | Robotics building and programming skills |
-| Competency Two:    |  | Awards in Robotics, ICT or Science-related |
-| Competency Three:  |    | The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last 2 years in Primary School Education.     |
+| Competency Two:    |  | Awards in Robotics, ICT or Science-related competitions |
+| Competency Three:  |    | The student must obtain at least a 'Very Good' conduct grade with relevant leadership skills during the last two years in Primary School Education.     |
 
 
 Find out more about Robotics [here](https://staging.d2qbslbi9g4bi3.amplifyapp.com/hsc-experience/Co-Curriculum/robotics/permalink/)&nbsp;.
@@ -48,9 +48,7 @@ In this DSA exercise, we are looking for promising Primary 6 pupils who exhibit 
  Floorball DSA Admission Criteria
 --------------------------------
 
-The Hai Sing Catholic School Floorball Team is open to all Primary 6 pupils who meet two or more of the following conditions.  
-  
-
+The Floorball Team is open to all Primary 6 pupils who meet two or more of the following conditions.  
 *   Active member in an a floorball team (school/club)
 *   Awards in National School Games Floorball competitions or any relevant competition
 *   The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last 2 years in Primary School Education.
