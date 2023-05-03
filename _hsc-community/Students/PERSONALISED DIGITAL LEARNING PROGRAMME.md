@@ -17,7 +17,7 @@ General Information for Parents
 -------------------------------
 
 Information on School Personal Device Learning Programme (PDLP)  
-Click on this&nbsp;[link](https://haisingcatholic.moe.edu.sg/qql/slot/u165/PDLP/PDLP%20Sharing%20with%20Parents.pdf)  
+Click on this&nbsp;[link](https://cms.isomer.gov.sg/sites/moe-haisingcatholic/media/files/mediaDirectory/files%2FHSC%20Community/editMediaSettings/PDLP%20Sharing%20with%20Parents.pdf)  
   
 Information on Frequently Asked Question (FAQ) on PDLP  
 Click on this&nbsp;[link](https://haisingcatholic.moe.edu.sg/qql/slot/u165/PDLP/PDLP%20Parents%20Engagement%20FAQs_Final.pdf)  

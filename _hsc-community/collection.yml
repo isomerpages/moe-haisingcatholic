@@ -2,13 +2,13 @@ collections:
   hsc-community:
     output: true
     order:
-      - Students/SEXUALITY EDUCATION.md
-      - Students/AFTERNOON PROGRAMME.md
-      - Students/SECONDARY TWO SUBJECT COMBINATION.md
       - Students/.keep
-      - Students/STUDENTS TIMETABLE.md
-      - Students/FULL SUBJECT BASED BANDING.md
+      - Students/SECONDARY TWO SUBJECT COMBINATION.md
       - Students/PERSONALISED DIGITAL LEARNING PROGRAMME.md
+      - Students/FULL SUBJECT BASED BANDING.md
+      - Students/STUDENTS TIMETABLE.md
+      - Students/AFTERNOON PROGRAMME.md
+      - Students/SEXUALITY EDUCATION.md
       - Students/BOOKLIST AND UNIFORM.md
       - Students/GRADUATION CEREMONY 2022.md
       - Staff.md

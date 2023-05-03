@@ -9,12 +9,12 @@ DSA CRITERIA
 ROBOTICS DSA Criteria
 ---------------------
 
-Robotics &amp; Engineering is open to all Primary 6 pupils who have two or more of the following competencies.
+The Robotics Club is open to all Primary 6 pupils who meet two or more of the following competencies: 
 
 
 | Competency One: |  | Robotics building and programming skills |
-| Competency Two:    |  | Awards in Robotics, ICT or Science-related |
-| Competency Three:  |    | The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last 2 years in Primary School Education.     |
+| Competency Two:    |  | Awards in Robotics, ICT or Science-related competitions |
+| Competency Three:  |    | The student must obtain at least a 'Very Good' conduct grade with relevant leadership skills during the last two years in Primary School Education.     |
 
 
 Find out more about Robotics [here](https://staging.d2qbslbi9g4bi3.amplifyapp.com/hsc-experience/Co-Curriculum/robotics/permalink/)&nbsp;.
@@ -27,9 +27,8 @@ In this DSA exercise, we are looking for promising Primary 6 pupils who exhibit 
 
 | i. Exemplary Conduct and Behaviour |
 | --- |
-| 1. Attain an Overall Conduct Grade of “Excellent” in the previous year’s Final Grade and the current year in Semester One. |
-| 2. Candidates with “Very Good” and demonstrated exemplary conduct and behavior will also be considered. |
-| 3. Candidates who have demonstrated great resilience and grit will also be considered. |
+| 1. Attain at least a 'Very Good' in overall conduct grade in the last two years in Primary School Education
+| 2. Candidates who have demonstrated great resilience and grit will also be considered. |
 
 | ii. Strong Leadership Qualities |
 | --- |
@@ -48,11 +47,9 @@ In this DSA exercise, we are looking for promising Primary 6 pupils who exhibit 
  Floorball DSA Admission Criteria
 --------------------------------
 
-The Hai Sing Catholic School Floorball Team is open to all Primary 6 pupils who meet two or more of the following conditions.  
-  
-
+The Floorball Team is open to all Primary 6 pupils who meet two or more of the following conditions.  
 *   Active member in an a floorball team (school/club)
 *   Awards in National School Games Floorball competitions or any relevant competition
-*   The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last 2 years in Primary School Education.
+*   The student must obtain at least a 'Very Good' conduct grade with relevant leadership skills during the last two years in Primary School Education.
 
 Find out more about our Floorball team&nbsp;[here.](https://staging.d2qbslbi9g4bi3.amplifyapp.com/hsc-experience/Co-Curriculum/floorball/permalink/)
