@@ -11,7 +11,9 @@ Key Message on PDLP
 -------------------
 
 Please click on the image below to play the PDLP message video:  
-![PDLP Key message.jpeg](https://haisingcatholic.moe.edu.sg/qql/slot/u165/HSC%20Community/Students/PDLP%20Key%20message.jpeg)  
+[Click Here](https://youtu.be/FkFdNk2xhKE)
+
+![](/images/pdlp%20hod%20message.jpeg)
 
 General Information for Parents
 -------------------------------
