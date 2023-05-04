@@ -1,6 +1,6 @@
 ---
 title: AFTERNOON PROGRAMME
-permalink: /hsc-community/students/permalink/
+permalink: /hsc-community/students/permalink/afternoon-programme/
 description: ""
 third_nav_title: Students
 ---
