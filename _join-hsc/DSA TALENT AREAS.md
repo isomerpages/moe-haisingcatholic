@@ -28,5 +28,3 @@ DSA APPLICATION PROCESS
 
 Please refer to the following webpage for more information about DSA application process.   
 [Direct School Admission for secondary schools (DSA-Sec) | MOE](https://www.moe.gov.sg/secondary/dsa)  
-  
-The selection criteria and process for the talent areas will be updated from early May.
