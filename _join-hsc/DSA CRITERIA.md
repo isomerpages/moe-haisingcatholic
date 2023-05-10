@@ -3,7 +3,7 @@ title: DSA CRITERIA
 permalink: /join-hsc/dsa-talent-areas/permalink/
 description: ""
 ---
-DSA CRITERIA
+DSA CRITERIA AND SELECTION PROCESS 
 ================
 
 ROBOTICS DSA Criteria
@@ -53,3 +53,7 @@ The Floorball Team is open to all Primary 6 pupils who meet two or more of the f
 *   The student must obtain at least a 'Very Good' conduct grade with relevant leadership skills during the last two years in Primary School Education.
 
 Find out more about our Floorball team&nbsp;[here.](https://staging.d2qbslbi9g4bi3.amplifyapp.com/hsc-experience/Co-Curriculum/floorball/permalink/)
+
+Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. 
+
+The selection interview for the shortlisted candidates will be from 26 June to 11 September 2023. 
