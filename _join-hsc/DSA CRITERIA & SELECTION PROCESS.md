@@ -54,6 +54,6 @@ The Floorball Team is open to all Primary 6 pupils who meet two or more of the f
 
 Find out more about our Floorball team&nbsp;[here.](https://staging.d2qbslbi9g4bi3.amplifyapp.com/hsc-experience/Co-Curriculum/floorball/permalink/)
 
-Please note that meeting all the criteria does not guarantee the student will be shortlisted/given an offer. 
+Please note that **meeting all the criteria does not guarantee the student will be shortlisted/given an offer**. 
 
-The selection interview for the shortlisted candidates will be from 26 June to 11 September 2023.
+The selection interview for the shortlisted candidates will be from **26 June to 11 September 2023**.
