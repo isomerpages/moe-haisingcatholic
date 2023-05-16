@@ -169,27 +169,11 @@ Secondary 3
 
 At the end of the lesson, students will be able to:
 
- | 
-
-**Time Period**
-
-**(e.g.Term 1 Week 2)**
-
- |
-| --- | --- | --- | --- | --- |
-| 
-
 Respectful Relationships & Safety
-
- | 
 
 Love Yourself, Love Others
 
-Lesson 1A
-
-(60 mins)
-
- | 
+Lesson 1A (60 mins)
 
 This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship. 
 
@@ -205,14 +189,9 @@ This lesson focuses on dating respectfully in healthy relationships. Students wi
 
 Term 3 Week 6
 
- |
-| 
-
 Mending a Broken Heart Lesson 1B
 
 (60 mins)
-
- | 
 
 Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.
 
@@ -235,9 +214,7 @@ Term 3 Week 8
 
 When Respect Takes Centre Stage
 
-Lesson 2
-
-(60 mins)
+Lesson 2 (60 mins)
 
  | 
 
