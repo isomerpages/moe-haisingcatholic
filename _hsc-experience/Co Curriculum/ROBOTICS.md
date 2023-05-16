@@ -53,6 +53,3 @@ Punyyaah Sahni*
 *"Robotics has taught me to have  determination, teamwork and be united as one. Even though robotics is seperated into 3 parts, Lego, Vex IQ and Vex, we still work together to help each other out when preparing for competition.During competition season, we have training sessions almost everyday. In the past 3 years, we have participated in 3 competitions even though we did not manage to win either we learn from our mistakes and improve our robots. Everyone is very determined and we strive to regain our title as Robotics champions." 
 
 Glenn Tia*
-
-
-
