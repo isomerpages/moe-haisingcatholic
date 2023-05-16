@@ -46,6 +46,6 @@ Achievements
 *   National School Games
 
 Student Voice
--------------
 
-_Content coming soon..._
+*"During CCA, we are given opportunities to work together so that we can prepare for competitions to the best of our abilities. The teachers and trainers in the CCA are also very supportive. They always motivate us to do better and always believe the best in us. Robotics has allowed me to develop in many aspects such as my leadership capabilities and my communication skills. Throughout my years in Robotics, me and my CCA mates have become very close. Robotics has helped me become a better person and has taught me many things that will even help me after my journey in Hai Sing Catholic School."
+Punyyaah Sahni*
