@@ -16,10 +16,4 @@ Respective subject teachers would provide selected students with more informatio
 
 An announcement will be put up on PG for parents.  
 
-As with Term 1’s practice, slots marked with an asterisk (\*) are for selected students and on a consultation basis.   
-
-  
-
-  
-  
-  
+In Term 2, slots marked with an asterisk (\*) are for selected students and on a consultation basis.
