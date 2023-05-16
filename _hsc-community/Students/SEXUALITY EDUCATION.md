@@ -209,14 +209,9 @@ Students will learn how to manage their emotions if they were to face a breakup 
 
 Term 3 Week 8
 
- |
-| 
-
 When Respect Takes Centre Stage
 
 Lesson 2 (60 mins)
-
- | 
 
 This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.
 
