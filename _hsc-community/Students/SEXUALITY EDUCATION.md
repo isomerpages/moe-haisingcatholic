@@ -57,50 +57,12 @@ Secondary 1
 
 **2023 Sexuality Education Lessons in Sec 1 CCE 2021**
 
-   
-
-| 
-**Unit**
-
- | 
-
-**Lesson Title / Duration**
-
- | 
-
-**Lesson Overview**
-
- | 
-
-**Lesson Objectives**
-
-At the end of the lesson, students will be able to:
-
- | 
-
-**Time Period**
-
 **(e.g.Term 1 Week 2)**
-
- |
-| --- | --- | --- | --- | --- |
-| 
-
 Respectful Relationships & Safety
-
- | 
-
 Steady or Not
 
-Lesson 1
-
-(60 mins)
-
- | 
-
+Lesson 1 (60 mins)
 This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline.
-
- | 
 
 ·       recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles
 
@@ -110,59 +72,35 @@ This lesson helps students understand more about relationship building and the d
 
 ·       understand what dating is, and recognise that the readiness and interest in dating vary among individuals
 
- | 
-
 Term 3 Week 2
-
- |
-| 
 
 Being Aware, Being Safe
 
-Lesson 2
-
-(60 mins)
-
- | 
+Lesson 2 (60 mins)
 
 This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. 
 
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-
- | 
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. 
 
 ·       understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept
 
- | 
-
 Term 3 Week 3
-
- |
-| 
 
 More than Meets the Eye
 
-Lesson 3
-
-(60 mins)
-
- | 
+Lesson 3 (60 mins)
 
 This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.
 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 
- | 
-
 ·       understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences
 
 ·       recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)
 
- | 
+
 
 Term 3 Week 5
-
- |
 
 Secondary 2
 -----------
@@ -171,44 +109,13 @@ Secondary 2
 
   
 
-| 
-**Unit**
-
- | 
-
-**Lesson Title/ Duration**
-
- | 
-
-**Lesson Overview**
-
- | 
-
-**Lesson Objectives**
-
 At the end of the lesson, students will be able to:
-
- | 
-
-**Time Period**
-
-**(e.g.Term 1 Week 2)**
-
- |
-| --- | --- | --- | --- | --- |
-| 
 
 Respectful Relationships & Safety
 
- | 
-
 A Role for Everyone
 
-Lesson 1
-
-(60  mins)
-
- | 
+Lesson 1 (60  mins)
 
 This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.
 
@@ -216,51 +123,30 @@ This lesson focus on how the family, culture and society can influence one’s p
 
  Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy.
 
- | 
-
 ·       know that one’s understanding of gender roles should not be limited by gender stereotypes
 
 ·       develop an appreciation of one’s own unique qualities and characteristics as a male or female
 
 ·       understand what sexual orientation entails
 
- | 
-
 Term 2 Week 1
-
- |
-| 
 
 Online Safety Challenge
 
-Lesson 2A
-
-(60 mins)
-
- | 
+Lesson 2A (60 mins)
 
 This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.
 
 This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 
- | 
 
 ·     recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline
 
- | 
-
 Term 2 Week 2
-
- |
-| 
 
 Do I or Don’t I
 
-Lesson 2B
-
-(60 mins)
-
- | 
+Lesson 2B (60 mins)
 
 This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies. 
 
@@ -280,21 +166,6 @@ Secondary 3
 -----------
 
 **2023 Sexuality Education Lessons in Sec 3 CCE 2021**
-
-| 
-**Unit**
-
- | 
-
-**Lesson Title/ Duration**
-
- | 
-
-**Lesson Overview**
-
- | 
-
-**Lesson Objectives**
 
 At the end of the lesson, students will be able to:
 
