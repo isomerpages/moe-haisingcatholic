@@ -2,7 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
-      - Students/School Based Assessment.md
+      - Students/SCHOOL BASED ASSESSMENT.md
       - Students/.keep
       - Students/SECONDARY TWO SUBJECT COMBINATION.md
       - Students/PERSONALISED DIGITAL LEARNING PROGRAMME.md
