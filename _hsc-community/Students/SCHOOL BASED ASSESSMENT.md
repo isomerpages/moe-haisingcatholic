@@ -266,18 +266,18 @@ Please click [here](/files/assessment%20rules%20and%20regulation%202023.pdf) to 
 
 Please click on this [link](/files/4e5n4noos%20preliminary%20exam%20schedule_2023_finalised.pdf) for Sec 4 (Express) and Sec 5 (Nomal Academic), O-Level Prelim Exams Timetable.
 
-Please use this [weblink](https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2023) to find out about O-Level Syllabuses Examined in 2023.
+Please use this [weblink](https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2023) to find out about O-Level Syllabuses examined in 2023.
 
 
 ***N-Level Preliminary Examinations Timetable***
 
 Please click on this [link](/files/4n(a)n(t)%20preliminary%20exam%20schedule_2023_finalised.pdf) to see N-Level Prelim Exams Timetable.
 
-Please use this [weblink](https://www.seab.gov.sg/home/examinations/gce-n(a)-level/n(a)-level-syllabuses-examined-for-school-candidates-2023) to fin out about N(A)-Level Syllabuses Examined in 2023
+Please use this [weblink](https://www.seab.gov.sg/home/examinations/gce-n(a)-level/n(a)-level-syllabuses-examined-for-school-candidates-2023) to fin out about N(A)-Level Syllabuses examined in 2023
 
 
 ***N(T)-Level Syllabuses Examined in 2023***
 
 Please click on this [link](/files/4n(a)n(t)%20preliminary%20exam%20schedule_2023_finalised.pdf) to see N-Level Prelim Exams Timetable.
 
-Please use this [weblink](https://www.seab.gov.sg/home/examinations/gce-n(t)-level/n(t)-level-syllabuses-examined-for-school-candidates-2023) to fin out about N(T)-Level Syllabuses Examined in 2023
+Please use this [weblink](https://www.seab.gov.sg/home/examinations/gce-n(t)-level/n(t)-level-syllabuses-examined-for-school-candidates-2023) to find out about N(T)-Level Syllabuses examined in 2023
