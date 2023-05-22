@@ -260,7 +260,7 @@ third_nav_title: Students
 
 **O-Level and N-Level Preliminary Examinations Rules and Regulations**
 
-Please click [here](/files/assessment%20rules%20and%20regulation%202023.pdf) to read more about Assessment Rules and Regulations in Hai Sing Catholic School.
+Please click [here](/files/assessment%20rules%20and%20regulation%202023.pdf)) to read more about Assessment Rules and Regulations in Hai Sing Catholic School.
 
 ***O-Level Preliminary Examinations Timetable***
 
