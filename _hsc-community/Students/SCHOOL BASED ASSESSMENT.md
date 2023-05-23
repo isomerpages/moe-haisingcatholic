@@ -260,13 +260,13 @@ third_nav_title: Students
 
 **O-Level and N-Level Preliminary Examinations Rules and Regulations**
 
-Please click [here](/files/assessment%20rules%20and%20regulation%202023.pdf)) to read more about Assessment Rules and Regulations in Hai Sing Catholic School.
+Please click on this [link](/files/assessment%20rules%20and%20regulation%202023.pdf) to read more about Assessment Rules and Regulations in Hai Sing Catholic School.
 
 ***O-Level Preliminary Examinations Timetable***
 
 Please click on this [link](/files/4e5n4noos%20preliminary%20exam%20schedule_2023_finalised.pdf) for Sec 4 (Express) and Sec 5 (Nomal Academic), O-Level Prelim Exams Timetable.
 
-Please use this [weblink](https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2023) to find out about O-Level Syllabuses examined in 2023.
+Please click on this [weblink](https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2023) to find out about O-Level Syllabuses examined in 2023.
 
 
 ***N-Level Preliminary Examinations Timetable***
