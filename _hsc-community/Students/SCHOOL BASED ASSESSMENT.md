@@ -282,12 +282,7 @@ Please click on this [link](/files/4n(a)n(t)%20preliminary%20exam%20schedule_202
 
 Please click on this [weblink](https://www.seab.gov.sg/home/examinations/gce-n(t)-level/n(t)-level-syllabuses-examined-for-school-candidates-2023) to find out about N(T)-Level Syllabuses examined in 2023.
 
-**Term 2 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)** 
 
-* Please click on this [link](/files/Weighted%20assessment/2023%20sec%201%20term%202%20wa%20topic%20(pg).pdf) to see the Secondary 1 WA2 topics.
-* Please click on this [link]() to see the Secondary 2 WA2 topics.
-* Please click on this link to see the Secondary 3 WA2 topics.
-* Please click on this link to see the Secondary 4/5 NWA2 topics.
 
 **Term 2 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)** 
 
@@ -295,3 +290,10 @@ Please click on this [weblink](https://www.seab.gov.sg/home/examinations/gce-n(t
 * Please click on this [link](/files/Weighted%20assessment/2023%20sec%202%20term%202%20wa%20topic%20(pg).pdf) to see the Secondary 2 WA2 topics.
 * Please click on this [link](/files/Weighted%20assessment/2023%20sec%203%20term%202%20wa%20topic%20(pg).pdf) to see the Secondary 3 WA2 topics.
 * Please click on this [link](/files/Weighted%20assessment/2023%20sec%204%20_%205%20term%202%20nwa%20topic%20(pg).pdf) to see the Secondary 4/5 NWA2 topics.
+
+**Term 1 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)** 
+
+* Please click on this [link](/files/Weighted%20assessment/2023%20sec%201%20term%202%20wa%20topic%20(pg).pdf) to see the Secondary 1 WA1 topics.
+* Please click on this [link]() to see the Secondary 2 WA1 topics.
+* Please click on this link to see the Secondary 3 WA1 topics.
+* Please click on this link to see the Secondary 4/5 NWA1 topics.
