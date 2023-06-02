@@ -21,10 +21,12 @@ sections:
           description: Click HERE to read more!
           url: ""
   - infobar:
-      title: "Highlights "
+      title: Hai Steps Challenge
+      url: /home-highlights/haistepschallenge/
+      description: Donations for School Building
   - infopic:
       title: HSC School Video
-      subtitle: "Hai Sing Catholic School "
+      subtitle: Hai Sing Catholic School
       button: Haisian Experience
       url: https://youtu.be/qlWlwAZJi4s
       image: /images/website logo.png
