@@ -18,11 +18,11 @@ Please click on the image below to play the PDLP message video:
 General Information for Parents
 -------------------------------
 
-Information on School Personal Device Learning Programme (PDLP)  
-Click on this&nbsp;[link](/files/PDLP/PDLP%20Sharing%20with%20Parents.pdf)  
+**Information on School Personal Device Learning Programme (PDLP)  **
+Click on this [Link](/files/PDLP/PDLP%20Sharing%20with%20Parents.pdf)
   
-Information on Frequently Asked Question (FAQ) on PDLP  
-Click on this&nbsp;[link](/files/PDLP/PDLP%20Parents%20Engagement%20FAQs_Final.pdf)
+**Information on Frequently Asked Question (FAQ) on PDLP  **
+Click on this [link](/files/PDLP/PDLP%20Parents%20Engagement%20FAQs_Final.pdf)
   
 **Lenovo Service Center&nbsp;SmartCares Solutions**  
 The school technical team will help to provide basic troubleshooting and reset of passwords only.  
