@@ -48,7 +48,7 @@ b.    Character and Citizenship Education (CCE)
 7.       Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
 
-
+Click on the following link below to read more about our 2023 Sexuality Education outline for the respective levels:
 
 **Secondary 1 2023 Sexuality Education Lessons in Sec 1 CCE 2021**
 
@@ -71,8 +71,9 @@ b.    Character and Citizenship Education (CCE)
 **Secondary 4 2023 Sexuality Education Lessons in CCE 2021**
 
 
-**Secondary 5 2023 Sexuality Education Lessons in CCE 2021 **
+**Secondary 5 2023 Sexuality Education Lessons in CCE 2021**
 
+Click here for 2023 Secondary 5 SEd syllabus
 
 
 **eTeens Programme**
@@ -84,4 +85,4 @@ b.    Character and Citizenship Education (CCE)
 
 **At Hai Sing Catholic School, the _eTeens_ programme will be implemented as follows in 2023:**
 
-E-Teens Syllabus
+Click here for 2023 E-Teens Syllabus
