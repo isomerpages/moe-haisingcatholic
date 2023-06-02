@@ -48,36 +48,23 @@ b.    Character and Citizenship Education (CCE)
 7.       Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
 
-Click on the following link below to read more about our 2023 Sexuality Education outline for the respective levels:
+Click on the following links below to read more about our 2023 Sexuality Education outline for the respective levels:
 
-**Secondary 1 2023 Sexuality Education Lessons in Sec 1 CCE 2021**
+**[Secondary 1 2023 Sexuality Education Lessons in Sec 1 CCE 2021]()**
 
+**[Secondary 2 2023 Sexuality Education Lessons in Sec 2 CCE 2021](/files/HSC%20Community/Sexuality%20Education/2023%20sed%20s2.pdf)**
 
+**[Secondary 3 2023 Sexuality Education Lessons in Sec 3 CCE 2021](/files/HSC%20Community/Sexuality%20Education/2023%20sed%20s3.pdf)**
 
-
-
-**Secondary 2 2023 Sexuality Education Lessons in Sec 2 CCE 2021**
-
-  
+**[Secondary 4 2023 Sexuality Education Lessons in CCE 2021](/files/HSC%20Community/Sexuality%20Education/2023%20sed%20s4.pdf)**
 
 
-
-**Secondary 3 2023 Sexuality Education Lessons in Sec 3 CCE 2021**
-
+**[Secondary 5 2023 Sexuality Education Lessons in CCE 2021](/files/HSC%20Community/Sexuality%20Education/2023%20sed%20s5.pdf)**
 
 
-
-
-**Secondary 4 2023 Sexuality Education Lessons in CCE 2021**
-
-
-**Secondary 5 2023 Sexuality Education Lessons in CCE 2021**
-
-Click here for 2023 Secondary 5 SEd syllabus
 
 
 **eTeens Programme**
-
 
 8.       _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.  
 
@@ -85,4 +72,4 @@ Click here for 2023 Secondary 5 SEd syllabus
 
 **At Hai Sing Catholic School, the _eTeens_ programme will be implemented as follows in 2023:**
 
-Click here for 2023 E-Teens Syllabus
+[Click here for 2023 E-Teens programme Syllabus](/files/HSC%20Community/Sexuality%20Education/2023%20e%20teens.pdf)
