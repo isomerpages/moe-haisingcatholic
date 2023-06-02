@@ -24,7 +24,6 @@ sections:
       title: Highlights
   - infopic:
       title: Hai Steps Challenge
-      subtitle: Hai Sing Catholic School
       description: HAI Corporate Challenge
       button: Donations for School Building
       url: Hai Steps Challenge
