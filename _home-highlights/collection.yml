@@ -2,5 +2,6 @@ collections:
   home-highlights:
     output: true
     order:
+      - HAI Steps Challenge Fund Raising.md
       - Hai Experiential Week.md
       - Last Day of School.md
