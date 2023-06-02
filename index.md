@@ -26,7 +26,7 @@ sections:
       title: Hai Steps Challenge
       description: HAI Corporate Challenge
       button: Donations for School Building
-      url: Hai Steps Challenge
+      url: /home-highlights/haistepschallenge/
       image: /images/News and Announcement/corporate challenge icon.png
       alt: Image alt text
   - infopic:
