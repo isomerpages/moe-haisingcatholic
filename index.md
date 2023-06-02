@@ -23,6 +23,14 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
+      title: Hai Steps Challenge
+      subtitle: Hai Sing Catholic School
+      description: HAI Corporate Challenge
+      button: Donations for School Building
+      url: Hai Steps Challenge
+      image: /images/News and Announcement/corporate challenge icon.png
+      alt: Image alt text
+  - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
       button: Haisian Experience
@@ -35,12 +43,4 @@ sections:
       image: /images/week.png
       url: /hai-experiential-week/permalink/
       alt: alt text
-  - infopic:
-      title: Hai Steps Challenge
-      subtitle: Highlights
-      description: HAI Corporate Challenge
-      button: Donate
-      url: Hai Steps Challenge
-      image: /images/News and Announcement/corporate challenge icon.png
-      alt: Image alt text
 ---
