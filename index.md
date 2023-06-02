@@ -26,7 +26,7 @@ sections:
       title: Hai Steps Challenge
       description: HAI Corporate Challenge
       button: Donations for School Building
-      url: https://www.open.gov.sg/home-highlights/haistepschallenge/
+      url: https://www.open.gov.sg/hai-steps-challenge/permalink/
       image: /images/News and Announcement/corporate challenge icon.png
       alt: Image alt text
   - infopic:
