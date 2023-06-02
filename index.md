@@ -19,7 +19,7 @@ sections:
           url: /hsc-community/Students/booklist-and-uniform/permalink/
         - title: Personalised Digital Learning Programme
           description: Click HERE to read more!
-          url: /hsc-community/Students/pdlp/permalink/
+          url: hsc-community/students/pdlp/permalink/
   - infobar:
       title: Highlights
   - infopic:
