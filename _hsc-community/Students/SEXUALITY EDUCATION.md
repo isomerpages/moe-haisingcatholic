@@ -50,7 +50,7 @@ b.    Character and Citizenship Education (CCE)
 
 Click on the following links below to read more about our 2023 Sexuality Education outline for the respective levels:
 
-**[Secondary 1 2023 Sexuality Education Lessons in Sec 1 CCE 2021]()**
+**[Secondary 1 2023 Sexuality Education Lessons in Sec 1 CCE 2021](/files/HSC%20Community/Sexuality%20Education/2023%20sed%20s1.pdf)**
 
 **[Secondary 2 2023 Sexuality Education Lessons in Sec 2 CCE 2021](/files/HSC%20Community/Sexuality%20Education/2023%20sed%20s2.pdf)**
 
