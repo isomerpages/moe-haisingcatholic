@@ -1,6 +1,6 @@
 ---
 title: PERSONALISED DIGITAL LEARNING PROGRAMME
-permalink: /hsc-community/Students/pdlp/permalink/
+permalink: /hsc-community/students/pdlp/permalink/
 description: ""
 third_nav_title: Students
 ---

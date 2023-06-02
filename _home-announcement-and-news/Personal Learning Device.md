@@ -1,5 +1,5 @@
 ---
 title: Personal Learning Device
-permalink: /home-announcement-and-news/permalink/
+permalink: /hsc-community/students/pdlp/permalink/
 description: ""
 ---

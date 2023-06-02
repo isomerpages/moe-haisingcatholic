@@ -19,12 +19,19 @@ sections:
           url: /hsc-community/Students/booklist-and-uniform/permalink/
         - title: Personalised Digital Learning Programme
           description: Click HERE to read more!
-          url: ""
+          url: /hsc-community/Students/pdlp/permalink/
   - infobar:
-      title: "Highlights "
+      title: Highlights
+  - infopic:
+      title: Hai Steps Challenge
+      description: HAI Corporate Challenge
+      button: Donations for School Building
+      url: hai-steps-challenge/permalink/
+      image: /images/News and Announcement/corporate challenge icon.png
+      alt: Image alt text
   - infopic:
       title: HSC School Video
-      subtitle: "Hai Sing Catholic School "
+      subtitle: Hai Sing Catholic School
       button: Haisian Experience
       url: https://youtu.be/qlWlwAZJi4s
       image: /images/website logo.png
