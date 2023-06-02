@@ -2,5 +2,6 @@ collections:
   home-announcement-and-news:
     output: true
     order:
+      - SYFC Excellence Award.md
       - Personal Learning Device.md
       - Hsc Upgrading.md
