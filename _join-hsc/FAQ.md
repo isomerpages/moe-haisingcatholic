@@ -3,12 +3,7 @@ title: FAQ
 permalink: /join-hsc/faq/permalink/
 description: ""
 ---
-FAQ
-===
-
-  
-
-2022 HSC E-Open House FAQs
+2023 HSC E-Open House FAQs
 --------------------------
 
 | FAQ Document Directory |

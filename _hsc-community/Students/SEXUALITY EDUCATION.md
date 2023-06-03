@@ -73,3 +73,5 @@ Click on the following links below to read more about our 2023 Sexuality Educati
 **At Hai Sing Catholic School, the _eTeens_ programme will be implemented as follows in 2023:**
 
 [Click here for 2023 E-Teens programme Syllabus](/files/HSC%20Community/Sexuality%20Education/2023%20e%20teens.pdf)
+
+Parents/Guardians who would like to opt their child/ward out of the Sexuality Education and/or eTeens programme, please click on the [link](https://forms.moe.edu.sg/forms/vw2nle) to indicate your preference.
