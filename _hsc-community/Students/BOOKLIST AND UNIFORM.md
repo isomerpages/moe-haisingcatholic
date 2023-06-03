@@ -26,8 +26,8 @@ Please select your level to view the book list for 2023
 | Secondary 1 |  1 Exp  |       1 NA      |       1 NT       |
 | Secondary 2 |  [2 Exp](/files/HSC%20Community/Sec%202E.pdf)      |       [2 NA](/files/HSC%20Community/Sec%202NA.pdf)     |[2 NT](/files/HSC%20Community/Sec%202NT.pdf)
 | Secondary 3 |  [3 Exp](/files/HSC%20Community/Sec%203E.pdf) |       [3 NA](/files/HSC%20Community/Sec%203NA.pdf)     |       [3 NT](/files/HSC%20Community/Sec%203NT.pdf)       |
-| Secondary 4 |  [4 Exp](/files/Sec%204E.pdf)  |       [4 NA](/files/Sec%204NA.pdf)      |       [4 NT](/files/Sec%204NT.pdf)       |
-| Secondary 5 |   5 NA  |                 |                  |
+| Secondary 4 |  [4 Exp](/files/HSC%20Community/Sec%204E.pdf)  |       [4 NA](/files/HSC%20Community/Sec%204NA.pdf)    |       [4 NT](/files/HSC%20Community/Sec%204NT.pdf)     |
+| Secondary 5 |   [](/files/HSC%20Community/Sec%204NT.pdf)  |                 |                  |
 
 Uniform &amp; PE Attire Price List
 ------------------------------
