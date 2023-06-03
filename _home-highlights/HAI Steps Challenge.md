@@ -9,8 +9,7 @@ Provide an opportunity for staff to encourage one another to stay active while h
 ![healthy staff](/images/News%20and%20Announcement/national%20step%20challenge.png)
 
 Please support our fundraising effort by making donations to our School Building Fund.
-
-![How to donation?](/images/News%20and%20Announcement/national%20step%20challenge%201.jpeg)
+![donation](/images/News%20and%20Announcement/national%20step%20challenge%201.jpeg)
 
 ***Tax Deduction for Donation:***
 
