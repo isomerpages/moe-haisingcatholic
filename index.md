@@ -14,7 +14,7 @@ sections:
         - title: HSC Upgrading Programme
           description: Click HERE to read more!
           url: /hsc/hsc-upgrading/permalink/
-        - title: BOOKLIST AND UNIFORM
+        - title: School Based Assessment
           description: Click HERE to find out more!
           url: /hsc-community/Students/booklist-and-uniform/permalink/
         - title: Personalised Digital Learning Programme
