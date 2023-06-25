@@ -13,7 +13,7 @@ TIME-TABLE
 ---------------------
 
 Secondary 1 Class timetable: 
-[2023 Secondary 1 Semester 2 ](/files/Time%20Table/sec%201%202023%20sem%202%20class%2023062023.pdf)
+[2023 Secondary 1 Semester 2 ]([](/files/Time%20Table/sec%201%202023%20sem%202%20class%2023062023.pdf))
 
 
 Secondary 2 Class timetable:   
