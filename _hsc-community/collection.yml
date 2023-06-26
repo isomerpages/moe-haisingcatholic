@@ -2,12 +2,12 @@ collections:
   hsc-community:
     output: true
     order:
-      - Students/SCHOOL BASED ASSESSMENT.md
       - Students/.keep
+      - Students/STUDENTS TIMETABLE.md
+      - Students/SCHOOL BASED ASSESSMENT.md
       - Students/SECONDARY TWO SUBJECT COMBINATION.md
       - Students/PERSONALISED DIGITAL LEARNING PROGRAMME.md
       - Students/FULL SUBJECT BASED BANDING.md
-      - Students/STUDENTS TIMETABLE.md
       - Students/AFTERNOON PROGRAMME.md
       - Students/SEXUALITY EDUCATION.md
       - Students/BOOKLIST AND UNIFORM.md
