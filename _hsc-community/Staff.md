@@ -62,14 +62,14 @@ Lead/Senior Teachers
 Secondary 1 &amp; 2
 ---------------
 **Year Head (Lower Sec): Christine Sarah Toh**
-*christine_sarah_toh@moe.edu.sg*;
+*christine_sarah_toh@moe.edu.sg*
 
 **Level IC:&nbsp;Nandakumar Rao s/o Ramachandra**
 *nandakumar_rao_ramachandra@moe.edu.sg*
 
-| Class          | Form Teachers      |                     |                   | Email                                                                                               |
+| Class          | Form Teachers      |  Form Teachers                   |                   | Email                                                                                               |
 |----------------|--------------------|---------------------|-------------------|-----------------------------------------------------------------------------------------------------|
-| 1 Truth        | Juliane Leung    | Joaquina Jye Shiow |  |  leung_wai_ching_juliane@moe.edu.sg joaquina_jye_shiow@moe.edu.s           |
+| 1 Truth        | Juliane Leung    | Joaquina Jye Shiow |  |  leung_wai_ching_juliane@moe.edu.sg joaquina_jye_shiow@moe.edu.sg           |
 | 1 Charity      |  Wendy Koh   |    Sharon Lim      |          |                                          wendy_koh_wen_yi@moe.edu.sg goh_bee_hoon@moe.edu.sg        |
 | 1 Compassion   |    Fazzera Kamal    | Kok Hoe Ming         |                   | fazzera_kamal@moe.edu.sg  kok_hoe_ming@moe.edu.sg                                               |
 | 1 Integrity    |   Chew Boon Kean      | Mohd Tafran Angullia       |                   | chew_boon_kean@moe.edu.sg mohamed_tafran_angullia@moe.edu.sg                                                 |
@@ -91,7 +91,7 @@ Secondary 3
 
 **Rafidah Banu (Level IC)** *rafidah_banu_abdul_razak@moe.edu.sg*
 
-| Class          | Form Teachers     |               |           | Email                                                                        |
+| Class          | Form Teachers     |  Form Teachers             |           | Email                                                                        |
 |----------------|-------------------|---------------|-----------|------------------------------------------------------------------------------|
 | 3 Truth        | Chew Tze Inn    | Yasmin Bte. A. Aziz   |           | chew_tze_inn@moe.edu.sg  yasmin_a_aziz@moe.edu.sg                        |
 | 3 Charity      |  Lee Wan Xin    | Lee Wan Yin    |           | lee_wan_xin@moe.edu.sg  lee_wan_yin@moe.edu.sg             |
@@ -107,7 +107,7 @@ Secondary 4 &amp; 5
 **Year Head (Upper Sec):&nbsp;Rizal Bin Subani**:
 **rizal_subani@moe.edu.sg**
 
-| Class          | Form Teachers      |                     |             | Email                                                                                                   |
+| Class          | Form Teachers      |    Form Teachers                 |             | Email                                                                                                   |
 |----------------|--------------------|---------------------|-------------|---------------------------------------------------------------------------------------------------------|
 | 4 Truth        | Rafi Mohd Rais    | Lim Xin Yi    |           | rafi_b_mohamed_rais@moe.edu.sg lim_xin_yi@moe.edu.sg                         |
 | 4 Charity      | Millicent Chua    | Sophia Goh    |           | chua_bee_hua_millicent@moe.edu.sg sophia_goh_eng_lam@moe.edu.sg              |
@@ -115,7 +115,7 @@ Secondary 4 &amp; 5
 | 4 Integrity    | Teo Felicia       | Zhao Xuying   |           | teo_felicia@moe.edu.sg   zhao_xuying@moe.edu.sg                                |
 | 4 Independence | Bharathi          | David Wong    |           | bharathi_jayakumaran@moe.edu.sg wong_chun_sheng_david@moe.edu.sg             |
 | 4 Adaptability | Edmund Tham       | Zhang Mingyue |           | tham_mun_kin_edmund@moe.edu.sg zhang_mingyue@moe.edu.sg                      |                                      
-| 4 Graciousness |  Raihan Omar       | Juliana Lee   | Lee Yueli | raihan_omar@moe.edu.sg juliana_lee_chin_ling@moe.edu.sg lee_yueli@moe.edu.sg 
+| 4 Graciousness |  Raihan Omar       | Juliana Lee   || raihan_omar@moe.edu.sg juliana_lee_chin_ling@moe.edu.sg 
 | Secondary 5 | Raihanah Haron    |          |             | raihanah_haron@moe.edu.sg   |
 
 
