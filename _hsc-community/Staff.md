@@ -69,7 +69,7 @@ Secondary 1 &amp; 2
 
 | Class          | Form Teachers      |                     |                   | Email                                                                                               |
 |----------------|--------------------|---------------------|-------------------|-----------------------------------------------------------------------------------------------------|
-| 1 Truth        | Juliane Leung    | Joaquina Jye Shiow |  |  leung_wai_ching_juliane@moe.edu.sg            |
+| 1 Truth        | Juliane Leung    | Joaquina Jye Shiow |  |  leung_wai_ching_juliane@moe.edu.sg joaquina_jye_shiow@moe.edu.s           |
 | 1 Charity      |  Wendy Koh   |    Sharon Lim      |          |                                          wendy_koh_wen_yi@moe.edu.sg goh_bee_hoon@moe.edu.sg        |
 | 1 Compassion   |    Fazzera Kamal    | Kok Hoe Ming         |                   | fazzera_kamal@moe.edu.sg  kok_hoe_ming@moe.edu.sg                                               |
 | 1 Integrity    |   Chew Boon Kean      | Mohd Tafran Angullia       |                   | chew_boon_kean@moe.edu.sg mohamed_tafran_angullia@moe.edu.sg                                                 |
