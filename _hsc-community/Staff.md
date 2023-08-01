@@ -62,10 +62,10 @@ Lead/Senior Teachers
 Secondary 1 &amp; 2
 ---------------
 **Year Head (Lower Sec): Christine Sarah Toh**
-**christine_sarah_toh@moe.edu.sg**&nbsp;
+*christine_sarah_toh@moe.edu.sg*;
 
 **Level IC:&nbsp;Nandakumar Rao s/o Ramachandra**
-**nandakumar_rao_ramachandra@moe.edu.sg**
+*nandakumar_rao_ramachandra@moe.edu.sg*
 
 | Class          | Form Teachers      |                     |                   | Email                                                                                               |
 |----------------|--------------------|---------------------|-------------------|-----------------------------------------------------------------------------------------------------|
