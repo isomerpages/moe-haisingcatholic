@@ -4,12 +4,11 @@ permalink: /hsc-community/Students/timetable/permalink/
 description: ""
 third_nav_title: Students
 ---
-TIME-TABLE
+2023 CLASS TIMETABLE
 ==========
 
 ![](/images/timetable.jpeg)
 
-2023 Class Time-table
 ---------------------
 
 Secondary 1 Class timetable: 
