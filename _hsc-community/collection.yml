@@ -2,6 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
+      - Students/Student's Timetable.md
       - Students/.keep
       - Students/STUDENTS TIMETABLE.md
       - Students/SCHOOL BASED ASSESSMENT.md
