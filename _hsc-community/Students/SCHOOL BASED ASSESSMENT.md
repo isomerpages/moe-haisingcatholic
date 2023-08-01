@@ -5,8 +5,7 @@ description: ""
 image: /images/Curriculum/Mother.png
 third_nav_title: Students
 ---
-# Hai Sing Catholic School (SBA)
-     
+# School-Based Assessement     
 
 **Assessment Weighting Distribution 2023 (For all subjects except for Lower Sec FCE and D&amp;T)**
 
