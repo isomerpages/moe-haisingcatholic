@@ -4,7 +4,7 @@ permalink: /hsc-community/Students/timetable/permalink/
 description: ""
 third_nav_title: Students
 ---
-2023 CLASS TIMETABLE
+2023 CLASS TIME-TABLE
 ==========
 
 ![](/images/timetable.jpeg)
