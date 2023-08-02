@@ -5,11 +5,9 @@ description: ""
 image: /images/Curriculum/Mother.png
 third_nav_title: Students
 ---
-# School-Based Assessement     
+# School-Based Assessment     
 
 **Assessment Weighting Distribution 2023 (For all subjects except for Lower Sec FCE and D&amp;T)**
-
-      
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="125" valign="top" style="width:93.5pt;border:solid windowtext 1.0pt;
