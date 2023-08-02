@@ -7,7 +7,7 @@ third_nav_title: Students
 FULL SUBJECT-BASED BANDING
 ==========================
 
-![](/images/hsccommunity%20uniform%20and%20Booklist1.png)
+![](/images/subject%20banding.jfif)
 
 Purpose of Full SBB
 -------------------
