@@ -105,7 +105,7 @@ Secondary 3
 Secondary 4 &amp; 5
 ---------------
 **Year Head (Upper Sec):&nbsp;Rizal Bin Subani**:
-**rizal_subani@moe.edu.sg**
+*rizalsubani@moe.edu.sg*
 
 | Class          | Form Teachers      |    Form Teachers                 |             | Email                                                                                                   |
 |----------------|--------------------|---------------------|-------------|---------------------------------------------------------------------------------------------------------|
