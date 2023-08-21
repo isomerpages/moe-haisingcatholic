@@ -26,3 +26,5 @@ During this time of PRIME upgrading, the school will hold at the former Greenvie
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:38.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">15 Pasir Ris Street 21 Singapore 518969  (Former Greenview Secondary School site)<span style="color:black;
   mso-themecolor:text1"></span></span></p></td></tr></tbody></table>
+	
+	![prime location map]()
