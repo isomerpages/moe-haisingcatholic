@@ -16,7 +16,7 @@ sections:
           url: https://www.open.gov.sg/upgrading-programme/permalink/
         - title: School Based Assessment
           description: Click HERE to find out more!
-          url: https://www.open.gov.sg/hsc-community/students/school-based-assessment/
+          url: https://www.open.gov.sg/hsc-community/students/school-based-assessment/permalink/
         - title: Personalised Digital Learning Programme
           description: Click HERE to read more!
           url: hsc-community/students/pdlp/permalink/
