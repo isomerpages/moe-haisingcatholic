@@ -13,14 +13,16 @@ During this time of PRIME upgrading, the school will hold at the former Greenvie
 
 **Permanent and Holding Sites of Hai Sing Catholic School**
 
+
+
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="312" valign="top" style="width:233.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Permanent Site</span></b></p></td><td width="312" valign="top" style="width:233.75pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Holding Site (Jan 2023 – Dec <span style="background:yellow;mso-highlight:yellow">2025</span>)</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:38.65pt"><td width="312" valign="top" style="width:233.75pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-themecolor:text1">Holding Site (Jan 2023 – Dec 2025)</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:38.65pt"><td width="312" valign="top" style="width:233.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:38.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">9 Pasir Ris Drive 6 Singapore 519421<span style="color:black;mso-themecolor:text1"></span></span></p></td><td width="312" valign="top" style="width:233.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:38.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">15 Pasir Ris Street 21 Singapore 518969 (Former Greenview Secondary School site)<span style="color:black;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:38.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">15 Pasir Ris Street 21 Singapore 518969  (Former Greenview Secondary School site)<span style="color:black;
   mso-themecolor:text1"></span></span></p></td></tr></tbody></table>
