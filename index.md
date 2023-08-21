@@ -16,7 +16,7 @@ sections:
           url: upgrading-programme/permalink/
         - title: School Based Assessment
           description: Click HERE to find out more!
-          url: hsc-community/students/school-based-assessment/
+          url: hsc-community/students/school-based-assessment/permalink/
         - title: Personalised Digital Learning Programme
           description: Click HERE to read more!
           url: hsc-community/students/pdlp/permalink/
