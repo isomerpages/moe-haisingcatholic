@@ -3,7 +3,7 @@ title: Upgrading Programme
 permalink: /home-highlights/permalink/
 description: PRIME Update
 ---
-# **HSC Upgrading Programme**
+# **Hai Sing Catholic School Upgrading Programme**
        
 As part of MOE’s initiative to provide high quality infrastructure for secondary schools and meet future needs, Hai Sing Catholic School (HSCS) is scheduled to undergo PRIME upgrading from January 2023 to December 2025. The new building will have technology-enabled facilities and greater flexibility of space, movement, class and special room configurations to support the educational needs of our students in the future. In addition, a bigger School Hall and Indoor Sports Hall will allow the whole school to come together for various activities and events. This will promote greater engagement and school spirit among HAIsians.
 
