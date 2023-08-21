@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: HSC Upgrading Programme
           description: Click HERE to read more!
-          url: /hsc/hsc-upgrading/permalink/
+          url: /hsc//upgrading-programme/permalink/
         - title: School Based Assessment
           description: Click HERE to find out more!
           url: /hsc-community/students/school-based-assessment/permalink/
