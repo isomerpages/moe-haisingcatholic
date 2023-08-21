@@ -97,8 +97,8 @@ Secondary 3
 | 3 Charity      |  Lee Wan Xin    | Lee Wan Yin    |           | lee_wan_xin@moe.edu.sg  lee_wan_yin@moe.edu.sg             |
 | 3 Compassion   | Jonathan Tan| Mathew Lim|           | chu_chze_jonathan_tan@moe.edu.sg  Lim_tsu_wei_MATHEW@moe.edu.sg           |
 | 3 Integrity    | Radha Devi      | Chan Yu Wei, Dominique   |           | radha_devi_r_o@moe.edu.sg  chan_yu_wei_dominique@moe.edu.sg                                |
-| 3 Independence | Siti Nur A'isha Bte Osman        |     |           | siti_nur_aisha_osman@moe.edu.sg            |
-| 3 Adaptability | Ho Hui Ying       | Siti Nur Azmina Abdul |           | ho_huiying_he_huiying@moe.edu.sg  siti_nur_azmina_abdul@moe.edu.sg                     |
+| 3 Independence | Siti Nur A'isha Bte Osman        | Cheryl Ng    |           | siti_nur_aisha_osman@moe.edu.sg      cheryl_ng_bee_leng@moe.edu.sg      | 
+| 3 Adaptability | Ng Boon Hian       | Siti Nur Azmina Abdul |           | ng_boon_hian@moe.edu.sg  siti_nur_azmina_abdul@moe.edu.sg                     |
 | 3 Confidence | Noor Aishah       | Preston Tay   |  | noor_aishah_haja_mohideen@moe.edu.sg preston_tay_tzu_lin@moe.edu.sg  |
 | 3 Graciousness | Fauzan A. Rahim    | Tan Yong An         |     | fauzan_abdul_rahhim@moe.edu.sg tan_yong_an@moe.edu.sg               |
 
