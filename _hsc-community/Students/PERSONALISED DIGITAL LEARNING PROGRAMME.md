@@ -64,85 +64,21 @@ MOE and the school will set the level of web content filtering, including filter
 
 PLD usage time will be set to 6 a.m. to 10.00 p.m.  
 
-*   For parents/guardians who prefer to take charge of the level of restrictions for their child’s/ward’s use of the device after school hours can request to change their choice of DMA settings to Option A and Option B in the&nbsp;[sg form](https://form.gov.sg/6163ec32fadcf1001324b515)&nbsp;link or click on the QR Code below:
+*   For parents/guardians who prefer to take charge of the level of restrictions for their child’s/ward’s use of the device after school hours can request to change their choice of DMA settings to Option A and Option B in the &nbsp;[sg form](https://form.gov.sg/6163ec32fadcf1001324b515)&nbsp;link or click on the QR Code below:
 
 ![](/images/qr-code%20DMA%20parents.png) 
 
 *   Parent/guardian who wish to learn how to use the DMA to monitor their child’s/ward’s PLD activities, please select the following Guide:
 *   Parents Guide for DMA Default Option:
 [DMA Default Parent Guide ](/files/PDLP/dma%20parent%20guide%20for%20default%20option%20(chrome%20devices)_2%20sep%2021.pdf)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+ 
 
 *   Parents Guide for DMA Option A: 
  [DMA Option A Parents Guide](/files/PDLP/dma%20parent%20guide%20for%20option%20a%20(chrome%20devices)_2%20sep%2021.pdf)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
   
 
 *   Parents Guide for DMA Option B: 
  [DMA Option B  Parents Guide](/files/PDLP/dma%20parent%20guide%20for%20option%20b%20(chrome%20devices)_2%20sep%2021.pdf)
-
-  
 
 Student Resource Kit
 --------------------
@@ -159,3 +95,8 @@ Help Desk
 
 Enquiry on Personalised Device, Please click on the QR code below:  
 ![Virtual Help Desk (Any urgent matter please approach our Technical Team at Computer Lab 1) )](/images/qrhelpdesk.png)
+
+MIMS Students      &nbsp;(Self Service Password Reset Service) -SSPS
+---------------------------
+Students who need to reset your MIMS password can click on the MIMS Reset Self Service link in the table below:  
+&nbsp;&nbsp;**<table style="border:none;border-collapse:collapse"><colgroup><col width="221px"><col width="221px"><col width="327px"><col width="115px"></colgroup><tbody><tr style="height:85px"><td style="vertical-align:top;border-left:solid #000000 1px;border-right:solid #000000 1px;border-top:solid #000000 1px;border-bottom:solid #000000 1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">&nbsp;</td><td style="vertical-align:top;border-left:solid #000000 1px;border-right:solid #000000 1px;border-top:solid #000000 1px;border-bottom:solid #000000 1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">For Who</span></p></td><td style="vertical-align:top;border-left:solid #000000 1px;border-right:solid #000000 1px;border-top:solid #000000 1px;border-bottom:solid #000000 1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Link or Site</span></p></td><td style="vertical-align:top;border-left:solid #000000 1px;border-right:solid #000000 1px;border-top:solid #000000 1px;border-bottom:solid #000000 1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Instruction Guide</span></p></td></tr><tr style="height:204px"><td style="vertical-align:top;border-left:solid #000000 1px;border-right:solid #000000 1px;border-top:solid #000000 1px;border-bottom:solid #000000 1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">MIMS Reset&nbsp;</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Set UP</span></p></td><td style="vertical-align:top;border-left:solid #000000 1px;border-right:solid #000000 1px;border-top:solid #000000 1px;border-bottom:solid #000000 1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">For students who have not set up the security challenging questions.</span></p></td><td style="vertical-align:top;border-left:solid #000000 1px;border-right:solid #000000 1px;border-top:solid #000000 1px;border-bottom:solid #000000 1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><br><br><br><br><br><br></td><td style="vertical-align:top;border-left:solid #000000 1px;border-right:solid #000000 1px;border-top:solid #000000 1px;border-bottom:solid #000000 1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">&nbsp;</td></tr><tr style="height:85px"><td style="vertical-align:top;border-left:solid #000000 1px;border-right:solid #000000 1px;border-top:solid #000000 1px;border-bottom:solid #000000 1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">MIMS Reset&nbsp;</span></p><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Self - Service</span></p></td><td style="vertical-align:top;border-left:solid #000000 1px;border-right:solid #000000 1px;border-top:solid #000000 1px;border-bottom:solid #000000 1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:13.999999999999998pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">For students&nbsp;</span></p></td><td style="vertical-align:top;border-left:solid #000000 1px;border-right:solid #000000 1px;border-top:solid #000000 1px;border-bottom:solid #000000 1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">&nbsp;</td><td style="vertical-align:top;border-left:solid #000000 1px;border-right:solid #000000 1px;border-top:solid #000000 1px;border-bottom:solid #000000 1px;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px">&nbsp;</td></tr></tbody></table>**
