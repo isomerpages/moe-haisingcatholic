@@ -103,8 +103,8 @@ be able to perform the password reset by yourself.
 
 Students can follow the step-by-step guide to setup the security challenge questions using this [link](https://drive.google.com/file/d/1J9VGiz3MzEL7pi7xd1zGWDOOkXCplj3U/view?usp=drive_link).  
 
-* To set up the security challenge questions, please click on this link [setup-link](https://mims.moe.gov.sg/sspr) .
+* To set up the security challenge questions, please click on this [setup-link](https://mims.moe.gov.sg/sspr) .
 ![Security Question Setup](/images/PDLP%20Page/mims%20password%20setup%20qr.png)
 
-* To perform a self-service password reset, please clickon this [self-reset link](https://mims.moe.gov.sg/sspv) .
+* To perform a self-service password reset, please click on this [self-reset link](https://mims.moe.gov.sg/sspr) .
 ![Self-Service MIMS password reset](/images/PDLP%20Page/mims%20self-service%20reset%20qr%20code.png)
