@@ -12,61 +12,40 @@ Key Message on PDLP
 
 Please click on the image below to play the PDLP message video:  
 [Click Here](https://youtu.be/FkFdNk2xhKE)
-
 ![](/images/pdlp%20hod%20message.jpeg)
 
 General Information for Parents
--------------------------------
+-------------------------
 
-**Information on School Personal Device Learning Programme (PDLP)**
+**Information on School Personal Device Learning Programme (PDLP)**&nbsp;
 
-Click on this [Link]
-
-PERSONALISED DIGITAL LEARNING PROGRAMME
-=======================================
-​
-Key Message on PDLP
--------------------
-​
-Please click on the image below to play the PDLP message video:  
-[Click Here](https://youtu.be/FkFdNk2xhKE)
-​
-![](/images/pdlp%20hod%20message.jpeg)
-​
-General Information for Parents
--------------------------------
-​
-**Information on School Personal Device Learning Programme (PDLP)**
-​
-Click on this [Link](/files/PDLP/PDLP%20Sharing%20with%20Parents.pdf)
+Click on this link:  [Sharing with Parents](/files/PDLP/PDLP%20Sharing%20with%20Parents.pdf)
   
-**Information on Frequently Asked Question (FAQ) on PDLP**
-​(/files/PDLP/PDLP%20Sharing%20with%20Parents.pdf)
-  
-**Information on Frequently Asked Question (FAQ) on PDLP**
+**Information on Frequently Asked Question (FAQ) on PDLP**&nbsp;
 
-Click on this [link](/files/PDLP/PDLP%20Parents%20Engagement%20FAQs_Final.pdf)
+Click on this link: [FAQ for Parents](/files/PDLP/PDLP%20Parents%20Engagement%20FAQs_Final.pdf)
   
-**Lenovo Service Center&nbsp;SmartCares Solutions**  
+**Personal Learning Device Service and Repair**  
 The school technical team will help to provide basic troubleshooting and reset of passwords only.  
-For hardware, operating system and purchase of spare parts, contact  
-**Lenovo Service Center:**&nbsp;&nbsp;**#01-17 Tai Seng Centre, 3 Irving Road Singapore**&nbsp;**369522**&nbsp;  
-Operation Hours : Monday- Saturday : 11am-7pm  
-Closed on Sunday and Public Holiday  
-  
-Website:&nbsp;[Lenovo SmartCares Solution Singapore](https://smartcares.com/contact)  
-Lenovo Support Contact : 8008528100  
-Service Centre Contact : +65 68714838  
-Email Address : lenovo@smartcares.com
+For hardware, operating system and purchase of spare parts, please contact: &nbsp;
+
+* **Lenovo Service Center:**&nbsp;&nbsp;#01-17 Tai Seng Centre, 3 Irving Road, Singapore 369522)&nbsp;  
+* **Operation Hours:** Monday- Saturday : 11am-7pm (Closed on Sunday and Public Holiday)
+* **Website:**&nbsp;[Lenovo SmartCares Solution Singapore](https://smartcares.com/contact)  
+* **Lenovo Support Contact:** 8008528100  
+* **Service Centre Contact:** +65 68714838  
+* **Email Address:** lenovo@smartcares.com
 
 Digital Parenting Resources
 ---------------------------
 
-This parents handbook shares more information on how to enhance your child's learning using a personal learning device (PLD) . There are some strategies and resources on digital parenting tips. Click on the below links  
-  
+This parents handbook shares more information on how to enhance your child's learning using a personal learning device (PLD). There are some strategies and resources on digital parenting tips.&nbsp;
 
-[Parents Handbook 1: Learning with a PLD](/files/PDLP/ip2%20-%20parent%20handbook%20(i)%20on%20learning%20with%20a%20pld_2023.pdf)
-  [Parent Handbook 2: Learning with a PLD 2023 ](/files/PDLP/ip3%20-%20parent%20handbook%20(ii)%20on%20learning%20with%20a%20pld_2023.pdf)
+Click on the below links: 
+
+* i.[Parents Handbook 1: Learning with a PLD](/files/PDLP/ip2%20-%20parent%20handbook%20(i)%20on%20learning%20with%20a%20pld_2023.pdf)
+
+* ii.[Parent Handbook 2: Learning with a PLD 2023 ](/files/PDLP/ip3%20-%20parent%20handbook%20(ii)%20on%20learning%20with%20a%20pld_2023.pdf)
 
 Device Management Application (DMA) for parents
 -----------------------------------------------
