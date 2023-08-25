@@ -18,12 +18,10 @@ General Information for Parents
 -------------------------
 
 **Information on School Personal Device Learning Programme (PDLP)**&nbsp;
-
-Click on this link:  [Sharing with Parents](/files/PDLP/PDLP%20Sharing%20with%20Parents.pdf)
+* Click on this link:  [Sharing with Parents](/files/PDLP/PDLP%20Sharing%20with%20Parents.pdf)
   
 **Information on Frequently Asked Question (FAQ) on PDLP**&nbsp;
-
-Click on this link: [FAQ for Parents](/files/PDLP/PDLP%20Parents%20Engagement%20FAQs_Final.pdf)
+* Click on this link: [FAQ for Parents](/files/PDLP/PDLP%20Parents%20Engagement%20FAQs_Final.pdf)
   
 **Personal Learning Device Service and Repair**  
 The school technical team will help to provide basic troubleshooting and reset of passwords only.  
