@@ -18,7 +18,7 @@ description: ""
 | 9 | [SSOE 2 Service Portal](https://ssoe2.moe.edu.sg/sp) |
 
 
-### Learning Portals
+### Academic Portals for Teachers
 
 | # | Academic Portals for Teachers |
 | --- | --- |
@@ -28,7 +28,7 @@ description: ""
 | 4 |[Singapore Examinations and Assessment Board (SEAB)](https://www.seab.gov.sg/) |
 | 5 | [My Skills Future](https://www.myskillsfuture.sg/content/portal/en/index.html) |
 
-### MOE Portal 
+### MOE Portals for Teachers
 
 | # | MOE Portals for Teachers |
 | --- | --- |
