@@ -10,10 +10,10 @@ description: ""
 | 1 | [SC Mobile Attendance-taking Portal](https://scmobile.moe.edu.sg/) |
 | 2 | [Parent Gateway for Teachers](https://pg.moe.edu.sg/) |
 | 3 | [School Cockpit System](https://schoolcockpit.moe.gov.sg/) |
-| 4 | [Facility Booking via Edupage](https://rbs.avero-tech.com/7031/index.html#~vb.my.html/) |
+| 4 | [HSC Facility Booking](https://rbs.avero-tech.com/7031/index.html#~vb.my.html/) |
 | 5 | [ICON Email (ICONnect)](https://icon.moe.edu.sg/saas/usercenter/index.do) |
 | 6 | [iEXAMS](https://iexams.seab.gov.sg/) |
-| 7 | [OPAL 2.o Portal](https://www.opal2.moe.edu.sg/)|
+| 7 | [OPAL 2.0 Portal](https://www.opal2.moe.edu.sg/)|
 | 8 | [MOE MIMS Management Portal](https://portal.mims.moe.gov.sg/) |
 | 9 | [SSOE 2 Service Portal](https://ssoe2.moe.edu.sg/sp) |
 
