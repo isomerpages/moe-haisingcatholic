@@ -4,7 +4,7 @@ permalink: /hsc-community/staff/permalink/
 description: ""
 third_nav_title: Staff
 ---
-STAFF
+Hai Sing Catholic School Personnel
 =====
 
 School Leaders
