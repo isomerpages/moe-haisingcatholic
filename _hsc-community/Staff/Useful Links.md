@@ -6,7 +6,7 @@ third_nav_title: Staff
 ---
 ### Useful links for Teachers 
 
-| # | Administration Portals for Teachers |
+| | Administration Portals for Teachers |
 | --- | --- |
 | 1 | [SC Mobile Attendance-taking Portal](https://scmobile.moe.edu.sg/) |
 | 2 | [Parent Gateway for Teachers](https://pg.moe.edu.sg/) |
@@ -21,7 +21,7 @@ third_nav_title: Staff
 
 ### Academic Portals for Teachers
 
-| # | Academic Portals for Teachers |
+|  | Academic Portals for Teachers |
 | --- | --- |
 | 1 | [The Singapore Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login) |
 | 2 | [Google Suite for Education](http://gmail.com/) |
@@ -31,7 +31,7 @@ third_nav_title: Staff
 
 ### MOE Portals for Teachers
 
-| # | MOE Portals for Teachers |
+|  | MOE Portals for Teachers |
 | --- | --- |
 | 1 | [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx/) |
 | 2 | [MOE HR Online (Intranet)](http://uat.intranet.moe.gov.sg/hr_online/) |
@@ -45,7 +45,7 @@ third_nav_title: Staff
 
 ### Information Sites
 
-| # | Information Sites |
+|  | Information Sites |
 | --- | --- |
 | 1 | [Ministry of Education (MOE)](https://www.moe.gov.sg/) |
 | 2 |  [Haze Situation Update](https://www.haze.gov.sg/) |
