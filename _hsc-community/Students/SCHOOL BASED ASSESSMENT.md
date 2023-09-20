@@ -265,15 +265,15 @@ Please click on this [link](/files/assessment%20rules%20and%20regulation%202023.
 
 ***Secondary 2 End-Of-Year Examination Schedule and  Assessment Information***
 
-1. Secondary 2 End-Of-Year Exam Schedule, please click on this link for [2023 End-Of-Year Sec 2 Exam Schedule](/files/EXAM/2023%20eye%20sec%202%20examination%20schedule_16%20aug.pdf).
+1. For Secondary 2 End-Of-Year Exam Schedule, please click on this link for [2023 End-Of-Year Sec 2 Exam Schedule](/files/EXAM/2023%20eye%20sec%202%20examination%20schedule_16%20aug.pdf).
 
 2. Secondary 2 End-Of-Year Assessment Information can be downloaded from this [link](/files/EXAM/2023%20sec%202%20end%20of%20year%20exam%20assessment%20info_18%20aug.pdf). 
 
 ***Secondary 3 End-Of-Year Examination Schedule and  Assessment Information***
 
-1. Secondary 3 End-Of-Year Exam Schedule, please click on this link for [2023 End-Of-Year Sec 3 Exam Schedule](/files/EXAM/2023%20eye%20sec%203examination%20schedule_updated.pdf).
+1. For Secondary 3 End-Of-Year Exam Schedule, please click on this link for [2023 End-Of-Year Sec 3 Exam Schedule](/files/EXAM/2023%20eye%20sec%203examination%20schedule_updated.pdf).
 2. Secondary 3 End-Of-Year Assessment Information can be downloaded from this [link](/files/EXAM/2023%20sec%203%20end%20of%20year%20exam%20assessment%20info_18%20aug.pdf).
-____________________________________________________________
+
 ***O-Level Preliminary Examinations Timetable***
 
 Please click on this [link](/files/4e5n4noos%20preliminary%20exam%20schedule_2023_finalised.pdf) for Sec 4 (Express) and Sec 5 (Nomal Academic), O-Level Prelim Exams Timetable.
@@ -293,8 +293,6 @@ Please click on this [weblink](https://www.seab.gov.sg/home/examinations/gce-n(a
 Please click on this [link](/files/4n(a)n(t)%20preliminary%20exam%20schedule_2023_finalised.pdf) to see N-Level Prelim Exams Timetable.
 
 Please click on this [weblink](https://www.seab.gov.sg/home/examinations/gce-n(t)-level/n(t)-level-syllabuses-examined-for-school-candidates-2023) to find out about N(T)-Level Syllabuses examined in 2023.
-
-________________________________________________________________
 
 **Term 2 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)** 
 
