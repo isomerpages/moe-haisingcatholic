@@ -260,18 +260,18 @@ Please click on this [link](/files/assessment%20rules%20and%20regulation%202023.
 
 ***Secondary 1 End-Of-Year Examination Schedule and  Assessment Information***
 
-1. For Secondary 1 End-Of-Year Exam Schedule, Please click on this link for [2023 End-Of-Year Sec 1 Exam Schedule](/files/EXAM/2023%20eye%20sec%201%20examination%20schedule_16%20aug.pdf).
+1. For Secondary 1 End-Of-Year Exam Schedule, please click on this link for [2023 End-Of-Year Sec 1 Exam Schedule](/files/EXAM/2023%20eye%20sec%201%20examination%20schedule_16%20aug.pdf).
 2. Secondary 1 End-Of-Year Assessment Information can be downloaded from this [link](/files/EXAM/2023%20sec%201%20end%20of%20year%20exam%20assessment%20info_18%20aug.pdf).
 
 ***Secondary 2 End-Of-Year Examination Schedule and  Assessment Information***
 
-1. Secondary 2 End-Of-Year Exam Schedule, Please click on this link for [2023 End-Of-Year Sec 2 Exam Schedule](/files/EXAM/2023%20eye%20sec%202%20examination%20schedule_16%20aug.pdf).
+1. Secondary 2 End-Of-Year Exam Schedule, please click on this link for [2023 End-Of-Year Sec 2 Exam Schedule](/files/EXAM/2023%20eye%20sec%202%20examination%20schedule_16%20aug.pdf).
 
 2. Secondary 2 End-Of-Year Assessment Information can be downloaded from this [link](/files/EXAM/2023%20sec%202%20end%20of%20year%20exam%20assessment%20info_18%20aug.pdf). 
 
 ***Secondary 3 End-Of-Year Examination Schedule and  Assessment Information***
 
-1. Secondary 3 End-Of-Year Exam Schedule, Please click on this link for[2023 End-Of-Year Sec 3 Exam Schedule](/files/EXAM/2023%20eye%20sec%203examination%20schedule_updated.pdf).
+1. Secondary 3 End-Of-Year Exam Schedule, please click on this link for [2023 End-Of-Year Sec 3 Exam Schedule](/files/EXAM/2023%20eye%20sec%203examination%20schedule_updated.pdf).
 2. Secondary 3 End-Of-Year Assessment Information can be downloaded from this [link](/files/EXAM/2023%20sec%203%20end%20of%20year%20exam%20assessment%20info_18%20aug.pdf).
 ____________________________________________________________
 ***O-Level Preliminary Examinations Timetable***
