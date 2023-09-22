@@ -1,6 +1,6 @@
 ---
 title: School Identity
-permalink: /about-hsc/school-indentity/permalink/
+permalink: /about-hsc/school-identity/permalink/
 description: ""
 ---
 SCHOOL IDENTITY
