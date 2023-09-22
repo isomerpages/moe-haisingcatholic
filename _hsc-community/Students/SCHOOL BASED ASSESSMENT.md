@@ -1,6 +1,6 @@
 ---
 title: SCHOOL BASED ASSESSMENT
-permalink: /hsc-community/students/school-based-assessment/
+permalink: /hsc-community/students/school-based-assessment/permalink/
 description: ""
 image: /images/Curriculum/Mother.png
 third_nav_title: Students

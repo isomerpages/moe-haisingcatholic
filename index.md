@@ -2,7 +2,7 @@
 layout: homepage
 title: Home
 description: Hai Sing Catholic School (An Isomer site of the Singapore Government)
-image: /images/logo1.png
+image: /images/school crest.png
 permalink: /
 notification: Hai Sing Catholic School
 sections:
@@ -16,7 +16,7 @@ sections:
           url: upgrading-programme/permalink/
         - title: School Based Assessment
           description: Click HERE to find out more!
-          url: /hsc-community/students/school-based-assessment/permalink/
+          url: /hsc-community/students/school-based-assessment/
         - title: Personalised Digital Learning Programme
           description: Click HERE to read more!
           url: hsc-community/students/pdlp/permalink/
