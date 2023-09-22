@@ -296,9 +296,9 @@ Please click on this [weblink](https://www.seab.gov.sg/home/examinations/gce-n(t
 
 **Term3 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)** 
 
-* Please click on this [link](/files/Weighted%20assessment/2023%20sec%201%20term%202%20wa%20topic%20(pg).pdf) to see the Secondary 1 WA3 topics.
-* Please click on this [link](/files/Weighted%20assessment/2023%20sec%202%20term%202%20wa%20topic%20(pg).pdf) to see the Secondary 2 WA3 topics.
-* Please click on this [link](/files/Weighted%20assessment/2023%20sec%203%20term%202%20wa%20topic%20(pg).pdf) to see the Secondary 3 WA3 topics.
+* Please click on this [link](/files/Weighted%20assessment/2023%20sec%201%20term%203%20wa%20topic%20(pg).pdf) to see the Secondary 1 WA3 topics.
+* Please click on this [link](/files/Weighted%20assessment/2023%20sec%202%20term%203%20wa%20topic%20(pg).pdf)to see the Secondary 2 WA3 topics.
+* Please click on this [link](/files/Weighted%20assessment/2023%20sec%203%20term%203%20wa%20topic%20(pg).pdf)[link](/files/Weighted%20assessment/2023%20sec%203%20term%202%20wa%20topic%20(pg).pdf) to see the Secondary 3 WA3 topics.
 
 
 **Term 2 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)** 
