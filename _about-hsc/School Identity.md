@@ -64,7 +64,8 @@ Students positively influence their peers and others to put graciousness into ac
 
 # School Crest #
 Elements of the school crest:
-![Hai Sing Catholic School](/images/About%20HSC/hai%20sing%20school%20logo.jpg)
+![School Crest](/images/school%20crest.png)
+
 **Star** 
 
 A sense of purpose – to guide the ship (our students) through their decisions in life
