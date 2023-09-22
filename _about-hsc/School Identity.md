@@ -151,20 +151,12 @@ And in dying that we're born to eternal life
 Mascot
 ------
 
- The mascot combines two aspirations that we have for Haisians:  
+The mascot combines two aspirations that we have for Haisians:  SHINEE
 
-  
+![Shinee](/images/mascot_front.png)
 
-![Sinee.png](https://haisingcatholic.moe.edu.sg/qql/slot/u165/About%20Us/School%20Symbol,Song,Hymn/Sinee.png)
+First, we hope HAIsians become captains of their own journey, by taking control of the decisions they make as they navigate the seas of learning and life. 
 
-First, we hope HAIsians become captains of their own journey, 
+Through this, we hope that students discover their ‘ME-ssion’ – their personal mission in life – such that it becomes as clear as a gem. 
 
-by taking control of the decisions they make as they navigate the seas of learning and life. 
-
-Through this, we hope that students discover their ‘ME-ssion’ – their personal mission in life
-
- – such that it becomes as clear as a gem. 
-
-As HAIsians uncover their unique strengths, we hope they also find a ‘WE-sion’, that is 
-
-a vision for how they can shine forth and help the people around them.
+As HAIsians uncover their unique strengths, we hope they also find a ‘WE-sion’, that is a vision for how they can shine forth and help the people around them.
