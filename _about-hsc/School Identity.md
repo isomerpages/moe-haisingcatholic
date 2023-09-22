@@ -155,8 +155,6 @@ Mascot
 
   
 
-![Sinee.png](https://haisingcatholic.moe.edu.sg/qql/slot/u165/About%20Us/School%20Symbol,Song,Hymn/Sinee.png)
-
 First, we hope HAIsians become captains of their own journey, 
 
 by taking control of the decisions they make as they navigate the seas of learning and life. 
