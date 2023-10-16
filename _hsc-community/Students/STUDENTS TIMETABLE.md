@@ -10,9 +10,11 @@ third_nav_title: Students
 ---------------------
 **Post Exam Special Timetable**
 
-There will an Post Exam timetable to support teaching and learning and to faciliate the check of exam scripts and marking for Secondary 1,  and 3. please refer to the hyperlink below to check the time table for your respective classes.
+There will a  post exam special timetable to support teaching and learning. This special time table is to faciliate the checking of exam scripts and marking for Secondary 1, 2 and 3. Please refer to the following hyperlinks below to check the timetable for your respective classes for 16 October to 20 October 2023 and 23 October to 26 October 2023
 1. **Secondary 1,  2 and 3 timetable for [ 16 Oct to 20 Oct 2023.  Click Here.](/files/Time%20Table/final%20post%20exam%2016%20to%2020%20oct%202023%2015102023%20class.pdf)**
 3. **Secondary 1,  2 and 3 timetable for[ 23 Oct to 26 Oct 2023. Click Here.](/files/Time%20Table/final%20post%20exam%2023%20to%2026%20oct%202023%2015102023%20class.pdf)**
+
+**Semester 2 Timetable 2023**
 
 Secondary 1 Class timetable: 
 [2023 Secondary 1 Semester 2](/files/Time%20Table/sec%201%202023%20sem%202%20class%2023062023.pdf)
