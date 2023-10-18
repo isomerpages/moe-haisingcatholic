@@ -2,6 +2,7 @@
 title: HSC Open House
 permalink: /home-highlights/permalink/
 description: Information for HSC Hpen house for potential students
+image: /images/hscopenhouse2023.png
 ---
 ![HSC Open House 2023](/images/hscopenhouse2023.png)
 
