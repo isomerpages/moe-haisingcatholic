@@ -1,9 +1,9 @@
 ---
-title: DSA CRITERIA & SELECTION PROCESS
+title: DSA Criteria & Selection Process
 permalink: /join-hsc/dsa-talent-areas/permalink/
 description: ""
 ---
-DSA CRITERIA AND SELECTION PROCESS 
+DSA Criteria and Selection Process  
 ================
 
 ROBOTICS DSA Criteria

@@ -2,6 +2,6 @@ collections:
   join-hsc:
     output: true
     order:
-      - DSA TALENT AREAS.md
-      - DSA CRITERIA & SELECTION PROCESS.md
+      - DSA Talent Areas.md
+      - DSA Criteria & Selection Process.md
       - FAQ.md

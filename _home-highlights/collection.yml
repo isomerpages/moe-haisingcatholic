@@ -2,6 +2,7 @@ collections:
   home-highlights:
     output: true
     order:
+      - HSC Open House.md
       - Upgrading Programme.md
       - HAI Steps Challenge.md
       - Hai Experiential Week.md
