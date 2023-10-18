@@ -3,11 +3,16 @@ title: HSC Open House
 permalink: /home-highlights/permalink/
 description: Information for HSC Hpen house for potential students
 ---
-Hai Sing Catholic School is having a open house. Save the date and join us at our school to find out more about the Hai Sing Catholic School culture
 
+Embarking on a new journey as a secondary school student? Ready to set sail on a new school adventure? You're at the right place! Calling all Primary 6 students! 
 
+Save the date! It's Hai Sing Catholic's Open House. 
 
-| Venue: | Hai Sing Catholic School 2 |
+| Location: | 15 Pasir Ris Street 21, Singapore 518969|
 | -------- | -------- |
-| Date:      | 18 November    |
-| Time:      | 8.00 am to 1.00 pm |
+| Date:      | 18 November 2023, Saturday  |
+| Time:      | 9am to 12pm |
+
+Stay tuned to our Facebook and Instagram pages for more information on our upcoming event!
+
+
