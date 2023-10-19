@@ -23,11 +23,13 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: Hai Steps Challenge
-      description: HAI Corporate Challenge
-      button: Donations for School Building
-      url: hai-steps-challenge/permalink/
-      image: /images/News and Announcement/corporate challenge icon.png
+      title: HSC Open House
+      subtitle: 18 November 2023
+      id: infopic
+      description: Saturday, 9am to 12pm
+      button: Click here to find out more
+      url: /hsc-open-house/permalink/
+      image: /images/hscopenhouse2023.png
       alt: Image alt text
   - infopic:
       title: HSC School Video
@@ -42,4 +44,11 @@ sections:
       image: /images/week.png
       url: /hai-experiential-week/permalink/
       alt: alt text
+  - infopic:
+      title: Hai Steps Challenge
+      description: HAI Corporate Challenge
+      button: Donations for School Building
+      url: hai-steps-challenge/permalink/
+      image: /images/News and Announcement/corporate challenge icon.png
+      alt: Image alt text
 ---
