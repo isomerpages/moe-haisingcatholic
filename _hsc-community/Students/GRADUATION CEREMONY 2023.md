@@ -1,6 +1,6 @@
 ---
-title: GRADUATION CEREMONY 2022
-permalink: /hsc-community/Students/graduation-ceremony-2022/permalink/
+title: GRADUATION CEREMONY 2023
+permalink: /hsc-community/students/graduation-ceremony-2023/permalink/
 description: ""
 third_nav_title: Students
 ---

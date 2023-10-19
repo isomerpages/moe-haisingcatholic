@@ -1,6 +1,6 @@
 ---
 title: SECONDARY TWO SUBJECT COMBINATION
-permalink: /hsc-community/students/permalink/secondary-two-subject-combination/
+permalink: /hsc-community/students/secondary-two-subject-combination/permalink/
 description: ""
 third_nav_title: Students
 ---

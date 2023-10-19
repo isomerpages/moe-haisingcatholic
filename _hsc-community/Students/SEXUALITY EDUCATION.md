@@ -1,6 +1,6 @@
 ---
 title: SEXUALITY EDUCATION
-permalink: /hsc-community/students/permalink/sexuality-education/
+permalink: /hsc-community/students/sexuality-education/permalink/
 description: ""
 third_nav_title: Students
 ---

@@ -1,6 +1,6 @@
 ---
 title: STUDENTS TIMETABLE
-permalink: /hsc-community/Students/timetable/permalink/
+permalink: /hsc-community/students/students-timetable/permalink/
 description: ""
 third_nav_title: Students
 ---

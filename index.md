@@ -20,6 +20,9 @@ sections:
         - title: Personalised Digital Learning Programme
           description: Click HERE to read more!
           url: hsc-community/students/pdlp/permalink/
+        - title: Post Exam Timetable
+          description: Post Exam Timetable
+          url: /hsc-community/students/students-timetable/permalink/
   - infobar:
       title: Highlights
   - infopic:
