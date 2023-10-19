@@ -11,18 +11,18 @@ sections:
       subtitle: ONE Home • School • Community
       background: /images/hompage.jpg
       key_highlights:
+        - title: Post Exam Timetable
+          description: Post Exam Timetable
+          url: /hsc-community/students/students-timetable/permalink/
+        - title: Personalised Digital Learning Programme
+          description: Click HERE to read more!
+          url: hsc-community/students/pdlp/permalink/
         - title: HSC Upgrading Programme
           description: Click HERE to read more!
           url: upgrading-programme/permalink/
         - title: School Based Assessment
           description: Click HERE to find out more!
           url: /hsc-community/students/school-based-assessment/permalink/
-        - title: Personalised Digital Learning Programme
-          description: Click HERE to read more!
-          url: hsc-community/students/pdlp/permalink/
-        - title: Post Exam Timetable
-          description: Post Exam Timetable
-          url: /hsc-community/students/students-timetable/permalink/
   - infobar:
       title: Highlights
   - infopic:
