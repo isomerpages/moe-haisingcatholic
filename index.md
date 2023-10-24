@@ -14,15 +14,15 @@ sections:
         - title: Post Exam Timetable
           description: Click HERE to read more!
           url: /hsc-community/students/students-timetable/permalink/
-        - title: Personalised Digital Learning Programme
-          description: Click HERE to read more!
-          url: hsc-community/students/pdlp/permalink/
         - title: HSC Upgrading Programme
           description: Click HERE to read more!
           url: upgrading-programme/permalink/
         - title: School Based Assessment
           description: Click HERE to read more!
           url: /hsc-community/students/school-based-assessment/permalink/
+        - title: 2024 Secondary 3 Subject Combination
+          description: Click here for information
+          url: /hsc-community/students/secondary-two-subject-combination/permalink/
   - infobar:
       title: Highlights
   - infopic:
