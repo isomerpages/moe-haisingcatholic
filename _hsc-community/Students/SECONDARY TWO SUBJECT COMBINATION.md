@@ -6,7 +6,8 @@ third_nav_title: Students
 ---
 SUBJECT COMBINATION
 ===============================
-
+2024 Secondary 3 Subject Combination
+----------------------------------------
 Dear Students and Parents, 
 
 The subject combination available for next year (2024) Secondary 3 cohort has been sent out to your Parent Gateway (PG). In addition, we have also added the same information in the link below. Please click on the links for the streaming information on 2024 Secondary 3 subject combination options for:
