@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hai Sing Catholic School
       subtitle: ONE Home • School • Community
-      background: /images/hompage.jpg
+      background: /images/hscopenhouse2023.png
       key_highlights:
         - title: Post Exam Timetable
           description: Click HERE to read more!
@@ -21,7 +21,7 @@ sections:
           description: Click HERE to read more!
           url: /hsc-community/students/school-based-assessment/permalink/
         - title: 2024 Secondary 3 Subject Combination
-          description: Click here for information
+          description: Click HERE to read more!
           url: /hsc-community/students/secondary-two-subject-combination/permalink/
   - infobar:
       title: Highlights
