@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hai Sing Catholic School
-      subtitle: ONE Home • School • Community
       background: /images/About HSC/homepage banner.png
       key_highlights:
         - title: Post Exam Timetable
