@@ -4,7 +4,7 @@ title: Home
 description: Hai Sing Catholic School (An Isomer site of the Singapore Government)
 image: /images/school crest.png
 permalink: /
-notification: Hai Sing Catholic School
+notification: ""
 sections:
   - hero:
       title: Hai Sing Catholic School
