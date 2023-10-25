@@ -4,12 +4,12 @@ title: Home
 description: Hai Sing Catholic School (An Isomer site of the Singapore Government)
 image: /images/school crest.png
 permalink: /
-notification: Hai Sing Catholic School
+notification: ""
 sections:
   - hero:
       title: Hai Sing Catholic School
       subtitle: ONE Home • School • Community
-      background: /images/hompage.jpg
+      background: /images/About HSC/homepage banner.png
       key_highlights:
         - title: Post Exam Timetable
           description: Click HERE to read more!
@@ -21,7 +21,7 @@ sections:
           description: Click HERE to read more!
           url: /hsc-community/students/school-based-assessment/permalink/
         - title: 2024 Secondary 3 Subject Combination
-          description: Click here for information
+          description: Click HERE to read more!
           url: /hsc-community/students/secondary-two-subject-combination/permalink/
   - infobar:
       title: Highlights
@@ -32,7 +32,7 @@ sections:
       description: Saturday, 9am to 12pm
       button: Click here to find out more
       url: /hsc-open-house/permalink/
-      image: /images/hscopenhouse2023.png
+      image: /images/2023 HSC Open house/hscopenhouse2023.png
       alt: Image alt text
   - infopic:
       title: HSC School Video
