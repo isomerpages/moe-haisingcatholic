@@ -32,7 +32,7 @@ sections:
       description: Saturday, 9am to 12pm
       button: Click here to find out more
       url: /hsc-open-house/permalink/
-      image: /images/hscopenhouse2023.png
+      image: /images/2023 HSC Open house/hscopenhouse2023.png
       alt: Image alt text
   - infopic:
       title: HSC School Video
