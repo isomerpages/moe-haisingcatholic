@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Hai Sing Catholic School
       subtitle: ONE Home • School • Community
-      background: /images/hscopenhouse2023.png
+      background: /images/About HSC/homepage banner.png
       key_highlights:
         - title: Post Exam Timetable
           description: Click HERE to read more!
