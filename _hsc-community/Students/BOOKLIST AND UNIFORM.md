@@ -60,7 +60,7 @@ Online order can be made by 30 Nov 2023 via: www.jeepsinguniform.com/collections
 
 Walk-in sales at (school canteen) will commence from 14 Nov and only available on the following dates: 
 
-* November: 14-16 Nov, 20, 22, 24, 27, 29, 30 Nov
+* November: 14-17 Nov, 20, 22, 24, 27, 29, 30 Nov
 * December: 4-8 Dec, 11, 12 Dec
 
 
