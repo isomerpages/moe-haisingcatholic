@@ -11,13 +11,13 @@ BOOKLIST AND UNIFORM
 
 Sales of Textbook and Uniform for 2024 has been shared with the parents via Parents Gateway (PG).
 
-Please click here for the [Sales of Uniform and Textbook for 2024](/files/HSC%20Community/Book%20and%20uniform%20for%202024/for%202024%20sec%202-4%20uniform%20and%20textbook%20sales.pdf) QR Code to order form, information.
+Please click here for the [Sales of Uniform and Textbook for 2024](/files/HSC%20Community/Book%20and%20uniform%20for%202024/for%202024%20sec%202-4%20uniform%20and%20textbook%20sales.pdf) QR Code, order form  and information.
 
 Sales of Textbooks
 --------
-There are modes which you can purchase  the textbooks:  
+There are 2 modes which you can purchase  the textbooks:  
 
-***1. Online Order ***
+**1. Online Order **
 
 Online order can be made from 06 Nov to 07 Dec 2023 via:   www.hscs.cascoedusupply.com.sg
 
@@ -27,7 +27,7 @@ Please note that
 * *Important Note: Collection only available 5 working days after online order has been placed)
 
 
-**2. Walk-in sales **
+**2. Walk-in Purchase at Hai Sing Catholic School **
 
 Walk-in sales at (school canteen) will only commence on 14 Nov 2023 after the 'O' level written examination.
 
@@ -44,8 +44,39 @@ Please select your level to view the book list for 2024
 | Secondary 4 |  [Sec 4 (Exp)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20exp%20booklist%202024.pdf) |  [Sec 4 (NA)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20na%20booklist%202024.pdf)    |       [Sec 4 (NT)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20nt%20booklist%202024.pdf)     |
 | Secondary 5 |   [5 NA](/files/HSC%20Community/Sec%204E.pdf) [Sec 5 (NA)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20exp%20booklist%202024.pdf) |                 |                  |
 
-Uniform &amp; PE Attire Price List
+Sales of Uniform PE Attire 
 ------------------------------
+There are 2 modes which you can purchase the uniform:  
+
+**1. Online Order **
+
+Online order can be made via: www.jeepsinguniform.com/collections/hai-sing-catholic-school
+• Order by 30 Nov 2023
+• Home delivery charges at $6.00 per transaction
+
+
+**2. Walk-in Purchase at Hai Sing Catholic School **
+
+Walk-in sales at (school canteen) will only commence on the following dates: 
+| Novemember | Decemeber | 
+| -------- | -------- |
+| 14 Nov     |4 Dec  |
+| 15 Nov     |5 Dec   |
+| 16 Nov     | 6 Dec  |
+| 20 Nov     | 7 Dec  |
+| 22 Nov     | 8 Dec|
+| 24 Nov     | 11 Dec|
+| 27 Nov     | 12 Dec |
+| 29 Nov     |      |
+|30 Nov     |      |
+
+Opening Hours: Mon – Fri, 9am – 3pm
+(Lunch Break: 12pm to 1pm)
+
+Payment modes: Cash, PayNow, DBS Paylah!
+
+**Note: No trying of uniforms due to hygiene purpose, please bring
+along the best-fitted garment for selection of uniform size.**
 
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 1160px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="10" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Shirt / Blouse With Pocket &amp; Label</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Size</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">32</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">34</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">36</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">38</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">40</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">42</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">44</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">46</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">48</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">Price</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td></tr></tbody></table>
 
