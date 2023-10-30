@@ -9,25 +9,40 @@ BOOKLIST AND UNIFORM
 
 ![](/images/hsccommunity%20uniform%20and%20Booklist1.png)
 
-2022 Sales of Textbook and Uniform is now on going at the current Hai Sing Catholic School for walk in purchase from 31 Oct - 18 Nov 2022  
-  
+Sales of Textbook and Uniform for 2024 has been shared with the parents via Parents Gateway (PG).
+
+Please click here for the [Sales of Uniform and Textbook for 2024](/files/HSC%20Community/Book%20and%20uniform%20for%202024/for%202024%20sec%202-4%20uniform%20and%20textbook%20sales.pdf) QR Code to order form, information.
+
+Sales of Textbooks
+--------
+There are modes which you can purchase  the textbooks:  
+
+***1. Online Order ***
+
+Online order can be made from 06 Nov to 07 Dec 2023 via:   www.hscs.cascoedusupply.com.sg
+
+Please note that
+* Home delivery charges at $13.00 per transaction.
+* Or collect from school bookshop between 14 Nov to 12 Dec 2023 with no additional cost.
+* *Important Note: Collection only available 5 working days after online order has been placed)
+
+
+**2. Walk-in sales **
+
+Walk-in sales at (school canteen) will only commence on 14 Nov 2023 after the 'O' level written examination.
+
 Opening Hours:  
 Mon – Fri, 9am – 3pm  
-  
-Please click [here](/files/HSC%20Community/2023%20sem%201%20class%2005012023.pdf) for more information.
 
-Booklist
---------
-
-Please select your level to view the book list for 2023
+Please select your level to view the book list for 2024
 
 |             | Express | Normal Academic | Normal Technical |
 |:-----------:|:-------:|:---------------:|:----------------:|
 | Secondary 1 |  1 Exp  |       1 NA      |       1 NT       |
-| Secondary 2 |  [2 Exp](/files/HSC%20Community/Sec%202E.pdf)      |       [2 NA](/files/HSC%20Community/Sec%202NA.pdf)     |[2 NT](/files/HSC%20Community/Sec%202NT.pdf)
-| Secondary 3 |  [3 Exp](/files/HSC%20Community/Sec%203E.pdf) |       [3 NA](/files/HSC%20Community/Sec%203NA.pdf)     |       [3 NT](/files/HSC%20Community/Sec%203NT.pdf)       |
-| Secondary 4 |  [4 Exp](/files/HSC%20Community/Sec%204E.pdf)  |       [4 NA](/files/HSC%20Community/Sec%204NA.pdf)    |       [4 NT](/files/HSC%20Community/Sec%204NT.pdf)     |
-| Secondary 5 |   [5 NA](/files/HSC%20Community/Sec%204E.pdf)  |                 |                  |
+| Secondary 2 |  [Sec 2 (G3)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%202%20(g3)%20booklist%202024.pdf)     |      [Sec 2 (G2)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%202%20(g2)%20booklist%202024.pdf)    |[Sec 2 (G1)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%202%20(g1)%20booklist%202024.pdf)
+| Secondary 3 | [Sec 3 (Exp)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%203%20exp%20booklist%202024.pdf) |  [Sec 3 (NA)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%203%20na%20booklist%202024.pdf)     |    [Sec 3 (NT)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%203%20nt%20booklist%202024.pdf)      |
+| Secondary 4 |  [Sec 4 (Exp)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20exp%20booklist%202024.pdf) |  [Sec 4 (NA)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20na%20booklist%202024.pdf)    |       [Sec 4 (NT)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20nt%20booklist%202024.pdf)     |
+| Secondary 5 |   [5 NA](/files/HSC%20Community/Sec%204E.pdf) [Sec 5 (NA)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20exp%20booklist%202024.pdf) |                 |                  |
 
 Uniform &amp; PE Attire Price List
 ------------------------------
