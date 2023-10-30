@@ -58,18 +58,10 @@ Online order can be made by 30 Nov 2023 via: www.jeepsinguniform.com/collections
 
 #### 2. Walk-in Purchase at Hai Sing Catholic School
 
-Walk-in sales at (school canteen) will only commence on the following dates: 
-| November | Decemeber | 
-| -------- | -------- |
-| 14 Nov     |4 Dec  |
-| 15 Nov     |5 Dec   |
-| 16 Nov     | 6 Dec  |
-| 20 Nov     | 7 Dec  |
-| 22 Nov     | 8 Dec|
-| 24 Nov     | 11 Dec|
-| 27 Nov     | 12 Dec |
-| 29 Nov     |      |
-|30 Nov     |      |
+Walk-in sales at (school canteen) will commence from 14 Nov and only available on the following dates: 
+
+* November: 14-17 Nov, 20, 22, 24, 27, 29, 30 Nov
+* December: 4-8 Dec, 11, 12 Dec
 
 
 No trying of uniforms due to hygiene purpose, please bring along the best-fitted garment for selection of uniform size. 
