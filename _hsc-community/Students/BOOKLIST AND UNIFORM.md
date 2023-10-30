@@ -95,4 +95,3 @@ Opening Hours:
 • Mon – Fri, 10am – 6pm (Lunch Break: 1pm to 2pm)
 
 • Sat, 10am – 2pm (Closed on Sun, Public Holidays & Sec 1 Registration Day)
-
