@@ -9,49 +9,89 @@ BOOKLIST AND UNIFORM
 
 ![](/images/hsccommunity%20uniform%20and%20Booklist1.png)
 
-2022 Sales of Textbook and Uniform is now on going at the current Hai Sing Catholic School for walk in purchase from 31 Oct - 18 Nov 2022  
-  
+Sales of Textbook and Uniform for 2024 has been shared with the parents via Parents Gateway (PG).
+
+Please click here for the [Sales of Uniform and Textbook for 2024](/files/HSC%20Community/Book%20and%20uniform%20for%202024/for%202024%20sec%202-4%20uniform%20and%20textbook%20sales.pdf) QR Code, order form  and information.
+
+Sales of Textbooks
+--------
+There are 2 modes which you can purchase  the textbooks:  
+
+**1. Online Order **
+
+Online order can be made from 06 Nov to 07 Dec 2023 via:   www.hscs.cascoedusupply.com.sg
+
+Please note that
+* Home delivery charges at $13.00 per transaction.
+* Or collect from school bookshop between 14 Nov to 12 Dec 2023 with no additional cost.
+* *Important Note: Collection only available 5 working days after online order has been placed)
+
+
+**2. Walk-in Purchase at Hai Sing Catholic School **
+
+Walk-in sales at (school canteen) will only commence on 14 Nov 2023 after the 'O' level written examination.
+
 Opening Hours:  
 Mon – Fri, 9am – 3pm  
-  
-Please click [here](/files/HSC%20Community/2023%20sem%201%20class%2005012023.pdf) for more information.
 
-Booklist
---------
-
-Please select your level to view the book list for 2023
+Please select your level to view the book list for 2024
 
 |             | Express | Normal Academic | Normal Technical |
 |:-----------:|:-------:|:---------------:|:----------------:|
 | Secondary 1 |  1 Exp  |       1 NA      |       1 NT       |
-| Secondary 2 |  [2 Exp](/files/HSC%20Community/Sec%202E.pdf)      |       [2 NA](/files/HSC%20Community/Sec%202NA.pdf)     |[2 NT](/files/HSC%20Community/Sec%202NT.pdf)
-| Secondary 3 |  [3 Exp](/files/HSC%20Community/Sec%203E.pdf) |       [3 NA](/files/HSC%20Community/Sec%203NA.pdf)     |       [3 NT](/files/HSC%20Community/Sec%203NT.pdf)       |
-| Secondary 4 |  [4 Exp](/files/HSC%20Community/Sec%204E.pdf)  |       [4 NA](/files/HSC%20Community/Sec%204NA.pdf)    |       [4 NT](/files/HSC%20Community/Sec%204NT.pdf)     |
-| Secondary 5 |   [5 NA](/files/HSC%20Community/Sec%204E.pdf)  |                 |                  |
+| Secondary 2 |  [Sec 2 (G3)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%202%20(g3)%20booklist%202024.pdf)     |      [Sec 2 (G2)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%202%20(g2)%20booklist%202024.pdf)    |[Sec 2 (G1)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%202%20(g1)%20booklist%202024.pdf)
+| Secondary 3 | [Sec 3 (Exp)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%203%20exp%20booklist%202024.pdf) |  [Sec 3 (NA)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%203%20na%20booklist%202024.pdf)     |    [Sec 3 (NT)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%203%20nt%20booklist%202024.pdf)      |
+| Secondary 4 |  [Sec 4 (Exp)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20exp%20booklist%202024.pdf) |  [Sec 4 (NA)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20na%20booklist%202024.pdf)    |       [Sec 4 (NT)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20nt%20booklist%202024.pdf)     |
+| Secondary 5 |   [5 NA](/files/HSC%20Community/Sec%204E.pdf) [Sec 5 (NA)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20exp%20booklist%202024.pdf) |                 |                  |
 
-Uniform &amp; PE Attire Price List
+Sales of Uniform and PE Attire 
 ------------------------------
+There are 3 modes which you can purchase the uniform:  
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 1160px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="10" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Shirt / Blouse With Pocket &amp; Label</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Size</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">32</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">34</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">36</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">38</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">40</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">42</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">44</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">46</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">48</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">Price</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td></tr></tbody></table>
+**1. Online Order**
 
-  
+Online order can be made via: www.jeepsinguniform.com/collections/hai-sing-catholic-school
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 1160px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="11" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Bermudas With Button at Back Pocket</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Size</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">25</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">26</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">27</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">28</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">30</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">32</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">34</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">36</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">38</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">40</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">Price</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$11</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$11</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$11</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$11</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$11</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$11</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$11</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$11</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$11</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$11</td></tr></tbody></table>
+• Order by 30 Nov 2023
+• Home delivery charges at $6.00 per transaction
 
-  
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 1160px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="10" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Long Pants With Button at Back Pocket</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Size</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">26</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">27</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">28</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">30</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">32</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">34</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">36</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">38</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">40</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">Price</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$16</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$16</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$16</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$16</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$16</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$16</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$16</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$16</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$16</td></tr></tbody></table>
+**2. Walk-in Purchase at Hai Sing Catholic School**
 
-  
+Walk-in sales at (school canteen) will only commence on the following dates: 
+| November | Decemeber | 
+| -------- | -------- |
+| 14 Nov     |4 Dec  |
+| 15 Nov     |5 Dec   |
+| 16 Nov     | 6 Dec  |
+| 20 Nov     | 7 Dec  |
+| 22 Nov     | 8 Dec|
+| 24 Nov     | 11 Dec|
+| 27 Nov     | 12 Dec |
+| 29 Nov     |      |
+|30 Nov     |      |
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 1160px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="10" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Skirt With 2 Slant Pockets</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Size</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">22</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">24</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">26</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">28</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">39</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">32</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">34</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">36</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">40</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">Price</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td></tr></tbody></table>
 
-  
+Note: No trying of uniforms due to hygiene purpose, please bring along the best-fitted garment for selection of uniform size. 
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 1160px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="6" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">PE Shorts (Unisex)</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Size</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">32-34</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">36</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">38-40</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">42-44</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">46-48</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">Price</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$8</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$8</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$8</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$8</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$8</td></tr></tbody></table>
+Opening Hours: 
+Mon – Fri, 9am – 3pm (Lunch Break: 12pm to 1pm)
 
-  
+Payment modes: Cash, PayNow, DBS Paylah!
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid rgb(170, 170, 170); width: 1160px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td colspan="6" style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Dri-Fit Polo T-shirt for PE</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">Size</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">32-34</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">36</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">38-40</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);">42-44</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">46-48</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">Price</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 60px;">$12</td></tr></tbody></table>
 
-_**Prices effective 1 Nov 2022**_
+
+**3. Walk-in purchase at Retail Stores**
+
+Parents may also choose to purchase the school uniform from 01 Nov 2023 by appointment from the Vendor's retail store: 
+
+Jeep Sing Fashion
+(Address: Blk 4012 Ang Mo Kio Ave 10, #01-09
+Techplace 1, Singapore 569628)
+Tel: 64563198
+
+Opening Hours:
+
+• Mon – Fri, 10am – 6pm (Lunch Break: 1pm to 2pm)
+
+• Sat, 10am – 2pm (Closed on Sun, Public Holidays & Sec 1 Registration Day)
