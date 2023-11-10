@@ -2,8 +2,8 @@ collections:
   hsc-community:
     output: true
     order:
-      - Students/SECONDARY 1 REGISTRATION.md
       - Students/.keep
+      - Students/SECONDARY 1 REGISTRATION.md
       - Students/BOOKLIST AND UNIFORM.md
       - Students/SECONDARY TWO SUBJECT COMBINATION.md
       - Students/STUDENTS TIMETABLE.md
