@@ -95,7 +95,7 @@ For the following groups of students, please see the [slides](https://www.kentr
 • Students offered 3rd Language  
 • Students who are exempted or intend to apply for exemption from MTL  
   
-For more information on Mother Tongue Languages, please refer to these [slides](https://www.kentridgesec.moe.edu.sg/files/Mother%20Tongue%20Languages.pdf)
+For more information on Mother Tongue Languages, please refer to these [slides]
 
 *   National Digital Literacy Programme (NDLP)
 
@@ -155,5 +155,5 @@ IMPORTANT
 • All students are to have the following items with them **every day**:  
 1. **Student Handbook**(to be issued when school starts)  
 2. **English Language story book**  
-3\. An **oral digital thermometer (ODT)**in working condition (a new ODT will be issued to all new Sec 1 students on the first day of school in a one-time exercise)  
+3. **Oral digital thermometer (ODT)**in working condition (a new ODT will be issued to all new Sec 1 students on the first day of school in a one-time exercise)  
 • Please do not come to the school if you are unwell, issued isolation order, given medical certificate, or have tested Ag+.
