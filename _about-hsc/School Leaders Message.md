@@ -9,6 +9,7 @@ description: 2023 School Leaders' Message
 
 **A warm and heartfelt welcome to Hai Sing Catholic School!**
 
+![Hai Sing Catholic School Leadership Team](/images/About%20HSC/HSC_SL_Photo_Shoot_2023.jpg)
 
 At Hai Sing Catholic School, our mission is to nurture students for a future that extends beyond mere academic success. We place an unwavering focus on developing our students to be purposeful individuals, lifelong learners, and caring leaders. We believe in providing an environment where students can flourish, guided by the values of Truth and Charity. HSC is not just a school; it is a Home where hearts belong, a School where students shine forth, and a Community that leads, cares, and serves.
 
