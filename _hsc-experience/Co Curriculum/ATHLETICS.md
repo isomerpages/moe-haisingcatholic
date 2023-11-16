@@ -37,13 +37,13 @@ Highlights
 Achievements
 ------------
 2023 National School Games
-*  3rd position 'B' div Girls National School Games (NSG) Track and Field 1500m event
+*  3rd position in 'B' div Girls National School Games (NSG) Track and Field 1500m event
 
 2022 National School Games
-*   3rd position 2022 NSG Track and Field 3000m event  
-*   9th position in ‘C’ div boys
-*   15th position in ‘C’ div girls 2022
-*   43rd position in ‘C’ div boys NSG Cross Country  
+*   3rd position 2022 National School Games (NSG) Track and Field 3000m event  
+*   9th position in ‘C’ div boys National School Games (NSG)
+*   15th position in ‘C’ div girls National School Games (NSG)
+*   43rd position in ‘C’ div boys National School Games (NSG) Cross Country  
 
 Student Voice
 -------------
