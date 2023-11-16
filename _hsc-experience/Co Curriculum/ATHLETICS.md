@@ -3,6 +3,7 @@ title: ATHLETICS
 permalink: /hsc-experience/Co-Curriculum/atheletics/permalink/
 description: ""
 third_nav_title: Co Curriculum
+variant: markdown
 ---
 ATHLETICS
 =========
@@ -35,16 +36,14 @@ Highlights
 
 Achievements
 ------------
+2023 National School Games
+*  3rd 'B' div Girls National School Games (NSG) Track and Field 1500m event
 
-2022 NSG Track and Field 3000m event  
-
+2022 National School Games
+*   3rd position 2022 NSG Track and Field 3000m event  
 *   9th position in ‘C’ div boys
 *   15th position in ‘C’ div girls 2022
-
-  
-NSG Cross Country  
-
-*   43rd position in ‘C’ div boys
+*   43rd position in ‘C’ div boys NSG Cross Country  
 
 Student Voice
 -------------
