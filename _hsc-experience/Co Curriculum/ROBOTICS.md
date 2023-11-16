@@ -3,6 +3,7 @@ title: ROBOTICS
 permalink: /hsc-experience/Co-Curriculum/robotics/permalink/
 description: ""
 third_nav_title: Co Curriculum
+variant: markdown
 ---
 ROBOTICS
 ========
@@ -38,7 +39,20 @@ Highlights
 
 Achievements
 ------------
+**2023 Competitions**
 
+1. IDE Sprint Competition
+* 	1st and 3rd 
+
+2. DSTA-DSO-VJC Robotics Challenge 
+* 1st place (light category)
+* 1st place (heavy category)
+* 2nd place (heavy category)
+* Best in Mechanical Construction
+* 2nd & 3rd place (autonomous)
+* Most Efficient Robot
+
+2022
 *   VEX Robotics World Championships 
 *   Singapore Vex Robotics Championships 
 *   Asia-Pacific Vex Championships 
