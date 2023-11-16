@@ -3,11 +3,12 @@ title: ST JOHN BRIGADE
 permalink: /hsc-experience/Co-Curriculum/stjohnbrigade/permalink/
 description: ""
 third_nav_title: Co Curriculum
+variant: markdown
 ---
 ST. JOHN BRIGADE
 ================
 
-![](/images/CCA/SJB.png)
+![SJB](/images/CCA/cca%20sjb.png)
 
 Teachers in charge
 ------------------
@@ -37,10 +38,13 @@ Highlights
 
 Achievements
 ------------
+**2023** 
+* Gold Award in Corp Achievement Award
+* 3rd In East District National First Aid Competition Nursing Cadet 
 
-District First Aid Competition  
-
-*   Nursing Cadets: 3rd placing
+**2022** 
+* Gold Award in Corp Achievement Award
+* 3rd In East District National First Aid Competition Nursing Cadet 
 
 Student Voice
 -------------
