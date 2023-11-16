@@ -3,6 +3,7 @@ title: NPCC
 permalink: /hsc-experience/Co-Curriculum/npcc/permalink/
 description: ""
 third_nav_title: Co Curriculum
+variant: markdown
 ---
 NPCC
 ====
@@ -35,17 +36,17 @@ Highlights
 *   Civil Defence
 *   Basic Law
 *   SANA
-*   **Leadership and Mentoring Skills Course (LMSC)**
-*   **Community Safety and Security Programme (CSSP)**
+*   Leadership and Mentoring Skills Course (LMSC)
+*   Community Safety and Security Programme (CSSP)
 *   Crime Scene Investigation (CSI)
-*   **e-CSI Competition**
+*   e-CSI Competition
 *   Home Front Security
-*   **Police Youth Ambassador (PYA)**
+*   Police Youth Ambassador (PYA)
 *   Total Defence (Bronze, SIlver, Gold)
-*   **Adventure Training Camp (ATC)**
+*   Adventure Training Camp (ATC)
 *   Drills (1st, 2nd and 3rd Class)
 *   Classification Shoot
-*   **Live Shoot**
+*   Live Shoot
 *   Cadet Leader Course
 *   Unarmed Tactics
 *   Anti-Corruption
@@ -54,8 +55,11 @@ Highlights
 
 Achievements
 ------------
+**2023**
+* Gold Award in Unit Overall Proficiency(UOPA) 
 
-Unit Overall Proficiency Award (UOPA) Gold
+**2022**
+* Gold Award in Unit Overall Proficiency(UOPA)
 
 Student Voice
 -------------
