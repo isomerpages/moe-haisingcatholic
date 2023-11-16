@@ -52,12 +52,12 @@ Achievements
 * 2nd & 3rd place (autonomous)
 * Most Efficient Robot
 
-2022
-*   VEX Robotics World Championships 
-*   Singapore Vex Robotics Championships 
-*   Asia-Pacific Vex Championships 
-*   FIRST Tech Challenge 
-*   National School Games
+**2022**
+*    VEX Robotics World Championships 
+*    Singapore Vex Robotics Championships 
+*    Asia-Pacific Vex Championships 
+*    FIRST Tech Challenge 
+*    National School Games
 
 **Student Voice**
 
