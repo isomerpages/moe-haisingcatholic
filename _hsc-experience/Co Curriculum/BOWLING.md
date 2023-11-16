@@ -47,7 +47,7 @@ Achievements
 2021 National School Games  
 
 *   1st position 'B' Div Boys
-*   4th position overall
+*   4th position 'B' Div Overall
 
 
 
