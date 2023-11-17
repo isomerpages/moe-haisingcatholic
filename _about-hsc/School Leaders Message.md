@@ -1,6 +1,6 @@
 ---
 title: School Leaders Message
-permalink: /about-hsc/permalink/
+permalink: /about-hsc/school-leaders-message/permalink/
 variant: markdown
 description: 2023 School Leaders' Message
 ---

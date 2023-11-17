@@ -1,7 +1,8 @@
 ---
 title: School Management
-permalink: /about-hsc/permalink/
+permalink: /about-hsc/school-management/permalink/
 description: ""
+variant: tiptap
 ---
 # **School Management Committee 2022**
 
