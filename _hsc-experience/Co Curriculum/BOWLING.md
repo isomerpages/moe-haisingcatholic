@@ -3,6 +3,7 @@ title: BOWLING
 permalink: /hsc-experience/Co-Curriculum/bowling/permalink/
 description: ""
 third_nav_title: Co Curriculum
+variant: markdown
 ---
 BOWLING
 =======
@@ -34,14 +35,21 @@ Highlights
 Achievements
 ------------
 
-2021 National School Games  
+2023 National School Games
 
-*   1st position 'B' Div Boys
-*   4th position overall
+*  4th position 'B' Div Overall
+*  4th position 'B' Div Teams
 
 2022 National School Games
 
 *   3rd position 'B' Div Boys
+
+2021 National School Games  
+
+*   1st position 'B' Div Boys
+*   4th position 'B' Div Overall
+
+
 
 Student Voice
 -------------
