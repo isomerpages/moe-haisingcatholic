@@ -2,7 +2,7 @@
 title: School Leaders Message
 permalink: /about-hsc/school-leaders-message/permalink/
 variant: markdown
-description: 2023 School Leaders' Message
+description: ""
 ---
 # **2023 School Leader's Message**
 
