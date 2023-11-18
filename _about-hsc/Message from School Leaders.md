@@ -4,7 +4,7 @@ permalink: /about-hsc/message-from-school-leaders/permalink/
 variant: markdown
 description: 2023 Message from School Leaders
 ---
-# **2023 School Leaders' Message**
+# **School Leaders' Message**
 
 
 **A warm and heartfelt welcome to Hai Sing Catholic School!**
