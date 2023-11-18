@@ -2,6 +2,7 @@
 title: FAQ
 permalink: /join-hsc/faq/permalink/
 description: ""
+variant: markdown
 ---
 2023 HSC E-Open House FAQs
 --------------------------
@@ -126,24 +127,16 @@ The following are the indicative PSLE score ranges for the different courses off
 
   
 
-Express: 10 -16
-
-N(A): 21 - 24
-
-N(T): 25 - 28
-
-  
+| Express (G3) | N(A) (G2) | N(T) (G1) |
+| -------- | -------- | -------- |
+|  8 - 18     | 21 - 24     |  25 - 28     |
 
 
 
 **6\. My child qualifies for the Express course, but his PSLE score does not meet your cut-off. Can we opt for the Normal Academic course in your school?**
-
-
-  
+ 
 
 If your child has met the qualifying PSLE score for the Express course, he/she has to opt for the given course. Your child can only opt for the school’s N(A) course if he/she has met the qualifying PSLE score for the Express/N(A) Option band, or the N(A) course.
-
-  
 
 
 

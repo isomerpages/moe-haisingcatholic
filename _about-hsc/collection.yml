@@ -2,7 +2,7 @@ collections:
   about-hsc:
     output: true
     order:
-      - School Leaders Message.md
+      - 2023 Message from School Leaders.md
       - Franciscan Missionaries of Mary.md
       - School Identity.md
       - School Heritage.md
