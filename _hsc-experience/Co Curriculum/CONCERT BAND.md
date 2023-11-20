@@ -3,6 +3,7 @@ title: CONCERT BAND
 permalink: /hsc-experience/Co-Curriculum/concert-band/permalink/
 description: ""
 third_nav_title: Co Curriculum
+variant: markdown
 ---
 CONCERT BAND
 ============
@@ -43,6 +44,8 @@ Highlights
 
 Achievements
 ------------
+Singapore Youth Festival Art Presentation 2023
+*   Certificate of Accomplishment
 
 Singapore Youth Festival Arts Presentation for Band (Flexible Band) 2021  
 
