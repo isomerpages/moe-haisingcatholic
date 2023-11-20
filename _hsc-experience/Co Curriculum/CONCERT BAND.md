@@ -47,7 +47,7 @@ Achievements
 Singapore Youth Festival Art Presentation 2023
 *   Certificate of Accomplishment
 
-Singapore Youth Festival Arts Presentation for Band (Flexible Band) 2021  
+Singapore Youth Festival Arts Presentation (Flexible Band) 2021  
 *   Certificate of Accomplishment
 
 Student Voice
