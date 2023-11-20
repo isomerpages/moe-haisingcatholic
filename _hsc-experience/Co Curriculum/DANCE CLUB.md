@@ -3,6 +3,7 @@ title: DANCE CLUB
 permalink: /hsc-experience/Co-Curriculum/dance-club/permalink/
 description: ""
 third_nav_title: Co Curriculum
+variant: markdown
 ---
 DANCE CLUB
 =====
@@ -36,8 +37,10 @@ Highlights
 Achievements
 ------------
 
-Singapore Youth Festival Arts Presentation For Dance (International) 2021  
+Singapore Youth Festival Arts Presentation For Dance (International) 2023  
+*   Certificate of Distinction
 
+Singapore Youth Festival Arts Presentation For Dance (International) 2021  
 *   Certificate of Distinction
 
 Student Voice
