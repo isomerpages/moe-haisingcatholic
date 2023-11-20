@@ -52,7 +52,7 @@ Achievements
 * 2nd & 3rd place (autonomous)
 * Most Efficient Robot
 
-**2022**
+**2022 Competitions**
 *    VEX Robotics World Championships 
 *    Singapore Vex Robotics Championships 
 *    Asia-Pacific Vex Championships 
