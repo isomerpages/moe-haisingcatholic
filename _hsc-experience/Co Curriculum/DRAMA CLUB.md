@@ -3,6 +3,7 @@ title: DRAMA CLUB
 permalink: /hsc-experience/Co-Curriculum/drama-club/permalink/
 description: ""
 third_nav_title: Co Curriculum
+variant: markdown
 ---
 DRAMA CLUB
 ==========
@@ -43,9 +44,14 @@ Highlights
 Achievements
 ------------
 
-Singapore Youth Festival (SYF)  
+Singapore Youth Festival Art Presentation 2023
+*   Certificate of Accomplishment 
 
-*   Certificate of Accomplishment (2019, 2021)
+Singapore Youth Festival Art Presentation 2021
+*   Certificate of Accomplishment 
+
+Singapore Youth Festival Art Presentation 2019
+*   Certificate of Accomplishment 
 
 Student Voice
 -------------

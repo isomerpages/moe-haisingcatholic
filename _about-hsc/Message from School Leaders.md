@@ -17,8 +17,6 @@ One of our core beliefs is to instill a passion for learning and to equip our st
 
 Hai Sing Catholic School was founded by the Franciscan Missionaries of Mary (FMM). We are proud of our rich history and our ties to the many FMM schools around the world.  We draw upon our Catholic and Franciscan heritage to anchor our students of all faiths on values that they may live their lives purposefully in service to their community and the world.  
 
-As one of the many international schools around the world, we draw upon our Catholic heritage to anchor our students in positive values and beliefs that build their character.
-
 We are excited to partner you on this transformative journey of education and personal growth.
 
 ***Ad Veritatem Per Caritatem and Hai Sing shine forth!***

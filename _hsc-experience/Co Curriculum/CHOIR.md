@@ -3,6 +3,7 @@ title: CHOIR
 permalink: /hsc-experience/Co-Curriculum/choir/permalink/
 description: ""
 third_nav_title: Co Curriculum
+variant: markdown
 ---
 CHOIR
 =====
@@ -36,11 +37,13 @@ Highlights
 
 Achievements
 ------------
+Singapore Youth Festival Art Presentation 2023
+*   Certificate of Accomplishment
 
-Singapore Youth Festival Arts Presentation  
+Singapore Youth Festival Arts Presentation  2019
+*   Certificate of Achievement
 
-*   Certificate of Distinction in 2013 and 2017
-*   Certificate of Achievement in 2019
+
 
 Student Voice
 -------------
