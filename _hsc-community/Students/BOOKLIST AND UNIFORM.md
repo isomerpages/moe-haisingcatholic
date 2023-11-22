@@ -3,6 +3,7 @@ title: BOOKLIST AND UNIFORM
 permalink: /hsc-community/Students/booklist-and-uniform/permalink/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
 BOOKLIST AND UNIFORM
 ====================
@@ -38,11 +39,11 @@ Book list for 2024
 
 |             | Express | Normal Academic | Normal Technical |
 |:-----------:|:-------:|:---------------:|:----------------:|
-| Secondary 1 |  1 Exp  |       1 NA      |       1 NT       |
-| Secondary 2 |  [Sec 2 (G3)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%202%20(g3)%20booklist%202024.pdf)     |      [Sec 2 (G2)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%202%20(g2)%20booklist%202024.pdf)    |[Sec 2 (G1)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%202%20(g1)%20booklist%202024.pdf)
+| Secondary 1 |  [Sec 1 (G3)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/HSCS_SEC_1_Booklist_2024.pdf) |[Sec 1 (G2)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/HSCS_SEC_1_Booklist_2024.pdf) | [Sec 1 (G1)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/HSCS_SEC_1_Booklist_2024.pdf)|
+| Secondary 2 |  [Sec 2 (G3)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%202%20(g3)%20booklist%202024.pdf)     |  [Sec 2 (G2)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%202%20(g2)%20booklist%202024.pdf)    |[Sec 2 (G1)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%202%20(g1)%20booklist%202024.pdf)
 | Secondary 3 | [Sec 3 (Exp)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%203%20exp%20booklist%202024.pdf) |  [Sec 3 (NA)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%203%20na%20booklist%202024.pdf)     |    [Sec 3 (NT)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%203%20nt%20booklist%202024.pdf)      |
 | Secondary 4 |  [Sec 4 (Exp)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20exp%20booklist%202024.pdf) |  [Sec 4 (NA)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20na%20booklist%202024.pdf)    |       [Sec 4 (NT)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20nt%20booklist%202024.pdf)     |
-| Secondary 5 | [Sec 5 (NA)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/hscs-sec%204%20exp%20booklist%202024.pdf) |                 |    
+| Secondary 5 |[Sec 5 (NA)](/files/HSC%20Community/Book%20and%20uniform%20for%202024/HSCS_SEC_5_Booklist_2024.pdf) |                 |    
 
 
 Sales of Uniform and PE Attire 
