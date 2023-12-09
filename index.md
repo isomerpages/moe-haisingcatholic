@@ -24,13 +24,13 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: HSC Open House
+      title: 2024 Cohort
       subtitle: 18 November 2023
       id: infopic
-      description: Saturday, 9am to 12pm
+      description: Secondary One Registration updates
       button: Click here to find out more
-      url: /hsc-open-house/permalink/
-      image: /images/2023 HSC Open house/hscopenhouse2023.png
+      url: /home-highlights/secondary-one-registration/permalink/
+      image: /images/News and Announcement/sec_1_registration_icon_png.png
       alt: Image alt text
   - infopic:
       title: HSC School Video
