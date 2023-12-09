@@ -39,16 +39,16 @@ sections:
       image: /images/website logo.png
       alt: Image alt text
   - infopic:
-      title: Hai Experiential Week
-      button: Click here to find out more
-      image: /images/week.png
-      url: /hai-experiential-week/permalink/
-      alt: alt text
-  - infopic:
       title: Hai Steps Challenge
       description: HAI Corporate Challenge
       button: Donations for School Building
       url: hai-steps-challenge/permalink/
       image: /images/News and Announcement/corporate challenge icon.png
       alt: Image alt text
+  - infopic:
+      title: Hai Experiential Week
+      button: Click here to find out more
+      image: /images/week.png
+      url: /hai-experiential-week/permalink/
+      alt: alt text
 ---
