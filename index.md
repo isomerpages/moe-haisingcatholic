@@ -24,10 +24,9 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: 2024 Cohort
-      subtitle: 18 November 2023
+      title: "Secondary One Registration updates "
+      subtitle: 2024 Cohort
       id: infopic
-      description: Secondary One Registration updates
       button: Click here to find out more
       url: /home-highlights/secondary-one-registration/permalink/
       image: /images/News and Announcement/sec_1_registration_icon_png.png
