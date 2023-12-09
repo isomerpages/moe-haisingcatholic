@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/About HSC/homepage banner.png
       key_highlights:
-        - title: Post Exam Timetable
+        - title: Secondary One Registration
           description: Click HERE to read more!
           url: /hsc-community/students/students-timetable/permalink/
         - title: HSC Upgrading Programme
