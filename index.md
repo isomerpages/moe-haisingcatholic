@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/About HSC/homepage banner.png
       key_highlights:
-        - title: Post Exam Timetable
+        - title: Students' Timetable
           description: Click HERE to read more!
           url: /hsc-community/students/students-timetable/permalink/
         - title: HSC Upgrading Programme
@@ -24,13 +24,12 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: HSC Open House
-      subtitle: 18 November 2023
+      title: "Secondary One Registration updates "
+      subtitle: 2024 Cohort
       id: infopic
-      description: Saturday, 9am to 12pm
       button: Click here to find out more
-      url: /hsc-open-house/permalink/
-      image: /images/2023 HSC Open house/hscopenhouse2023.png
+      url: /home-highlights/secondary-one-registration/permalink/
+      image: /images/News and Announcement/sec_1_registration_icon_png.png
       alt: Image alt text
   - infopic:
       title: HSC School Video
@@ -40,16 +39,16 @@ sections:
       image: /images/website logo.png
       alt: Image alt text
   - infopic:
-      title: Hai Experiential Week
-      button: Click here to find out more
-      image: /images/week.png
-      url: /hai-experiential-week/permalink/
-      alt: alt text
-  - infopic:
       title: Hai Steps Challenge
       description: HAI Corporate Challenge
       button: Donations for School Building
       url: hai-steps-challenge/permalink/
       image: /images/News and Announcement/corporate challenge icon.png
       alt: Image alt text
+  - infopic:
+      title: Hai Experiential Week
+      button: Click here to find out more
+      image: /images/week.png
+      url: /hai-experiential-week/permalink/
+      alt: alt text
 ---
