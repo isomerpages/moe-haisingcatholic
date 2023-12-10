@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/About HSC/homepage banner.png
       key_highlights:
-        - title: Students' Timetable
+        - title: Class Timetable
           description: Click HERE to read more!
           url: /hsc-community/students/students-timetable/permalink/
         - title: HSC Upgrading Programme
@@ -24,7 +24,7 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: "Secondary One Registration updates "
+      title: Secondary One Registration updates
       subtitle: 2024 Cohort
       id: infopic
       button: Click here to find out more
