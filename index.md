@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/About HSC/homepage banner.png
+      background: /images/Sec1_registration_2024_banner.jpeg
       key_highlights:
         - title: Class Timetable
           description: Click HERE to read more!
