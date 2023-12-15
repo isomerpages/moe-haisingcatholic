@@ -20,11 +20,11 @@ There are 2 modes which you can purchase  the textbooks:
 
 #### 1. Online Order
 
-Online order can be made from 06 Nov to 07 Dec 2023 via:   www.hscs.cascoedusupply.com.sg
+Please note that **Online order** is only applicable for Secondary 2 to 5 students. Online  order can be made by 23 Dec 2023 via:   www.hscs.cascoedusupply.com.sg
 
 Please note that
 * Home delivery charges at $13.00 per transaction.
-* Or collect from school bookshop between 14 Nov to 12 Dec 2023 with no additional cost.
+* Or collect from school bookshop between 27 Dec 2023 to 29 Dec 2023 (strictly by appointment – refer to information this link via: https://bit.ly/3TlonH7 document for booking of appointment or click on this attachment
 * Important Note: Collection only available 5 working days after online order has been placed)
 
 
