@@ -52,9 +52,7 @@ There are 3 modes which you can purchase the uniform:
 
 #### 1. Online Order
 
-Online order can be made by 30 Nov 2023 via: www.jeepsinguniform.com/collections/hai-sing-catholic-school
-
-**Home delivery charges at $6.00 per transaction**
+Online order is unavailable due to peak season
 
 
 #### 2. Walk-in Purchase at Hai Sing Catholic School
