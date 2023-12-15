@@ -57,11 +57,7 @@ Online order is unavailable due to peak season
 
 #### 2. Walk-in Purchase at Hai Sing Catholic School
 
-Walk-in sales at (school canteen) will commence from 14 Nov and only available on the following dates: 
-
-* November: 14-17 Nov, 20, 22, 24, 27, 29, 30 Nov
-* December: 4-8 Dec, 11, 12 Dec
-
+Walk-in sales at (school canteen) will commence from 21, 22, 26-29 December.
 
 No trying of uniforms due to hygiene purpose, please bring along the best-fitted garment for selection of uniform size. 
 
