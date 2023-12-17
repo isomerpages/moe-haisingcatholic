@@ -20,11 +20,11 @@ There are 2 modes which you can purchase  the textbooks:
 
 #### 1. Online Order
 
-Online order can be made from 06 Nov to 07 Dec 2023 via:   www.hscs.cascoedusupply.com.sg
+Please note that **Online order** is only applicable for Secondary 2 to 5 students. Online  order can be made by 23 Dec 2023 via:   www.hscs.cascoedusupply.com.sg
 
 Please note that
 * Home delivery charges at $13.00 per transaction.
-* Or collect from school bookshop between 14 Nov to 12 Dec 2023 with no additional cost.
+* Or collect from school bookshop between 27 Dec 2023 to 29 Dec 2023 (strictly by appointment – refer to information this link via: https://bit.ly/3TlonH7 document for booking of appointment or click on this attachment
 * Important Note: Collection only available 5 working days after online order has been placed)
 
 
@@ -52,18 +52,12 @@ There are 3 modes which you can purchase the uniform:
 
 #### 1. Online Order
 
-Online order can be made by 30 Nov 2023 via: www.jeepsinguniform.com/collections/hai-sing-catholic-school
-
-**Home delivery charges at $6.00 per transaction**
+Online order is unavailable due to peak season
 
 
 #### 2. Walk-in Purchase at Hai Sing Catholic School
 
-Walk-in sales at (school canteen) will commence from 14 Nov and only available on the following dates: 
-
-* November: 14-17 Nov, 20, 22, 24, 27, 29, 30 Nov
-* December: 4-8 Dec, 11, 12 Dec
-
+Walk-in sales at (school canteen) will commence from 21, 22, 26-29 December.
 
 No trying of uniforms due to hygiene purpose, please bring along the best-fitted garment for selection of uniform size. 
 
