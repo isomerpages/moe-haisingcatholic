@@ -12,7 +12,7 @@ BOOKLIST AND UNIFORM
 
 Sales of Textbook and Uniform for 2024 has been shared with the parents via Parents Gateway (PG).
 
-Please click here for the QR Code, order links for [uniform and textbook sales for 2024](/files/HSC%20Community/Book%20and%20uniform%20for%202024/for%202024%20sec%202-4%20uniform%20and%20textbook%20sales.pdf).
+For incoming Secondary One students, please click here for the QR Code, order links for [uniform and textbook sales for 2024](/files/HSC%20Community/Book%20and%20uniform%20for%202024/for%202024%20sec%202-4%20uniform%20and%20textbook%20sales.pdf).
 
 Sales of Textbooks
 --------
