@@ -31,27 +31,18 @@ Second, school choice order (first choice over second choice, and so on) 
 If citizenship status and school choice order are the same, then computerised balloting will be used to determine who to be admitted. 
 
 Students will only be balloted when those vying for the last place(s) in the same school have the same PSLE Score, citizenship and choice order of schools.
-
   
 
 2.  **What will happen to my child if he/she is not posted to any of the chosen schools?**  
-    
-      
-    
-
 You are advised to place your preferred school at a higher rank and include at least 2-3 schools where your child’s PSLE Score is better than the school’s Cut-Off-Point (COP). Also, do make use of and fill in all six school choices. This will increase your child’s chances of being posted to a school of your choice. 
-
-  
 
 If your child is not placed in any of their school choices, they will be posted to the nearest school with available vacancies, based on their PSLE Scores and registered home address.
 
   
 
-3.  **What are the considerations for S1 posting transfer appeals and what do I need to do if I wish to put up an appeal?**
+3.  **What are the considerations for S1 posting transfer appeals and what do I need to do if I wish to put up an appeal?**     
     
-      
-    
- MOE will consider appeals for school transfer only for exceptional cases. Such transfers will only be considered for students with serious medical conditions or severe physical impairments (for example those requiring a wheelchair).  
+MOE will consider appeals for school transfer only for exceptional cases. Such transfers will only be considered for students with serious medical conditions or severe physical impairments (for example those requiring a wheelchair).  
       
 Students who wish to appeal for transfer must still complete formalities at the posted school. Please check with the posted school for the mass appeal process.   
       
@@ -74,8 +65,6 @@ Our school will implement mixed form classes starting from the Secondary 1 cohor
 The 2024 cohort of Secondary 1 students will be grouped in mixed form classes where each form class would comprise students from different courses of study.
 
 Mixed form classes would present students with more opportunities to interact with other students taking different subject combinations, and with different strengths and interests. This common learning experience would allow students to build meaningful friendships, and appreciate different perspectives. It can also help reduce the inadvertent labelling associated with streaming.
-
-  
 
 In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This would allow students in mixed form classes to spend curriculum time together in these subjects.
 
@@ -102,29 +91,18 @@ The following are the indicative PSLE score ranges for the different courses off
 |  8 - 18     | 21 - 24     |  25 - 28     |
 
 
-**6\. My child qualifies for the Express course, but his PSLE score does not meet your cut-off. Can we opt for the Normal Academic course in your school?**
- 
-If your child has met the qualifying PSLE score for the Express course, he/she has to opt for the given course. Your child can only opt for the school’s N(A) course if he/she has met the qualifying PSLE score for the Express/N(A) Option band, or the N(A) course.
-
-
-
-**7\. Is the school affiliated to any Junior College?**
+**6\. Is the school affiliated to any Junior College?**
 
 The school is affiliated to Catholic Junior College. Hence, 2 bonus points can be awarded under the Joint Admission Exercise (JAE) for eligible students who opt for Catholic Junior College as their first or second choice.
 
-  
 
-
-**8\. Where can I find detailed information on transport, subjects offered, CCAs, school outcomes and special student development programmes?**
+**7\. Where can I find detailed information on transport, subjects offered, CCAs, school outcomes and special student development programmes?**
 
 The information is made available via MOE SchoolFinder
 [https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school](https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school)[  
 ](https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school)
 
-  
-
-
-**9\. As a Catholic school, is there any difference in education experience between a Catholic and a non-Catholic student?**
+**8\. As a Catholic school, is there any difference in education experience between a Catholic and a non-Catholic student?**
 
 At Hai Sing, we provide a values-based education that focuses on holistic development and growth of our students so that they become versions of themselves, capable of contributing to a better society and world. While we are a Catholic school, the values we impart to our students are universal in nature such as being truthful and having compassion, etc.
 
@@ -134,17 +112,14 @@ The school has one chaplain and a small group of Catholic teachers who lead the 
 
  
 
-**10\. My child’s PSLE cut-off is below that for your school. As a Catholic family, do we get any advantage in terms of admission?**
-
-
-  
+**9\. My child’s PSLE cut-off is below that for your school. As a Catholic family, do we get any advantage in terms of admission?**
 
 The Secondary 1 Posting Exercise is based on students’ PSLE score. Appeals can only be considered if your child’s PSLE score meets the schools’ cut-off point of the posting year, subject to available vacancies and meeting MOE’s criteria.
 
 C. Academic Related Information about Hai Sing Catholic School
 --------------------------------------------------------------
 
-**11\. Does your school have Subject Based Banding (SBB)?**  
+**10\. Does your school have Subject Based Banding (SBB)?**  
   
 Yes. The school will be implementing full subject-based banding in 2023. (Refer to Q5)  
   
@@ -163,19 +138,19 @@ The criteria for taking Humanities at a more demanding level will be based on th
 *   Teachers’ feedback on students attitude and disposition towards learning and their commitment to offer the subject at a more demanding level
 
   
-**12\. For students entering Sec 1 N(A) in 2023, will they still have the option to take Sec 5 in 2027 under Full SBB (i.e. first year for SEC national exam)?**  
+**11\. For students entering Sec 1 N(A) in 2024, will they still have the option to take Sec 5 in 2027 under Full SBB (i.e. first year for SEC national exam)?**  
   
-The option of a 5th year will continue to be available for students entering Sec 1N(A) in 2023. Students will sit for the GCE N-Level examination in 2026 and those who are eligible for and wish to take up the 5th year in 2027 can do so. They will then sit for the common national examination, the Singapore-Cambridge Secondary Education Certificate (SEC) in 2027.  
+The option of a 5th year will continue to be available for students entering Sec 1N(A) in 2024. Students will sit for the GCE N-Level examination in 2026 and those who are eligible for and wish to take up the 5th year in 2027 can do so. They will then sit for the common national examination, the Singapore-Cambridge Secondary Education Certificate (SEC) in 2027.  
   
-**13\. Will there still be lateral transfers available under this new system?**  
+**12\. Will there still be lateral transfers available under this new system?**  
   
 The provision for students to offer all their subjects at a more demanding level, or what is currently known as "lateral transfer", will continue to be available. Schools will guide students on their subject and subject level options based on their individual circumstances, strengths and interests in different subjects, overall ability to cope and well-being.  
   
-**14\. Under Full SBB, will students still take GCE O- and N-Level examinations at the end of their secondary education?**  
+**13\. Under Full SBB, will students still take GCE O- and N-Level examinations at the end of their secondary education?**  
   
 Students will continue to take the GCE O- and N-Level examinations.  
   
-**15\. How are the students identified to study a subject at a higher level?**  
+**14\. How are the students identified to study a subject at a higher level?**  
   
 MOE will identify the level at which a student offers a subject based on their PSLE AL for each subject. Students who perform well academically for their school-based assessments could be offered higher level subjects by the school at the end of Secondary 1.  
   
@@ -267,15 +242,9 @@ E. Personal Learning Devices (PLD) Matters
 
 **30\. When do I need to purchase the PLD for my child?**
 
-  
-
 The school will commence the Personalised Digital Learning Programme (PDLP) for Sec 2, 3 and 4 starting from Jan 2022. For Sec 1 students, the school will engage you on the procedure to purchase your child’s PLD on the 1 st week of school via Parents Gateway. The delivery of PLDs is expected to be towards the end of January (subjected to the availability of stock)
-
   
 
-**30\. How will my child learn in class with this PLD? How can I get more information regarding the PDLP?**
-
-
-  
+**31\. How will my child learn in class with this PLD? How can I get more information regarding the PDLP?**
 
 You may visit our [school website](https://haisingcatholic.moe.edu.sg/hsc-community/students/personalised-digital-learning-programme) for more information and resources pertaining to PLD usage and matters. (insert PLD staging link here)
