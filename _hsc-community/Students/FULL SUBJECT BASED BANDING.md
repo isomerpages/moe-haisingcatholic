@@ -3,11 +3,12 @@ title: FULL SUBJECT BASED BANDING
 permalink: /hsc-community/students/full-subject-based-banding/permalink/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
 FULL SUBJECT-BASED BANDING
 ==========================
 
-![](/images/subject%20banding.jfif)
+![](/images/Subject_banding.png)
 
 Purpose of Full SBB
 -------------------
