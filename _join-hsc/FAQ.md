@@ -20,27 +20,15 @@ A. General Information on School Posting
 
 1.  **How will my child be posted under the new AL system?**
 
-  
-
 Under the new posting system, academic merit (PSLE Score) is still the first criterion for posting. The first student considered has the best PSLE Score and will be posted to the school that is their first choice. A student’s choice order of schools will be used as one of the tie-breakers if there are two students with the same PSLE Score vying for the last place in a school. 
-
-  
 
 When there are two or more students with the same PSLE Score vying for the last available place(s) in a school, will tie-breakers be applied in the following order: 
 
-  
-
 First, Citizenship (Singapore Citizen has the highest priority, then Permanent Resident, and lastly International Student) 
-
-  
 
 Second, school choice order (first choice over second choice, and so on) 
 
-  
-
 If citizenship status and school choice order are the same, then computerised balloting will be used to determine who to be admitted. 
-
-  
 
 Students will only be balloted when those vying for the last place(s) in the same school have the same PSLE Score, citizenship and choice order of schools.
 
