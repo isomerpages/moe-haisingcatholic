@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6582 7864
-      - email: HSHS@moe.edu.sg
+      - email: HSHS@moe.gov.sg
       - other: ""
     title: General Enquiries & Feedback
 feedback: hshs@moe.edu.sg
