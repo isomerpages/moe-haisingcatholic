@@ -35,7 +35,7 @@ Hai Sing Catholic School provides multiple electronic avenues for parents to con
   
 Avenues of Contact with Staff  
   
-a. Generic School Email Address – HSHS@moe.gov.sg – All teachers can be reached at this email address. This email address is checked regularly on a daily basis and the administrator channels the emails to the relevant teachers and school personnel.  
+a. Generic School Email Address – **HSHS@moe.edu.sg** – All teachers can be reached at this email address. This email address is checked regularly on a daily basis and the administrator channels the emails to the relevant teachers and school personnel.  
   
 b. Staff Email Addresses – All teachers and staff have an email address provided to them for the purposes of work. These official email addresses end either with @moe.edu.sg or @schools.gov.sg. Teachers can also be reached directly at these email addresses.  
   
