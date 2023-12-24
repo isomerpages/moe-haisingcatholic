@@ -74,11 +74,11 @@ Secondary 1 &amp; 2
 
 | Class          | Form Teachers      |  Form Teachers                   |                   | Email                                                                                               |
 |----------------|--------------------|---------------------|-------------------|-----------------------------------------------------------------------------------------------------|
-| 1 Truth        | Juliane Leung    | Joaquina Jye Shiow |  |  leung_wai_ching_juliane@moe.edu.sg joaquina_jye_shiow@moe.edu.sg           |
-| 1 Charity      |  Wendy Koh   |    Sharon Lim      |          |                                          wendy_koh_wen_yi@moe.edu.sg goh_bee_hoon@moe.edu.sg        |
-| 1 Compassion   |    Fazzera Kamal    | Kok Hoe Ming         |                   | fazzera_kamal@moe.edu.sg  kok_hoe_ming@moe.edu.sg                                               |
-| 1 Integrity    |   Chew Boon Kean      | Mohd Tafran Angullia       |                   | chew_boon_kean@moe.edu.sg mohamed_tafran_angullia@moe.edu.sg                                                 |
-| 1 Independence | June  Goh  |    Michelle Tan En Ci   |                   | june_ng_goh_suat_hong@moe.edu.sg  tan_en_ci_michelle@moe.edu.sg                                |
+| 2 Truth        | Juliane Leung    | Kiranjit Kaur D/O Tarlok Singh  |  |  leung_wai_ching_juliane@moe.edu.sg joaquina_jye_shiow@moe.edu.sg           |
+| 2 Charity      |  De Witt Cassandra Shivani  | Dewi Juriah Binte Sudirman      |          |                                          wendy_koh_wen_yi@moe.edu.sg goh_bee_hoon@moe.edu.sg        |
+| 2 Compassion   |    Fazzera Kamal    | Kok Hoe Ming         |                   | fazzera_kamal@moe.edu.sg  kok_hoe_ming@moe.edu.sg                                               |
+| 2 Integrity    |  Yeo Bee Hiang Tracy    | Mohd Tafran Angullia       |                   | chew_boon_kean@moe.edu.sg mohamed_tafran_angullia@moe.edu.sg                                                 |
+| 2 Independence | Renata Priscilla Winata |    Michelle Tan En Ci   |                   | june_ng_goh_suat_hong@moe.edu.sg  tan_en_ci_michelle@moe.edu.sg                                |
 | 1 Adaptability |  Tan Song Teck   | Rafiqah Nordin         |                   | tan_song_teck@moe.edu.sg rafiqah_nordin@moe.edu.sg        |
 | 1 Graciousness |Siti Nurhuda     | Eugene Pang Ming Xi      |      | siti_nurhuda_hamsani@moe.edu.sg eugene_pang_ming_xi@moe.edu.sg   |
 | 2 Truth        | Mukmien Kassim       | Sabrina Thang           |                   | mukmien_mohammad_kassim@moe.edu.sg thang_sabrina_lisa@moe.edu.sg                                           |
