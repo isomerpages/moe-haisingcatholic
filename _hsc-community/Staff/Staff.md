@@ -86,8 +86,8 @@ Secondary 1 &amp; 2
 | 2 Compassion   |  Lim Daisy       |  Amantha Chong   |                   |       lim_daisy@moe.edu.sg  chong_jing_ting_amantha@moe.edu.sg    |
 | 2 Integrity    | Tracy Yeo       | Alvin Chua       |      | yeo_bee_hiang_tracy@moe.edu.sg     chua_rui_zhe_alvin@moe.edu.sg    |
 | 2 Independence |Teo Hsin Wei | Mohd Zain      |                   | teo_hsin_wei@moe.edu.sg mohamed_zain_b_mohamed@moe.edu.sg                                |
-| 2 Adaptability | Grace Eu        | Zainudin A. Razzak  |                   | grace_eu_yi_ying@moe.edu.sg  zainudin_abdul_razak@moe.edu.sg                                  |
-| 2 Graciousness | Shah Dhaval   | Mohd Farhan         | Lee Yueli    | shah_dhaval_prabhaker@moe.edu.sg    lee_yueli@moe.edu.sg              |
+| 2 Adaptability | Grace Eu        | Zainudin A. Razzak  |                   | grace_eu_yi_ying@moe.edu.sg                                   |
+| 2 Graciousness | Shah Dhaval   | Mohd Farhan         | Lee Yueli    |    lee_yueli@moe.edu.sg              |
 
 Secondary 3 
 ---------------
@@ -97,11 +97,11 @@ Secondary 3
 | Class          | Form Teachers      |    Form Teachers                 |             | Email                                                                                                   |
 |----------------|--------------------|---------------------|-------------|---------------------------------------------------------------------------------------------------------|
 | 3 Truth        |  Teo Felicia    |  |           |  teo_felicia@moe.edu.sg                         |
-| 3 Charity      | Lim Chuin Hsien Bernard  |     |           | chua_bee_hua_millicent@moe.edu.sg               |
+| 3 Charity      | Lim Chuin Hsien Bernard  |     |           | bernard_lim@moe.edu.sg              |
 | 3 Compassion   |  Lim Xin Yi |  |           |  lim_xin_yi@moe.edu.sg            |
-| 3 Integrity    |   Shah Dhaval Prabhaker      | Ye Yiping   |           | ye_yiping@moe.edu.sg                                  |
-| 3 Independence | Seah Kai Sing Pricilla        | Mohamed Zain Bin Mohamed    |           |              |
-| 3 Adaptability | Paul Ann Natasha       | Zainudin Abdul Razak |           |  zhang_mingyue@moe.edu.sg                      |                                      
+| 3 Integrity    |   Shah Dhaval Prabhaker      | Ye Yiping   |           | shah_dhaval_prabhaker@moe.edu.sg  ye_yiping@moe.edu.sg                                  |
+| 3 Independence | Seah Kai Sing Pricilla        | Mohamed Zain Bin Mohamed    |           | seah_kai_sing_pricilla@moe.edu.sg mohamed_zain_b_mohamed@moe.edu.sg              |
+| 3 Adaptability | Paul Ann Natasha       | Zainudin Abdul Razak |           |  paul_ann_natasha@moe.edu.sg              zainudin_abdul_razak@moe.edu.sg       |                                      
 | 3 Graciousness |  Rafi Mohd Rais      |Mohammed Farhan Bin Mohammed Tayib || raihan_omar@moe.edu.sg  mohammed_farhan@moe.edu.sg  |  
 
 
