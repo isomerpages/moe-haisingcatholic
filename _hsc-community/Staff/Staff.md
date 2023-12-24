@@ -3,6 +3,7 @@ title: Staff
 permalink: /hsc-community/staff/permalink/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 Hai Sing Catholic School Personnel
 =====
@@ -15,38 +16,41 @@ School Leaders
 | Lim Mui Mui Adeline | Principal      | adeline_lim@schools.gov.sg          |
 |  Shereen Wong Mingrui | Vice-Principal | wong_mingrui_shereen@schools.gov.sg |
 | Paul Leong | Vice-Principal | paul_leong@schools.gov.sg |
-| Andy Kong Wei Foong | Vice-Principal | kong_wei_foong@schools.gov.sg |
+| Andy Kong Wei Foong | Vice-Principal Admin | kong_wei_foong@schools.gov.sg |
 
 Heads of Department
 -------------------
 
-| Name                  | Designation                        | Email                                 |
-|-----------------------|------------------------------------|---------------------------------------|
-| Stanley Gng Kuan Lai  | HOD (Character &amp; Citizenship Edn)  | gng_kuan_lai@moe.edu.sg               |
-| Joseph Tabitha Lee    | HOD English Language               | joseph_tabitha_lee@moe.edu.sg         |
-| Ong Siew Choo Lindy   | HOD (Mathematics)                  | ong_siew_choo_lindy@moe.edu.sg        |
-| Sim Hui Teng          | HOD (Mother Tongue)                | sim_hui_teng@moe.edu.sg               |
-| Tey Li Shun           | HOD (Science)                      | tey_li_shun@moe.edu.sg                |
-| Daniel Yong Chee Kong | Ag. HOD  (Humanities)               | yong_chee_kong_daniel@moe.edu.sg      |
-| Teo Yee Ming          | HOD (ICT)                          | teo_yee_ming@moe.edu.sg               |
-| Sharifah              | HOD (SSD)                          | sharifah_thalha_syed_osman@moe.edu.sg |
-| Seow Han Chien          | HOD (PE, CCA &amp; Aesthetics) | seow_han_chien@moe.edu.sg               |
-| Rizal Bin Subani      | Year Head (Upper Sec)              | rizal_subani@moe.edu.sg               |
-| Christine Sarah Toh   |  Year Head (Lower Sec)          | christine_sarah_toh@moe.edu.sg        |
+| Name                            | Designation                        | Email                                 |
+|-------------------------|---------------------------|--------------------------------|
+| Stanley Gng Kuan Lai  | HOD (Character &amp; Citizenship Education)  | gng_kuan_lai@moe.edu.sg            |
+| Joseph Tabitha Lee    | HOD English Language and Literature | joseph_tabitha_lee@moe.edu.sg         |
+| Sharon Goh Bee Hoon    | Ag HOD (Craft & Technology)  | ong_siew_choo_lindy@moe.edu.sg        |
+| Sim Hui Teng | HOD Mother Tongue Languages (MTL)   | sim_hui_teng@moe.edu.sg |
+| Amantha Chong        | Ag. HOD  (Humanities)               | yong_chee_kong_daniel@moe.edu.sg      |
+| Teo Yee Ming          | HOD (Educational Technology)                          | teo_yee_ming@moe.edu.sg               |
+| Sharifah  Thalha    | School Staff Developer (SSD)                          | sharifah_thalha_syed_osman@moe.edu.sg |
+| Seow Han Chien    | HOD (PE, CCA &amp; Aesthetics) | seow_han_chien@moe.edu.sg |
+| Rizal Bin Subani      | HOD (Student Well-Being & Development)              | rizal_subani@moe.edu.sg               |
+| Christine Sarah Toh   | Year Head (Lower Sec)   | christine_sarah_toh@moe.edu.sg |
+| Lee Wan Xin   |Ag. Year Head (Upper Sec)          |  lee_wan_xin@moe.edu.sg        |
 
 Subject Heads
 -------------
 
 | Name                           | Designation                           | Email                                 |
 |--------------------------------|---------------------------------------|---------------------------------------|
-| Sharon Goh Bee Hoon            | Subject Head (Craft &amp; Technology)     | goh_bee_hoon@moe.edu.sg               |
-| Amantha Chong                  | Subject Head (Humanities)             | chong_jing_ting_amantha@moe.edu.sg    |
+| Jonathan Tan       | Subject Head (English Language)     | chu_chze_jonathan_tan@moe.edu.sg   |
+| Daniel Yong Chee Kong            | Subject Head (Humanities)             | chong_jing_ting_amantha@moe.edu.sg    |
 | Tan En Ci Michelle         | Subject Head (Character &amp; Citizenship Edn) | tan_en_ci_michelle@moe.edu.sg        |
-| Mohd Zain B Mohd               | Subject Head (MTL)                    | mohamed_zain_b_mohamed@moe.edu.sg     |
-| Ho Hui Ying                    | Ag Subject Head (Mathematics)         | ho_huiying_he_huiying@moe.edu.sg      |
-| Yasmin Bte A Aziz              | Subject Head (Lit &amp; Aesthetics)       | yasmin_a_aziz@moe.edu.sg              |
+| Mohd Zain B Mohd               | Subject Head Mother Tongue Languages (MTL)                    | mohamed_zain_b_mohamed@moe.edu.sg     |
+| Bernard Lim                    | Subject Head (Mathematics)         | bernard_lim@moe.edu.sg      |
+| Yasmin Bte A Aziz              | Subject Head (Aesthetics & Special projects)       | yasmin_a_aziz@moe.edu.sg              |
 | Tracy Yeo                      | Subject Head (Science)                | yeo_bee_hiang_tracy@moe.edu.sg        |
-| Nandakumar Rao s/o Ramachandra | Ast Year Head (Upper Sec)             | nandakumar_rao_ramachandra@moe.edu.sg |
+| Bharathi | Ag Subject Head (Biology)   | bharathi_jayakumaran@moe.edu.sg       |
+| Sandra Chong                      | Subject Head (Educational Technology)                | chong_shu_fen_sandra@moe.edu.sg      |
+| Rafidah Banu                    | Asst. Year Head (Lower Sec)              | rafidah_banu_abdul_razak@moe.edu.sg       |
+| Nandakumar Rao s/o Ramachandra | Asst. Year Head (Upper Sec)             | nandakumar_rao_ramachandra@moe.edu.sg |
 | Benjamin James                 | Subject Head (Student Management)     | james_benjamin_norman@moe.edu.sg      |
 
 Lead/Senior Teachers
@@ -54,11 +58,11 @@ Lead/Senior Teachers
 
 | Name                      | Designation                       | Email                              |
 |---------------------------|-----------------------------------|------------------------------------|
-| Radha Devi Oonnithan (Dr) | Lead Teacher                      | radha_devi_r_o@moe.edu.sg          |
+|Dr. Radha Devi Oonnithan  | Lead Teacher  (Mathematics)                    | radha_devi_r_o@moe.edu.sg          |
 | Zhao Sen                  | Senior Teacher (Chinese Language) | zhao_sen@moe.edu.sg                |
 | Juliane Leung Wai Ching   | Senior Teacher (Social Studies)   | leung_wai_ching_juliane@moe.edu.sg |
-| Siti Raihanni Bte Selamat | Senior Teacher (Malay Language)   | siti_raihanni_selamat@moe.edu.sg   |
-| Dhaval Shah               | Senior Teacher (Physics)          | shah_dhaval_prabhaker@moe.edu.sg   |
+| Fauzan A. Rahhim | Senior Teacher (Character & Citizenship Education)   |fauzan_abdul_rahhim@moe.edu.sg   |
+|  Shah Dhaval              | Senior Teacher (Physics)          | shah_dhaval_prabhaker@moe.edu.sg   |
 
 Secondary 1 &amp; 2
 ---------------
