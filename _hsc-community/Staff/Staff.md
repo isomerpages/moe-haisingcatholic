@@ -24,30 +24,30 @@ Heads of Department
 | Name                            | Designation                        | Email                                 |
 |-------------------------|---------------------------|--------------------------------|
 | Stanley Gng Kuan Lai  | HOD (Character &amp; Citizenship Education)  | gng_kuan_lai@moe.edu.sg            |
-| Joseph Tabitha Lee    | HOD English Language and Literature | joseph_tabitha_lee@moe.edu.sg         |
-| Sharon Goh Bee Hoon    | Ag HOD (Craft & Technology)  | ong_siew_choo_lindy@moe.edu.sg        |
+| Joseph Tabitha Lee    | HOD English Language and Literature | joseph_tabitha_lee@moe.edu.sg  |
 | Sim Hui Teng | HOD Mother Tongue Languages (MTL)   | sim_hui_teng@moe.edu.sg |
-| Amantha Chong        | Ag. HOD  (Humanities)               | yong_chee_kong_daniel@moe.edu.sg      |
 | Teo Yee Ming          | HOD (Educational Technology)                          | teo_yee_ming@moe.edu.sg               |
 | Sharifah  Thalha    | School Staff Developer (SSD)                          | sharifah_thalha_syed_osman@moe.edu.sg |
 | Seow Han Chien    | HOD (PE, CCA &amp; Aesthetics) | seow_han_chien@moe.edu.sg |
-| Rizal Bin Subani      | HOD (Student Well-Being & Development)              | rizal_subani@moe.edu.sg               |
+| Rizal Bin Subani      | HOD (Student Well-Being & Development)   | rizal_subani@moe.edu.sg     |
 | Christine Sarah Toh   | Year Head (Lower Sec)   | christine_sarah_toh@moe.edu.sg |
+| Sharon Goh Bee Hoon    | Ag HOD (Craft & Technology)  | goh_bee_hoon@moe.edu.sg |
+| Amantha Chong        | Ag. HOD  (Humanities)               |    chong_jing_ting_amantha@moe.edu.sg    |
 | Lee Wan Xin   |Ag. Year Head (Upper Sec)          |  lee_wan_xin@moe.edu.sg        |
 
 Subject Heads
--------------
+---------------
 
 | Name                           | Designation                           | Email                                 |
 |--------------------------------|---------------------------------------|---------------------------------------|
 | Jonathan Tan       | Subject Head (English Language)     | chu_chze_jonathan_tan@moe.edu.sg   |
-| Daniel Yong Chee Kong            | Subject Head (Humanities)             | chong_jing_ting_amantha@moe.edu.sg    |
+| Daniel Yong Chee Kong            | Subject Head (Humanities)             |  yong_chee_kong_daniel@moe.edu.sg  |
 | Tan En Ci Michelle         | Subject Head (Character &amp; Citizenship Edn) | tan_en_ci_michelle@moe.edu.sg        |
 | Mohd Zain B Mohd               | Subject Head Mother Tongue Languages (MTL)                    | mohamed_zain_b_mohamed@moe.edu.sg     |
 | Bernard Lim                    | Subject Head (Mathematics)         | bernard_lim@moe.edu.sg      |
 | Yasmin Bte A Aziz              | Subject Head (Aesthetics & Special projects)       | yasmin_a_aziz@moe.edu.sg              |
 | Tracy Yeo                      | Subject Head (Science)                | yeo_bee_hiang_tracy@moe.edu.sg        |
-| Bharathi | Ag Subject Head (Biology)   | bharathi_jayakumaran@moe.edu.sg       |
+| Bharathi | Ag. Subject Head (Biology)   | bharathi_jayakumaran@moe.edu.sg       |
 | Sandra Chong                      | Subject Head (Educational Technology)                | chong_shu_fen_sandra@moe.edu.sg      |
 | Rafidah Banu                    | Asst. Year Head (Lower Sec)              | rafidah_banu_abdul_razak@moe.edu.sg       |
 | Nandakumar Rao s/o Ramachandra | Asst. Year Head (Upper Sec)             | nandakumar_rao_ramachandra@moe.edu.sg |
@@ -75,7 +75,7 @@ Secondary 1 &amp; 2
 | Class          | Form Teachers      |  Form Teachers                   |                   | Email                                                                                               |
 |----------------|--------------------|---------------------|-------------------|-----------------------------------------------------------------------------------------------------|
 | 2 Truth        | Juliane Leung    | Kiranjit Kaur D/O Tarlok Singh  |  |  leung_wai_ching_juliane@moe.edu.sg joaquina_jye_shiow@moe.edu.sg           |
-| 2 Charity      |  De Witt Cassandra Shivani  | Dewi Juriah Binte Sudirman      |          |                                          wendy_koh_wen_yi@moe.edu.sg goh_bee_hoon@moe.edu.sg        |
+| 2 Charity      |  De Witt Cassandra Shivani  | Dewi Juriah Binte Sudirman      |          |                                          wendy_koh_wen_yi@moe.edu.sg         |
 | 2 Compassion   |    Fazzera Kamal    | Kok Hoe Ming         |                   | fazzera_kamal@moe.edu.sg  kok_hoe_ming@moe.edu.sg                                               |
 | 2 Integrity    |  Yeo Bee Hiang Tracy    | Mohd Tafran Angullia       |                   | chew_boon_kean@moe.edu.sg mohamed_tafran_angullia@moe.edu.sg                                                 |
 | 2 Independence | Renata Priscilla Winata |    Michelle Tan En Ci   |                   | renata_priscilla_winata@moe.edu.sg  tan_en_ci_michelle@moe.edu.sg                                |
