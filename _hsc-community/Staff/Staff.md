@@ -80,9 +80,9 @@ Secondary 1 &amp; 2
 |1 Integrity    | Mukmien Kassim    |Zhang Mingyue   | Teo Yin Yun, Queenie     | mukmien_mohammad_kassim@moe.edu.sg   zhang_mingyue@moe.edu.sg  teo_yin_yun_queenie@moe.edu.sg     |
 | 1 Independence |Teo Hsin Wei | Sandra Chong Shu Fen       |                   | teo_hsin_wei@moe.edu.sg chong_shu_fen_sandra@moe.edu.sgg                                |
 | 1 Adaptability | Raihan Bin Omar     | Maria Loida Raju  |                   | raihan_omar@moe.edu.sg maria_loida_raju@moe.edu.sg  |
-| 1 Graciousness | Daniel Yong Chee Kong  | A'zimah Binti Muhamad         |     |   yong_chee_kong_daniel@moe.edu.sg           |
+| 1 Graciousness | Daniel Yong Chee Kong  | A'zimah Binti Muhamad         |     |   yong_chee_kong_daniel@moe.edu.sg      azimah_muhamad@moe.edu.sg     |
 | 2 Truth    | Juliane Leung    | Kiranjit Kaur D/O Tarlok Singh  |  |  leung_wai_ching_juliane@moe.edu.sg kiranjit_kaur_tarlok_singh@moe.edu.sg |
-| 2 Charity      |  De Witt Cassandra Shivani  | Dewi Juriah Binte Sudirman      | de_witt_cassandra_shivani@moe.edu.sg  dewi_juriah_sudirman@moe.edu.sg       |                                           |
+| 2 Charity      |  De Witt Cassandra Shivani  | Dewi Juriah Binte Sudirman      |    |  de_witt_cassandra_shivani@moe.edu.sg  dewi_juriah_sudirman@moe.edu.sg                                             |
 | 2 Compassion   |    Fazzera Kamal    | Kok Hoe Ming         |                   | fazzera_kamal@moe.edu.sg  kok_hoe_ming@moe.edu.sg                                               |
 | 2 Integrity    |  Yeo Bee Hiang Tracy    | Mohd Tafran Angullia       | Virgil Chew Boon Kean                  | yeo_bee_hiang_tracy@moe.edu.sg mohamed_tafran_angullia@moe.edu.sg  chew_boon_kean@moe.edu.sg                                                |
 | 2 Independence | Renata Priscilla Winata |    Michelle Tan En Ci   |                   | renata_priscilla_winata@moe.edu.sg  tan_en_ci_michelle@moe.edu.sg                                |
@@ -103,7 +103,7 @@ Secondary 3
 | 3 Integrity    |   Shah Dhaval Prabhaker      | Ye Yiping   |           | shah_dhaval_prabhaker@moe.edu.sg  ye_yiping@moe.edu.sg                                  |
 | 3 Independence | Seah Kai Sing Pricilla        | Mohamed Zain Bin Mohamed    |           | seah_kai_sing_pricilla@moe.edu.sg mohamed_zain_b_mohamed@moe.edu.sg              |
 | 3 Adaptability | Paul Ann Natasha       | Zainudin Abdul Razak |           |  paul_ann_natasha@moe.edu.sg              zainudin_abdul_razak@moe.edu.sg       |                                      
-| 3 Graciousness |  Rafi Mohd Rais      |Mohammed Farhan Bin Mohammed Tayib ||  mohammed_farhan@moe.edu.sg  |  
+| 3 Graciousness |  Rafi Mohd Rais      |Mohammed Farhan Bin Mohammed Tayib ||  rafi_b_mohamed_rais@moe.edu.sg mohammed_farhan@moe.edu.sg  |  
 
 
 
