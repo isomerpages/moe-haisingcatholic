@@ -43,8 +43,8 @@ Subject Heads
 | Jonathan Tan       | Subject Head (English Language)     | chu_chze_jonathan_tan@moe.edu.sg   |
 | Daniel Yong Chee Kong            | Subject Head (Humanities)             |  yong_chee_kong_daniel@moe.edu.sg  |
 | Tan En Ci Michelle         | Subject Head (Character &amp; Citizenship Edn) | tan_en_ci_michelle@moe.edu.sg        |
-| Mohd Zain B Mohd               | Subject Head Mother Tongue Languages (MTL)                    | mohamed_zain_b_mohamed@moe.edu.sg     |
-| Bernard Lim                    | Subject Head (Mathematics)         | bernard_lim@moe.edu.sg      |
+| Mohd Zain B Mohd               | Subject Head Mother Tongue Languages (MTL) | mohamed_zain_b_mohamed@moe.edu.sg     |
+| Bernard Lim     | Subject Head (Mathematics)         | bernard_lim@moe.edu.sg      |
 | Yasmin Bte A Aziz              | Subject Head (Aesthetics & Special projects)       | yasmin_a_aziz@moe.edu.sg              |
 | Tracy Yeo                      | Subject Head (Science)                | yeo_bee_hiang_tracy@moe.edu.sg        |
 | Bharathi | Ag. Subject Head (Biology)   | bharathi_jayakumaran@moe.edu.sg       |
@@ -74,20 +74,21 @@ Secondary 1 &amp; 2
 
 | Class          | Form Teachers      |  Form Teachers                   |                   | Email                                                                                               |
 |----------------|--------------------|---------------------|-------------------|-----------------------------------------------------------------------------------------------------|
-| 2 Truth        | Juliane Leung    | Kiranjit Kaur D/O Tarlok Singh  |  |  leung_wai_ching_juliane@moe.edu.sg joaquina_jye_shiow@moe.edu.sg           |
-| 2 Charity      |  De Witt Cassandra Shivani  | Dewi Juriah Binte Sudirman      |          |                                          wendy_koh_wen_yi@moe.edu.sg         |
+| 1 Truth        | Ariston Tay | Juliana Lee Chin Ling |                   |       ariston_tay_jing_yan@moe.edu.sg juliana_lee_chin_ling@moe.edu.sg  |
+| 1 Charity      | Wendy Koh Wen Yi      | Zhao Sen   |                   | wendy_koh_wen_yi@moe.edu.sg       zhao_sen@moe.edu.sg                                               |
+| 1 Compassion   |  Wong Chun Sheng David     |  Sharifah Thalha   |                   | wong_chun_sheng_david@moe.edu.sg sharifah_thalha_syed_osman@moe.edu.sg    |
+|1 Integrity    | Mukmien Kassim    |Zhang Mingyue   | Teo Yin Yun, Queenie     | mukmien_mohammad_kassim@moe.edu.sg   zhang_mingyue@moe.edu.sg  teo_yin_yun_queenie@moe.edu.sg     |
+| 1 Independence |Teo Hsin Wei | Sandra Chong Shu Fen       |                   | teo_hsin_wei@moe.edu.sg chong_shu_fen_sandra@moe.edu.sgg                                |
+| 1 Adaptability | Raihan Bin Omar     | Maria Loida Raju  |                   | raihan_omar@moe.edu.sg maria_loida_raju@moe.edu.sg  |
+| 1 Graciousness | Daniel Yong Chee Kong  | A'zimah Binti Muhamad         |     |   yong_chee_kong_daniel@moe.edu.sg           |
+| 2 Truth    | Juliane Leung    | Kiranjit Kaur D/O Tarlok Singh  |  |  leung_wai_ching_juliane@moe.edu.sg kiranjit_kaur_tarlok_singh@moe.edu.sg |
+| 2 Charity      |  De Witt Cassandra Shivani  | Dewi Juriah Binte Sudirman      | de_witt_cassandra_shivani@moe.edu.sg  dewi_juriah_sudirman@moe.edu.sg       |                                           |
 | 2 Compassion   |    Fazzera Kamal    | Kok Hoe Ming         |                   | fazzera_kamal@moe.edu.sg  kok_hoe_ming@moe.edu.sg                                               |
-| 2 Integrity    |  Yeo Bee Hiang Tracy    | Mohd Tafran Angullia       |                   | chew_boon_kean@moe.edu.sg mohamed_tafran_angullia@moe.edu.sg                                                 |
+| 2 Integrity    |  Yeo Bee Hiang Tracy    | Mohd Tafran Angullia       | Virgil Chew Boon Kean                  | yeo_bee_hiang_tracy@moe.edu.sg mohamed_tafran_angullia@moe.edu.sg  chew_boon_kean@moe.edu.sg                                                |
 | 2 Independence | Renata Priscilla Winata |    Michelle Tan En Ci   |                   | renata_priscilla_winata@moe.edu.sg  tan_en_ci_michelle@moe.edu.sg                                |
 | 2 Adaptability |  Tan Song Teck   | Rafiqah Nordin         |                   | tan_song_teck@moe.edu.sg rafiqah_nordin@moe.edu.sg        |
-| 2 Graciousness |Siti Nurhuda     | Goh Suat Hong (Mrs June Ng)    |      | siti_nurhuda_hamsani@moe.edu.sg eugene_pang_ming_xi@moe.edu.sg   |
-| 1 Truth        | Mukmien Kassim       | Sabrina Thang           |                   | mukmien_mohammad_kassim@moe.edu.sg thang_sabrina_lisa@moe.edu.sg                                           |
-| 1 Charity      | Ariston Tay             | Zhao Sen   |                   | ariston_tay_jing_yan@moe.edu.sg zhao_sen@moe.edu.sg                                               |
-| 1 Compassion   |  Lim Daisy       |  Amantha Chong   |                   |       lim_daisy@moe.edu.sg  chong_jing_ting_amantha@moe.edu.sg    |
-|1 Integrity    | Tracy Yeo       | Alvin Chua       |      | yeo_bee_hiang_tracy@moe.edu.sg     chua_rui_zhe_alvin@moe.edu.sg    |
-| 1 Independence |Teo Hsin Wei | Mohd Zain      |                   | teo_hsin_wei@moe.edu.sg mohamed_zain_b_mohamed@moe.edu.sg                                |
-| 1 Adaptability | Grace Eu        | Zainudin A. Razzak  |                   | grace_eu_yi_ying@moe.edu.sg                                   |
-| 2 Graciousness | Shah Dhaval   | Mohd Farhan         | Lee Yueli    |    lee_yueli@moe.edu.sg              |
+| 2 Graciousness |Siti Nurhuda Bte Hamsani    | Goh Suat Hong (Mrs June Ng)    | Thang Sabrina Lisa     | siti_nurhuda_hamsani@moe.edu.sg goh_suat_hong@moe.edu.sg thang_sabrina_lisa@moe.edu.sg   |
+
 
 Secondary 3 
 ---------------
@@ -102,7 +103,7 @@ Secondary 3
 | 3 Integrity    |   Shah Dhaval Prabhaker      | Ye Yiping   |           | shah_dhaval_prabhaker@moe.edu.sg  ye_yiping@moe.edu.sg                                  |
 | 3 Independence | Seah Kai Sing Pricilla        | Mohamed Zain Bin Mohamed    |           | seah_kai_sing_pricilla@moe.edu.sg mohamed_zain_b_mohamed@moe.edu.sg              |
 | 3 Adaptability | Paul Ann Natasha       | Zainudin Abdul Razak |           |  paul_ann_natasha@moe.edu.sg              zainudin_abdul_razak@moe.edu.sg       |                                      
-| 3 Graciousness |  Rafi Mohd Rais      |Mohammed Farhan Bin Mohammed Tayib || raihan_omar@moe.edu.sg  mohammed_farhan@moe.edu.sg  |  
+| 3 Graciousness |  Rafi Mohd Rais      |Mohammed Farhan Bin Mohammed Tayib ||  mohammed_farhan@moe.edu.sg  |  
 
 
 
