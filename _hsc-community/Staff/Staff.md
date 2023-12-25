@@ -134,7 +134,6 @@ Administrative Staff
 
 | Name                      | Designation              | Email                                      |
 |---------------------------|--------------------------|--------------------------------------------|
-| Lee Mui Sian              | Administration Manager   | lee_mui_sian@schools.gov.sg                |
 | Khairil Anuar             | Operations Manager       | khairil_anuar_mohamad_saleh@schools.gov.sg |
 | Ong Annie                 | Administrative Executive | ong_annie@moe.edu.sg                       |
 | Nur Ismaliah Binte Ismail | Administrative Executive | nur_ismaliah_ismail@moe.edu.sg             |
