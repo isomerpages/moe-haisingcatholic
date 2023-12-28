@@ -24,12 +24,12 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: Secondary One Registration updates
+      title: "Back to School and Secondary One Orientation "
       subtitle: 2024 Cohort
       id: infopic
       button: Click here to find out more
-      url: /home-highlights/secondary-one-registration/permalink/
-      image: /images/News and Announcement/sec_1_registration_icon_png.png
+      url: /home-highlights/back-to-school/permalink/
+      image: /images/Sec 1 registration/Back_to_school_poster.jpeg
       alt: Image alt text
   - infopic:
       title: HSC School Video
