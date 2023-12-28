@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Sec 1 registration/Back_to_School_Baner.jpeg
+      background: /images/Sec 1 registration/BTS_banner_2.jpeg
       key_highlights:
         - title: Class Timetable
           description: Click HERE to read more!
