@@ -24,7 +24,7 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: "Back to School and Secondary One Orientation "
+      title: Back to School and Secondary One Orientation
       subtitle: 2024 Cohort
       id: infopic
       button: Click here to find out more
