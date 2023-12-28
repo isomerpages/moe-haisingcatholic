@@ -2,7 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
-      - Students/Back To School.md
+      - Students/BACK TO SCHOOL.md
       - Students/SEC ONE REGISTRATION.md
       - Students/.keep
       - Students/BOOKLIST AND UNIFORM.md
