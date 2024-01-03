@@ -15,7 +15,8 @@ Teachers in charge
 
 1.  Mrs Felicia Loh
 2.  Ms Lim Xin Yi
-3.  Miss Siti Nur Azmina Binte Abdul Razak
+3.  Mrs De Witt Cassandra Shivani
+4.  Mdm Yasmin Bte A Aziz (KP Support)
 
 Training schedule
 -----------------
