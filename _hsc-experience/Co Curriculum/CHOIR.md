@@ -15,8 +15,9 @@ Teachers in charge
 
 1.  Mdm Noor Aishah
 2.  Ms Zhang Ming Yue
-3.  Ms Lee Yueli
-4.  Mr Teo Hsin Wei
+3.  Ms Lee Yueli 
+4.  Mr Wong Chun Sheng David
+5.  Mdm Yasmin Bte A Aziz (KP support)
 
 Training schedule
 -----------------
