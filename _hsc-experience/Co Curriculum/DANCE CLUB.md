@@ -25,7 +25,6 @@ Every Tuesday and Thursday: 3.00 - 5.30pm
 
 Venue
 -----
-
 Dance Room
 
 Highlights
