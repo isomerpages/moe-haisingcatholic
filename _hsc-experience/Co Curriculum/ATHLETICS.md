@@ -12,9 +12,10 @@ ATHLETICS
 Teachers in charge
 ------------------
 
-1.  Ms Millicent Chua
+1.  Mdm Dewi Juriah Bte Sudirman
 2.  Mdm Lee Wan Yin
-3.  Mr Eugene Pang Ming Xi
+3.  Mdm Renata Priscilla Winata
+4.  Nandakumar Rao S/O Ramachandra (KP support)
 
 Training schedule
 -----------------
