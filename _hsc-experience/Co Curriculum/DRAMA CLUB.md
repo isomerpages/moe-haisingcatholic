@@ -13,19 +13,17 @@ DRAMA CLUB
 Teachers in charge
 ------------------
 
-1.  Ms Bharathi Jaykumaran
-2.  Ms Juliana Chin Ling Lee
-3.  Mdm Siti Nurhuda Hamsani
+1.  Ms Juliana Lee Chin Ling 
+2.  Mdm Siti Nurhuda Hamsani
+3.  Ms Bharathi Jaykumaran
 
 Training schedule
 -----------------
-
 Every Tuesday: 3.30 - 5.30pm  
 Every Thursday: 3.30 - 5.30pm
 
 Venue
 -----
-School
 Dance room (Tues)  
 AVA (Thurs)
 
