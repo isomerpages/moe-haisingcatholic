@@ -12,8 +12,8 @@ Teachers in charge
 ------------------
 
 1.  Mr. Rafi Bin Mohamed Rais
-2.  Ms. Fazzera Binte Kamal
-3.  Mr. Mohammed Farhan Bin Mohammed Tayib
+2. Mr. Mohammed Farhan Bin Mohammed Tayib 
+3.  Ms. Fazzera Binte Kamal
 
 Training schedule
 -----------------
