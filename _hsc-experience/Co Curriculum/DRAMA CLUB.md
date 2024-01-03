@@ -20,13 +20,13 @@ Teachers in charge
 Training schedule
 -----------------
 
-Every Monday: 3.30 - 5.30pm  
+Every Tuesday: 3.30 - 5.30pm  
 Every Thursday: 3.30 - 5.30pm
 
 Venue
 -----
-
-Dance room (Mon)  
+School
+Dance room (Tues)  
 AVA (Thurs)
 
 Highlights
