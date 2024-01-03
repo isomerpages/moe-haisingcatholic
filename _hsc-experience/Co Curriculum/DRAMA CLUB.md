@@ -24,8 +24,7 @@ Every Thursday: 3.30 - 5.30pm
 
 Venue
 -----
-Dance room (Tues)  
-AVA (Thurs)
+Multi Purpose Room (MPR 6)
 
 Highlights
 ----------
