@@ -14,8 +14,9 @@ Teachers in charge
 ------------------
 
 1.  Ms Thang Sabrina Lisa
-2.  Ms Lee Wan Xin
-3.  Ms Rafiqah Binte Nordin
+2.  Ms Rafiqah Binte Nordin
+3.  Mr Lee Wen Han
+4.  Ms Lee Wan Xin (KP Support)
 
 Training schedule
 -----------------
