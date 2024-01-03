@@ -12,20 +12,19 @@ CONCERT BAND
 Teachers in charge
 ------------------
 
-1.  Mr Mohammed Asraf Bin Mohtar
-2.  Mr Tan Yong An
-3.  Mr Chew Tze Inn
+1.  Mr Tan Yong An
+2.  Mr Chew Tze Inn
+3.  Chan Yu Wei, Dominique
+4.  Zaibon Nisah Bte Abdul Hamid
+5.  Yasmin Bte A Aziz (KP support)
 
 Training schedule
 -----------------
 
-Every Tuesday  
+Every Tuesday and Thursday  
 Junior Band: 2.30 to 4.30pm  
 Main Band: 3.00 to 6.00pm  
   
-Every Thursday  
-Junior Band: 2.30 to 4.30pm  
-Main Band: 3.00 to 6.00pm
 
 Venue
 -----
