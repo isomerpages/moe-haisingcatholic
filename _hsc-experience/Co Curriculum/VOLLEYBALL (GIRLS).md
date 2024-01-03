@@ -3,6 +3,7 @@ title: VOLLEYBALL (GIRLS)
 permalink: /hsc-experience/Co-Curriculum/volleyball-girls/permalink/
 description: ""
 third_nav_title: Co Curriculum
+variant: markdown
 ---
 VOLLEYBALL (GIRLS)
 ==================
@@ -13,8 +14,9 @@ Teachers in charge
 ------------------
 
 1.  Ms Virgil Chew Boon Kean
-2.  Ms June Goh Suat Hong (Mrs June Ng)
-3.  Mr Teo Hsin Wei
+2.  Ms June Goh Suat Hong (Mrs June Ng) (Sem 2 only)
+3.  Mrs Maria Loida Raju
+4.  Lee Yueli (Sem 1 only)
 
 Training schedule
 -----------------
