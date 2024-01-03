@@ -3,56 +3,6 @@ title: ST JOHN BRIGADE
 permalink: /hsc-experience/Co-Curriculum/stjohnbrigade/permalink/
 description: ""
 third_nav_title: Co Curriculum
-variant: markdown
+variant: tiptap
 ---
-ST. JOHN BRIGADE
-================
-
-![SJB](/images/CCA/cca%20sjb.png)
-
-Teachers in charge
-------------------
-
-1.  Ms Thang Sabrina Lisa
-2.  Ms Rafiqah Binte Nordin
-3.  Mr Lee Wen Han
-4.  Ms Lee Wan Xin (KP Support)
-
-Training schedule
------------------
-
-Parade Square /  
-Foyer Level 1 besides General Office (Wet weather)  
-  
-Every Tuesday 3.30 - 6.00pm  
-Saturday trainings \[only for First Aid Competition competitors and helpers\], 8.30am - 1.00pm
-
-Highlights
-----------
-
-*   District First Aid Competition
-*   District Presentation
-*   Basic NCO and Advanced NCO Training Camps
-*   First Aid Instructor Course
-*   Home Nursing Instructor Course
-*   Drill Instructor Course
-
-Achievements
-------------
-**2023** 
-* Gold Award in Corp Achievement Award
-* 3rd In East District National First Aid Competition Nursing Cadet 
-
-**2022** 
-* Gold Award in Corp Achievement Award
-* 3rd In East District National First Aid Competition Nursing Cadet 
-
-Student Voice
--------------
-
-_‘I have learnt that working together as a team is crucial in SJB. A team is as strong as the weakest link. So a lack of cooperation and communication can potentially cause issues during CCA trainings and competition trainings. One of my fond memories as a SJB cadet would be training for the First Aid Competition. There were a number of challenges thrown our way, but we managed to work together as a team to overcome these obstacles. As a team, we also tried to find humour in the mistakes made during the competition trainings, instead of being frustrated.’_  
-  
-Jeremy Nathanael Sutanto  
-SJB Chairman
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS23i4ywLIIiI_n-czOzDNxE1pb09C0r82EkExlZWDe6gIOQl9FQfxO_53-H0RXfPijbq8WzMnps0TF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<h1>ST. JOHN'S BRIGADE (SJB)</h1><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SJB" src="/images/CCA/cca%20sjb.png"></div><h2>Teachers in charge</h2><ol data-tight="true" class="tight"><li><p>Ms Thang Sabrina Lisa</p></li><li><p>Ms Rafiqah Binte Nordin</p></li><li><p>Mr Lee Wen Han</p></li><li><p>Ms Lee Wan Xin (KP Support)</p></li></ol><h2>Training schedule</h2><p>Parade Square /<br>Foyer Level 1 besides General Office (Wet weather)</p><p>Every Tuesday 3.30 - 6.00pm<br>Selected Saturday trainings 8.30am - 1.00pm [only for First Aid Competition competitors and helpers], </p><h2>Highlights</h2><ul data-tight="true" class="tight"><li><p>District First Aid Competition</p></li><li><p>District Presentation</p></li><li><p>Basic NCO and Advanced NCO Training Camps</p></li><li><p>First Aid Instructor Course</p></li><li><p>Home Nursing Instructor Course</p></li><li><p>Drill Instructor Course</p></li></ul><h2>Achievements</h2><p><strong>2023</strong></p><ul data-tight="true" class="tight"><li><p>Gold Award in Corp Achievement Award</p></li><li><p>3rd In East District National First Aid Competition Nursing Cadet</p></li></ul><p><strong>2022</strong></p><ul data-tight="true" class="tight"><li><p>Gold Award in Corp Achievement Award</p></li><li><p>3rd In East District National First Aid Competition Nursing Cadet</p></li></ul><h2>Student Voice</h2><p><em>‘I have learnt that working together as a team is crucial in SJB. A team is as strong as the weakest link. So a lack of cooperation and communication can potentially cause issues during CCA trainings and competition trainings. One of my fond memories as a SJB cadet would be training for the First Aid Competition. There were a number of challenges thrown our way, but we managed to work together as a team to overcome these obstacles. As a team, we also tried to find humour in the mistakes made during the competition trainings, instead of being frustrated.’</em></p><p>Jeremy Nathanael Sutanto<br>SJB Chairman</p><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS23i4ywLIIiI_n-czOzDNxE1pb09C0r82EkExlZWDe6gIOQl9FQfxO_53-H0RXfPijbq8WzMnps0TF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div><p></p>
