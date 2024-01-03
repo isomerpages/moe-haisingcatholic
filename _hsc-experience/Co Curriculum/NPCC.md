@@ -18,7 +18,7 @@ Teachers in charge
 Training schedule
 -----------------
 
-Every Tuesdays: 3.00pm - 6.30 pm  
+Tuesdays: 3.00 p.m. - 6.30 p.m. 
 Selected Saturdays: 8.30am to 1.00 pm
 
 Venue
