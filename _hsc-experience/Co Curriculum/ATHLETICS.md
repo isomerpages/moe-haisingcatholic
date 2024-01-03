@@ -19,7 +19,7 @@ Teachers in charge
 Training schedule
 -----------------
 
-Every Tuesday and Thursday: 3.45 - 5.45 p.m.
+Every Tuesday and Thursday: 3.00 p.m. - 6.00 p.m.
 
 Venue
 -----
