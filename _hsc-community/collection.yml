@@ -2,12 +2,12 @@ collections:
   hsc-community:
     output: true
     order:
+      - Students/.keep
+      - Students/STUDENTS TIMETABLE.md
       - Students/BACK TO SCHOOL.md
       - Students/SEC ONE REGISTRATION.md
-      - Students/.keep
       - Students/BOOKLIST AND UNIFORM.md
       - Students/SECONDARY TWO SUBJECT COMBINATION.md
-      - Students/STUDENTS TIMETABLE.md
       - Students/SCHOOL BASED ASSESSMENT.md
       - Students/PERSONALISED DIGITAL LEARNING PROGRAMME.md
       - Students/FULL SUBJECT BASED BANDING.md
