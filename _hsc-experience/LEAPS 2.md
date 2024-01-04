@@ -1,7 +1,8 @@
 ---
 title: LEAPS 2
 permalink: /hsc-experience/leaps2/
-description: LEAPS
+description: LEAPS 2.0
+variant: tiptap
 ---
 LEAPS 2.0 
 -------------------------------
