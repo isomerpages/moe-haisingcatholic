@@ -3,11 +3,12 @@ title: SEXUALITY EDUCATION
 permalink: /hsc-community/students/sexuality-education/permalink/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
 SEXUALITY EDUCATION
 ===================
 
-(**Moe Sexuality Education in Schools**)
+**MOE SEXUALITY EDUCATION IN SCHOOLS**
 
 1.       Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
@@ -31,7 +32,7 @@ SEXUALITY EDUCATION
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-**Overview of HAI SING CATHOLIC School’s Sexuality Education Programme for 2023**
+**Overview of HAI SING CATHOLIC School’s Sexuality Education Programme for 2024**
 
 4.       Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -48,21 +49,17 @@ b.    Character and Citizenship Education (CCE)
 7.       Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
 
-Click on the following links below to read more about our 2023 Sexuality Education outline for the respective levels:
+Click on the following links below to read more about our 2024 Sexuality Education outline for the respective levels:
 
-**[Secondary 1 2023 Sexuality Education Lessons in Sec 1 CCE 2021](/files/HSC%20Community/Sexuality%20Education/2023%20sed%20s1.pdf)**
+[Secondary 1 2024 Sexuality Education Lessons in CCE 2021](/files/HSC%20Community/Sexuality%20Education/Sec_1___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf)
 
-**[Secondary 2 2023 Sexuality Education Lessons in Sec 2 CCE 2021](/files/HSC%20Community/Sexuality%20Education/2023%20sed%20s2.pdf)**
+[Secondary 2 2024 Sexuality Education Lessons in CCE 2021](/files/HSC%20Community/Sexuality%20Education/Sec_2___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf)
 
-**[Secondary 3 2023 Sexuality Education Lessons in Sec 3 CCE 2021](/files/HSC%20Community/Sexuality%20Education/2023%20sed%20s3.pdf)**
+[Secondary 3 2024 Sexuality Education Lessons in CCE 2021](/files/HSC%20Community/Sexuality%20Education/Sec_3___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf)
 
-**[Secondary 4 2023 Sexuality Education Lessons in CCE 2021](/files/HSC%20Community/Sexuality%20Education/2023%20sed%20s4.pdf)**
+[Secondary 4 2024 Sexuality Education Lessons in CCE 2021](/files/HSC%20Community/Sexuality%20Education/Sec_4___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf)
 
-
-**[Secondary 5 2023 Sexuality Education Lessons in CCE 2021](/files/HSC%20Community/Sexuality%20Education/2023%20sed%20s5.pdf)**
-
-
-
+[Secondary 5 2024 Sexuality Education Lessons in CCE 2021](/files/HSC%20Community/Sexuality%20Education/Sec_5___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf)
 
 **eTeens Programme**
 
@@ -70,8 +67,14 @@ Click on the following links below to read more about our 2023 Sexuality Educati
 
 9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Hai Sing Catholic School, the _eTeens_ programme will be implemented as follows in 2023:**
+**At Hai Sing Catholic School, the _eTeens_ programme will be implemented as follows in 2024:**
 
-[Click here for 2023 E-Teens programme Syllabus](/files/HSC%20Community/Sexuality%20Education/2023%20e%20teens.pdf)
+[Click here for 2024 E-Teens programme Syllabus](/files/HSC%20Community/eTeens_Programme_2024.pdf)
 
-Parents/Guardians who would like to opt their child/ward out of the Sexuality Education and/or eTeens programme, please click on the [link](https://forms.moe.edu.sg/forms/vw2nle) to indicate your preference.
+10.       Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.       Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form [here](/files/HSC%20Community/Sexuality_Education_Opt_Out_form_2024.pdf). The completed form is to be submitted by 01/03/2024. 
+
+12.       Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form [here](/files/HSC%20Community/eTeens_Opt_Out_form_2024.pdf). The completed form is to be submitted by 01/03/2024. 
+
+13.       Parents can contact the school at 6582 7864 or email juliana_lee_chin_ling@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
