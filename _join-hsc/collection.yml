@@ -1,0 +1,8 @@
+collections:
+  join-hsc:
+    output: true
+    order:
+      - DSA Talent Areas.md
+      - DSA Criteria & Selection Process.md
+      - FAQ.md
+      - School Canteen Stalls.md
