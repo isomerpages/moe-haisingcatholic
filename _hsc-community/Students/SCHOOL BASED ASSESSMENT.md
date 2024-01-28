@@ -207,9 +207,7 @@ below for more information on the assessment weighting for FCE and D&amp;T.</p>
 <p>Design Projects 1 and 2: 100%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA (15%):</p>
-<p>Theory (15 %)</p>
-<p>Practical (15%)</p>
+<p>WA (15%)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WA (15%)</p>
