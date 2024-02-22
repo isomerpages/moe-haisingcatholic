@@ -57,11 +57,11 @@ and resources on digital parenting tips.&nbsp;</p>
 <p>Click on the below links:</p>
 <ul>
 <li>
-<p><a href="/files/PDLP/ip2%20-%20parent%20handbook%20(i)%20on%20learning%20with%20a%20pld_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook 1: Learning with a PLD</a>
+<p><a href="/files/PDLP/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook 1: Learning with a PLD</a>
 </p>
 </li>
 <li>
-<p><a href="/files/PDLP/ip3%20-%20parent%20handbook%20(ii)%20on%20learning%20with%20a%20pld_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook 2: Learning with a PLD</a>
+<p><a href="/files/PDLP/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook 2: Learning with a PLD</a>
 </p>
 </li>
 </ul>
