@@ -14,11 +14,13 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdlp%20hod%20message.jpeg">
 </div>
 <h2>General Information for Parents</h2>
-<p><strong>Information on Frequently Asked Question (FAQ) on PDLP</strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Click on this link: <a href="/files/PDLP/PDLP_Parents_Engagement_FAQs_Final_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ for Parents</a>
+<p><a href="/files/PDLP/PDLP_Parents_Engagement_FAQs_Final_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Question (FAQ) on PDLP</a>
+</p>
+</li>
+<li>
+<p><a href="/files/PDLP/_2024_HSC__Infographic_on_the_PLD_Initiative_2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic on the PLD Initiative</a>
 </p>
 </li>
 </ul>
