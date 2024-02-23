@@ -57,7 +57,7 @@ and resources on digital parenting tips.&nbsp;</p>
 <p>Click on the below links:</p>
 <ul>
 <li>
-<p><a href="/files/PDLP/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook 1: Learning with afile PLD</a>
+<p><a href="/files/PDLP/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook 1: Learning with a PLD</a>
 </p>
 </li>
 <li>
