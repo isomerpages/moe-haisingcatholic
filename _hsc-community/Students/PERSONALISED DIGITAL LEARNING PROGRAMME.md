@@ -180,7 +180,7 @@ Students can follow the step-by-step guide using this <a href="https://drive.goo
 <h2>Other Useful Resources</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moh.gov.sg/resources-statistics/educational-resources/guidance-on-screen-use-in-children" rel="noopener noreferrer nofollow" target="_blank">Guidance on Screen Use in Children</a> 
+<p><a href="https://www.moh.gov.sg/resources-statistics/educational-resources/guidance-on-screen-use-in-children" rel="noopener noreferrer nofollow" target="_blank">Guidance on Screen Use in Children</a>
 </p>
 </li>
 <li>
