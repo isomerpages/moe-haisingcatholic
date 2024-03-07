@@ -177,4 +177,19 @@ Students can follow the step-by-step guide using this <a href="https://drive.goo
 </div>
 </li>
 </ul>
+<h2>Other Useful Resources</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.moh.gov.sg/resources-statistics/educational-resources/guidance-on-screen-use-in-children" rel="noopener noreferrer nofollow" target="_blank">Guidance on Screen Use in Children</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/news/parliamentary-replies/20210511-digital-device-usage-on-students-health" rel="noopener noreferrer nofollow" target="_blank">Digital Device Usage on Students’ Health</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.singhealth.com.sg/patient-care/conditions-treatments/healthy-screen-use-for-young-children" rel="noopener noreferrer nofollow" target="_blank">Healthy Screen Use for Young Children</a>
+</p>
+</li>
+</ul>
 <p></p>
