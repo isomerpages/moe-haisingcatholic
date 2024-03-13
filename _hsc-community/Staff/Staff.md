@@ -434,13 +434,13 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Secondary 1 &amp; 2</h2>
-<p><strong>Year Head (Lower Sec):</strong>
-<br><strong>Christine Sarah Toh</strong>
+<p><strong>Year Head (Lower Sec):</strong> 
+<br><strong>Christine Sarah Toh</strong> 
 <br><em>christine_sarah_toh@moe.edu.sg</em>
 </p>
 <p></p>
-<p><strong>Asst. Year Head (Lower Sec):&nbsp;</strong>
-<br><strong>Rafidah Banu</strong>
+<p><strong>Asst. Year Head (Lower Sec):&nbsp;</strong> 
+<br><strong>Rafidah Banu</strong> 
 <br><em>rafidah_banu_abdul_razak@moe.edu.sg</em>
 </p>
 <p></p>
@@ -558,7 +558,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_hsin_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hsin_wei@moe.edu.sg</a> 
+<p><a href="mailto:teo_hsin_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hsin_wei@moe.edu.sg</a>
 </p>
 <p><a href="mailto:chong_shu_fen_sandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_shu_fen_sandra@moe.edu.sg</a>
 </p>
@@ -578,7 +578,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:raihan_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raihan_omar@moe.edu.sg</a> 
+<p><a href="mailto:raihan_omar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raihan_omar@moe.edu.sg</a>
 </p>
 <p><a href="mailto:maria_loida_raju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maria_loida_raju@moe.edu.sg</a>
 </p>
@@ -639,7 +639,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:de_witt_cassandra_shivani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">de_witt_cassandra_shivani@moe.edu.sg</a> 
+<p><a href="mailto:de_witt_cassandra_shivani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">de_witt_cassandra_shivani@moe.edu.sg</a>
 </p>
 <p><a href="mailto:dewi_juriah_sudirman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dewi_juriah_sudirman@moe.edu.sg</a>
 </p>
