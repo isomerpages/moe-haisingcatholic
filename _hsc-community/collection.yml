@@ -2,6 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
+      - Students/SECONDARY 4 & 5 PARENT TEACHER CONFERENCE.md
       - Students/.keep
       - Students/STUDENTS TIMETABLE.md
       - Students/BACK TO SCHOOL.md
