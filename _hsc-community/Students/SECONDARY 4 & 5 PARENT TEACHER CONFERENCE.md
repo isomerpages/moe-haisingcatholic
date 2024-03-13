@@ -10,4 +10,5 @@ third_nav_title: Students
 on Thursday, 7 March 2024.</p>
 <p></p>
 <p>Please click on this <a href="/files/Secondary_4___5_Parent_Teacher_Conference_Slides__7_March_2024__compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-access the slides used at the PTC.</p>
+access the presentation slides used at the PTC.</p>
+<p>Other important information and useful links can also be found <a href="/files/Important_Information___Useful_Links_for_Secondary_4___5_Parent_Teacher_Conference.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
