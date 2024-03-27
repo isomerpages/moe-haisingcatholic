@@ -44,17 +44,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Paul Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>paul_leong@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Andy Kong Wei Foong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +74,7 @@ variant: tiptap
 <p>Stanley Gng Kuan Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Character &amp; Citizenship Education)</p>
+<p>School Staff Developer (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gng_kuan_lai@moe.edu.sg</p>
@@ -148,17 +137,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sharifah Thalha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer (SSD)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sharifah_thalha_syed_osman@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Christine Sarah Toh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,13 +181,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan En Ci Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Acting HOD (Character &amp; Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_en_ci_michelle@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -248,17 +226,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yong_chee_kong_daniel@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan En Ci Michelle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Character &amp; Citizenship Edn)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_en_ci_michelle@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -510,7 +477,7 @@ variant: tiptap
 <p>1 Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bharathi</p>
+<p>Bharathi D/O Jayakumaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -673,14 +640,12 @@ variant: tiptap
 <p>Virgil Chew Boon Kean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mohd Tafran Angullia</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_tafran_angullia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_tafran_angullia@moe.edu.sg</a>
-</p>
 <p><a href="mailto:chew_boon_kean@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_boon_kean@moe.edu.sg</a>
 </p>
 </td>
@@ -1118,7 +1083,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Independence</p>
+<p>5 Adaptability</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tham Mun Kin Edmund</p>
@@ -1130,22 +1095,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tham_mun_kin_edmund@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_mun_kin_edmund@moe.edu.sg</a>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Adaptability</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bharathi D/O Jayakumaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:bharathi_jayakumaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bharathi_jayakumaran@moe.edu.sg</a>
 </p>
 <p></p>
 </td>

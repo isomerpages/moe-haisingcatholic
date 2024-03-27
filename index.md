@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Sec 1 registration/BTS_banner_2.jpeg
+      background: /images/hompage.jpg
       key_highlights:
         - title: Class Timetable
           description: Click HERE to read more!
@@ -21,29 +21,16 @@ sections:
         - title: 2024 Secondary 3 Subject Combination
           description: Click HERE to read more!
           url: /hsc-community/students/secondary-two-subject-combination/permalink/
+      title: Hai Sing Catholic School
+      subtitle: Ad Veritatem per caritatem – To Truth Through Charity
   - infobar:
       title: Highlights
-  - infopic:
-      title: Back to School and Secondary One Orientation
-      subtitle: 2024 Cohort
-      id: infopic
-      button: Click here to find out more
-      url: /home-highlights/back-to-school/permalink/
-      image: /images/Sec 1 registration/Back_to_school_poster.jpeg
-      alt: Image alt text
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
       button: Haisian Experience
       url: https://youtu.be/qlWlwAZJi4s
       image: /images/website logo.png
-      alt: Image alt text
-  - infopic:
-      title: Hai Steps Challenge
-      description: HAI Corporate Challenge
-      button: Donations for School Building
-      url: hai-steps-challenge/permalink/
-      image: /images/News and Announcement/corporate challenge icon.png
       alt: Image alt text
   - infopic:
       title: Hai Experiential Week
