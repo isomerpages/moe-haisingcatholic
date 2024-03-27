@@ -247,6 +247,27 @@ below for more information on the assessment weighting for FCE and D&amp;T.</p>
 <p>Please click on this <a href="/files/_2024__Assessment_Rules_and_Regulation_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
 read more about Assessment Rules and Regulations in Hai Sing Catholic School.</p>
 <p></p>
+<p><strong>Term 2 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please click on this <a href="/files/Weighted assessment/2024_Sec_1_Term_2_WA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
+see the Secondary 1 WA2 topics.</p>
+</li>
+<li>
+<p>Please click on this <a href="/files/Weighted assessment/2024_Sec_2_Term_2_WA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
+see the Secondary 2 WA2 topics.</p>
+</li>
+<li>
+<p>Please click on this <a href="/files/Weighted assessment/2024_Sec_3_Term_2_WA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
+see the Secondary 3 WA2 topics.</p>
+</li>
+<li>
+<p>Please click on this <a href="/files/Weighted assessment/2024_Sec_4_5_Term_2_NWA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
+see the Secondary 4&amp;5 NWA2 topics.</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Term 1 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -264,7 +285,7 @@ read more about Assessment Rules and Regulations in Hai Sing Catholic School.</p
 </li>
 <li>
 <p>Please click on this <a href="/files/2024_Sec_4_5_Term_1_NWA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to see the
-Secondary 4/5 NWA1 topics.</p>
+Secondary 4&amp;5 NWA1 topics.</p>
 </li>
 </ul>
 <p></p>
