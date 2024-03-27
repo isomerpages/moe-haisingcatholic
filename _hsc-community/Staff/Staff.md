@@ -74,7 +74,7 @@ variant: tiptap
 <p>Stanley Gng Kuan Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Character &amp; Citizenship Education)</p>
+<p>Acting School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gng_kuan_lai@moe.edu.sg</p>
@@ -181,13 +181,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tan En Ci Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Acting HOD (Character &amp; Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_en_ci_michelle@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -226,17 +226,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yong_chee_kong_daniel@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan En Ci Michelle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Character &amp; Citizenship Edn)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_en_ci_michelle@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
