@@ -74,7 +74,7 @@ variant: tiptap
 <p>Stanley Gng Kuan Lai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting School Staff Developer</p>
+<p>School Staff Developer (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gng_kuan_lai@moe.edu.sg</p>
