@@ -37,7 +37,6 @@ Performance Values: Confidence, Independence, Adaptability
 
 # Desired Student Outcomes
 ***Purposeful Students***
- 
 
 HAIsians are happy to be in school.
 
@@ -51,7 +50,7 @@ Students build self-esteem and exercise personal and social responsibility.
 
 HAIsians have a growth mindset.
 
-Students make continuous improvements and progress towards their aspirations._ 
+Students make continuous improvements and progress towards their aspirations.
 
 HAIsians can excel.
 
