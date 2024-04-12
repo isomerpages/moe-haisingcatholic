@@ -2,6 +2,7 @@
 title: School Identity
 permalink: /about-hsc/school-identity/permalink/
 description: ""
+variant: markdown
 ---
 SCHOOL IDENTITY
 ===============
@@ -35,8 +36,7 @@ Virtues: Integrity, Graciousness, Compassion
 Performance Values: Confidence, Independence, Adaptability
 
 # Desired Student Outcomes
-***Purposful Students***
- 
+***Purposeful Students***
 
 HAIsians are happy to be in school.
 
@@ -50,13 +50,13 @@ Students build self-esteem and exercise personal and social responsibility.
 
 HAIsians have a growth mindset.
 
-Students make continuous improvements and progress towards their aspirations._ 
+Students make continuous improvements and progress towards their aspirations.
 
 HAIsians can excel.
 
 Students can adapt and surpass their own boundaries to thrive in the future.
 
-***Caring Leaders**
+***Caring Leaders***
 
 HAIsians are leaders.
 
