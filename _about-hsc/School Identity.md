@@ -56,7 +56,7 @@ HAIsians can excel.
 
 Students can adapt and surpass their own boundaries to thrive in the future.
 
-**Caring Leaders**
+***Caring Leaders***
 
 HAIsians are leaders.
 
