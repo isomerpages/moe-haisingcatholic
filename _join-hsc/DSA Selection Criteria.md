@@ -27,12 +27,11 @@ competitions.</p>
 <p><strong>Competency Three</strong>: The student must obtain at least a
 Very Good conduct grade&nbsp;with relevant leadership skills during the
 last two years of Primary School Education.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Uniformed Groups (National Cadet Corps, National Police Cadet Corps, St John Brigade)</strong>
 </p>
 <p>Hai Sing Catholic School Uniformed Groups is looking for Primary 6 pupils
 who exhibit the following:</p>
-<p>&nbsp;</p>
 <p>i) The student must obtain at least a Very Good conduct grade&nbsp;with
 relevant leadership skills during the last 2 years in Primary School Education.</p>
 <p>ii) The student demonstrates consistency and commitment to development
@@ -43,7 +42,6 @@ development by assuming key leadership positions in their CCA for at least
 a year.</p>
 <p>iv)The student demonstrates excellence through strong individual attainment
 in progress schemes/awards in the various Uniformed Groups</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -84,8 +82,7 @@ in progress schemes/awards in the various Uniformed Groups</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Concert Band</strong>
 </p>
 <p>&nbsp;Hai Sing Catholic School Concert Band is open to all Primary 6 pupils
@@ -96,7 +93,7 @@ competition</p>
 <p>iii) The student must obtain at least a Very Good conduct grade&nbsp;with
 relevant leadership skills during the last two years of Primary School
 Education.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Modern Dance</strong>
 </p>
 <p>Hai Sing Catholic School Dance is open to all Primary 6 pupils who meet
@@ -107,7 +104,7 @@ competition</p>
 <p>iii) The student must obtain at least a Very Good conduct grade&nbsp;with
 relevant leadership skills during the last two years in Primary School
 Education.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>DSA Selection Process</u></strong>
 </p>
 <p>All shortlisted applicants will be required to attend a face-to-face interview
