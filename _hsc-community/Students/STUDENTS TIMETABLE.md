@@ -15,23 +15,23 @@ click on the link below to download the timetable for your respective classes.
 Thank You.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Secondary 1 Class timetable: <a href="/files/Time Table/Sec_1__2024_Sem_2_CLASS_22062024_5NA_update.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable</a>
+<p>Secondary 1 Class timetable: <a href="/files/Time Table/Sec_1__2024_Sem_2_CLASS_26062024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable</a>
 </p>
 </li>
 <li>
-<p>Secondary 2 Class timetable: <a href="/files/Time Table/Sec_2__2024_Sem_2_CLASS_22062024_5NA_update.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable</a>
+<p>Secondary 2 Class timetable: <a href="/files/Time Table/Sec_2__2024_Sem_2_CLASS_26062024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable</a>
 </p>
 </li>
 <li>
-<p>Secondary 3 Class timetable: <a href="/files/Time Table/Sec_3__2024_Sem_2_CLASS_22062024_5NA_update.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable</a>
+<p>Secondary 3 Class timetable: <a href="/files/Time Table/Sec_3__2024_Sem_2_CLASS_26062024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable</a>
 </p>
 </li>
 <li>
-<p>Secondary 4 Class timetable: <a href="/files/Time Table/Sec_4__2024_Sem_2_CLASS_22062024_5NA_update.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Timetable</a>
+<p>Secondary 4 Class timetable: <a href="/files/Time Table/Sec_4__2024_Sem_2_CLASS_26062024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Timetable</a>
 </p>
 </li>
 <li>
-<p>Secondary 5 Class timetable: <a href="/files/Time Table/Sec_5__2024_Sem_2_CLASS_22062024_5NA_update.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Timetable</a>
+<p>Secondary 5 Class timetable: <a href="/files/Time Table/Sec_5__2024_Sem_2_CLASS_26062024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Timetable</a>
 </p>
 </li>
 </ol>
