@@ -302,9 +302,9 @@ see the Secondary 3 WA 2 topics.</p>
 <li>
 <p>Please click on this <a href="/files/Weighted assessment/2024_Sec_4_5_Term_2_NWA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
 see the Secondary 4&amp;5 NWA 2 topics.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p><strong>Term 1 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)</strong>
 </p>
 <ul data-tight="true" class="tight">
