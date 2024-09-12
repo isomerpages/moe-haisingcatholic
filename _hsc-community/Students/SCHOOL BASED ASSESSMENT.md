@@ -272,15 +272,15 @@ read more about Assessment Rules and Regulations in Hai Sing Catholic School.</p
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please click on this <a href="/files/EXAM/EOY_Sec_1_Exam_Schedule_2024__7_Aug__For_parents_.pdf" rel="noopener nofollow" target="_blank">link</a> to
+<p>Please click on this <a href="/files/EXAM/EOY_Sec_1_Exam_Schedule_2024__21_Aug.pdf" rel="noopener nofollow" target="_blank">link</a> to
 see the Secondary 1 EOY schedule.</p>
 </li>
 <li>
-<p>Please click on this <a href="/files/EXAM/EOY_Sec_2_Exam_Schedule_2024_7_Aug__For_parents_.pdf" rel="noopener nofollow" target="_blank">link</a> to
+<p>Please click on this <a href="/files/EXAM/EOY_Sec_2_Exam_Schedule_2024_21_Aug.pdf" rel="noopener nofollow" target="_blank">link</a> to
 see the Secondary 2 EOY schedule.</p>
 </li>
 <li>
-<p>Please click on this <a href="/files/EXAM/EOY_Sec_3_Exam_Schedule_2024_7_Aug__For_parents_.pdf" rel="noopener nofollow" target="_blank">link</a> to
+<p>Please click on this <a href="/files/EXAM/EOY_Sec_3_Exam_Schedule_2024_21_Aug.pdf" rel="noopener nofollow" target="_blank">link</a> to
 see the Secondary 3 EOY schedule.</p>
 <p></p>
 </li>
