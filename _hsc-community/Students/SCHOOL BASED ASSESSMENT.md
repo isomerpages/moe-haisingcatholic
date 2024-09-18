@@ -268,7 +268,24 @@ below for more information on the assessment weighting for FCE and D&amp;T.</p>
 <p>Please click on this <a href="/files/_2024__Assessment_Rules_and_Regulation_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
 read more about Assessment Rules and Regulations in Hai Sing Catholic School.</p>
 <p></p>
-<p><strong>Term 3 Weighted Assessment (WA)</strong>
+<p><strong>2024 End-of-Year (EOY) Examination Schedule</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Please click on this <a href="/files/EXAM/EOY_Sec_1_Exam_Schedule_2024__21_Aug.pdf" rel="noopener nofollow" target="_blank">link</a> to
+see the Secondary 1 EOY schedule.</p>
+</li>
+<li>
+<p>Please click on this <a href="/files/EXAM/EOY_Sec_2_Exam_Schedule_2024_21_Aug.pdf" rel="noopener nofollow" target="_blank">link</a> to
+see the Secondary 2 EOY schedule.</p>
+</li>
+<li>
+<p>Please click on this <a href="/files/EXAM/EOY_Sec_3_Exam_Schedule_2024_21_Aug.pdf" rel="noopener nofollow" target="_blank">link</a> to
+see the Secondary 3 EOY schedule.</p>
+<p></p>
+</li>
+</ul>
+<p><strong>2024 Term 3 Weighted Assessment (WA)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -282,9 +299,10 @@ see the Secondary 2 WA 3 topics.</p>
 <li>
 <p>Please click on this <a href="/files/Weighted assessment/2024_Sec_3_Term_3_WA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
 see the Secondary 3 WA 3 topics.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>Term 2 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)</strong>
+<p><strong>2024 Term 2 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -305,7 +323,7 @@ see the Secondary 4&amp;5 NWA 2 topics.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Term 1 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)</strong>
+<p><strong>2024 Term 1 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
