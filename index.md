@@ -18,9 +18,9 @@ sections:
         - title: School Based Assessment
           description: Click HERE to read more!
           url: /hsc-community/students/school-based-assessment/permalink/
-        - title: 2024 Secondary 3 Subject Combination
+        - title: 2025 Secondary 3 Subject Combination
           description: Click HERE to read more!
-          url: /hsc-community/students/secondary-two-subject-combination/permalink/
+          url: /hsc-community/students/secondary-three-subject-combination/permalink/
       title: Hai Sing Catholic School
       subtitle: Ad Veritatem per caritatem – To Truth Through Charity
   - infobar:
