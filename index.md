@@ -26,12 +26,6 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: HSC Open House 2024
-      button: Click here to find out more
-      image: /images/HSC_Open_House_Banner_2024.png
-      url: https://haisingcatholic.moe.edu.sg/hsc-open-house-2024/
-      alt: alt text
-  - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
       button: Haisian Experience
