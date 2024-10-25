@@ -7,7 +7,12 @@ variant: tiptap
 ---
 <h1>Hai Sing Catholic School Personnel</h1>
 <h2>School Leaders</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,7 +61,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Heads of Department</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -162,7 +172,7 @@ variant: tiptap
 <p>Amantha Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting HOD (Humanities)</p>
+<p>HOD (Humanities)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_jing_ting_amantha@moe.edu.sg</p>
@@ -184,7 +194,7 @@ variant: tiptap
 <p>Tan En Ci Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting HOD (Character &amp; Citizenship Education)</p>
+<p>HOD (Character &amp; Citizenship Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_en_ci_michelle@moe.edu.sg</p>
@@ -193,7 +203,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Subject Heads</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -330,7 +345,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Lead/Senior Teachers</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -411,7 +431,14 @@ variant: tiptap
 <br><em>rafidah_banu_abdul_razak@moe.edu.sg</em>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -480,13 +507,16 @@ variant: tiptap
 <p>Bharathi D/O Jayakumaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nabilah Binte Syed Sultan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:bharathi_jayakumaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bharathi_jayakumaran@moe.edu.sg</a>
+</p>
+<p></p>
+<p><a href="mailto:nabilah_syed_sultan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nabilah_syed_sultan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -519,7 +549,7 @@ variant: tiptap
 <p>Teo Hsin Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sandra Chong Shu Fen</p>
+<p>Chong Shu Fen Sandra</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -666,9 +696,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:renata_priscilla_winata@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">renata_priscilla_winata@moe.edu.sg</a>
 </p>
+<p></p>
 <p><a href="mailto:tan_en_ci_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_en_ci_michelle@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -731,7 +761,14 @@ variant: tiptap
 <br><em>nandakumar_rao_ramachandra@moe.edu.sg</em>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -915,7 +952,13 @@ variant: tiptap
 <br><strong>Nandakumar Rao s/o Ramachandra </strong>
 <br><em>nandakumar_rao_ramachandra@moe.edu.sg</em>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1102,7 +1145,12 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Administrative Staff</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

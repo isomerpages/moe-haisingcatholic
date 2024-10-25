@@ -32,10 +32,4 @@ sections:
       url: https://youtu.be/qlWlwAZJi4s
       image: /images/website logo.png
       alt: Image alt text
-  - infopic:
-      title: Hai Experiential Week
-      button: Click here to find out more
-      image: /images/week.png
-      url: /hai-experiential-week/permalink/
-      alt: alt text
 ---
