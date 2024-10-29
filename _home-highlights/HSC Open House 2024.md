@@ -91,7 +91,7 @@ is our unwavering dedication to providing a supportive learning environment.
 Our teachers are not just educators; they are mentors, guides, and advocates
 for every student's success. We believe in nurturing not only academic
 achievement but also the overall well-being of our students.</p>
-<p>[missing video: Hear why our students chose HSC]</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CCPmW1pGrF0?si=aCnEevJ-RpCzrq2V"></iframe>
 </div>
@@ -109,5 +109,4 @@ achievement but also the overall well-being of our students.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7Fbmx3FNo0g?si=Vx_FA4hISTZHfTL8"></iframe>
 </div>
 <p></p>
-<p>[missing video: CCA experiences]</p>
 <p></p>
