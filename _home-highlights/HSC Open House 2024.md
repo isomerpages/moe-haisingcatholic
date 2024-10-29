@@ -91,6 +91,9 @@ is our unwavering dedication to providing a supportive learning environment.
 Our teachers are not just educators; they are mentors, guides, and advocates
 for every student's success. We believe in nurturing not only academic
 achievement but also the overall well-being of our students.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ccEG1a8_iws?si=az2jqdE71NuK_hRS"></iframe>
+</div>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CCPmW1pGrF0?si=aCnEevJ-RpCzrq2V"></iframe>
@@ -106,7 +109,10 @@ achievement but also the overall well-being of our students.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7Fbmx3FNo0g?si=Vx_FA4hISTZHfTL8"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7Fbmx3FNo0g?si=aBFR_lIbZltdBKkR"></iframe>
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hP0pHhzHhuU?si=vUG1rq4ljnWbC8y0"></iframe>
+</div>
 <p></p>
