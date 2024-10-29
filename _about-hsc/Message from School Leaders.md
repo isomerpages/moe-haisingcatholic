@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>School Leaders' Message</strong></h1>
-<p><strong>A warm and heartfelt welcome to Hai Sing Catholic School!</strong>
+<p><strong>A warm and heartfelt welcome to Hai Sing Catholic School.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_Photo___x.jpg">
