@@ -32,6 +32,7 @@ sections:
       button: Find out more here
       url: https://haisingcatholic.moe.edu.sg/hsc-open-house-2024/
       image: /images/openhousebanner_2024.jpg
+      alt: Image alt text
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
