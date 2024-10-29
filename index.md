@@ -31,7 +31,7 @@ sections:
       description: Join us at our open house on 16 November 2024!
       button: Find out more here
       url: https://haisingcatholic.moe.edu.sg/hsc-open-house-2024/
-      image: /images/openhousebanner_2024.jpg
+      image: /images/HSC_Open_House_2024_Banner.jpg
       alt: Image alt text
   - infopic:
       title: HSC School Video
