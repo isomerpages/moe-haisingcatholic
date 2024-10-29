@@ -28,5 +28,5 @@ heritage to anchor our students of all faiths on values that they may live
 their lives purposefully in service to their community and the world.</p>
 <p>We are excited to partner you on this transformative journey of education
 and personal growth.</p>
-<p><strong><em>Ad Veritatem Per Caritatem and Hai Sing shine forth!</em></strong>
+<p><strong><em>Ad Veritatem Per Caritatem and Hai Sing shine forth!x</em></strong>
 </p>
