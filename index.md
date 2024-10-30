@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/hompage.jpg
       key_highlights:
-        - title: Class Timetable
+        - title: HSC Open House 2024
           description: Click HERE to read more!
-          url: /hsc-community/students/students-timetable/permalink/
+          url: https://haisingcatholic.moe.edu.sg/hsc-open-house-2024/
         - title: HSC Upgrading Programme
           description: Click HERE to read more!
           url: upgrading-programme/permalink/
@@ -25,6 +25,14 @@ sections:
       subtitle: Ad Veritatem per caritatem – To Truth Through Charity
   - infobar:
       title: Highlights
+  - infopic:
+      title: HSC Open House 2024
+      id: infopic
+      description: Join us at our open house on 16 November 2024!
+      button: Find out more here
+      url: https://haisingcatholic.moe.edu.sg/hsc-open-house-2024/
+      image: /images/HSC_Open_House_2024_Banner.jpg
+      alt: Image alt text
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
