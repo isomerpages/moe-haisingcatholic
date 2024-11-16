@@ -2,4 +2,5 @@ collections:
   home-highlights:
     output: true
     order:
+      - HSC PRIME Update for 2015.md
       - HSC Open House 2024.md
