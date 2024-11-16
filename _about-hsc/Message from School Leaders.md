@@ -18,9 +18,10 @@ students can flourish, guided by the values of Truth and Charity. HSC is
 not just a school; it is a Home where hearts belong, a School where students
 shine forth, and a Community that leads, cares, and serves.</p>
 <p>One of our core beliefs is to instill a passion for learning and to equip
-our students with the tools they need to take charge of their own education.
-We promote student agency because we understand that it is through this
-self-driven approach that students truly excel and become lifelong learners.</p>
+our students with the values and dispositions they need to take charge
+of their own education. We promote student agency because we understand
+that it is through this self-driven approach that students truly excel
+and become lifelong learners.</p>
 <p>Hai Sing Catholic School was founded by the Franciscan Missionaries of
 Mary (FMM). We are proud of our rich history and our ties to the many FMM
 schools around the world.&nbsp; We draw upon our Catholic and Franciscan
