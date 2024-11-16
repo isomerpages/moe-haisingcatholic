@@ -8,7 +8,7 @@ description: ""
 <p><strong>A warm and heartfelt welcome to Hai Sing Catholic School.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website.jpg">
 </div>
 <p>At Hai Sing Catholic School, our mission is to nurture students for a
 future that extends beyond mere academic success. We place an unwavering
