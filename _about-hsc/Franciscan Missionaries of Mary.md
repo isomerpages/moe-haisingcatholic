@@ -2,6 +2,7 @@
 title: Franciscan Missionaries of Mary
 permalink: /about-hsc/francisan-missionaries-of-mary/permalink/
 description: ""
+variant: markdown
 ---
 FRANCISCAN MISSIONARIES OF MARY
 ===============================
@@ -56,7 +57,7 @@ Sr. Nora is our school chaplain who oversees Catholic programmes in the school. 
 
 However, the school has also reached out to overseas FMM branches, such as the FMM in Kuantan, Malaysia. Students from the SLC team have visited to help out in cleaning, repairs, and renovations in both 2004 and 2005 as part of the FMM Trail and Community Involvement Project.
 
-![](/images/sister2.jpg)
+
 
 The FMM in Singapore
 --------------------
