@@ -1,5 +1,5 @@
 ---
-title: Sec 1 Reg 2025
+title: Secondary One Administration Matter
 permalink: /sec-1-reg-2025/
 variant: tiptap
 description: ""
