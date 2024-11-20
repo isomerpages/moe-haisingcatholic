@@ -14,7 +14,7 @@ sections:
           url: https://haisingcatholic.moe.edu.sg/hsc-open-house-2024/
         - title: HSC Upgrading Programme
           description: Click HERE to read more!
-          url: https:/haisingcatholic.moe.edu.sg/hsc-prime-update-for-2015/
+          url: https:/haisingcatholic.moe.ed.sg/hsc-prime-update-2025/
         - title: School Based Assessment
           description: Click HERE to read more!
           url: /hsc-community/students/school-based-assessment/permalink/
