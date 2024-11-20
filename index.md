@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/hompage.jpg
       key_highlights:
-        - title: HSC Open House 2024
+        - title: Secondary One Registration 2025
           description: Click HERE to read more!
-          url: https://haisingcatholic.moe.edu.sg/hsc-open-house-2024/
+          url: https://haisingcatholic.moe.edu.sg/sec-1-reg-2025/
         - title: HSC Upgrading Programme
           description: Click HERE to read more!
-          url: upgrading-programme/permalink/
+          url: https:/haisingcatholic.moe.ed.sg/hsc-prime-update-2025/
         - title: School Based Assessment
           description: Click HERE to read more!
           url: /hsc-community/students/school-based-assessment/permalink/

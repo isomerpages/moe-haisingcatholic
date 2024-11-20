@@ -2,4 +2,6 @@ collections:
   home-highlights:
     output: true
     order:
+      - Sec 1 Reg 2025.md
       - HSC Open House 2024.md
+      - HSC PRIME Update 2025.md
