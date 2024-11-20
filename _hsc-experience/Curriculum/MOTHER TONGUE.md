@@ -48,6 +48,9 @@ about the Malay culture.’_&nbsp;– Nazzyfa Nazzura Bte Mohd Naser, 3 Independ
 Mother Tongue Languages:</p>
 <p><a href="https://www.haisingcatholic.moe.edu.sg/join-hsc/faq/permalink/" rel="noopener noreferrer nofollow" target="_blank">https://www.haisingcatholic.moe.edu.sg/join-hsc/faq/permalink/</a>
 </p>
+<p></p>
+<p><a href="https://www.haisingcatholic.moe.edu.sg/join-hsc/faq/permalink/" rel="noopener nofollow" target="_blank">Click here for FAQ segment</a>
+</p>
 <h3><strong>Higher Mother Tongue Languages</strong></h3>
 <p>Students with an overall PSLE score of 8 or better, or an overall PSLE
 score of 9 to 14 and attains AL1/AL2 in MTL or Distinction/ Merit in HMTL
