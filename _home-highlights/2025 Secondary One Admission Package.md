@@ -416,7 +416,43 @@ link:<a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/full
 <p>Please refer to the information deck for parents below:</p>
 <p><a href="https://drive.google.com/file/d/1rsKfYDEszv_XhlK8Wn0a0zXfAQeoTpXg/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Information Deck for P6 Parents.pdf</u></a>
 </p>
+<p></p>
+<ul>
+<li>
+<p><strong>Mother Tongue Languages (MTL) Matters&nbsp;</strong>
+</p>
+</li>
+</ul>
+<p>Please click on this link: <a href="https://www.haisingcatholic.moe.edu.sg/hsc-experience/Curriculum/mother-tongue/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.haisingcatholic.moe.edu.sg/hsc-experience/Curriculum/mother-tongue/permalink/</u></a> &nbsp;
+for more information on the following MTL languages:&nbsp;</p>
+<ul>
+<li>
+<p>Higher Mother Tongue Languages</p>
+</li>
+<li>
+<p>Tamil Language</p>
+</li>
+<li>
+<p>Non Tamil-in-Lieu Languages&nbsp;</p>
+</li>
+<li>
+<p>Third Languages&nbsp;</p>
+</li>
+<li>
+<p>Mother Tongue-in-Lieu Languages</p>
+</li>
+</ul>
+<p>For any queries, please may call the school 6582 7864 or contact the following
+officer:
+<br>
+<br><strong>Mr Zain, Subject Head Mother Tongue Language</strong>
+<br>
+<br>Email: <a href="https://www.haisingcatholic.moe.edu.sg/hsc-experience/Curriculum/mother-tongue/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>mohamed_zain_b_mohamed@schools.gov.sg</u></a>
+</p>
+<p><strong>Ms Sim Hui Teng, HOD Mother Tongue Language</strong>
+</p>
 <p>
+<br>
 <br>
 </p>
 </td>
