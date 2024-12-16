@@ -362,3 +362,65 @@ certificate.
 <br>2. Attire for <strong>Tuesdays to Fridays would be dark blue school polo t-shirt and school pants/shorts/ skirt.</strong>
 </p>
 <p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p><strong>MOE Financial Assistance Scheme (FAS)</strong>
+</p>
+</li>
+</ul>
+<p>For students whose 2025 MOE FAS applications have been approved by their
+primary schools, please call Hai Sing Catholic School general office @
+6582 7864 <strong>OR </strong>write to Mr Lim San <a href="mailto:lim_san_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_san_a@schools.gov.sg</u></a> with
+the approval letter attached (scanned or snapshot copy) from the processing
+school for further assistance.&nbsp; This is to allow ample time for us
+to prepare the approval letter beforehand.&nbsp;&nbsp;</p>
+<p>&nbsp;Application forms for financial assistance are also available at
+the school’s general office. <a href="mailto:lim_san_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efas</u></a> (Click
+here)&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p>
+<br>
+<br>For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank"><u>MOE FAS website</u></a>.</p>
+<p></p>
+<ul>
+<li>
+<p><strong>Full Subject-Based Banding (Full SBB)</strong>
+</p>
+</li>
+</ul>
+<p>Full SBB is part of MOE’s ongoing efforts to nurture the joy of learning
+and develop multiple pathways to cater to different strengths and interests
+of students.</p>
+<p>With Full SBB, we are moving towards a secondary school education where
+students learn each subject at the level that best caters to their overall
+strengths, interests and learning needs.
+<br>
+<br>Students who are eligible to do subjects at a more demanding level will
+be informed by the school via Parents Gateway.&nbsp; Please refer to this
+link:<a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/full-subject-based-banding/permalink/" rel="noopener noreferrer nofollow" target="_blank"> </a>&nbsp;
+<a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/full-subject-based-banding/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/microsites/psle-fsbb/index.html</u>
+</a>for more information.
+<br><strong><u><br></u></strong>For any queries, please may call the school
+6582 7864 or contact the following officer:<strong><br><br>Ms Joseph Tabitha Lee, HOD English Language and Literature </strong>
+<br>Email: <a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/full-subject-based-banding/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>Joseph_Tabitha_Lee@moe.edu.sg</u></a>
+</p>
+<p>Please refer to the information deck for parents below:</p>
+<p><a href="https://drive.google.com/file/d/1rsKfYDEszv_XhlK8Wn0a0zXfAQeoTpXg/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>Information Deck for P6 Parents.pdf</u></a>
+</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
