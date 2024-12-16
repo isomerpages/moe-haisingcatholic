@@ -208,6 +208,108 @@ To alleviate traffic congestion due to the confluence of vehicles at the
 main gate, vehicles will be directed to make a left turn onto the main
 road upon exiting the school gate. For the safety of our students, kindly
 abide by the above recommendations.</p>
-<p></p>
-<p></p>
+<ul>
+<li>
+<p><strong>2025 Secondary 1 Orientation Programme&nbsp;</strong>
+</p>
+</li>
+</ul>
+<p>To ease your child/ward’s transition into secondary school life, we have
+planned a two-day orientation programme to welcome him/her into the Hai
+Sing Family and help him/her adapt to the new learning environment. The
+activities will also help them to forge friendships and bonds with their
+new classmates and teachers.</p>
+<p>Please refer to the table below for the dismissal times. A detailed programme
+sheet will be distributed to your child/ward on his/her first day of school.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Orientation Days</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dismissal Times</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday (2nd Jan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5:00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday (3rd Jan)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12:40pm</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>
+<p><strong>Secondary 1 Parent-Teacher Conference (PTC)</strong>
+</p>
+</li>
+</ul>
+<p>Parents of Secondary One students are cordially invited to the school
+on <strong>Wednesday, 8 January</strong>, to attend our inaugural Parent-Teacher
+Conference (PTC) in the hall. The conference will feature addresses by
+school leaders and key personnel. Further details will be shared through
+Parents Gateway, where you can confirm your attendance.</p>
+<ul>
+<li>
+<p><strong>&nbsp;Secondary One Outdoor Adventure Learning (OAL) Camp&nbsp;</strong>
+</p>
+</li>
+</ul>
+<p>The Secondary One Outdoor Adventure Learning Camp aims to have every student
+experience a holistic education so as to develop well-rounded individuals.
+Outdoor Education (OE) provides rich learning experiences outside the classroom
+that can help our students develop resilience and ruggedness. As an added
+objective, students get to bond as a class and cohort, as well as their
+form teachers. This builds the foundation of a support network for the
+new students in the school.&nbsp;</p>
+<p>The Secondary One OAL Camp will take place from <strong>14 January 2025 to 16 January 2025. This will be a mandatory participation.&nbsp;</strong>
+</p>
+<p>More information will take place about the Secondary One OAL Camp will
+be sent to parents by Parents Gateway.&nbsp;</p>
+<p>Should you have any queries, please contact the following officer:</p>
+<p>Mr Seow Han Chien, <strong>HOD/PE, CCA &amp; Aesthetics&nbsp;</strong>
+</p>
+<p>Email: <a href="mailto:seow_han_chien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seow_han_chien@moe.edu.sg</u></a>&nbsp;</p>
+<p>Tel: 6582 7864</p>
+<ul>
+<li>
+<p><strong>HAI SING CATHOLIC SCHOOL Co Curricular Activities (CCA) Information</strong>
+</p>
+</li>
+</ul>
+<p>The CCA Programme provides students with a platform to discover their
+interests and talents. As one of the key Student Development Experiences
+(SDEs) in school, CCA plays an important role in the holistic development
+and well-being of our students.</p>
+<p>The 2025 Secondary One Students will be given the CCA Option Form <strong>during the CCA Exhibition</strong>.
+The CCA Exhibition and CCA selection trial will take place on<strong> 6 January, Monday at 1pm.</strong> More
+information about the CCA Exhibition and Selection Trial will be sent to
+parents by Parents Gateway.&nbsp;</p>
+<p>Please submit the CCA Option Form <strong>by 12th January 2025.&nbsp;</strong>
+</p>
+<p>Should you have any queries, please contact the following officer:</p>
+<p>Mr Seow Han Chien, <strong>HOD/PE, CCA &amp; Aesthetics&nbsp;</strong>
+</p>
+<p>Email: <a href="mailto:seow_han_chien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seow_han_chien@moe.edu.sg</u></a>&nbsp;</p>
+<p>Tel: 6582 7864</p>
+<p>Link to CCA site: <a href="mailto:seow_han_chien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.haisingcatholic.moe.edu.sg/hsc-experience/co-curriculum/purpose-of-cca/permalink/</u></a>&nbsp;
+<br>
+</p>
 <p></p>
