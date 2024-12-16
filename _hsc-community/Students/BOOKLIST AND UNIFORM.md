@@ -75,7 +75,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong><u>2025 Sale of Uniform and booklist for Secondary Five </u></strong>
+<p><strong><u>2025 Sale of Uniform and booklist for Secondary Five</u></strong>
 </p>
 <p>Please find the information <a href="https://drive.google.com/file/d/1l-Ou_ROGixYSO71Ln18t_8efXldfE7gr/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
 </p>
