@@ -312,4 +312,53 @@ parents by Parents Gateway.&nbsp;</p>
 <p>Link to CCA site: <a href="mailto:seow_han_chien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.haisingcatholic.moe.edu.sg/hsc-experience/co-curriculum/purpose-of-cca/permalink/</u></a>&nbsp;
 <br>
 </p>
+<ul>
+<li>
+<p><strong>Purchase of Textbooks and Uniform<br></strong>
+</p>
+</li>
+<li>
+<p>Available for <em>purchase at the school canteen </em><strong><em>(</em>with appointment)</strong> between <strong>20 Dec to 30 Dec 2024</strong>.
+*Only <strong>1 appointment</strong> is required for <strong>entry into the school.</strong>
+</p>
+<p></p>
+</li>
+<li>
+<p>Parents are <u>strongly encouraged</u> to <u>order textbooks online</u> between <u>19 Dec to 23 Dec</u> and <em><u>opt for collection from school between 26 Dec to 30 Dec 2024</u> to minimize waiting time. (</em><strong><em>appointment</em></strong> has
+to be booked for <strong>entry into the school</strong>)</p>
+<p></p>
+</li>
+<li>
+<p>Please refer to the link below for<strong> booking of appointment</strong> for
+entry into the school.</p>
+<p></p>
+</li>
+<li>
+<p>Students would need to order <u>1 set of 2 name tags at $6.00</u> directly
+with the school bookshop (students can also order at school bookshop during <u>first week</u> of
+school).</p>
+<p></p>
+</li>
+<li>
+<p>Students are recommended to purchase 2 sets of school uniforms.</p>
+</li>
+</ul>
+<p><strong>Please click on the link for the book lists and details:-<u><br></u><a href="https://outlook.office365.com/book/HAISINGCATHOLICSCHOOLSECONDARY1UNIFORMSALESSCHOOLSITE@jeepsing.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.haisingcatholic.moe.edu.sg/hsc-community/Students/booklist-and-uniform/permalink/</u></a><u> <br></u><br></strong>Please
+book <a href="https://outlook.office365.com/book/HAISINGCATHOLICSCHOOLSECONDARY1UNIFORMSALESSCHOOLSITE@jeepsing.com/" rel="noopener noreferrer nofollow" target="_blank"><u>an appointment</u></a> for
+entry into Hai Sing Catholic School for collection/purchase of textbook
+and uniform.</p>
+<p>Please show the appointment confirmation at the guard house.&nbsp;</p>
+<p>In addition to booking appointment slot for your visit, we also seek the
+cooperation of parents/ guardians to ensure the following:</p>
+<p>1. Students coming to the school should be in proper attire (e.g. no coloured
+hair).</p>
+<p>2. Please do not come to the school if you are unwell or given a medical
+certificate.
+<br>
+<br><strong>Important information:</strong>
+<br>1. Students will be required to wear<strong> full school uniform on Mondays </strong>only
+(White shirt/blouse with school pants/ shorts/skirt)
+<br>
+<br>2. Attire for <strong>Tuesdays to Fridays would be dark blue school polo t-shirt and school pants/shorts/ skirt.</strong>
+</p>
 <p></p>
