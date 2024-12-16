@@ -74,6 +74,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong><u>2025 Sale of Uniform and booklist for Secondary Five</u></strong>
+</p>
+<p>Please find the information <a href="https://drive.google.com/file/d/1l-Ou_ROGixYSO71Ln18t_8efXldfE7gr/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <h2>Sales of School Uniform and PE Attire</h2>
 <p>Information on the 2025 uniform and textbook sales can be found via this
 <a href="/files/V2_For_2025_Sec_2_4_Uniform_and_Textbook_sales.pdf" rel="noopener nofollow" target="_blank">link</a>.</p>
