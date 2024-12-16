@@ -446,13 +446,177 @@ for more information on the following MTL languages:&nbsp;</p>
 officer:
 <br>
 <br><strong>Mr Zain, Subject Head Mother Tongue Language</strong>
-<br>
 <br>Email: <a href="https://www.haisingcatholic.moe.edu.sg/hsc-experience/Curriculum/mother-tongue/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>mohamed_zain_b_mohamed@schools.gov.sg</u></a>
 </p>
 <p><strong>Ms Sim Hui Teng, HOD Mother Tongue Language</strong>
 </p>
-<p>
+<p>Email: <a href="mailto:sim_hui_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sim_hui_teng@schools.gov.sg</u></a>
 <br>
+</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p><strong>Personalised Digital Literacy Programme (PDLP)&nbsp;</strong>
+</p>
+</li>
+</ul>
+<p>Through the National Digital Literacy Programme (NDLP), all secondary
+school students will own a school-prescribed Personal Learning Device (PLD).
+Secondary one students would be invited to purchase a school-prescribed
+PLD. Students who are Singapore Citizens can use their Edusave Account
+to pay for the PLD.
+<br>
+<br>The PLD will be used in tandem with the national e-learning platform –
+the Singapore Student Learning Space (SLS) – as well as other educational
+technology tools to personalise and enhance students’ learning. This will
+also enable students to acquire digital skills and apply these skills as
+they navigate an increasingly digitised world.
+<br>
+<br>For more information on Hai Sing Catholic’s PDLP, please refer to <a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/pdlp/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.haisingcatholic.moe.edu.sg/hsc-community/students/pdlp/permalink/</u></a>
+</p>
+<p><u><br></u> Details on the purchase of PLDs will be shared on a later date.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p><strong>Art/Music Elective Programme (AEP/MEP)</strong>
+</p>
+</li>
+</ul>
+<p>Secondary One students who exhibit interest and passion for Art/Music
+can apply for Art/Music Elective Programme (AEP/MEP) in the following AEP/MEP
+Centres:</p>
+<p>• AEP: National Junior College</p>
+<p>• MEP: Anglo-Chinese School (Independent)</p>
+<p>• MEP: Dunman High School</p>
+<p>The online application is open from 2 -15 January 2025.&nbsp;</p>
+<p><strong>AEP Selection Exercise Phase 1</strong>: <a href="https://go.gov.sg/aepmep2025" rel="noopener noreferrer nofollow" target="_blank"><u>Online application</u></a> including
+submission of an e-portfolio of artworks&nbsp;</p>
+<p><strong>MEP Selection Exercise Phase 1A: </strong><a href="https://go.gov.sg/2023mepcentreapplication" rel="noopener noreferrer nofollow" target="_blank"><u>Online application</u></a> including
+submission of student’s recorded video performance *For interested students,
+music coordinators may assign these lesson packages located within the
+SLS MOE Library: • ‘O-Level Music Taster’: Teasers of O-Level Music content
+• ‘Music Theory Companion’: Music theory fundamentals&nbsp;</p>
+<p>Successful applicants will attend weekly lessons in the afternoon at the
+AEP/MEP Centre and are expected to commit to the programme for 4 years.
+Prior to application, interested students and their parents should work
+closely with the students’ secondary schools to ensure that their school
+timetable and commitments would allow them to participate fully in the
+AEP/MEP.</p>
+<p>Do refer to important details in web links provided below.</p>
+<p><a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/pdlp/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>https://moe.gov.sg/aep</u></a>
+</p>
+<p><a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/pdlp/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>https://moe.gov.sg/mep</u></a>
+</p>
+<p>For any queries, please may call the school 6582 7864 or contact the following
+officers:<strong><br><br></strong>
+</p>
+<p><strong>Mr Seow Han Chien, HOD/PE, CCA &amp; Aesthetics&nbsp;</strong>
+</p>
+<p>Email: <a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/pdlp/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>seow_han_chien@moe.edu.sg</u></a>&nbsp;</p>
+<p><strong>Ms Sharon Goh, HOD Craft &amp; Technology</strong>
+</p>
+<p>Email: <a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/pdlp/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>goh_bee_hoon_a@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p><strong>Arrangement for Students with Special Educational Needs (SEN)</strong>
+</p>
+</li>
+</ul>
+<p>For parents of students with Special Educational Needs (SEN), the school's
+SEN Officers will be reaching out to you via Parents Gateway.</p>
+<p>For urgent enquiries or if you would like to reach out to us, you can
+contact the following officers:</p>
+<p><strong>Mr Jamal/SEN Officer <br></strong>Email: <a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/pdlp/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_jamal_abdullah@schools.gov.sg</u></a>&nbsp;</p>
+<p><strong>Mdm Rohana/SEN Officer <br></strong>Email: <a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/pdlp/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>rohana_abdul_latip_a@schools.gov.sg</u></a>
+</p>
+<p>Tel: 6582 7864</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p><strong>School Counselling Support&nbsp;</strong>
+</p>
+</li>
+</ul>
+<p>Parents who would like to find out more about the school’s counselling
+support system can contact our HOD for Student Well-Being &amp; Development
+and/or our School Counsellor:</p>
+<p></p>
+<p><strong>Mr Rizal Bin Subani / HOD Student Well-Being &amp; Development</strong>
+</p>
+<p>Email: <a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/pdlp/permalink/" rel="noopener noreferrer nofollow" target="_blank"><u>rizal_subani@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p><strong>Appeals for Transfer OUT</strong>
+</p>
+</li>
+</ul>
+<p>(A) Appeal for transfer for serious medical conditions: <strong>Medical Appeal Exercise (MAE)</strong>
+</p>
+<p>If you have been posted to Hai Sing Catholic School, but assess that the
+school is unable to accommodate your child’s physical health needs, you
+may appeal for a transfer out. Appeals can be filed at the school’s general
+office in person <strong><u>by 2pm on 19 December 2024.&nbsp;&nbsp;</u></strong>
+</p>
+<p>All appeals must be accompanied by relevant supporting documents, such
+as medical reports, letters from doctors.</p>
+<p>The appeal results will be released in early January 2025.</p>
+<p><strong>(B) Students who are posted to Hai Sing Catholic School but would like to seek a transfer OUT due to other (non-medical) reasons</strong>
+</p>
+<p>• Refer to your <u>preferred school’s</u> website for more information.</p>
+<p>• You should still report to Hai Sing Catholic School on <strong>2 January 2025</strong> if
+you do not hear from your preferred school by then.</p>
+<p>• While awaiting reply from the other school, you will not need to purchase
+HSC uniforms and books</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p><strong>Appeals for Transfer IN</strong>
+</p>
+</li>
+</ul>
+<p>Students who wish to appeal to transfer to Hai Sing Catholic School:</p>
+<p>For <strong>non-medical reasons</strong>, please submit your appeal via
+this <a href="https://go.gov.sg/s1appealhsc2025" rel="noopener noreferrer nofollow" target="_blank"><u>online form</u></a> by
+24 December 2024, 12pm.</p>
+<p></p>
+<p>Please note that your PSLE score should meet the school's cut-off point
+of the posting year. The appeal will be subject to available vacancies
+and the school’s admission criteria.</p>
+<p>The application is deemed to be unsuccessful if you do not hear from the
+school by 2 January 2025.&nbsp;</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 </p>
 </td>
