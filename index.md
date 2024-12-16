@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/hompage.jpg
       key_highlights:
-        - title: Secondary One Registration 2025
+        - title: 2025 Secondary One Admission
           description: Click HERE to read more!
           url: https://haisingcatholic.moe.edu.sg/sec-1-reg-2025/
         - title: HSC Upgrading Programme
