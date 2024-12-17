@@ -1,10 +1,11 @@
 ---
-title: 2025 Secondary One Admissions
-permalink: /sec-1-reg-2025/
+title: SEC ONE ADMISSIONS
+permalink: /hsc-community/students/sec-one-registration/permalink/
 variant: tiptap
 description: ""
-image: /images/S1_Admisssion_2025.png
+third_nav_title: Students
 ---
+<h1><strong>Sec One Admissions</strong></h1>
 <p>Dear Parents/Guardians,</p>
 <p>Congratulations on the posting of your child/ ward to Hai Sing Catholic
 School!</p>
@@ -71,3 +72,6 @@ of the posting
 criteria.</p>
 <p>The application is deemed to be unsuccessful if you do not hear from the
 school by end of January 2025.&nbsp;</p>
+<hr>
+<p></p>
+<p></p>

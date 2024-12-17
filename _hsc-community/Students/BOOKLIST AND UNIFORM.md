@@ -10,6 +10,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hsccommunity%20uniform%20and%20Booklist1.png">
 </div>
 <h2>2025 Booklist</h2>
+<p><strong><u>2025 Booklist for Secondary 1</u></strong>
+</p>
+<p>Please find the 2024 Booklist for Secondary 1 <a href="https://drive.google.com/file/d/1ywM-YJePC_ZDc_SpYOgV_564xc93cQ_9/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
+</p>
+<p></p>
 <p><strong><u>2025 Booklist for Secondary 2</u></strong>
 </p>
 <p>Please find the 2024 Booklist for Secondary 2 <a href="/files/HSCS_Booklist_2025__S2_Final.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
