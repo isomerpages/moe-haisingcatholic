@@ -46,7 +46,7 @@ about the Malay culture.’_&nbsp;– Nazzyfa Nazzura Bte Mohd Naser, 3 Independ
 <h2>Mother Tongue Languages Information</h2>
 <p>Please refer to the link below for Frequently Asked Questions on the various
 Mother Tongue Languages:</p>
-<p><a href="https://www.haisingcatholic.moe.edu.sg/join-hsc/faq/permalink/" rel="noopener noreferrer nofollow" target="_blank">https://www.haisingcatholic.moe.edu.sg/join-hsc/faq/permalink/</a>
+<p><a href="https://docs.google.com/document/d/1lax4Bv1vLTd-A95s6fbultz5aVzjzf_G/edit?usp=sharing&amp;ouid=112286528123252573144&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">https://www.haisingcatholic.moe.edu.sg/join-hsc/faq/permalink/</a>
 </p>
 <h3><strong>Higher Mother Tongue Languages</strong></h3>
 <p>Students with an overall PSLE score of 8 or better, or an overall PSLE
