@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2> <strong>A. General Information for Secondary 1 students newly-posted to Hai Sing Catholic School</strong><br><br></h2>
+<h2><strong>A. General Information for Secondary 1 students newly-posted to Hai Sing Catholic School</strong><br><br></h2>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><em>What do I need to do after receiving the posting results to Hai Sing Catholic School? <br><br></em></strong>
