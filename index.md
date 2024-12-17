@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/hompage.jpg
       key_highlights:
-        - title: Secondary One Registration 2025
+        - title: 2025 Secondary One Admission
           description: Click HERE to read more!
           url: https://haisingcatholic.moe.edu.sg/sec-1-reg-2025/
         - title: HSC Upgrading Programme
@@ -26,12 +26,12 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: HSC Open House 2024
+      title: 2024 GCE N-Level Results
       id: infopic
-      description: Join us at our open house on 16 November 2024!
-      button: Find out more here
-      url: https://haisingcatholic.moe.edu.sg/hsc-open-house-2024/
-      image: /images/HSC_Open_House_2024_Banner.jpg
+      description: For Students - Information for Results Release and Admission Matters
+      button: Click here
+      url: https://drive.google.com/file/d/1OIyq-aplf_uxszIcOyTwUCvmNx9s5RIt/view?usp=sharing
+      image: /images/GCEN.png
       alt: Image alt text
   - infopic:
       title: HSC School Video
