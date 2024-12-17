@@ -14,6 +14,8 @@ variant: tiptap
 </p>
 <p>Please find the 2024 Booklist for Secondary 1 <a href="https://drive.google.com/file/d/1ywM-YJePC_ZDc_SpYOgV_564xc93cQ_9/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
 </p>
+<p>For purchase of school uniform &amp; PE Attire for Sec 1 Students <a href="https://drive.google.com/file/d/1JmDRS1_GWOdlYDaJ0zyN_L5X5YbYqKiz/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <p></p>
 <p><strong><u>2025 Booklist for Secondary 2</u></strong>
 </p>
