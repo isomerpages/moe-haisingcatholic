@@ -20,7 +20,7 @@ as that on the purchase of uniforms and books, first day of school, etc.&nbsp;</
 through Parents Gateway.&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>FAQs</strong>
-<br>You may refer to our school’s <strong><a rel="noopener noreferrer nofollow" target="_blank">FAQ</a><a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[RBBAR2]</a>&nbsp;</strong> page
+<br>You may refer to our school’s <a href="https://drive.google.com/file/d/1Rc29C-5oHc8VaubPJK_SBps8jiBa9vnJ/view?usp=sharing" rel="noopener nofollow" target="_blank">(left-click to download)</a>page
 for further information as well.</p>
 <p>&nbsp;</p>
 <p><strong>Appeals for Transfer IN</strong>
