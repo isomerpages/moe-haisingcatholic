@@ -6,13 +6,6 @@ third_nav_title: Students
 variant: tiptap
 ---
 <h1>PERSONALISED DIGITAL LEARNING PROGRAMME</h1>
-<h2>Key Message on PDLP</h2>
-<p>Please click on the image below to play the PDLP message video:
-<br><a href="https://youtu.be/FkFdNk2xhKE" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdlp%20hod%20message.jpeg">
-</div>
 <h2>General Information for Parents</h2>
 <ul data-tight="true" class="tight">
 <li>
@@ -94,49 +87,6 @@ filtering out:</p>
 </li>
 </ul>
 <p>PLD usage time will be set to 6 a.m. to 10.00 p.m.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>For parents/guardians who prefer to take charge of the level of restrictions
-for their child’s/ward’s use of the device after school hours can request
-to change their choice of DMA settings to Option A and Option B at this
-<a href="https://form.gov.sg/65d3235ffc9a16703f26abcc" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
-</li>
-</ul>
-<p>Parent/guardian who wish to learn how to use the DMA to monitor their
-child’s/ward’s PLD activities, please select the following Guide:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Parents Guide for DMA Default Option:</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/PDLP/dma%20parent%20guide%20for%20default%20option%20(chrome%20devices)_2%20sep%2021.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Default Parent Guide</a>
-</p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Parents Guide for DMA Option A:</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/PDLP/dma%20parent%20guide%20for%20option%20a%20(chrome%20devices)_2%20sep%2021.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Option A Parents Guide</a>
-</p>
-</li>
-</ul>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Parents Guide for DMA Option B:</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/PDLP/dma%20parent%20guide%20for%20option%20b%20(chrome%20devices)_2%20sep%2021.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Option B Parents Guide</a>
-</p>
-</li>
-</ul>
 <h2>Student Resource Kit</h2>
 <p>Please click on the below link to view the Student's resource kit:</p>
 <ul>
