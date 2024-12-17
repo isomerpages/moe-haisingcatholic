@@ -33,7 +33,6 @@ sections:
       url: https://drive.google.com/file/d/1OIyq-aplf_uxszIcOyTwUCvmNx9s5RIt/view?usp=sharing
       image: /images/GCEN.png
       alt: Image alt text
-      subtitle: ""
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
