@@ -18,7 +18,6 @@ your child/ ward for the first day of school. Please refer to <strong>this S1 Ad
 as that on the purchase of uniforms and books, first day of school, etc.&nbsp;</p>
 <p>Additionally, you can access your child’s/ ward’s 2025 Sec 1 class allocation
 through Parents Gateway.&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>FAQs</strong>
 <br>You may refer to our school’s <a href="https://drive.google.com/file/d/1Rc29C-5oHc8VaubPJK_SBps8jiBa9vnJ/view?usp=sharing" rel="noopener nofollow" target="_blank">(left-click to download)</a>page
 for further information as well.</p>
