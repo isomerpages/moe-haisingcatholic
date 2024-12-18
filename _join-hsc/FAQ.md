@@ -4,7 +4,7 @@ permalink: /join-hsc/faq/permalink/
 description: ""
 variant: tiptap
 ---
-<h2>2023 HSC E-Open House FAQs</h2>
+<h2> Frequently Asked Questions</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>FAQ Document Directory</p>
+<p>FAQ Directory</p>
 </th>
 </tr>
 <tr>
