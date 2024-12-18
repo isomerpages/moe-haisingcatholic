@@ -49,7 +49,7 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<p>Students and parents must refer to our <a href="https://www.haisingcatholic.moe.edu.sg/sec-1-reg-2025/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Admissions webpage</a> for
+<p>Students and parents must refer to our <a href="https://haisingcatholic.moe.edu.sg/sec-1-admissions-2025/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Admissions webpage</a> for
 important information, as well as read important messages that will be
 progressively sent via Parents Gateway (PG) for further information on
 the Secondary 1 Admissions exercise to Hai Sing Catholic School. The first
