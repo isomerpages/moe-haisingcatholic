@@ -12,9 +12,9 @@ School!</p>
 posted secondary schools upon receiving their S1 posting results.</p>
 <p>The school will utilise Parents Gateway (PG) as the primary communication
 channel to provide pertinent information that would aid you in preparing
-your child/ ward for the first day of school. Please refer to <strong>this S1 Admissions information package </strong>
-<a href="https://drive.google.com/file/d/19d474LSuPqvInhwaoii1AkObhZSLZIom/view?usp=sharing" rel="noopener nofollow" target="_blank">XXXX</a><strong> </strong>for key information, such as that on the purchase
-of uniforms and books, first day of school, etc.&nbsp;</p>
+your child/ ward for the first day of school. Please refer to <strong>this S1 Admissions information package </strong>for
+key information, such as that on the purchase of uniforms and books, first
+day of school, etc.&nbsp;</p>
 <p>Additionally, you can access your child’s/ ward’s 2025 Sec 1 class allocation
 through Parents Gateway.&nbsp;</p>
 <p><strong>FAQs</strong>
