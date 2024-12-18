@@ -1,6 +1,6 @@
 ---
 title: 2025 Secondary One Admissions
-permalink: /sec-1-reg-2025/
+permalink: /sec-1-admissions-2025/
 variant: tiptap
 description: ""
 image: /images/S1_Admisssion_2025.png

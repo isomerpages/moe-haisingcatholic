@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: 2025 Secondary One Admissions
           description: Click HERE to read more!
-          url: https://haisingcatholic.moe.edu.sg/sec-1-reg-2025/
+          url: https://haisingcatholic.moe.edu.sg/sec-1-admissions-2025/
         - title: HSC Upgrading Programme
           description: Click HERE to read more!
           url: https://haisingcatholic.moe.edu.sg/hsc-prime-update-2025/
