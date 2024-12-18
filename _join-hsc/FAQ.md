@@ -45,7 +45,7 @@ variant: tiptap
 <h2><strong>A. General Information for Secondary 1 students newly-posted to Hai Sing Catholic School</strong><br><br></h2>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong><em>What do I need to do after receiving the posting results to Hai Sing Catholic School? <br><br></em></strong>
+<p><strong><em>What do I need to do after receiving the posting results to Hai Sing Catholic School? <br></em></strong>
 </p>
 </li>
 </ol>
@@ -55,11 +55,9 @@ progressively sent via Parents Gateway (PG) for further information on
 the Secondary 1 Admissions exercise to Hai Sing Catholic School. The first
 PG message will be sent by Thursday, 19 Dec 2024.
 <br>
-<br>
 </p>
 <p>Students and parents <strong>do not</strong> have to report to school after
 the posting results are out.
-<br>
 <br>
 </p>
 <ol start="2" data-tight="true" class="tight">
@@ -68,22 +66,16 @@ the posting results are out.
 </p>
 </li>
 </ol>
-<p></p>
 <p>Books and uniforms will be available for purchase in the school canteen
 between 20 and 30 Dec 2024. Please use the QR code (below) to make a booking
 to enter the school.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR__1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR4.png">
 </div>
 <p><a href="https://outlook.office365.com/book/HAISINGCATHOLICSCHOOLUNIFORMSALES@jeepsing.com/" rel="noopener noreferrer nofollow" target="_blank">https://outlook.office365.com/book/HAISINGCATHOLICSCHOOLUNIFORMSALES@jeepsing.com/</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <p>Books may also be ordered online for collection from school between 26
 and 30 Dec 2024.</p>
-<p>&nbsp;</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong><em>Where can I find the uniform and book lists?</em></strong>
@@ -93,16 +85,13 @@ and 30 Dec 2024.</p>
 <p>Uniform and book lists for Secondary 1 can be found at:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.haisingcatholic.moe.edu.sg/hsc-community/Students/booklist-and-uniform/permalink/</a>
 </p>
-<p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong><em>What modes of payment are accepted by the vendors?</em></strong>
 </p>
 </li>
 </ol>
-<p></p>
 <p>Cash, PayNow, DBS Paylah! for on-site purchase in school.</p>
-<p></p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p><strong><em>Should I purchase books and uniforms if I intend to apply for financial assistance (FA) or waiting for the outcome of my appeal for transfer into another school?</em></strong>
@@ -113,7 +102,6 @@ and 30 Dec 2024.</p>
 <p>Students intending to apply for FA and/or waiting for the outcomes of
 their appeal for transfer into another school are advised not to buy books
 and uniforms until the outcome of their FA application or transfer is finalised.</p>
-<p>&nbsp;</p>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p><strong><em>Can I apply for financial assistance (FA)?</em></strong>
@@ -143,19 +131,17 @@ primary school attire.</p>
 <li>
 <p><strong><em>What are the considerations for S1 posting transfer appeals and what do I need to do if I wish to put up an appeal?</em></strong>
 </p>
+<p></p>
 </li>
 </ol>
-<p></p>
 <p>For exceptional cases where the student has serious medical conditions
 or serious physical impairments (such as those requiring permanent use
 of a wheelchair), please check with the posted school immediately on the
 Medical Appeal Exercise; students who wish to appeal must still complete
 formalities at the posted school.</p>
-<p></p>
 <p>Appeal results will only be made known to applicants in early January
 through the posted Secondary School. Applicants should continue to attend
 lessons at their posted school while waiting for the results of the appeal.</p>
-<p></p>
 <p>If you are seeking a transfer due to reasons other than medical conditions
 or disability, you may check the website and/or directly contact the school
 of choice. Do note that your child’s PSLE score should meet the schools’
@@ -165,13 +151,10 @@ vacancies and meeting the school-based criteria.</p>
 <p>For more information related to Secondary 1 posting changes, you may refer
 to: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/faqs.html</a>
 </p>
-<p></p>
 <p><strong><em>9. How are students allocated to their Sec 1 classes?</em></strong>
 </p>
-<p></p>
 <p>Lower secondary form classes are mixed, comprising students posted through
 different Posting Groups.</p>
-<p></p>
 <p>Mixed form classes present students with more opportunities to interact
 with other students of different strengths and interests. In their mixed
 form classes, students take a set of subjects at a common level, amounting
@@ -200,12 +183,10 @@ to about one-third of curriculum time. These subjects are:</p>
 and appreciate different perspectives. Teachers adopt a range of teaching
 approaches to meet the different learning needs and pace of their students
 in the same form class.</p>
-<p></p>
 <p>Students are regrouped for English Language, Mother Tongue Languages,
 Mathematics, and Science lessons; they will read these subjects at the&nbsp;
 G1, G2, or G3 level, based on their PSLE Achievement Level (AL) for each
 subject.</p>
-<p></p>
 <p><strong><em>Mother Tongue Language Matters</em></strong>
 </p>
 <p><strong><em>9.&nbsp;&nbsp;&nbsp;&nbsp; What is the criteria to take Higher Mother Tongue Language (HMTL) in Hai Sing Catholic School?</em></strong>
