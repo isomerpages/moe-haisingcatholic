@@ -86,6 +86,8 @@ variant: tiptap
 </p>
 <p>Please find the information <a href="https://drive.google.com/file/d/1l-Ou_ROGixYSO71Ln18t_8efXldfE7gr/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
 </p>
+<p>For 2025 Booklist for Secondary 5 <a href="https://drive.google.com/file/d/1nytvGTtrl2HUNzK7386GTua9CJubjlf2/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
+</p>
 <h2>Sales of School Uniform and PE Attire</h2>
 <p>Information on the 2025 uniform and textbook sales can be found via this
 <a href="/files/V2_For_2025_Sec_2_4_Uniform_and_Textbook_sales.pdf" rel="noopener nofollow" target="_blank">link</a>.</p>
