@@ -82,8 +82,7 @@ and 30 Dec 2024.</p>
 </p>
 </li>
 </ol>
-<p>Uniform and book lists for Secondary 1 can be found at:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.haisingcatholic.moe.edu.sg/hsc-community/Students/booklist-and-uniform/permalink/</a>
+<p>Uniform and book lists for Secondary 1 can be found at: <a href="/hsc-community/Students/booklist-and-uniform/permalink/" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
