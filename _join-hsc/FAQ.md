@@ -4,7 +4,7 @@ permalink: /join-hsc/faq/permalink/
 description: ""
 variant: tiptap
 ---
-<h2>2023 HSC E-Open House FAQs</h2>
+<h2>Frequently Asked Questions</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>FAQ Document Directory</p>
+<p>FAQ Directory</p>
 </th>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2><strong>A. General Information for Secondary 1 students newly-posted to Hai Sing Catholic School</strong><br><br></h2>
+<h4><strong>A. General Information for Secondary 1 students newly-posted to Hai Sing Catholic School</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong><em>What do I need to do after receiving the posting results to Hai Sing Catholic School? <br></em></strong>
@@ -249,11 +249,11 @@ You may also contact the school for further enquiries.</p>
 <p>HSC students use the Chromebook as their Personal Learning Device (PLD).
 Students can expect to receive their PLD tentatively from the start of
 Term 2.</p>
-<h2><strong>B. General Information about Hai Sing Catholic School</strong></h2>
+<h4><strong>B. General Information about Hai Sing Catholic School</strong></h4>
 <p><strong><em>1. What are the indicative PSLE score ranges for the different posting groups?</em></strong>
 </p>
-<p>The following are the PSLE score ranges for 2023 for the different posting
-groups:</p>
+<p>The following are the PSLE score ranges for 2025 Secondary One cohort
+for the different posting groups:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -277,7 +277,7 @@ groups:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 -15</p>
+<p>9 - 15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21 - 23</p>
@@ -329,7 +329,7 @@ faith.</p>
 can only be considered if your child’s PSLE score meets the schools’ cut-off
 point of the posting year, subject to available vacancies and meeting MOE’s
 criteria.</p>
-<h2><strong>C. Curriculum-Related Information about Hai Sing Catholic School</strong></h2>
+<h4><strong>C. Curriculum-Related Information about Hai Sing Catholic School</strong></h4>
 <p><strong><em>1. Does Hai Sing Catholic School implement Full Subject-Based Banding (FSBB)?</em></strong>
 </p>
 <p>Yes. The school has been implementing <strong><em>Full Subject-Based Banding (FSBB) since</em></strong> 2023.
@@ -393,7 +393,7 @@ years. As such, the texts chosen are closer to the Singapore context and
 the skills needed will be less demanding. The students will be assessed
 on four components at ‘O’ level, Oral, Listening, Composition Writing and
 Comprehension.</p>
-<h2><strong><u>D. Co-Curricular Activities (CCA) Matters</u></strong></h2>
+<h4><strong><u>D. Co-Curricular Activities (CCA) Matters</u></strong></h4>
 <p><strong><em>1. Is it compulsory for my child to take part in CCA?</em></strong>
 </p>
 <p>Yes. CCA participation is compulsory for all students in secondary schools.
@@ -424,8 +424,7 @@ level of attainment will be converted to a bonus point(s) which can be
 used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical
 Education (JC/Poly/ITE). For example, 2 Bonus Points for ‘Excellent’ and
 1 Bonus Point for ‘Good’.</p>
-<p></p>
-<h2><strong>E. Personal Learning Devices (PLD) Matters</strong></h2>
+<h4><strong>E. Personal Learning Devices (PLD) Matters</strong></h4>
 <p><strong><em>1. Do students need to bring their PLD daily or are they allowed to use school laptops?</em></strong>
 </p>
 <p>All students are strongly encouraged to purchase a PLD via the MOE bulk
