@@ -252,8 +252,8 @@ Term 2.</p>
 <h2><strong>B. General Information about Hai Sing Catholic School</strong></h2>
 <p><strong><em>1. What are the indicative PSLE score ranges for the different posting groups?</em></strong>
 </p>
-<p>The following are the PSLE score ranges for 2023 for the different posting
-groups:</p>
+<p>The following are the PSLE score ranges for 2025 Secondary One cohort
+for the different posting groups:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -277,7 +277,7 @@ groups:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 -15</p>
+<p>9 - 15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21 - 23</p>
