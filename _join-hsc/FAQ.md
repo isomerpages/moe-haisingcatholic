@@ -108,9 +108,9 @@ and uniforms until the outcome of their FA application or transfer is finalised.
 </li>
 </ol>
 <p>Students who would like to apply for MOE FAS should complete the application
-form for financial assistance at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> (link).
-Hard copies of the application form are also available at the school’s
-General Office.</p>
+form for financial assistance at <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>. Hard
+copies of the application form are also available at the school’s General
+Office.</p>
 <p>
 <br>For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE FAS website</a>.
 If you have further enquiries, please contact our General Office at 6582
@@ -148,7 +148,7 @@ cut-off point of the posting year. Transfers will be subject to available
 vacancies and meeting the school-based criteria.</p>
 <p></p>
 <p>For more information related to Secondary 1 posting changes, you may refer
-to: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/faqs.html</a>
+to: <a href="https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/faqs.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/faqs.html</a>
 </p>
 <p><strong><em>9. How are students allocated to their Sec 1 classes?</em></strong>
 </p>
