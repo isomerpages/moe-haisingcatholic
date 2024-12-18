@@ -18,20 +18,16 @@ of uniforms and books, first day of school, etc.&nbsp;</p>
 <p>Additionally, you can access your child’s/ ward’s 2025 Sec 1 class allocation
 through Parents Gateway.&nbsp;</p>
 <p><strong>FAQs</strong>
-<br>You may refer to our school’s <a href="https://haisingcatholic.moe.edu.sg/join-hsc/faq/permalink/" rel="noopener nofollow" target="_blank">(FAQ)</a>page
+<br>You may refer to our school’s <a href="https://haisingcatholic.moe.edu.sg/join-hsc/faq/permalink/" rel="noopener nofollow" target="_blank">(FAQ)</a> page
 for further information as well.</p>
-<p>&nbsp;<strong>Appeals for Transfer IN</strong>
+<p><strong>Appeals for Transfer IN</strong>
 </p>
-<p>Students who wish to appeal to transfer to Hai Sing Catholic School:</p>
-<p>For <strong>non-medical reasons</strong>, please submit your appeal via
-this <a href="https://form.gov.sg/6191e66b57be1c00123b5cb5" rel="noopener noreferrer nofollow" target="_blank">online form</a> by
-27 Dec 2024, 12pm.</p>
-<p></p>
+<p>Students who wish to appeal to transfer to Hai Sing Catholic School, please
+submit your appeal via this <a href="https://form.gov.sg/6191e66b57be1c00123b5cb5" rel="noopener noreferrer nofollow" target="_blank">online form</a> by 27
+Dec 2024, 12pm.</p>
 <p>Please note that your PSLE score should meet the school's cut-off point
-of the posting
-<br>
-<br>For the 2025 S1 cohort, the cut-off points are as follows:</p>
-<p></p>
+of the posting year.</p>
+<p>For the 2025 S1 cohort, the cut-off points are as follows:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -55,13 +51,13 @@ of the posting
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 -15</p>
+<p>9-15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 -23</p>
+<p>21-23</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25 - 28</p>
+<p>25-28</p>
 </td>
 </tr>
 </tbody>
@@ -70,4 +66,4 @@ of the posting
 <br>The appeal will be subject to available vacancies and the school’s admission
 criteria.</p>
 <p>The application is deemed to be unsuccessful if you do not hear from the
-school by end of January 2025.&nbsp;</p>
+school by the end of January 2025.&nbsp;</p>
