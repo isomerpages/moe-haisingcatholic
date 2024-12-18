@@ -74,7 +74,7 @@ between 20 and 30 Dec 2024. Please use the QR code (below) to make a booking
 to enter the school.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR__1.png">
 </div>
 <p><a href="https://outlook.office365.com/book/HAISINGCATHOLICSCHOOLUNIFORMSALES@jeepsing.com/" rel="noopener noreferrer nofollow" target="_blank">https://outlook.office365.com/book/HAISINGCATHOLICSCHOOLUNIFORMSALES@jeepsing.com/</a>
 </p>
