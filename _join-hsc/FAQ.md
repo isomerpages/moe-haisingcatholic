@@ -108,9 +108,9 @@ and uniforms until the outcome of their FA application or transfer is finalised.
 </li>
 </ol>
 <p>Students who would like to apply for MOE FAS should complete the application
-form for financial assistance at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a> (link).
-Hard copies of the application form are also available at the school’s
-General Office.</p>
+form for financial assistance at <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>. Hard
+copies of the application form are also available at the school’s General
+Office.</p>
 <p>
 <br>For more information, parents can refer to the following <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">MOE FAS website</a>.
 If you have further enquiries, please contact our General Office at 6582
@@ -148,7 +148,7 @@ cut-off point of the posting year. Transfers will be subject to available
 vacancies and meeting the school-based criteria.</p>
 <p></p>
 <p>For more information related to Secondary 1 posting changes, you may refer
-to: <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/faqs.html</a>
+to: <a href="https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/faqs.html" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/microsites/psle-fsbb/posting-to-secondary-school/faqs.html</a>
 </p>
 <p><strong><em>9. How are students allocated to their Sec 1 classes?</em></strong>
 </p>
@@ -188,7 +188,7 @@ G1, G2, or G3 level, based on their PSLE Achievement Level (AL) for each
 subject.</p>
 <p><strong><em>Mother Tongue Language Matters</em></strong>
 </p>
-<p><strong><em>9.&nbsp;&nbsp;&nbsp;&nbsp; What is the criteria to take Higher Mother Tongue Language (HMTL) in Hai Sing Catholic School?</em></strong>
+<p><strong><em>10.&nbsp;&nbsp;&nbsp;&nbsp; What is the criteria to take Higher Mother Tongue Language (HMTL) in Hai Sing Catholic School?</em></strong>
 </p>
 <p>Secondary One students with an overall PSLE score of 8 or better, or an
 overall PSLE score of 9 to 14 and attained AL1/AL2 in MTL or Distinction/
@@ -365,18 +365,18 @@ subject is taken.</p>
 </p>
 <p>The school offers Chinese Language, Higher Chinese Language and Malay
 Language.</p>
-<p><strong><em>6. Can my child offer both O Level Mother Tongue and Higher Mother Tongue at the same time?</em></strong>
+<p><strong><em>5. Can my child offer both O Level Mother Tongue and Higher Mother Tongue at the same time?</em></strong>
 </p>
 <p>No. Your child will only offer Higher Mother Tongue should he/she be deemed
 eligible to take the subject. However, your child will have to sit for
 the O-Levels Mother Tongue Examination when he/she is in Secondary 3.</p>
-<p><strong><em>7. What are the benefits of taking Higher Mother Tongue?</em></strong>
+<p><strong><em>6. What are the benefits of taking Higher Mother Tongue?</em></strong>
 </p>
 <p>Students who take Higher Mother Tongue at O-Levels and attain a grade
 between A1-C6 in both English and Higher Mother Tongue will be eligible
 for 2 Bonus Points for Junior College Admission. They will also have the
 option to use it to replace English as L1 for Junior College Admission.</p>
-<p><strong><em>8. What are the key differences between Higher Mother Tongue Syllabus and Mother Tongue Syllabus?</em></strong>
+<p><strong><em>7. What are the key differences between Higher Mother Tongue Syllabus and Mother Tongue Syllabus?</em></strong>
 </p>
 <p>Higher Mother Tongue (HMT) is a more demanding subject compared to Mother
 Tongue (MT) as it is considered to be an L1 subject, just like English.
