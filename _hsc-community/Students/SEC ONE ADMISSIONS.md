@@ -56,10 +56,10 @@ of the posting
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 - 15</p>
+<p>9-15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 -23</p>
+<p>21-23</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>25-28</p>
