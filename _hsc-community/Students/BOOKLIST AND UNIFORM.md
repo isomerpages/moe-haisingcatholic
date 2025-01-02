@@ -90,4 +90,5 @@ variant: tiptap
 </p>
 <h2>Sales of School Uniform and PE Attire</h2>
 <p>Information on the 2025 uniform and textbook sales can be found via this
-<a href="/files/V2_For_2025_Sec_2_4_Uniform_and_Textbook_sales.pdf" rel="noopener nofollow" target="_blank">link</a>.</p>
+<a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
+</p>
