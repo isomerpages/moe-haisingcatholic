@@ -5,64 +5,38 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<h1>2024 CLASS TIME-TABLE</h1>
+<h1>2025 CLASS TIME-TABLE</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/timetable.jpeg">
 </div>
-<h2><strong>Semester 2 Timetable 2024</strong></h2>
-<p>Class timetable for 2024 Semester 2 is available for download.&nbsp;Please
-click on the link below to download the timetable for your respective classes.
-Thank You.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Secondary 1 Class timetable: <a href="/files/Time Table/Sec_1__2024_Sem_2_CLASS_26062024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable</a>
-</p>
-</li>
-<li>
-<p>Secondary 2 Class timetable: <a href="/files/Time Table/Sec_2__2024_Sem_2_CLASS_26062024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable</a>
-</p>
-</li>
-<li>
-<p>Secondary 3 Class timetable: <a href="/files/Time Table/Sec_3__2024_Sem_2_CLASS_26062024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable</a>
-</p>
-</li>
-<li>
-<p>Secondary 4 Class timetable: <a href="/files/Time Table/Sec_4__2024_Sem_2_CLASS_26062024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Timetable</a>
-</p>
-</li>
-<li>
-<p>Secondary 5 Class timetable: <a href="/files/Time Table/Sec_5__2024_Sem_2_CLASS_26062024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Timetable</a>
-</p>
-</li>
-</ol>
-<h2><strong>Semester 1 Timetable 2024</strong></h2>
-<p>Class timetable for 2024 Semester 1 is available for download.&nbsp;Please
+<h2><strong>Semester 1 Timetable 2025</strong></h2>
+<p>Class timetable for 2025 Semester 1 is available for download.&nbsp;Please
 click on the link below to download the timetable for your respective classes.
 Thank You.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Secondary 1 Class timetable: <a href="/files/Time Table/2024_Sem_1_Sec_1_CLASS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable</a>
+<p>Secondary 1 Class timetable : <a href="https://drive.google.com/file/d/1alcowm5GAoQvOZE0Y69WQsMH4Dr0jmOy/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec One Timetable</a> 
 <br>
 </p>
 </li>
 <li>
-<p>Secondary 2 Class timetable: <a href="/files/Time Table/2024_Sem_1_Sec_2_CLASS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable</a>
+<p>Secondary 2 Class timetable : <a href="https://drive.google.com/file/d/1awwyzv4nft_X7y5SaDk-6CVoTCE_Uf5d/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Two Timetable</a>
 <br>
 </p>
 </li>
 <li>
-<p>Secondary 3 Class timetable: <a href="/files/Time Table/2024_Sem_1_Sec_3_CLASS.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable</a>
+<p>Secondary 3 Class timetable: <a href="https://drive.google.com/file/d/1Uh6o4oh-GulpM0qPjn41fA8Cq0ww5OUt/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Three timetable</a> 
 <br>
 </p>
 </li>
 <li>
-<p>Secondary 4 Class timetable: <a href="/files/Time Table/2024_Sem_1_Sec_4_CLASS_18012024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Timetable</a>
+<p>Secondary 4 Class timetable: <a href="https://drive.google.com/file/d/1BuV-w8wXn1IZ6qbO9LLbkmFvWIHwY2Ry/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Four Timetable</a>
 <br>
 </p>
 </li>
 <li>
-<p>Secondary 5 Class timetable: <a href="/files/Time Table/2024_Sem_1_CLASS_5_ADA_18012024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5 Timetable</a>
+<p>Secondary 5 Class timetable: <a href="https://drive.google.com/file/d/1zJ7SVxFMkIbMpjwDNnjphNHaVz4oRpSv/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Five Timetable</a>
 </p>
 <p></p>
 </li>
