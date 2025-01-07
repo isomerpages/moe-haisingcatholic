@@ -74,7 +74,8 @@ child/ward.</p>
 </ul>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p>&nbsp;<a href="https://drive.google.com/file/d/1AlnR72PfTZiGBfo30628ST44QEhIrgo1/view?usp=sharing" rel="noopener nofollow" target="_blank">Click here for the authorisation letter</a>
+</p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p><strong>Outstanding Payments</strong>
@@ -90,8 +91,10 @@ child/ward.</p>
 <p>&nbsp;</p>
 <p><strong>6.&nbsp;&nbsp;&nbsp; Education and Career Guidance (ECG) Support</strong>
 </p>
-<p><strong>&nbsp;</strong>
+<p><a href="https://drive.google.com/file/d/1cSka3Xev8ZPp5bvhAI7eD6v-97hlzFmw/view?usp=sharing" rel="noopener nofollow" target="_blank">Click here for the ECG guide</a><strong>&nbsp;</strong>
 </p>
+<p></p>
+<p></p>
 <p><strong>School ECG Counsellor (Ms Fiona Sim)</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Available on <strong>Wednesdays and Thursdays, 8:00 AM – 4:30 PM</strong>.</p>
