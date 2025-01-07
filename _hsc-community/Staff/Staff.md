@@ -172,7 +172,7 @@ variant: tiptap
 <p>Sharon Goh Bee Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting HOD (Craft &amp; Technology)</p>
+<p>HOD (Craft &amp; Technology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_bee_hoon@moe.edu.sg</p>
@@ -194,7 +194,7 @@ variant: tiptap
 <p>Lee Wan Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Year Head (Upper Sec)</p>
+<p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_wan_xin@moe.edu.sg</p>
@@ -209,6 +209,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_en_ci_michelle@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oh Chee Tiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>oh_chee_tiong@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
@@ -303,7 +314,7 @@ variant: tiptap
 <p>Sandra Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Educational Technology)</p>
+<p>Subject Head Social Studies (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_shu_fen_sandra@moe.edu.sg</p>
@@ -314,21 +325,10 @@ variant: tiptap
 <p>Rafidah Banu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst. Year Head (Lower Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rafidah_banu_abdul_razak@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nandakumar Rao s/o Ramachandra</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Asst. Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nandakumar_rao_ramachandra@moe.edu.sg</p>
+<p>rafidah_banu_abdul_razak@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -347,10 +347,54 @@ variant: tiptap
 <p>Bharathi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Subject Head (Biology)</p>
+<p>Subject Head (Biology)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>bharathi_jayakumaran@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohd Farhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Steward</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohammed_farhan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting SH HOD (Character &amp; Citizenship Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>june_ng_goh_suat_hong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ye Yiping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Mother Tongue Languages (MTL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ye_yiping@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sabrina Thang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting SH Craft &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>thang_sabrina_lisa@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -434,12 +478,15 @@ variant: tiptap
 <h2>Secondary 1 &amp; 2</h2>
 <p><strong>Year Head (Lower Sec):</strong> 
 <br><strong>Christine Sarah Toh</strong> 
-<br><em>christine_sarah_toh@moe.edu.sg</em>
+<br><em><a href="mailto:christine_sarah_toh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christine_sarah_toh@moe.edu.sg</a></em>
 </p>
-<p></p>
-<p><strong>Asst. Year Head (Lower Sec):&nbsp;</strong> 
-<br><strong>Rafidah Banu</strong> 
-<br><em>rafidah_banu_abdul_razak@moe.edu.sg</em>
+<p><strong>Mr Mohd Farhan (Lower Sec Level Steward):&nbsp;</strong>
+</p>
+<p><a href="mailto:mohammed_farhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_farhan@moe.edu.sg</a>
+</p>
+<p>
+<br>
+<br>
 </p>
 <p></p>
 <table style="minWidth: 125px">
