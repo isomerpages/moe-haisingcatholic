@@ -18,7 +18,7 @@ sections:
         - title: School Based Assessment
           description: Click HERE to read more!
           url: /hsc-community/students/school-based-assessment/permalink/
-        - title: 2025 Secondary 3 Subject Combination
+        - title: 2024 GCE O-Level Examination Results
           description: Click HERE to read more!
           url: /hsc-community/students/secondary-three-subject-combination/permalink/
       title: Hai Sing Catholic School
