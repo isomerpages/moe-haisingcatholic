@@ -96,7 +96,7 @@ child/ward.</p>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Available on <strong>Wednesdays and Thursdays, 8:00 AM – 4:30 PM</strong>.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Book an Appointment</strong>:
-<a rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/hscstudentsupport</a>
+<a href="https://for.edu.sg/hscstudentsupport" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/hscstudentsupport</a>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -109,26 +109,26 @@ AM–5:00 PM</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Saturdays:</strong> 9:00
 AM–12:00 PM</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Appointment Booking</strong>:
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>
+<a href="https://go.gov.sg/moe-ecg-centre" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-ecg-centre</a>
 </p>
 <p>&nbsp;</p>
 <p><strong>Online Resources</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>JAE Details</strong>: <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>
+<p><strong>JAE Details</strong>: <a href="https://www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/jae</a>
 </p>
 </li>
 <li>
-<p><strong>SchoolFinder</strong>: <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>
+<p><strong>SchoolFinder</strong>: <a href="https://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/schoolfinder</a>
 </p>
 </li>
 <li>
-<p><strong>CourseFinder</strong>: <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>
+<p><strong>CourseFinder</strong>: <a href="www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>
 </p>
 </li>
 <li>
-<p><strong>MySkillsFuture</strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>
+<p><strong>MySkillsFuture</strong>: <a href="https://go.gov.sg/mysfsec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/mysfsec</a>
 </p>
 </li>
 </ul>
