@@ -211,6 +211,17 @@ variant: tiptap
 <p>tan_en_ci_michelle@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oh Chee Tiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>oh_chee_tiong@schools.gov.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Subject Heads</h2>
