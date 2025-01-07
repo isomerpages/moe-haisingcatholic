@@ -127,7 +127,7 @@ AM–12:00 PM</p>
 </p>
 </li>
 <li>
-<p><strong>CourseFinder</strong>: <a href="www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>
+<p><strong>CourseFinder</strong>: <a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/coursefinder</a>
 </p>
 </li>
 <li>
