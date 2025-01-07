@@ -375,6 +375,28 @@ variant: tiptap
 <p>june_ng_goh_suat_hong@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ye Yiping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Mother Tongue Languages (MTL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ye_yiping@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sabrina Thang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting SH Craft &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>thang_sabrina_lisa@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Lead/Senior Teachers</h2>
