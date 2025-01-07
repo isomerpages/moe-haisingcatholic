@@ -380,7 +380,7 @@ variant: tiptap
 <p>Ye Yiping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Mother Tongue Languages (MTL)</p>
+<p>Acting SH Mother Tongue Languages (MTL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ye_yiping@moe.edu.sg</p>
