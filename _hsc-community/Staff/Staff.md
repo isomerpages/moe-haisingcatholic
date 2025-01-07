@@ -314,7 +314,7 @@ variant: tiptap
 <p>Sandra Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Educational Technology)</p>
+<p>Subject Head Social Studies (Int)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_shu_fen_sandra@moe.edu.sg</p>
