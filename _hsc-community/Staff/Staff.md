@@ -447,13 +447,13 @@ variant: tiptap
 <br><strong>Christine Sarah Toh</strong> 
 <br><em><a href="mailto:christine_sarah_toh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christine_sarah_toh@moe.edu.sg</a></em>
 </p>
-<p><strong>Mr Mohd Farhan (Lower Sec  Level Steward):&nbsp;</strong>
+<p><strong>Mr Mohd Farhan (Lower Sec Level Steward):&nbsp;</strong>
 </p>
 <p><a href="mailto:mohammed_farhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_farhan@moe.edu.sg</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank"> </a>
+<p>
 <br>
-<br><em><a href="mailto:mohammed_farhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> </a></em>
+<br>
 </p>
 <p></p>
 <table style="minWidth: 125px">
