@@ -20,7 +20,7 @@ sections:
           url: /hsc-community/students/school-based-assessment/permalink/
         - title: 2024 GCE O-Level Examination Results
           description: Click HERE to read more!
-          url: /hsc-community/students/secondary-three-subject-combination/permalink/
+          url: /hsc-community/students/graduation-ceremony-2023/permalink/
       title: Hai Sing Catholic School
       subtitle: Ad Veritatem per caritatem – To Truth Through Charity
   - infobar:
