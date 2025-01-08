@@ -6,13 +6,43 @@ image: /images/Curriculum/Mother.png
 third_nav_title: Students
 variant: tiptap
 ---
-<h1>School-Based Assessment</h1>
+<h1><strong><u>Assessment 2025</u></strong></h1>
 <p>The overall attainment of a student in a particular subject will be based
 on his performance in Weighted Assessments (WA) and the Semester Examination
-(SA). The weighting is illustrated in the table below:</p>
-<table style="minWidth: 125px">
+(SA). The assessment schedule for 2025 is illustrated in the table below:</p>
+<table style="minWidth: 50px">
 <colgroup>
 <col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Weighted Assessments</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WA 1: Term 1 W10 (10 – 14 Mar), Term 2, W2 – 3 (2 – 11 Apr)</p>
+<p>&nbsp;</p>
+<p>WA2: Term 3 W3 – 5 (14 Jul – 1 Aug)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>End-of-Year Examination</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 4: Weeks 2 – 3</p>
+<p>22 Sept – 2 Oct</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>&nbsp;The weighting is illustrated in the table below:</p>
+<table style="minWidth: 100px">
+<colgroup>
 <col>
 <col>
 <col>
@@ -21,112 +51,93 @@ on his performance in Weighted Assessments (WA) and the Semester Examination
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level</p>
+<p><strong>Level</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p><strong>WA 1</strong>
+</p>
+<p>(Weighted Assessment)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p><strong>WA 2</strong>
+</p>
+<p>(Weighted Assessment)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1*</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>WA</p>
-<p>(10%)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>WA</p>
-<p>(15%)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>WA</p>
-<p>(15%)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>End-of-Year Exam</p>
-<p>(60%)</p>
+<p><strong>EYE</strong>
+</p>
+<p>(End-of-Year Examination)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2*</p>
+<p><strong>Sec 1*</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA</p>
-<p>(10%)</p>
+<p>15%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA</p>
-<p>(15%)</p>
+<p>15%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA</p>
-<p>(15%)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>End-of-Year Exam (60%)</p>
+<p>70%</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3*</p>
+<p><strong>Sec 2*</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA</p>
-<p>(10%)</p>
+<p>15%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA</p>
-<p>(15%)</p>
+<p>15%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA</p>
-<p>(15%)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>End-of-Year Exam (60%)</p>
+<p>70%</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 4 &amp; 5*</p>
+<p><strong>Sec 3*</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NWA</p>
-<p>(0%)</p>
+<p>15%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NWA</p>
-<p>(0%)</p>
+<p>15%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prelim Exam</p>
-<p>(100%)</p>
+<p>70%</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 4 &amp; 5</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>Assessment (0%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prelim Exam (100%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>* For all subjects except FCE and D &amp; T. Please refer to the tables
 below for more information on the assessment weighting for FCE and D&amp;T.</p>
-<p></p>
-<p><strong>Sec 3 Express and Normal(Academic) D&amp;T Assessment Weighting Distribution 2024 will be as follows:</strong>
-</p>
-<table style="minWidth: 125px">
+<p>Sec 3 Express and Normal (Academic) D &amp; T Assessment Weighting Distribution
+2025 will be as follows:</p>
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -135,54 +146,107 @@ below for more information on the assessment weighting for FCE and D&amp;T.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level</p>
+<p><strong>Level</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p><strong>WA1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p><strong>WA2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 4</p>
+<p><strong>EYE</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Exp / 3NA</p>
+<p><strong>Sec 3 Exp</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA</p>
-<p>(10%)</p>
+<p>Theory (10%)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA</p>
-<p>(15%)</p>
+<p>Design Project (Coursework) (20%)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA</p>
-<p>(15%)</p>
+<p>End-of-Year Exam (70%)
+<br>- Written (30%)
+<br>- Design Project (Coursework) (40%)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3NA</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End-of-Year Exam (60 %):</p>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Written</p>
-</li>
-<li>
-<p>Design Project (Coursework)</p>
-</li>
-</ul>
+<p>Theory (10%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design Project (Coursework) (20%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End-of-Year Exam (70%)
+<br>- Written (30%)
+<br>- Design Project (Coursework) (40%)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Lower Sec FCE and D&amp;T Assessment Weighting Distribution 2024</strong>
+<p>Sec 3 Normal (Academic) NFS Assessment Weighting Distribution 2025 will
+be as follows:</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>WA1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>WA2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>EYE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3NA</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Theory (10%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Theory (20%)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End-of-Year Exam (70%)
+<br>- Written (20%)
+<br>- Coursework (50%)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>Lower Sec FCE and D &amp; T Assessment Weighting Distribution 2025</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -194,19 +258,24 @@ below for more information on the assessment weighting for FCE and D&amp;T.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level</p>
+<p><strong>Level</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1</p>
+<p><strong>Term 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p><strong>Term 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p><strong>Term 3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4</p>
+<p><strong>Term 4</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -214,10 +283,12 @@ below for more information on the assessment weighting for FCE and D&amp;T.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>D&amp;T</p>
+<p><strong>D &amp; T</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>FCE</p>
+<p><strong>FCE</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -225,40 +296,51 @@ below for more information on the assessment weighting for FCE and D&amp;T.</p>
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Design Projects 1 and 2: 100%</p>
+<p>Design Projects 1, 2 and 3: 100%</p>
+<p>Project 1: 10%</p>
+<p>Project 2: 45%</p>
+<p>Project 3: 45%</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA (15%)</p>
+<p>&nbsp;</p>
+<p>WA (40%)</p>
+<p>Theory (20m)</p>
+<p>Practical (20m)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA (15%)</p>
-<p>SA (70%)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Applied Module (60%)&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>FCE</p>
+<p><strong>FCE</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>D&amp;T</p>
+<p><strong>D &amp; T</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Sec 2</p>
+<p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA (15%)</p>
+<p>WA (40%)</p>
+<p>- Theory (20%)</p>
+<p>- Practical (20%)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA (15%)</p>
-<p>Mid-Year Exam (70%)</p>
+<p>&nbsp;</p>
+<p>Applied Module (60%)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Design Projects 3 and 4: 100 %</p>
+<p>Design Project 4: 100%</p>
 </td>
 </tr>
 </tbody>
@@ -267,80 +349,4 @@ below for more information on the assessment weighting for FCE and D&amp;T.</p>
 </p>
 <p>Please click on this <a href="/files/_2024__Assessment_Rules_and_Regulation_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
 read more about Assessment Rules and Regulations in Hai Sing Catholic School.</p>
-<p></p>
-<p><strong>2024 End-of-Year (EOY) Examination Schedule</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click on this <a href="/files/EXAM/EOY_Sec_1_Exam_Schedule_2024__21_Aug.pdf" rel="noopener nofollow" target="_blank">link</a> to
-see the Secondary 1 EOY schedule.</p>
-</li>
-<li>
-<p>Please click on this <a href="/files/EXAM/EOY_Sec_2_Exam_Schedule_2024_21_Aug.pdf" rel="noopener nofollow" target="_blank">link</a> to
-see the Secondary 2 EOY schedule.</p>
-</li>
-<li>
-<p>Please click on this <a href="/files/EXAM/EOY_Sec_3_Exam_Schedule_2024_21_Aug.pdf" rel="noopener nofollow" target="_blank">link</a> to
-see the Secondary 3 EOY schedule.</p>
-<p></p>
-</li>
-</ul>
-<p><strong>2024 Term 3 Weighted Assessment (WA)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click on this <a href="/files/Weighted assessment/Sec_1_Term_3_WA_3_Timetable_docx.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-see the Secondary 1 WA 3 topics.</p>
-</li>
-<li>
-<p>Please click on this <a href="/files/Weighted assessment/Sec_2_Term_3_WA_3_Timetable_docx.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-see the Secondary 2 WA 3 topics.</p>
-</li>
-<li>
-<p>Please click on this <a href="/files/Weighted assessment/2024_Sec_3_Term_3_WA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-see the Secondary 3 WA 3 topics.</p>
-<p></p>
-</li>
-</ul>
-<p><strong>2024 Term 2 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click on this <a href="/files/Weighted assessment/2024_Sec_1_Term_2_WA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-see the Secondary 1 WA 2 topics.</p>
-</li>
-<li>
-<p>Please click on this <a href="/files/Weighted assessment/2024_Sec_2_Term_2_WA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-see the Secondary 2 WA 2 topics.</p>
-</li>
-<li>
-<p>Please click on this <a href="/files/Weighted assessment/2024_Sec_3_Term_2_WA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-see the Secondary 3 WA 2 topics.</p>
-</li>
-<li>
-<p>Please click on this <a href="/files/Weighted assessment/2024_Sec_4_5_Term_2_NWA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-see the Secondary 4&amp;5 NWA 2 topics.</p>
-<p></p>
-</li>
-</ul>
-<p><strong>2024 Term 1 Weighted Assessment (WA) and Non-Weighted Assessment (NWA)</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please click on this <a href="/files/2024_Sec_1_Term_1_WA_Timetable_.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to see the Secondary
-1 WA1 topics.</p>
-</li>
-<li>
-<p>Please click on this <a href="/files/2024_Sec_2_Term_1_WA_Timetable_.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to see the Secondary
-2 WA1 topics.</p>
-</li>
-<li>
-<p>Please click on this <a href="/files/2024_Sec_3_Term_1_WA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to see the Secondary
-3 WA1 topics.</p>
-</li>
-<li>
-<p>Please click on this <a href="/files/2024_Sec_4_5_Term_1_NWA_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to see the
-Secondary 4&amp;5 NWA1 topics.</p>
-</li>
-</ul>
 <p></p>
