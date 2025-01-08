@@ -22,9 +22,9 @@ on his performance in Weighted Assessments (WA) and the Semester Examination
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WA 1: Term 1 W10 (10 – 14 Mar), Term 2, W2 – 3 (2 – 11 Apr)</p>
-<p>&nbsp;</p>
-<p>WA2: Term 3 W3 – 5 (14 Jul – 1 Aug)</p>
+<p><strong>WA 1:</strong> Term 1 W10 (10 – 14 Mar), Term 2, W2 – W3 (2 – 11
+Apr)</p>
+<p><strong>&nbsp;WA 2:</strong> Term 3 W3 – W5 (14 Jul – 1 Aug)</p>
 </td>
 </tr>
 <tr>
@@ -33,8 +33,7 @@ on his performance in Weighted Assessments (WA) and the Semester Examination
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4: Weeks 2 – 3</p>
-<p>22 Sept – 2 Oct</p>
+<p><strong>Term 4:</strong> Weeks 2 – 3 (22 Sept – 2 Oct)</p>
 </td>
 </tr>
 </tbody>
@@ -345,8 +344,6 @@ be as follows:</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Rules and Regulations for School-Based Assessment</strong>
+<p><strong> </strong>
 </p>
-<p>Please click on this <a href="/files/_2024__Assessment_Rules_and_Regulation_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-read more about Assessment Rules and Regulations in Hai Sing Catholic School.</p>
 <p></p>
