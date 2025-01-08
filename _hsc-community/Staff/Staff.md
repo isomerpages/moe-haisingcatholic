@@ -33,7 +33,7 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>adeline_lim@schools.gov.sg</p>
+<p>HSHS@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_mingrui_shereen@schools.gov.sg</p>
+<p>HSHS@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_phuay_boon@schools.gov.sg</p>
+<p>HSHS@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -63,10 +63,10 @@ variant: tiptap
 <p>Andy Kong Wei Foong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal Admin</p>
+<p>Vice-Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kong_wei_foong@schools.gov.sg</p>
+<p>HSHS@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
