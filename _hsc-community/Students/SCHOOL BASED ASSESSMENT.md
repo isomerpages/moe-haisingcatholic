@@ -335,8 +335,7 @@ be as follows:</p>
 <p>- Practical (20%)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Applied Module (60%)</p>
+<p>&nbsp;Applied Module (60%)</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Design Project 4: 100%</p>
@@ -344,6 +343,5 @@ be as follows:</p>
 </tr>
 </tbody>
 </table>
-<p><strong> </strong>
-</p>
+<p></p>
 <p></p>
