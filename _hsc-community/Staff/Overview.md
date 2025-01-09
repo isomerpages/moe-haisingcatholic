@@ -8,7 +8,7 @@ third_nav_title: Staff
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Our Schools Leader</summary>
+<summary>School Leaders</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
@@ -86,7 +86,7 @@ third_nav_title: Staff
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Our Heads of Department</summary>
+<summary>Heads of Department</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 75px">
@@ -251,6 +251,204 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lee_wan_xin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Subject Heads</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yasmin Bte A Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Aesthetics &amp; Special Projects)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yasmin_a_aziz@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bharathi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Biology)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">bharathi_jayakumaran@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Character &amp; Citizenship Education) (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">june_ng_goh_suat_hong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tracy Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Chemistry)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yeo_bee_hiang_tracy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ye Yiping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Chinese Language) (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">ye_yiping@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jonathan Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chu_chze_jonathan_tan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sabrina Thang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Food &amp; Consumer Education) (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">thang_sabrina_lisa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daniel Yong Chee Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Humanities)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">yong_chee_kong_daniel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bernard Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">bernard_lim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohd Zain B Mohd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Mother Tongue Languages)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">mohamed_zain_b_mohamed@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sandra Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Social Studies)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chong_shu_fen_sandra@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rafidah Banu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst. Year Head (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">rafidah_banu_abdul_razak@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohd Farhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Steward (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">mohammed_farhan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Benjamin James</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head (Student Management)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">james_benjamin_norman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
