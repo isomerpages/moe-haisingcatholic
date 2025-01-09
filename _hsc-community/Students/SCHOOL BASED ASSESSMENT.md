@@ -344,4 +344,6 @@ be as follows:</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<p><strong>RULES AND REGULATIONS FOR SCHOOL-BASED ASSESSMENT </strong>
+<a href="https://drive.google.com/file/d/1JUTRJ7DNHVxF91APbtR6a781eflk8kEb/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click Here -&gt;</a>
+</p>
