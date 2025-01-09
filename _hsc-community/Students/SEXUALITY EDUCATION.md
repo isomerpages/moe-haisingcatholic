@@ -84,17 +84,15 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p>Click on the following links below to read more about our 2024 Sexuality
 Education outline for the respective levels:</p>
-<p><a href="/files/HSC%20Community/Sexuality%20Education/Sec_1___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 2024 Sexuality Education Lesso</a>
-<a href="/files/Secondary_1_2025_Sexuality_Education_Lessons_in_CCE.pdf" rel="noopener nofollow" target="_blank">cc</a><a href="/files/HSC%20Community/Sexuality%20Education/Sec_1___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">ns in </a>
-<a href="/files/Secondary_1_2025_Sexuality_Education_Lessons_in_CCE.pdf" rel="noopener nofollow" target="_blank">file in</a><a href="/files/HSC%20Community/Sexuality%20Education/Sec_1___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">CCE 2021</a>
+<p><a href="https://drive.google.com/file/d/1Meza-DtjCOu7KmpsBZKfRLkvtsTZSMJ0/view?usp=sharing" rel="noopener nofollow" target="_blank">Secondary 1 2025 Sexuality Education Lessons in CCE</a>
 </p>
-<p><a href="/files/HSC%20Community/Sexuality%20Education/Sec_2___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 2024 Sexuality Education Lessons in CCE 2021</a>
+<p><a href="https://drive.google.com/file/d/14qEvsIJMADMKnIU4euSHlDtj4m6Pbwn0/view?usp=sharing" rel="noopener nofollow" target="_blank">Secondary 2 2025 Sexuality Education Lessons in CCE</a>
 </p>
-<p><a href="/files/HSC%20Community/Sexuality%20Education/Sec_3___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 2024 Sexuality Education Lessons in CCE 2021</a>
+<p><a href="https://drive.google.com/file/d/1JUZV2tnn-5sbU1jM-TLYAVMW3Mj-DqB3/view?usp=sharing" rel="noopener nofollow" target="_blank">Secondary 3 2025 Sexuality Education Lessons in CCE</a>
 </p>
-<p><a href="/files/HSC%20Community/Sexuality%20Education/Sec_4___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 2024 Sexuality Education Lessons in CCE 2021</a>
+<p><a href="https://drive.google.com/file/d/1izMCi1J9W7QIAYH1xo9Z_03TQrFlx01b/view?usp=sharing" rel="noopener nofollow" target="_blank">Secondary 4 2025 Sexuality Education Lessons in CCE</a>
 </p>
-<p><a href="/files/HSC%20Community/Sexuality%20Education/Sec_5___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 2024 Sexuality Education Lessons in CCE 2021</a>
+<p><a href="https://drive.google.com/file/d/1VTtIiQGdDq3AhBUVsaOxZ21SqP97I-Aa/view?usp=sharing" rel="noopener nofollow" target="_blank">Secondary 5 2025 Sexuality Education Lessons in CCE</a>
 </p>
 <p><strong>eTeens&nbsp;Programme</strong>
 </p>
@@ -111,18 +109,18 @@ values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em
 is that students are empowered to make wise, informed and sensible decisions.</p>
 <p><strong>At Hai Sing Catholic School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
 </p>
-<p><a href="/files/HSC%20Community/eTeens_Programme_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for 2024 E-Teens programme Syllabus</a>
+<p><a href="https://drive.google.com/file/d/1A9HTu3zKDc5cNAOJK4jJZbG-Gh-M78uI/view?usp=sharing" rel="noopener nofollow" target="_blank">Click here for 2024 E-Teens programme Syllabus</a>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of the Sexuality Education lessons, eTeens and/or supplementary sexuality
 education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the Sexuality Education lessons need to complete an opt-out
-form <a href="/files/HSC%20Community/Sexuality_Education_Opt_Out_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 01/03/2024.</p>
+form <a href="https://drive.google.com/file/d/1h8cRPywhkh9BcYpYwg1YIH6Auy9Ci4kg/view?usp=sharing" rel="noopener nofollow" target="_blank">here.</a> The
+completed form is to be submitted by 01/03/2024.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the eTeens programme need to complete an opt-out form
-<a href="/files/HSC%20Community/eTeens_Opt_Out_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed form is to be submitted by 01/03/2024.</p>
+<a href="https://drive.google.com/file/d/1O1MOB2-kWaP-lQUdaNbnm25dhOuPxW6F/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>The completed form is to be submitted by 01/03/2024.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6582 7864 or email juliana_lee_chin_ling@moe.edu.sg for discussion or
 to seek clarification about the school’s Sexuality Education programme.</p>
