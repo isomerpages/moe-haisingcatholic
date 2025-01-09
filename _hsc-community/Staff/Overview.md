@@ -649,4 +649,13 @@ third_nav_title: Staff
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Admin &amp; Operations Team</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Mr Khairil Anuar (Operations Manager)</p>
+<p>Mr Tan Chee Choon (Robert) (Administration Manager)</p>
+</div>
+</details>
+</div>
 <p></p>
