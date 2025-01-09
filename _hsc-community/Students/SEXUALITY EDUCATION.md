@@ -84,7 +84,8 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p>Click on the following links below to read more about our 2024 Sexuality
 Education outline for the respective levels:</p>
-<p><a href="/files/HSC%20Community/Sexuality%20Education/Sec_1___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 2024 Sexuality Education Lessons in </a>
+<p><a href="/files/HSC%20Community/Sexuality%20Education/Sec_1___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 2024 Sexuality Education Lesso</a>
+<a href="/files/Secondary_1_2025_Sexuality_Education_Lessons_in_CCE.pdf" rel="noopener nofollow" target="_blank">cc</a><a href="/files/HSC%20Community/Sexuality%20Education/Sec_1___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">ns in </a>
 <a href="/files/Secondary_1_2025_Sexuality_Education_Lessons_in_CCE.pdf" rel="noopener nofollow" target="_blank">file in</a><a href="/files/HSC%20Community/Sexuality%20Education/Sec_1___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">CCE 2021</a>
 </p>
 <p><a href="/files/HSC%20Community/Sexuality%20Education/Sec_2___2024_SEXUALITY_EDUCATION_LESSONS_IN_CCE_2021.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 2024 Sexuality Education Lessons in CCE 2021</a>
