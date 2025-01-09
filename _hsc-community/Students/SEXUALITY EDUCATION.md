@@ -107,9 +107,9 @@ negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family. Abstinence and upholding family
 values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme
 is that students are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At Hai Sing Catholic School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+<p><strong>At Hai Sing Catholic School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
-<p><a href="https://drive.google.com/file/d/1O1MOB2-kWaP-lQUdaNbnm25dhOuPxW6F/view?usp=sharing" rel="noopener nofollow" target="_blank">Click here for 2024 E-Teens programme Syllabus</a>
+<p><a href="https://drive.google.com/file/d/1O1MOB2-kWaP-lQUdaNbnm25dhOuPxW6F/view?usp=sharing" rel="noopener nofollow" target="_blank">Click here for 2025 E-Teens programme Syllabus</a>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of the Sexuality Education lessons, eTeens and/or supplementary sexuality
@@ -117,10 +117,10 @@ education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the Sexuality Education lessons need to complete an opt-out
 form <a href="https://drive.google.com/file/d/1h8cRPywhkh9BcYpYwg1YIH6Auy9Ci4kg/view?usp=sharing" rel="noopener nofollow" target="_blank">here.</a> The
-completed form is to be submitted by 01/03/2024.</p>
+completed form is to be submitted by 27/01/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the eTeens programme need to complete an opt-out form
-<a href="https://drive.google.com/file/d/1A9HTu3zKDc5cNAOJK4jJZbG-Gh-M78uI/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>The completed form is to be submitted by 01/03/2024.</p>
+<a href="https://drive.google.com/file/d/1A9HTu3zKDc5cNAOJK4jJZbG-Gh-M78uI/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>The completed form is to be submitted by 27/01/2025.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6582 7864 or email juliana_lee_chin_ling@moe.edu.sg for discussion or
 to seek clarification about the school’s Sexuality Education programme.</p>
