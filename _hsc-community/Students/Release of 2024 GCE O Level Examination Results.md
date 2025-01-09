@@ -35,7 +35,8 @@ or long pants) and school shoes.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Be seated in the School Hall by <strong>1:50 PM</strong>.</p>
+<p>Be seated in the School Hall by <strong>2:15 PM.(Updated)</strong>
+</p>
 </li>
 </ul>
 </li>
