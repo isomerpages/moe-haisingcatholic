@@ -83,7 +83,7 @@ child/ward.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Settle any outstanding school, exam, or library fees before <strong>1:30 PM</strong> on
+<p>Settle any outstanding school, exam, or library fees <strong>after collection of results</strong> on
 10 January 2025.</p>
 </li>
 </ul>
