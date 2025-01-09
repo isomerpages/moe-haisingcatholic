@@ -303,8 +303,8 @@ be as follows:</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <p>WA (40%)</p>
-<p>Theory (20m)</p>
-<p>Practical (20m)</p>
+<p>Theory (20%)</p>
+<p>Practical (20%)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
