@@ -109,7 +109,7 @@ values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em
 is that students are empowered to make wise, informed and sensible decisions.</p>
 <p><strong>At Hai Sing Catholic School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
 </p>
-<p><a href="https://drive.google.com/file/d/1A9HTu3zKDc5cNAOJK4jJZbG-Gh-M78uI/view?usp=sharing" rel="noopener nofollow" target="_blank">Click here for 2024 E-Teens programme Syllabus</a>
+<p><a href="https://drive.google.com/file/d/1O1MOB2-kWaP-lQUdaNbnm25dhOuPxW6F/view?usp=sharing" rel="noopener nofollow" target="_blank">Click here for 2024 E-Teens programme Syllabus</a>
 </p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children
 out of the Sexuality Education lessons, eTeens and/or supplementary sexuality
