@@ -30,7 +30,7 @@ sections:
       id: infopic
       description: For Students - Information for Results Release and Admission Matters
       button: Click here
-      url: https://drive.google.com/file/d/1s0sejKhJ9OSHOLLylKPYtiheJvwRUqkG/view?usp=sharing
+      url: https://drive.google.com/file/d/1DqUBj7Pxd5v5bqOxTZ2D9hkU2WEcM6uF/view?usp=sharing
       image: /images/O_level.png
       alt: Image alt text
   - infopic:
