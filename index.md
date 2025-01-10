@@ -26,11 +26,11 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: 2024 GCE N-Level Results
+      title: 2024 GCE O Level Results
       id: infopic
       description: For Students - Information for Results Release and Admission Matters
       button: Click here
-      url: https://drive.google.com/file/d/1OIyq-aplf_uxszIcOyTwUCvmNx9s5RIt/view?usp=sharing
+      url: https://drive.google.com/file/d/1NSQTtHArhxXgQ9u4Xm7k98VcUMV4sdL1/view?usp=sharing
       image: /images/GCEN.png
       alt: Image alt text
   - infopic:
