@@ -82,7 +82,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p>Click on the following links below to read more about our 2024 Sexuality
+<p>Click on the following links below to read more about our 2025 Sexuality
 Education outline for the respective levels:</p>
 <p><a href="https://drive.google.com/file/d/1Meza-DtjCOu7KmpsBZKfRLkvtsTZSMJ0/view?usp=sharing" rel="noopener nofollow" target="_blank">Secondary 1 2025 Sexuality Education Lessons in CCE</a>
 </p>
