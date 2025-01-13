@@ -5,10 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Staff
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>School Leaders</summary>
+<summary>Click Here</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
@@ -84,9 +86,12 @@ third_nav_title: Staff
 </div>
 </details>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide4.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Heads of Department</summary>
+<summary>Click here</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <table style="minWidth: 75px">
@@ -259,9 +264,12 @@ third_nav_title: Staff
 </div>
 </details>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Subject Heads</summary>
+<summary>Click Here</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
@@ -457,9 +465,12 @@ third_nav_title: Staff
 </div>
 </details>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide6.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Lead/Senior Teachers</summary>
+<summary>Click here</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 75px">
 <colgroup>
@@ -547,115 +558,30 @@ third_nav_title: Staff
 </div>
 </details>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide7.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Allied Educators</summary>
+<summary>Click Here</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fiona Sim Siew Tse</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education &amp; Career Guidance Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">fiona_sim_siew_tse@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nadia Sivakumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nadia_sivakumar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ambika Janardanan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor (Adjunct)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ambika_janardanan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Farah Izzah Imran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor (Adjunct)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">farah_izzah_imran@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Muhammad Jamal bin Abdullah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_jamal_abdullah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rohana Binte Abdul Latip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">rohana_abdul_latip_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 </div>
 </details>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide8.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Admin &amp; Operations Team</summary>
+<summary>Click here</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Mr Khairil Anuar (Operations Manager)</p>
 <p>Mr Tan Chee Choon (Robert) (Administration Manager)</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
