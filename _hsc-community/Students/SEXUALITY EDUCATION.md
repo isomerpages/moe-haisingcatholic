@@ -49,7 +49,7 @@ before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of HAI SING CATHOLIC School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of HAI SING CATHOLIC School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -82,7 +82,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p>Click on the following links below to read more about our 2024 Sexuality
+<p>Click on the following links below to read more about our 2025 Sexuality
 Education outline for the respective levels:</p>
 <p><a href="https://drive.google.com/file/d/1Meza-DtjCOu7KmpsBZKfRLkvtsTZSMJ0/view?usp=sharing" rel="noopener nofollow" target="_blank">Secondary 1 2025 Sexuality Education Lessons in CCE</a>
 </p>
