@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/IMG_0001A.png
+      background: /images/IMG_0001B.jpg
       key_highlights:
         - title: 2025 Secondary One Admissions
           description: Click HERE to read more!
