@@ -42,7 +42,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Secondary One Parent - Teacher Conference
-      subtitle: ""
       id: infopic
       button: FIND THE RESOURCES HERE
       url: https://drive.google.com/file/d/1GlBHchTQuxENAQbAlT6sGSHq9EmyJqpz/view?usp=sharing
