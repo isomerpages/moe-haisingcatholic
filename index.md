@@ -40,4 +40,13 @@ sections:
       url: https://youtu.be/qlWlwAZJi4s
       image: /images/website logo.png
       alt: Image alt text
+  - infopic:
+      title: Secondary One Parent - Teacher Conference
+      subtitle: Add an image and text
+      id: infopic
+      description: ""
+      button: FIND THE RESOURCES HERE
+      url: https://drive.google.com/file/d/1GlBHchTQuxENAQbAlT6sGSHq9EmyJqpz/view?usp=sharing
+      image: /images/S1_PTC.png
+      alt: Image alt text
 ---
