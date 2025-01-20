@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<h1><strong>Secondary 1  </strong></h1>
+<h1><strong>Secondary 1</strong></h1>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -65,8 +65,7 @@ variant: tiptap
 <br>Tham Mun Kin Edmund</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nur_aisha_osman@moe.edu.sg</a>
-<a href="mailto:siti_nur_aisha_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a><a rel="noopener noreferrer nofollow" target="_blank">tham_mun_kin_edmund@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nur_aisha_osman@moe.edu.sgtham_mun_kin_edmund@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -93,8 +92,7 @@ variant: tiptap
 <br>Jamaliah Binte Mohamad Saleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_yu_wei_dominique@moe.edu.sg</a>
-<a href="mailto:chan_yu_wei_dominique@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a><a rel="noopener noreferrer nofollow" target="_blank">jamaliah_mohamad_saleh@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chan_yu_wei_dominique@moe.edu.sgjamaliah_mohamad_saleh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -109,8 +107,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_wen_han@moe.edu.sg</a>
-<a href="mailto:lee_wan_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a><a rel="noopener noreferrer nofollow" target="_blank">syahrulnizam_abdul_rahman_a@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_wen_han@moe.edu.sgsyahrulnizam_abdul_rahman_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
