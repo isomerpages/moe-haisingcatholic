@@ -343,7 +343,9 @@ be as follows:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>Schedule for Weighted Assessment 1 (WA1) 202</strong>5<strong> </strong>
+<a href="https://drive.google.com/file/d/1c5ZTMLopNI9p7lozGqgvGWUbigH5vc-I/view?usp=sharing" rel="noopener nofollow" target="_blank">Click Here -&gt;</a>
+</p>
 <p><strong>RULES AND REGULATIONS FOR SCHOOL-BASED ASSESSMENT </strong>
 <a href="https://drive.google.com/file/d/1JUTRJ7DNHVxF91APbtR6a781eflk8kEb/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click Here -&gt;</a>
 </p>
