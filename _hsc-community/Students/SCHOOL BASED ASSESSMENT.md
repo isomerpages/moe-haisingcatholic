@@ -343,8 +343,14 @@ be as follows:</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Schedule for Weighted Assessment 1 (WA1) 202</strong>5<strong> </strong>
-<a href="https://drive.google.com/file/d/1c5ZTMLopNI9p7lozGqgvGWUbigH5vc-I/view?usp=sharing" rel="noopener nofollow" target="_blank">Click Here -&gt;</a>
+<p><strong>Schedule for Weighted Assessment 1 (WA1) 2025</strong>
+<br><strong>For Sec 1         </strong><a href="https://drive.google.com/file/d/1c5ZTMLopNI9p7lozGqgvGWUbigH5vc-I/view?usp=sharing" rel="noopener nofollow" target="_blank">Click Here -&gt;</a>
+<br><strong>For Sec 2        </strong><a href="https://drive.google.com/file/d/1JMvcNScJ5APXUBBONF3Xxn4oiOUuaUGy/view?usp=sharing" rel="noopener nofollow" target="_blank">Click Here -&gt;</a>
+</p>
+<p><strong>For Sec 3        </strong><a href="https://drive.google.com/file/d/1ZZVx4MDcUZMn6hnzmoA9Y19VoWAjaM_j/view?usp=sharing" rel="noopener nofollow" target="_blank">Click Here -&gt;</a>
+<br><strong>For Sec 4/5   </strong><a href="https://drive.google.com/file/d/1CiacU8xS0nKtRw_790odRPED1vZCO5yU/view?usp=sharing" rel="noopener nofollow" target="_blank">Click Here -&gt;</a>
+</p>
+<p><strong> </strong>
 </p>
 <p><strong>RULES AND REGULATIONS FOR SCHOOL-BASED ASSESSMENT </strong>
 <a href="https://drive.google.com/file/d/1JUTRJ7DNHVxF91APbtR6a781eflk8kEb/view?usp=drive_link" rel="noopener nofollow" target="_blank">Click Here -&gt;</a>
