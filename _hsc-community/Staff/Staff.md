@@ -34,7 +34,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_i-_ling_violet@moe.edu.sg</a>
-<a href="mailto:ng_i-_ling_violet@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 <p><a href="mailto:ng_i-_ling_violet@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 <a rel="noopener noreferrer nofollow" target="_blank">thang_sabrina_lisa@moe.edu.sg</a>
@@ -51,7 +50,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">fauzan_abdul_rahhim@moe.edu.sg</a>
-<a href="mailto:fauzan_abdul_rahhim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 <p><a href="mailto:fauzan_abdul_rahhim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 <a rel="noopener noreferrer nofollow" target="_blank">jael_ng_geng_hui_a@moe.edu.sg</a>
@@ -83,7 +81,7 @@ variant: tiptap
 <br>Yasmin Bte A Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lui_amy@moe.edu.sg</a> 
+<p><a rel="noopener noreferrer nofollow" target="_blank">lui_amy@moe.edu.sg</a>
 </p>
 <p>
 <br><a rel="noopener noreferrer nofollow" target="_blank">yasmin_a_aziz@moe.edu.sg</a>
@@ -217,7 +215,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">mukmien_mohammad_kassim@moe.edu.sg</a>
-<a href="mailto:mukmien_mohammad_kassim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 <p><a href="mailto:mukmien_mohammad_kassim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 <a rel="noopener noreferrer nofollow" target="_blank">fazzera_kamal@moe.edu.sg</a>
@@ -233,7 +230,7 @@ variant: tiptap
 <br>Chong Shu Fen Sandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nabilah_syed_sultan@moe.edu.sg</a> 
+<p><a rel="noopener noreferrer nofollow" target="_blank">nabilah_syed_sultan@moe.edu.sg</a>
 </p>
 <p>
 <br><a rel="noopener noreferrer nofollow" target="_blank">chong_shu_fen_sandra@moe.edu.sg</a>
@@ -330,7 +327,7 @@ variant: tiptap
 <br>Tan Song Teck</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nurhuda_hamsani@moe.edu.sg</a> 
+<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nurhuda_hamsani@moe.edu.sg</a>
 </p>
 <p>
 <br><a rel="noopener noreferrer nofollow" target="_blank">tan_song_teck@moe.edu.sg</a>
@@ -347,7 +344,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">leung_wai_ching_juliane@moe.edu.sg</a>&nbsp;</p>
-<p> <a rel="noopener noreferrer nofollow" target="_blank">raihanah_haron_1@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">raihanah_haron_1@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -391,7 +388,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">noor_aishah_haja_mohideen@moe.edu.sg</a>
-<a href="mailto:noor_aishah_haja_mohideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 <p><a href="mailto:noor_aishah_haja_mohideen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><br></a>
 <a rel="noopener noreferrer nofollow" target="_blank">chu_chze_jonathan_tan@moe.edu.sg</a>
@@ -429,7 +425,7 @@ variant: tiptap
 <br>&nbsp;Yeo Bee Hiang Tracy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teo_felicia@moe.edu.sg</a> 
+<p><a rel="noopener noreferrer nofollow" target="_blank">teo_felicia@moe.edu.sg</a>
 </p>
 <p>
 <br><a rel="noopener noreferrer nofollow" target="_blank">yeo_bee_hiang_tracy@moe.edu.sg</a>
@@ -524,7 +520,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">rafi_b_mohamed_rais@moe.edu.sg</a>&nbsp;</p>
 <p>
-<br><a rel="noopener noreferrer nofollow" target="_blank">mohammed_farhan@moe.edu.sg</a> 
+<br><a rel="noopener noreferrer nofollow" target="_blank">mohammed_farhan@moe.edu.sg</a>
 </p>
 <p>
 <br><a rel="noopener noreferrer nofollow" target="_blank">lee_yueli@moe.edu.sg</a>
