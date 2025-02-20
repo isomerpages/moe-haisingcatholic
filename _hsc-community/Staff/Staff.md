@@ -297,7 +297,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Compassiobn</p>
+<p>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Siti Nurhuda Bte Hamsani
