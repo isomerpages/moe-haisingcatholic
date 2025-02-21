@@ -52,11 +52,11 @@ and resources on digital parenting tips.&nbsp;</p>
 <p>Click on the below links:</p>
 <ul>
 <li>
-<p><a href="/files/PDLP/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook 1: Learning with a PLD</a>
+<p><a href="https://drive.google.com/file/d/1jWs5OAufCH3ZKzZDc0cDlikgpSbzHGBF/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parents Handbook 1: Learning with a PLD</a>
 </p>
 </li>
 <li>
-<p><a href="/files/PDLP/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook 2: Learning with a PLD</a>
+<p><a href="https://drive.google.com/file/d/1Ihvl0PLPh9x55ARLremBBDMXUQi2A819/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parents Handbook 2: Learning with a PLD</a>
 </p>
 </li>
 </ul>
