@@ -5,4 +5,87 @@ description: ""
 third_nav_title: Co Curriculum
 variant: tiptap
 ---
-<h1>ATHLETICS</h1><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Running" src="/images/CCA/Athelics.png"></div><h2>Teachers in charge</h2><ol data-tight="true" class="tight"><li><p>Mdm Dewi Juriah Bte Sudirman</p></li><li><p>Mdm Lee Wan Yin</p></li><li><p>Mdm Renata Priscilla Winata</p></li></ol><h2>Training schedule</h2><p>Every Tuesday and Thursday: 3.00 p.m. - 6.00 p.m.</p><h2>Venue</h2><ul data-tight="true" class="tight"><li><p>100 Plus Promenade @Sports Hub,</p></li><li><p>Pasir Ris Park</p></li><li><p>Bedok Reservoir Park</p></li></ul><h2>Highlights</h2><ul data-tight="true" class="tight"><li><p>National School Games Track and Field</p></li><li><p>National School Games Cross Country</p></li></ul><h2>Achievements</h2><p>2023 National School Games</p><ul data-tight="true" class="tight"><li><p>3rd position in 'B' div Girls National School Games (NSG) Track and Field 1500m event</p></li></ul><p>2022 National School Games</p><ul data-tight="true" class="tight"><li><p>3rd position 2022 National School Games (NSG) Track and Field 3000m event</p></li><li><p>9th position in ‘C’ div boys National School Games (NSG)</p></li><li><p>15th position in ‘C’ div girls National School Games (NSG)</p></li><li><p>43rd position in ‘C’ div boys National School Games (NSG) Cross Country</p></li></ul><h2>Student Voice</h2><p><em>‘I have gained a myriad of benefits from my CCA. Many think that running is a purely physical activity but it is actually a lot more than that. The training sessions not only allow me to have some understanding of the challenges faced by world-class athletes but more importantly, I have learnt to focus and develop the determination to overcome obstacles and fatigue. I have gained a new perspective on large and small problems alike. Running builds my capacity to endure and to overcome challenges and this gives me strength in other areas of my life. I will cherish the precious memories and friendships forged for a long, long time to come. HAI Athletics Club has trained me not just for competitions, but also for the race ahead - that is life!’</em></p><p>Warren Illias Tan<br>Captain</p><div class="iframe-wrapper"><iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2-4DUn4Cq94hbeGVnLi7LvQFkln5DTQt4CG4aDtXPPQN1w_gbMqBEaT0uT7r9TtO11fLy--FC0aSj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></div><p></p>
+<h1>ATHLETICS</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Running" src="/images/CCA/Athelics.png">
+</div>
+<h2>Teachers in charge</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Mdm Dewi Juriah Bte Sudirman</p>
+</li>
+<li>
+<p>Jael Ng</p>
+</li>
+<li>
+<p>Mdm Lee Wan Yin</p>
+</li>
+<li>
+<p>Mr Chew Tze Inn</p>
+</li>
+</ol>
+<h2>Training schedule</h2>
+<p>Every Tuesday and Thursday: 3.00 p.m. - 6.00 p.m.</p>
+<h2>Venue</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p>100 Plus Promenade @Sports Hub,</p>
+</li>
+<li>
+<p>Pasir Ris Park</p>
+</li>
+<li>
+<p>Bedok Reservoir Park</p>
+</li>
+</ul>
+<h2>Highlights</h2>
+<ul data-tight="true" class="tight">
+<li>
+<p>National School Games Track and Field</p>
+</li>
+<li>
+<p>National School Games Cross Country</p>
+</li>
+</ul>
+<h2>Achievements</h2>
+<p>2024 National School Games</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Top 4 at National level (B girls) B Division National School Games Cross
+Country</p>
+</li>
+<li>
+<p>3000m 4th (B girls) B Division National School Games Track and Field</p>
+</li>
+</ul>
+<p>2023 National School Games</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3rd position in 'B' div Girls National School Games (NSG) Track and Field
+1500m event</p>
+</li>
+</ul>
+<p>2022 National School Games</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>3rd position 2022 National School Games (NSG) Track and Field 3000m event</p>
+</li>
+<li>
+<p>9th position in ‘C’ div boys National School Games (NSG)</p>
+</li>
+<li>
+<p>15th position in ‘C’ div girls National School Games (NSG)</p>
+</li>
+<li>
+<p>43rd position in ‘C’ div boys National School Games (NSG) Cross Country</p>
+</li>
+</ul>
+<h2>Student Voice</h2>
+<p><em>‘I have gained a myriad of benefits from my CCA. Many think that running is a purely physical activity but it is actually a lot more than that. The training sessions not only allow me to have some understanding of the challenges faced by world-class athletes but more importantly, I have learnt to focus and develop the determination to overcome obstacles and fatigue. I have gained a new perspective on large and small problems alike. Running builds my capacity to endure and to overcome challenges and this gives me strength in other areas of my life. I will cherish the precious memories and friendships forged for a long, long time to come. HAI Athletics Club has trained me not just for competitions, but also for the race ahead - that is life!’</em>
+</p>
+<p>Warren Illias Tan
+<br>Captain</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2-4DUn4Cq94hbeGVnLi7LvQFkln5DTQt4CG4aDtXPPQN1w_gbMqBEaT0uT7r9TtO11fLy--FC0aSj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
