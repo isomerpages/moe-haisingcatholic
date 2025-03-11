@@ -23,6 +23,9 @@ variant: tiptap
 <li>
 <p>Madam Jamaliah Binte Mohamad Saleh</p>
 </li>
+<li>
+<p>Mr Daniel (KP Support)</p>
+</li>
 </ol>
 <h2>Training schedule</h2>
 <p>Every Tuesday and Thursday</p>
