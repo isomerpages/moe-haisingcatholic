@@ -10,11 +10,22 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/cca%20robotics%20tab%204.png">
 </div>
 <h2>Teachers in charge</h2>
-<p>1. Ms Zhao Xu Ying
-<br>2. Mr Kok Hoe Ming
-<br>3.&nbsp;Ms Cheryl Ng Bee Leng
-<br>
-</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ms Zhao Xu Ying</p>
+</li>
+<li>
+<p>Mr Kok Hoe Ming</p>
+</li>
+<li>
+<p>&nbsp;Ms Cheryl Ng Bee Leng</p>
+</li>
+<li>
+<p>Mr Teo Yee Ming (KP Support)</p>
+</li>
+</ol>
+<p></p>
+<p></p>
 <h2>Training schedule</h2>
 <p>Every Tuesdays: 3.00 - 5.30pm
 <br>Every Thursdays: 3.00 - 5.30pm
