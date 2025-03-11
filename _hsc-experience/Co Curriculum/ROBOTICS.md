@@ -18,7 +18,7 @@ variant: tiptap
 <p>Mr Kok Hoe Ming</p>
 </li>
 <li>
-<p>&nbsp;Ms Cheryl Ng Bee Leng</p>
+<p>Ms Cheryl Ng Bee Leng</p>
 </li>
 <li>
 <p>Mr Teo Yee Ming (KP Support)</p>
