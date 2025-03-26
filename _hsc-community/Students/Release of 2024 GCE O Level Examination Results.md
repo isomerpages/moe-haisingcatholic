@@ -8,8 +8,28 @@ variant: tiptap
 <h1><strong><u>Release of 2024 GCE O-Level Examination Results</u></strong></h1>
 <p>&nbsp;</p>
 <p>Dear Parents/Guardians,</p>
-<p>The 2024 GCE O-Level results will be released on <strong>Friday, 10 January 2025, at 2:30 PM</strong> in
-the School Hall.</p>
+<p></p>
+<p><strong><u>Notice for 2024 Graduands: Collection of School Graduation Certificate (SGC)</u></strong>
+</p>
+<p></p>
+<p>Dear <strong>2024 Graduands from 4 Truth, 4 Charity, 4 Compassion, 4 Integrity, 4 Graciousness, and 5 Adaptability</strong>,</p>
+<p>&nbsp;You are invited to return to school to collect your School Graduation
+Certificate (SGC) during the following period:</p>
+<p></p>
+<p><strong>Date: Starting from Thursday, 27 March 2025</strong>
+</p>
+<p><strong>Time: 2:30 PM – 5:00 PM</strong>
+</p>
+<p><strong>Venue: General Office</strong>
+</p>
+<p>&nbsp;Please note that you must be <strong>properly attired</strong> when
+entering the school.</p>
+<p>Graduands who do not meet the attire requirements will not be allowed
+to enter.</p>
+<p>We look forward to seeing you.</p>
+<p>Thank you.</p>
+<p>For <strong>2024 Graduands from 4 Independence and 4 Adaptability</strong>,
+we will update you once your SGCs are ready for collection.</p>
 <p>&nbsp;</p>
 <p><strong><u>Key Reminders for Students</u></strong>
 </p>
