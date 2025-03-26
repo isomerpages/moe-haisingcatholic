@@ -28,8 +28,8 @@ entering the school.</p>
 to enter.</p>
 <p>We look forward to seeing you.</p>
 <p>Thank you.</p>
-<p>For <strong>2024 Graduands from 4 Independence and 4 Adaptability</strong>,
-we will update you once your SGCs are ready for collection.</p>
+<p>For <strong>2024 Graduands from 4 Independence, 4 Adaptability</strong>  <strong>and 4 Confidence</strong> we
+will update you once your SGCs are ready for collection.</p>
 <p>&nbsp;</p>
 <p><strong><u>Key Reminders for Students</u></strong>
 </p>

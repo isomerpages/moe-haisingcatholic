@@ -18,7 +18,7 @@ sections:
         - title: School Based Assessment
           description: Click HERE to read more!
           url: /hsc-community/students/school-based-assessment/permalink/
-        - title: 2024 GCE O-Level Examination Results
+        - title: "2024 Graduands: Collection of School Graduation Certificate"
           description: Click HERE to read more!
           url: /hsc-community/students/graduation-ceremony-2023/permalink/
       title: Hai Sing Catholic School
