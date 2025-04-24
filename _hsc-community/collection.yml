@@ -1,0 +1,36 @@
+collections:
+  hsc-community:
+    output: true
+    order:
+      - Our Staff/.keep
+      - Our Staff/School Leaders.md
+      - Our Staff/Heads of Department.md
+      - Our Staff/Subject Heads.md
+      - Our Staff/Lead & Senior Teachers.md
+      - Our Staff/Admin & Operations Team.md
+      - Our Staff/Secondary 1.md
+      - Our Staff/Secondary 2.md
+      - Our Staff/Secondary 3.md
+      - Our Staff/Secondary 4.md
+      - Our Staff/Secondary 5.md
+      - Staff Old Version Backup/testing.md
+      - Staff Old Version Backup/.keep
+      - Staff Old Version Backup/Useful Links.md
+      - Staff Old Version Backup/Staff.md
+      - Staff Old Version Backup/Overview.md
+      - Students/.keep
+      - Students/NOTIFCATION ON DEEMED CONSENT.md
+      - Students/SECONDARY 2 PARENT TEACHER CONFERENCE.md
+      - Students/SECONDARY 4 & 5 PARENT TEACHER CONFERENCE.md
+      - Students/STUDENTS TIMETABLE.md
+      - Students/BACK TO SCHOOL.md
+      - Students/SEC ONE ADMISSIONS.md
+      - Students/BOOKLIST AND UNIFORM.md
+      - Students/2025 SECONDARY THREE SUBJECT COMBINATION.md
+      - Students/SCHOOL BASED ASSESSMENT.md
+      - Students/PERSONALISED DIGITAL LEARNING PROGRAMME.md
+      - Students/FULL SUBJECT BASED BANDING.md
+      - Students/SEXUALITY EDUCATION.md
+      - Students/Release of 2024 GCE O Level Examination Results.md
+      - Alumni.md
+      - PSG.md

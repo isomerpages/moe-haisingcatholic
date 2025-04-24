@@ -1,0 +1,8 @@
+collections:
+  join-hsc:
+    output: true
+    order:
+      - School Canteen Advertisement.md
+      - DSA Selection Criteria.md
+      - DSA Talent Areas.md
+      - FAQ.md
