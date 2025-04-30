@@ -271,7 +271,7 @@ variant: markdown
                     <br>
                 </p>
                 <div class="isomer-image-wrapper">
-                    <img style="width: 100%" height="auto" width="100%" alt="Virtual Help Desk (Any urgent matter please approach our Technical Team at Computer Lab 1)" src="/images/qrhelpdesk.png">
+                    <img style="width: 150px; height: 150px;" alt="Virtual Help Desk (Any urgent matter please approach our Technical Team at Computer Lab 1)" src="/images/qrhelpdesk.png">
                 </div>
             </div>
         </div>
@@ -293,14 +293,14 @@ variant: markdown
                         <p>To set up the security challenge questions, please click on this <a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">setup-link</a>.
                         </p>
                         <div class="isomer-image-wrapper">
-                            <img style="width: 100%" height="auto" width="100%" alt="Security Question Setup" src="/images/PDLP%20Page/mims%20password%20setup%20qr.png">
+                            <img style="width: 150px; height: 150px;" alt="Security Question Setup" src="/images/PDLP%20Page/mims%20password%20setup%20qr.png">
                         </div>
                     </li>
                     <li>
                         <p>To perform a self-service password reset, please click on this <a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">self-reset
                                 link</a>.</p>
                         <div class="isomer-image-wrapper">
-                            <img style="width: 100%" height="auto" width="100%" alt="Self-Service MIMS password reset" src="/images/PDLP%20Page/mims%20self-service%20reset%20qr%20code.png">
+                            <img style="width: 150px; height: 150px;" alt="Self-Service MIMS password reset" src="/images/PDLP%20Page/mims%20self-service%20reset%20qr%20code.png">
                         </div>
                     </li>
                 </ul>
