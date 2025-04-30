@@ -2,7 +2,6 @@ collections:
   join-hsc:
     output: true
     order:
-      - Direct School Admission (DSA)/test.md
       - Direct School Admission (DSA)/DSA Talent Areas.md
       - Direct School Admission (DSA)/DSA Selection Criteria.md
       - Direct School Admission (DSA)/.keep
