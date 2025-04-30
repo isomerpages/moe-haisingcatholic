@@ -5,56 +5,48 @@ description: ""
 variant: markdown
 third_nav_title: Direct School Admission (DSA)
 ---
-<h1>DSA Talent Areas</h1>
-<p></p>
-<h2></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/cca floorball tab1.png">
-</div>
-<h1></h1>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/cca sjb.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/cca robotics tab 4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/cca band tab 1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Npcc.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Ncc.png">
-</div>
-<h1>DSA Talent Areas</h1>
-<h2>1 . ROBOTICS</h2>
-<p>Please click on this&nbsp;<a href="/hsc-experience/Co-Curriculum/robotics/permalink/" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to
-know more about Robotics.</p>
-<h2>2. STUDENT LEADERSHIP THROUGH UNIFORMED GROUPS</h2>
-<p>Please click on this&nbsp;<a href="/hsc-experience/Co-Curriculum/ncc/permalink/" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to know
-more about NCC (Land).
-<br>Please click on this&nbsp;<a href="/hsc-experience/Co-Curriculum/npcc/permalink/" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to know
-more about NPCC.
-<br>Please click on this&nbsp;<a href="/hsc-experience/Co-Curriculum/stjohnbrigade/permalink/" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to
-know more about SJB.</p>
-<h2>3. Floorball</h2>
-<p>Please click on this&nbsp;<a href="/hsc-experience/Co-Curriculum/floorball/permalink/" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to
-know more about Floorball.</p>
-<p></p>
-<h2>4. Concert Band</h2>
-<p>Please click on this <a href="https://www.haisingcatholic.moe.edu.sg/hsc-experience/Co-Curriculum/concert-band/permalink/" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-know more about Concert Band.</p>
-<p></p>
-<h2>5. Modern Dance</h2>
-<p>Please click on this <a href="https://www.haisingcatholic.moe.edu.sg/hsc-experience/Co-Curriculum/dance-club/permalink/" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-know more about Modern Dance.</p>
-<p></p>
-<h2>DSA APPLICATION PROCESS</h2>
-<p>Please refer to the following webpage for more information about DSA application
-process.&nbsp;
-<br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission for secondary schools (DSA-Sec) | MOE</a>
-</p>
+  <h1 style="margin-bottom: 20px;">DSA Talent Areas</h1>
+<section style="background-color: #f9f9f9; padding: 20px; font-family: Arial, sans-serif;">
+  <div style="width: 200px; margin: 0 auto; border: 1px solid #ccc; display: inline-block; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img style="width: 100%; height: auto;" alt="CCA Robotics Team" src="/images/CCA/cca robotics tab 4.png">
+    <div style="padding-right: 15px;">
+      <h2 style="font-size: 18px; margin: 0px 15px;"><a title="Click here to lear more" href="/hsc-experience/Co-Curriculum/robotics/permalink/">Robotics</a></h2>
+    </div>
+  </div>
+  <div style="width: 200px; margin: 0 auto; border: 1px solid #ccc; display: inline-block; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img style="width: 100%; height: auto;" alt="NCC CCA" src="/images/CCA/Ncc.png">
+    <div style="padding-right: 15px;">
+      <h2 style="font-size: 18px; margin: 0px 15px;"><a title="Click here to lear more" href="/hsc-experience/Co-Curriculum/ncc/permalink/">NCC (Land)</a></h2>
+    </div>
+  </div>
+  <div style="width: 200px; margin: 0 auto; border: 1px solid #ccc; display: inline-block; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img style="width: 100%; height: auto;" alt="NPCC CCA" src="/images/CCA/Npcc.png">
+    <div style="padding-right: 15px;">
+      <h2 style="font-size: 18px; margin: 0px 15px;"><a title="Click here to lear more" href="/hsc-experience/Co-Curriculum/npcc/permalink/">NPCC</a></h2>
+    </div>
+  </div>
+  <div style="width: 200px; margin: 0 auto; border: 1px solid #ccc; display: inline-block; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img style="width: 100%; height: auto;" alt="CCA SJB" src="/images/CCA/cca sjb.png">
+    <div style="padding-right: 15px;">
+      <h2 style="font-size: 18px; margin: 0px 15px;"><a title="Click here to lear more" href="/hsc-experience/Co-Curriculum/stjohnbrigade/permalink/">SJB</a></h2>
+    </div>
+  </div>
+  <div style="width: 200px; margin: 0 auto; border: 1px solid #ccc; display: inline-block; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img style="width: 100%; height: auto;" alt="CCA Floorball Team" src="/images/CCA/cca floorball tab1.png">
+    <div style="padding-right: 15px;">
+      <h2 style="font-size: 18px; margin: 0px 15px;"><a title="Click here to lear more" href="/hsc-experience/Co-Curriculum/floorball/permalink/">Floorball</a></h2>
+    </div>
+  </div>
+  <div style="width: 200px; margin: 0 auto; border: 1px solid #ccc; display: inline-block; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img style="width: 100%; height: auto;" alt="Concert band CCA" src="/images/CCA/cca band tab 1.png">
+    <div style="padding-right: 15px;">
+      <h2 style="font-size: 18px; margin: 0px 15px;"><a title="Click here to lear more" href="/hsc-experience/Co-Curriculum/concert-band/permalink/">Concert Band</a></h2>
+    </div>
+  </div>
+    <div style="width: 200px; margin: 0 auto; border: 1px solid #ccc; display: inline-block; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <img style="width: 100%; height: auto;" alt="Modern Dance CCA" src="/images/CCA/Dance.png">
+    <div style="padding-right: 15px;">
+      <h2 style="font-size: 18px; margin: 0px 15px;"><a title="Click here to lear more" href="/hsc-experience/Co-Curriculum/dance-club/permalink/">Modern Dance</a></h2>
+    </div>
+  </div>
+</section>
