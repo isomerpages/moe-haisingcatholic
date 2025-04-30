@@ -15,7 +15,6 @@ variant: markdown
 
         .main-title {
             color: #1e3a8a;
-            text-align: center;
             margin: 24px 0;
             font-weight: 700;
             font-size: 2.25rem;
@@ -151,7 +150,7 @@ variant: markdown
         }
 </style>
 <h1 class="main-title">PERSONALISED DIGITAL LEARNING PROGRAMME</h1>
-    <div class="collapsible-container">
+<div class="collapsible-container">
         <div class="collapsible-section">
             <input class="collapsible-toggle" id="floorball" type="checkbox">
             <label for="floorball" class="collapsible-header">General Information for Parents<span></span></label>
@@ -169,7 +168,6 @@ variant: markdown
                     </li>
                 </ul>
             </div>
-        </div>
         <div class="collapsible-section">
             <input class="collapsible-toggle" id="robotics" type="checkbox">
             <label for="robotics" class="collapsible-header">Personal Learning Device Service and
@@ -331,5 +329,4 @@ variant: markdown
                 <p></p>
             </div>
         </div>
-    </div>
-
+    </div></div>
