@@ -3,7 +3,7 @@ title: Lead & Senior Teachers
 permalink: /lead-senior-teachers/
 variant: markdown
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Staff
 ---
 <table>
 <tbody>

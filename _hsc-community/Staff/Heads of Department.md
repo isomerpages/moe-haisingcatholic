@@ -3,7 +3,7 @@ title: Heads of Department
 permalink: /heads-of-department/
 variant: markdown
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Staff
 ---
 <table>
 <tbody>

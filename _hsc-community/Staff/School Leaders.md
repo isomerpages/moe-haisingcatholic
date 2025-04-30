@@ -3,7 +3,7 @@ title: School Leaders
 permalink: /school-leaders/
 variant: markdown
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Staff
 ---
 <table style="border-collapse: collapse;">
 		<tbody>

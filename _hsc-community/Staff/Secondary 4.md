@@ -3,7 +3,7 @@ title: Secondary 4
 permalink: /secondary-4/
 variant: markdown
 description: ""
-third_nav_title: Our Staff
+third_nav_title: Staff
 ---
 <table>
 <tbody>
