@@ -14,60 +14,60 @@ third_nav_title: Direct School Admission (DSA)
         }
 
         .main-title {
-            color: #1e3a8a;
+            color: #2d3748;
             text-align: center;
-            margin: 24px 0;
-            font-weight: 700;
-            font-size: 2.25rem;
+            margin: 2rem 0;
+            font-weight: 600;
+            font-size: 2.5rem;
             letter-spacing: -0.025em;
         }
 
         .collapsible-container {
-            margin: 16px auto;
-            width: calc(100% - 32px);
-            max-width: 700px;
+            margin: 1rem auto;
+            width: calc(100% - 2rem);
+            max-width: 800px;
         }
 
         .collapsible-section {
-            margin-bottom: 8px;
+            margin-bottom: 1rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
         }
 
         .collapsible-header {
-            background-color: #f0f0f0;
-            color: #1e3a8a;
-            padding: 18px;
-            border-radius: 8px;
+            background-color: #edf2f7;
+            color: #2d3748;
+            padding: 1.25rem;
+            border-radius: 0.5rem 0.5rem 0 0;
             cursor: pointer;
             display: flex;
             justify-content: space-between;
             align-items: center;
             font-size: 1.25rem;
-            font-weight: 600;
-            border: 1px solid #e2e8f0;
+            font-weight: 500;
             transition: background-color 0.3s ease;
-            margin-bottom: 0;
         }
 
         .collapsible-header:hover {
-            background-color: #e0e0e0;
+            background-color: #e2e8f0;
         }
 
         .collapsible-header span {
             font-size: 1.5rem;
+            transition: transform 0.3s ease-in-out;
         }
 
         .collapsible-content {
             background-color: #fff;
-            border-radius: 8px;
-            padding: 20px;
-            border: 1px solid #e2e8f0;
-            margin-top: -1px;
+            padding: 1.25rem;
+            border-radius: 0 0 0.5rem 0.5rem;
             display: none;
         }
 
         /* Style for the open state */
         input[type="checkbox"]:checked + .collapsible-header {
-            background-color: #e0e0e0;
+            background-color: #e2e8f0;
             border-bottom-left-radius: 0;
             border-bottom-right-radius: 0;
         }
@@ -91,56 +91,56 @@ third_nav_title: Direct School Admission (DSA)
         }
 
         .collapsible-content li {
-            margin-bottom: 16px;
-            font-size: 16px;
-            line-height: 28px;
+            margin-bottom: 1rem;
+            font-size: 1rem;
+            line-height: 1.75rem;
             color: #4a5568;
         }
 
         .collapsible-content ol li::marker {
-            font-weight: 500;
-            color: #1e40af;
+            font-weight: 600;
+            color: #1a202c;
         }
 
         .collapsible-content table {
             margin-left: 0;
             width: 100%;
             border-collapse: collapse;
-            margin-top: 24px;
+            margin-top: 1.5rem;
             border: 1px solid #e2e8f0;
-            border-radius: 8px;
+            border-radius: 0.5rem;
             overflow: hidden;
         }
 
         .collapsible-content table td, .collapsible-content table th {
             border: 1px solid #e2e8f0;
-            padding: 16px;
+            padding: 1rem;
             text-align: left;
         }
 
         .collapsible-content table th {
             background-color: #f7fafc;
             font-weight: 600;
-            color: #1e293b;
+            color: #1a202c;
         }
 
         .collapsible-content table thead th {
             background-color: #edf2f7;
-            color: #1e293b;
+            color: #1a202c;
             font-weight: 600;
         }
 
         @media (max-width: 768px) {
             .collapsible-container {
                 width: 100%;
-                margin: 16px 0;
+                margin: 1rem 0;
             }
         }
 
         /* CSS Down and Up Arrows */
         .collapsible-header span {
             transition: transform 0.3s ease-in-out;
-            display: inline-block; /* Ensure smooth rotation */
+            display: inline-block;
         }
 
         .collapsible-header span::before {
@@ -148,7 +148,7 @@ third_nav_title: Direct School Admission (DSA)
             font-size: 1.5rem;
         }
 
-</style>
+    </style>
 <h1 class="main-title">DSA Selection Criteria</h1>
     <div class="collapsible-container">
         <div class="collapsible-section">
@@ -177,7 +177,7 @@ third_nav_title: Direct School Admission (DSA)
         </div>
         <div class="collapsible-section">
             <input class="collapsible-toggle" id="uniformedGroups" type="checkbox">
-            <label for="uniformedGroups" class="collapsible-header">Uniformed Groups (NCC, NPCC, SJB)<span></span></label>
+            <label for="uniformedGroups" class="collapsible-header">Uniformed Groups<span></span></label>
             <div class="collapsible-content">
                 <p>Hai Sing Catholic School Uniformed Groups is looking for Primary 6 pupils who exhibit the following:</p>
                 <ol>
