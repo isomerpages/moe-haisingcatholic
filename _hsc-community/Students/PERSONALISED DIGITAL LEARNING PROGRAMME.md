@@ -151,7 +151,7 @@ variant: markdown
 </style>
 <h1 class="main-title">PERSONALISED DIGITAL LEARNING PROGRAMME</h1>
 <div class="collapsible-container">
-        <div class="collapsible-section">
+      <div class="collapsible-section">
             <input class="collapsible-toggle" id="floorball" type="checkbox">
             <label for="floorball" class="collapsible-header">General Information for Parents<span></span></label>
             <div class="collapsible-content">
@@ -167,7 +167,8 @@ variant: markdown
                         </p>
                     </li>
                 </ul>
-            </div>
+						</div>
+        </div>
         <div class="collapsible-section">
             <input class="collapsible-toggle" id="robotics" type="checkbox">
             <label for="robotics" class="collapsible-header">Personal Learning Device Service and
@@ -329,4 +330,4 @@ variant: markdown
                 <p></p>
             </div>
         </div>
-    </div></div>
+    </div>
