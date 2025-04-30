@@ -176,7 +176,7 @@ third_nav_title: Direct School Admission (DSA)
         </div>
         <div class="collapsible-section">
             <input class="collapsible-toggle" id="uniformedGroups" type="checkbox">
-            <label for="uniformedGroups" class="collapsible-header">Uniformed Groups<span></span></label>
+            <label for="uniformedGroups" class="collapsible-header">Uniformed Groups (NCC , NPCC , SJB)<span></span></label>
             <div class="collapsible-content">
                 <p>Hai Sing Catholic School Uniformed Groups is looking for Primary 6 pupils who exhibit the following:</p>
                 <ol>
