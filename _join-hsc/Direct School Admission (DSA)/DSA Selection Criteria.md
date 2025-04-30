@@ -5,6 +5,20 @@ variant: markdown
 description: ""
 third_nav_title: Direct School Admission (DSA)
 ---
+<div style="margin-bottom: 20px;" class="accordion">
+            <details style="border-bottom: 1px solid #ddd; border-radius: 5px; box-shadow: 0px 0px 5px #c5c5c5, 0px 0px 5px #ffffff; padding: 10px; background-color: #ffffff;">
+                <summary style="cursor: pointer; outline: none;font-size: 20px; color: #617BD6">
+                    <strong>General Information for Parents</strong>
+                </summary>
+                <div style="border-top: 1px solid #6031B6; margin-top: 15px;">
+                    <ul>
+                        <li><a href="">Frequently Asked Questions (FAQ) on PDLP</a></li>
+                        <li><a href="">Infographic on the PLD initiative</a></li>
+                    </ul>
+                </div>
+            </details>
+        </div>
+
 <h1><strong><u>DSA Selection Criteria</u></strong></h1>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Floorball</strong>
 </p>
