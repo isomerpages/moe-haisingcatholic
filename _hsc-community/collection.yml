@@ -2,7 +2,6 @@ collections:
   hsc-community:
     output: true
     order:
-      - Our Staff/Useful Links.md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
       - Our Staff/Heads of Department.md
@@ -14,6 +13,7 @@ collections:
       - Our Staff/Secondary 3.md
       - Our Staff/Secondary 4.md
       - Our Staff/Secondary 5.md
+      - Our Staff/Useful Links.md
       - Staff Old Version Backup/testing.md
       - Staff Old Version Backup/.keep
       - Staff Old Version Backup/Staff.md
