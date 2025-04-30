@@ -62,7 +62,6 @@ third_nav_title: Direct School Admission (DSA)
     width: 100%;
   }
 </style>
-<h1>DSA Selection Criteria</h1>
 <details class="details-container">
   <summary style="font-size: 20px; color: #4372d6;" class="details-summary">
     Floorball
