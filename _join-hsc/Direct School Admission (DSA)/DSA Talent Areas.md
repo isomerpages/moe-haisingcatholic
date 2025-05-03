@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Direct School Admission (DSA)
 ---
-   <style>
+<style>
 		.main-title {
             color: #1e3a8a;
             margin: 24px 0;
@@ -15,7 +15,7 @@ third_nav_title: Direct School Admission (DSA)
         }
 	</style>
 <h1 class="main-title">DSA Talent Areas</h1>
-<section style="background-color: #f9f9f9; padding: 20px; font-family: Arial, sans-serif;">
+<section style="padding: 20px; font-family: Arial, sans-serif;">
   <div style="width: 200px; margin: 0 auto; border: 1px solid #ccc; display: inline-block; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <img style="width: 100%; height: 140px;" alt="CCA Robotics Team" src="/images/CCA/cca robotics tab 4.png">
     <div style="padding-right: 15px;">
