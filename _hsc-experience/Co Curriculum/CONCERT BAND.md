@@ -19,9 +19,6 @@ variant: tiptap
 </li>
 <li>
 <p>Madam Zaibon Nisah Bte Abdul Hamid</p>
-</li>
-<li>
-<p>Madam Yasmin Bte A Aziz (KP Support)</p>
 <p></p>
 </li>
 </ol>
