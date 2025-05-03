@@ -17,9 +17,6 @@ variant: tiptap
 <li>
 <p>Madam De Witt Cassandra Shivani</p>
 </li>
-<li>
-<p>Madam Yasmin Bte A Aziz (KP support)</p>
-</li>
 </ol>
 <h2>Training schedule</h2>
 <p>Every Tuesday and Thursday: 3.00 - 5.30pm</p>
