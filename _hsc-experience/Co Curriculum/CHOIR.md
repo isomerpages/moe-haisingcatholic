@@ -17,9 +17,6 @@ variant: tiptap
 <li>
 <p>Ms Lee Yueli</p>
 </li>
-<li>
-<p>Mdm Yasmin Bte A Aziz (KP support)</p>
-</li>
 </ol>
 <h2>Training schedule</h2>
 <p>Every Tuesday and Thursday: 3.30pm - 5.30pm</p>
