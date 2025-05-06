@@ -3,6 +3,7 @@ title: Useful Links
 permalink: /hsc-community/permalink/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 ### Useful links for Teachers 
 
