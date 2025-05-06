@@ -236,7 +236,6 @@ third_nav_title: Direct School Admission (DSA)
             </div>
         </div>
     </div>
-<hr>
 <h2>DSA Application Process</h2>
 <p>Applications for the DSA-Sec are free-of-charge and must be submitted
     through the online DSA-Sec Portal. Applications open on 7 May 2025 (Wed),
