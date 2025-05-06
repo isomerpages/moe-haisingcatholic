@@ -150,7 +150,7 @@ third_nav_title: Direct School Admission (DSA)
 
     </style>
 <h1 class="main-title">DSA Selection Criteria</h1>
-    <div class="collapsible-container">
+<div class="collapsible-container">
         <div class="collapsible-section">
             <input class="collapsible-toggle" id="floorball" type="checkbox">
             <label for="floorball" class="collapsible-header">Floorball<span></span></label>
