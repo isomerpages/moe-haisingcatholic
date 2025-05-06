@@ -15,7 +15,6 @@ third_nav_title: Direct School Admission (DSA)
 
         .main-title {
             color: #1e3a8a;
-            text-align: center;
             margin: 24px 0;
             font-weight: 700;
             font-size: 2.25rem;
@@ -239,18 +238,18 @@ third_nav_title: Direct School Admission (DSA)
             </div>
         </div>
     </div>
-		<hr>
-	  <h2>DSA Application Process</h2>
-  <p>Applications for the DSA-Sec are free-of-charge and must be submitted
+<hr>
+<h2>DSA Application Process</h2>
+<p>Applications for the DSA-Sec are free-of-charge and must be submitted
     through the online DSA-Sec Portal. Applications open on 7 May 2025 (Wed),
     11 am and close on 3 Jun 2025 (Tue), 3 pm.</p>
-  <h2>DSA Selection Process</h2>
-  <p>All shortlisted candidates will be notified via email by early August
+<h2>DSA Selection Process</h2>
+<p>All shortlisted candidates will be notified via email by early August
     2025 to attend an in-person audition / trial held in Hai Sing Catholic
     School. More details on the performance task will be provided in the email
     notification.</p>
-  <p>All applicants will be notified of their DSA-Sec application results by 4 September 2025 via email.</p>
-  <p>For further information about the DSA-Sec Exercise, please refer to the following MOE webpage:
-    <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School
+<p>All applicants will be notified of their DSA-Sec application results by 4 September 2025 via email.</p>
+<p>For further information about the DSA-Sec Exercise, please refer to the following MOE webpage:
+<br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School
       Admission for secondary schools (DSA-Sec) | MOE</a>
   </p>
