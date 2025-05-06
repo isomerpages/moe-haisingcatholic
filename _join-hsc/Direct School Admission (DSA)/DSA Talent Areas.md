@@ -10,7 +10,6 @@ third_nav_title: Direct School Admission (DSA)
             color: #1e3a8a;
             margin: 24px 0;
             font-weight: 700;
-            font-size: 2.25rem;
             letter-spacing: -0.025em;
         }
 	</style>
