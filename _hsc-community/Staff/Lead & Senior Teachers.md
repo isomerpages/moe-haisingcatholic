@@ -7,7 +7,7 @@ third_nav_title: Staff
 ---
 <table>
 <tbody>
-			<tr style="background-color: #6031b6">
+			<tr style="background-color: #00A3E0">
 					<th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Lead/Senior Teachers</th>
 					<th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Subject</th>
 					<th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Email</th>
