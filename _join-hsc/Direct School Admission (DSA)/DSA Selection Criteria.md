@@ -1,250 +1,150 @@
 ---
 title: DSA Selection Criteria
 permalink: /dsa-selection-criteria/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Direct School Admission (DSA)
 ---
-<style>
-        body {
-            font-family: 'Inter', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f3f4f6;
-        }
-
-        .main-title {
-            color: #1e3a8a;
-            margin: 24px 0;
-            font-weight: 700;
-            font-size: 2.25rem;
-            letter-spacing: -0.025em;
-        }
-
-        .collapsible-container {
-            margin: 16px auto;
-            width: calc(100% - 32px);
-            max-width: 700px;
-        }
-
-        .collapsible-section {
-            margin-bottom: 8px;
-        }
-
-        .collapsible-header {
-            background-color: #f0f0f0;
-            color: #1e3a8a;
-            padding: 18px;
-            border-radius: 8px;
-            cursor: pointer;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 1.25rem;
-            font-weight: 600;
-            border: 1px solid #e2e8f0;
-            transition: background-color 0.3s ease;
-            margin-bottom: 0;
-        }
-
-        .collapsible-header:hover {
-            background-color: #e0e0e0;
-        }
-
-        .collapsible-header span {
-            font-size: 1.5rem;
-        }
-
-        .collapsible-content {
-            background-color: #fff;
-            border-radius: 8px;
-            padding: 20px;
-            border: 1px solid #e2e8f0;
-            margin-top: -1px;
-            display: none;
-        }
-
-        /* Style for the open state */
-        input[type="checkbox"]:checked + .collapsible-header {
-            background-color: #e0e0e0;
-            border-bottom-left-radius: 0;
-            border-bottom-right-radius: 0;
-        }
-
-        input[type="checkbox"]:checked + .collapsible-header span {
-            transform: rotate(180deg);
-        }
-
-        input[type="checkbox"]:checked ~ .collapsible-content {
-            display: block;
-        }
-
-        input[type="checkbox"] {
-            display: none;
-        }
-
-        .collapsible-content ol {
-            list-style-position: inside;
-            padding-left: 0;
-            margin-left: 0;
-        }
-
-        .collapsible-content li {
-            margin-bottom: 16px;
-            font-size: 16px;
-            line-height: 28px;
-            color: #4a5568;
-        }
-
-        .collapsible-content ol li::marker {
-            font-weight: 500;
-            color: #1e40af;
-        }
-
-        .collapsible-content table {
-            margin-left: 0;
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 24px;
-            border: 1px solid #e2e8f0;
-            border-radius: 8px;
-            overflow: hidden;
-        }
-
-        .collapsible-content table td, .collapsible-content table th {
-            border: 1px solid #e2e8f0;
-            padding: 16px;
-            text-align: left;
-        }
-
-        .collapsible-content table th {
-            background-color: #f7fafc;
-            font-weight: 600;
-            color: #1e293b;
-        }
-
-        .collapsible-content table thead th {
-            background-color: #edf2f7;
-            color: #1e293b;
-            font-weight: 600;
-        }
-
-        @media (max-width: 768px) {
-            .collapsible-container {
-                width: 100%;
-                margin: 16px 0;
-            }
-        }
-
-        /* CSS Down and Up Arrows */
-        .collapsible-header span {
-            transition: transform 0.3s ease-in-out;
-            display: inline-block; /* Ensure smooth rotation */
-        }
-
-        .collapsible-header span::before {
-            content: '▼';
-            font-size: 1.5rem;
-        }
-
-</style>
-<h1 class="main-title">DSA Selection Criteria</h1>
-<div class="collapsible-container">
-        <div class="collapsible-section">
-            <input class="collapsible-toggle" id="floorball" type="checkbox">
-            <label for="floorball" class="collapsible-header">Floorball<span></span></label>
-            <div class="collapsible-content">
-                <p>Hai Sing Catholic School Floorball Team is looking for Primary 6 students who meet two or more of the following conditions.</p>
-                <ol>
-                    <li>Active member in a floorball team (school/club)</li>
-                    <li>Awards in National School Games Floorball competitions or any relevant competition</li>
-                    <li>The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last two years of Primary School Education.</li>
-                </ol>
-            </div>
-        </div>
-        <div class="collapsible-section">
-            <input class="collapsible-toggle" id="robotics" type="checkbox">
-            <label for="robotics" class="collapsible-header">Robotics<span></span></label>
-            <div class="collapsible-content">
-                <p>Hai Sing Catholic School Robotics Club is looking for Primary 6 students who possess two or more of the following competencies.</p>
-                <ol>
-                    <li>Robotics building and programming skills.</li>
-                    <li>Awards in Robotics, ICT or Science-related competitions.</li>
-                    <li>The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last two years of Primary School Education.</li>
-                </ol>
-            </div>
-        </div>
-        <div class="collapsible-section">
-            <input class="collapsible-toggle" id="uniformedGroups" type="checkbox">
-            <label for="uniformedGroups" class="collapsible-header">Uniformed Groups (NCC , NPCC , SJB)<span></span></label>
-            <div class="collapsible-content">
-                <p>Hai Sing Catholic School Uniformed Groups is looking for Primary 6 pupils who exhibit the following:</p>
-                <ol>
-                    <li>The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last 2 years in Primary School Education.</li>
-                    <li>The student demonstrates consistency and commitment to development by attaining at least 90 % attendance for the CCA during the last two years of Primary School Education.</li>
-                    <li>The student demonstrates strong potential for further leadership development by assuming key leadership positions in their CCA for at least a year.</li>
-                    <li>The student demonstrates excellence through strong individual attainment in progress schemes/awards in the various Uniformed Groups</li>
-                </ol>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>CCA</th>
-                            <th>Award</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Scouts</td>
-                            <td>Akela Award</td>
-                        </tr>
-                        <tr>
-                            <td>Boys Brigade</td>
-                            <td>Chief Leading Boy and Gold Award</td>
-                        </tr>
-                        <tr>
-                            <td>Brownies</td>
-                            <td>Chief Commissioner Award</td>
-                            </tr>
-                        <tr>
-                            <td>Red Cross</td>
-                            <td>Directors Award</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
-        <div class="collapsible-section">
-            <input class="collapsible-toggle" id="concertBand" type="checkbox">
-            <label for="concertBand" class="collapsible-header">Concert Band<span></span></label>
-            <div class="collapsible-content">
-                <p>Hai Sing Catholic School Concert Band is open to all Primary 6 pupils who meet two or more of the following conditions.</p>
-                <ol>
-                    <li>Active member in a concert band (school/club)</li>
-                    <li>Awards in Singapore Youth Festival Art Presentation or any relevant competition</li>
-                    <li>The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last two years of Primary School Education.</li>
-                </ol>
-            </div>
-        </div>
-        <div class="collapsible-section">
-            <input class="collapsible-toggle" id="modernDance" type="checkbox">
-            <label for="modernDance" class="collapsible-header">Modern Dance<span></span></label>
-            <div class="collapsible-content">
-                <p>Hai Sing Catholic School Dance is open to all Primary 6 pupils who meet two or more of the following conditions.</p>
-                <ol>
-                    <li>Active member in a dance club (school/club)</li>
-                    <li>Awards in Singapore Youth Festival Art Presentation or any relevant competition</li>
-                    <li>The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last two years of Primary School Education.</li>
-                </ol>
-            </div>
-        </div>
-        <div class="collapsible-section">
-            <input class="collapsible-toggle" id="dsaSelection" type="checkbox">
-            <label for="dsaSelection" class="collapsible-header">DSA Selection Process<span></span></label>
-            <div class="collapsible-content">
-                <p>All shortlisted applicants will be required to attend a face-to-face interview and selection trial in Hai Sing Catholic School.</p>
-            </div>
-        </div>
-    </div>
+<h1>DSA Selection Criteria</h1>
+<p>Floorball</p>
+<p>Hai Sing Catholic School Floorball Team is looking for Primary 6 students
+who meet two or more of the following conditions.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Active member in a floorball team (school/club)</p>
+</li>
+<li>
+<p>Awards in National School Games Floorball competitions or any relevant
+competition</p>
+</li>
+<li>
+<p>The student must obtain at least a Very Good conduct grade with relevant
+leadership skills during the last two years of Primary School Education.</p>
+</li>
+</ol>
+<p>Robotics</p>
+<p>Hai Sing Catholic School Robotics Club is looking for Primary 6 students
+who possess two or more of the following competencies.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Robotics building and programming skills.</p>
+</li>
+<li>
+<p>Awards in Robotics, ICT or Science-related competitions.</p>
+</li>
+<li>
+<p>The student must obtain at least a Very Good conduct grade with relevant
+leadership skills during the last two years of Primary School Education.</p>
+</li>
+</ol>
+<p>Uniformed Groups (NCC , NPCC , SJB)</p>
+<p>Hai Sing Catholic School Uniformed Groups is looking for Primary 6 pupils
+who exhibit the following:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>The student must obtain at least a Very Good conduct grade with relevant
+leadership skills during the last 2 years in Primary School Education.</p>
+</li>
+<li>
+<p>The student demonstrates consistency and commitment to development by
+attaining at least 90 % attendance for the CCA during the last two years
+of Primary School Education.</p>
+</li>
+<li>
+<p>The student demonstrates strong potential for further leadership development
+by assuming key leadership positions in their CCA for at least a year.</p>
+</li>
+<li>
+<p>The student demonstrates excellence through strong individual attainment
+in progress schemes/awards in the various Uniformed Groups</p>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scouts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Akela Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Boys Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Leading Boy and Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Brownies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Cross</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Directors Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Concert Band</p>
+<p>Hai Sing Catholic School Concert Band is open to all Primary 6 pupils
+who meet two or more of the following conditions.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Active member in a concert band (school/club)</p>
+</li>
+<li>
+<p>Awards in Singapore Youth Festival Art Presentation or any relevant competition</p>
+</li>
+<li>
+<p>The student must obtain at least a Very Good conduct grade with relevant
+leadership skills during the last two years of Primary School Education.</p>
+</li>
+</ol>
+<p>Modern Dance</p>
+<p>Hai Sing Catholic School Dance is open to all Primary 6 pupils who meet
+two or more of the following conditions.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Active member in a dance club (school/club)</p>
+</li>
+<li>
+<p>Awards in Singapore Youth Festival Art Presentation or any relevant competition</p>
+</li>
+<li>
+<p>The student must obtain at least a Very Good conduct grade with relevant
+leadership skills during the last two years of Primary School Education.</p>
+</li>
+</ol>
+<p>DSA Selection Process</p>
+<p>All shortlisted candidates will be notified via email by early August
+2025 to attend an in-person audition / trial held in Hai Sing Catholic
+School. More details on the performance task will be provided in the email
+notification.</p>
 <hr>
-<h2 class="main-title">DSA Application Process</h2>
-<p>Please refer to the following webpage for more information about DSA application process.<br><a href="https://www.moe.gov.sg/secondary/dsa">Direct School Admission for secondary schools (DSA-Sec) | MOE</a></p>
+<h2>DSA Application Process</h2>
+<p>Please refer to the following webpage for more information about DSA application
+process.
+<br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission for secondary schools (DSA-Sec) | MOE</a>
+</p>
