@@ -245,3 +245,6 @@ third_nav_title: Direct School Admission (DSA)
             </div>
         </div>
     </div>
+<hr>
+<h2 class="main-title">DSA Application Process</h2>
+<p>Please refer to the following webpage for more information about DSA application process.<br><a href="https://www.moe.gov.sg/secondary/dsa">Direct School Admission for secondary schools (DSA-Sec) | MOE</a></p>

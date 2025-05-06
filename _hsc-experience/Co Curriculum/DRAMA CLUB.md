@@ -16,9 +16,6 @@ variant: tiptap
 </li>
 <li>
 <p>Mdm Siti Nurhuda Hamsani</p>
-</li>
-<li>
-<p>Madam Yasmin Bte A Aziz (KP Support)</p>
 <p></p>
 </li>
 </ol>
