@@ -15,7 +15,6 @@ third_nav_title: Direct School Admission (DSA)
 
         .main-title {
             color: #1e3a8a;
-            margin: 24px 0;
             letter-spacing: -0.025em;
         }
 
@@ -146,8 +145,9 @@ third_nav_title: Direct School Admission (DSA)
         }
 
     </style>
-<h1 class="main-title">DSA Selection Criteria</h1>
-<div class="collapsible-container">
+<h2 class="main-title">1) DSA Selection Criteria</h2>
+<p>Selection criteria for the respective talent areas as below.</p><p>
+</p><div class="collapsible-container">
         <div class="collapsible-section">
             <input class="collapsible-toggle" id="floorball" type="checkbox">
             <label for="floorball" class="collapsible-header">Floorball<span></span></label>
@@ -236,19 +236,21 @@ third_nav_title: Direct School Admission (DSA)
             </div>
         </div>
     </div>
-<h2>DSA Application Process</h2>
+<p>Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</p>
+<hr>
+<h2>2) DSA Application Process</h2>
 <p>Applications for the DSA-Sec are free-of-charge and must be submitted
     through the online DSA-Sec Portal. Applications open on 7 May 2025 (Wed),
     11 am and close on 3 Jun 2025 (Tue), 3 pm.</p>
 <hr>
-<h2>DSA Selection Process</h2>
+<h2>3) DSA Selection Process</h2>
 <p>All shortlisted candidates will be notified via email by early August
     2025 to attend an in-person audition / trial held in Hai Sing Catholic
     School. More details on the performance task will be provided in the email
     notification.</p>
+<hr>
+<h2>4) Release of Application Results</h2>
+<p>All applicants will be notified of their DSA-Sec application results by 4 September 2025 via email.</p>
 <p>For further information about the DSA-Sec Exercise, please refer to the following MOE webpage:
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School
       Admission for secondary schools (DSA-Sec) | MOE</a></p>
-<hr>
-<h2>Release of Application Results</h2>
-<p>All applicants will be notified of their DSA-Sec application results by 4 September 2025 via email.</p>
