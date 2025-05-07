@@ -15,7 +15,6 @@ third_nav_title: Direct School Admission (DSA)
 
         .main-title {
             color: #1e3a8a;
-            letter-spacing: -0.025em;
         }
 
         .collapsible-container {
