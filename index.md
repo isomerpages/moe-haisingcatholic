@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/IMG_0001B.jpg
+      background: /images/Home/home_gb_gif.gif
       key_highlights:
         - title: Direct School Admission (DSA)
           description: Click HERE to read more!
@@ -25,14 +25,6 @@ sections:
       subtitle: Ad Veritatem per caritatem – To Truth Through Charity
   - infobar:
       title: Highlights
-  - infopic:
-      title: 2024 GCE O Level Results
-      id: infopic
-      description: For Students - Information for Results Release and Admission Matters
-      button: Click here
-      url: https://drive.google.com/file/d/1DqUBj7Pxd5v5bqOxTZ2D9hkU2WEcM6uF/view?usp=sharing
-      image: /images/O_level.png
-      alt: Image alt text
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
