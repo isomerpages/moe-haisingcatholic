@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home/hai_sing_bg_home_final.gif
+      background: /images/Home/use_this_one.gif
       key_highlights:
         - title: Direct School Admission (DSA)
           description: Click HERE to read more!
