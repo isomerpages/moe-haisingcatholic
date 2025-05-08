@@ -249,7 +249,7 @@ third_nav_title: Direct School Admission (DSA)
     notification.</p>
 <hr>
 <h2>4) Release of Application Results</h2>
-<p>All applicants will be notified of their DSA-Sec application results by 4 September 2025 via email.</p>
+<p>All applicants will be notified of their DSA-Sec application results between 25 August and 4 September 2025 via email.</p>
 <p>For further information about the DSA-Sec Exercise, please refer to the following MOE webpage:
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School
       Admission for secondary schools (DSA-Sec) | MOE</a></p>
