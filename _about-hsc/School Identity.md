@@ -88,7 +88,8 @@ in life</p>
 <p>‘Hai Sing Blue’ – resemble the colour of the sea, endless possibilities</p>
 <p><strong>Motto</strong>
 </p>
-<p>Ad Veritatem Per Caritatem<br>To Truth Through Charity</p>
+<p style="margin-bottom: -10px;">Ad Veritatem Per Caritatem</p>
+<p>To Truth Through Charity</p>
 <h2>School Song</h2>
 <p>灿烂海星&nbsp;皎洁无双</p>
 <p>雄视狮城&nbsp;照彻新邦</p>
