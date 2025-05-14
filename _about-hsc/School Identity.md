@@ -27,7 +27,9 @@ With God in our presence, we guide our students to seek their true purpose in li
 
 **Our Motto**
 
-Ad Veritatem per caritatem – To Truth Through Charity
+Ad Veritatem Per Caritatem
+
+To Truth Through Charity
 
 **Our Values**
 
