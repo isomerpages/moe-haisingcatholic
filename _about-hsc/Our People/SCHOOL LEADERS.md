@@ -28,7 +28,7 @@ third_nav_title: Our People
 						<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:HSHS@moe.edu.sg">HSHS@moe.edu.sg</a></td>
 				</tr> 
 				<tr>
-						<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Kong Wei foong Andy</td>
+						<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Kong Wei Foong Andy</td>
 						<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Vice-Principal<br>(Administration)</td>
 						<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:HSHS@moe.edu.sg">HSHS@moe.edu.sg</a></td>
 				</tr> 
