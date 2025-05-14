@@ -82,7 +82,8 @@ Our students – to be purposeful navigators of their lives
 
 **Motto**
 
-Ad Veritatem per caritatem – To Truth Through Charity
+Ad Veritatem Per Caritatem 
+To Truth Through Charity
 
 School Song
 -----------
