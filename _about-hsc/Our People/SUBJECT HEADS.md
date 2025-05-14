@@ -13,11 +13,6 @@ third_nav_title: Our People
 					<th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Email</th>
 			</tr>
 			<tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Yasim Bte A Aziz</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Asthetics &amp; Special Projects</td>
-					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:yasmin_a_aziz@moe.edu.sg">yasmin_a_aziz@moe.edu.sg</a></td>
-			</tr>  
-			<tr>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Bharathi</td>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Biology</td>
 					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:bharathi_jayakumaran@moe.edu.sg">bharathi_jayakumaran@moe.edu.sg</a></td>
@@ -59,7 +54,7 @@ third_nav_title: Our People
 			</tr> 
 			<tr>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mohd Zain B Mohd</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mother Tongue Languages</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Malay Language</td>
 					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:mohamed_zain_b_mohamed@moe.edu.sg">mohamed_zain_b_mohamed@moe.edu.sg</a></td>
 			</tr> 
 			<tr>
