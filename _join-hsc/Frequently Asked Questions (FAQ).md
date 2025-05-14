@@ -17,31 +17,34 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A. General Information on School Posting</p>
+	<p><a href="#sectionA">A. General Information on School Posting</a></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B. General Information about Hai Sing Catholic School</p>
+	<p><a href="#sectionB">B. General Information about Hai Sing Catholic School</a></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C. Academic Related Information about Hai Sing Catholic School</p>
+	<p><a href="sectionC">C. Academic Related Information about Hai Sing Catholic School</a></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>D. CCA Matters</p>
+	<p><a href="sectionD">D. CCA Matters</a></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>E. PDLP Matters</p>
+<p><a href="sectionE">E. PDLP Matters</a></p>
 </td>
 </tr>
 </tbody>
 </table>
+<br>
+<br>
+<div id="sectionA">
 <h4><strong>A. General Information for Secondary 1 students newly-posted to Hai Sing Catholic School</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -248,6 +251,10 @@ You may also contact the school for further enquiries.</p>
 <p>HSC students use the Chromebook as their Personal Learning Device (PLD).
 Students can expect to receive their PLD tentatively from the start of
 Term 2.</p>
+</div>
+<br>
+<br>
+<div id="sectionB">
 <h4><strong>B. General Information about Hai Sing Catholic School</strong></h4>
 <p><strong><em>1. What are the indicative PSLE score ranges for the different posting groups?</em></strong>
 </p>
@@ -328,6 +335,10 @@ faith.</p>
 can only be considered if your child’s PSLE score meets the schools’ cut-off
 point of the posting year, subject to available vacancies and meeting MOE’s
 criteria.</p>
+</div>
+<br>
+<br>
+<div id="sectionC">
 <h4><strong>C. Curriculum-Related Information about Hai Sing Catholic School</strong></h4>
 <p><strong><em>1. Does Hai Sing Catholic School implement Full Subject-Based Banding (FSBB)?</em></strong>
 </p>
@@ -392,6 +403,10 @@ years. As such, the texts chosen are closer to the Singapore context and
 the skills needed will be less demanding. The students will be assessed
 on four components at ‘O’ level, Oral, Listening, Composition Writing and
 Comprehension.</p>
+</div>
+<br>
+<br>
+<div id="sectionB">
 <h4><strong><u>D. Co-Curricular Activities (CCA) Matters</u></strong></h4>
 <p><strong><em>1. Is it compulsory for my child to take part in CCA?</em></strong>
 </p>
@@ -423,6 +438,10 @@ level of attainment will be converted to a bonus point(s) which can be
 used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical
 Education (JC/Poly/ITE). For example, 2 Bonus Points for ‘Excellent’ and
 1 Bonus Point for ‘Good’.</p>
+</div>
+<br>
+<br>
+<div id="sectionE">
 <h4><strong>E. Personal Learning Devices (PLD) Matters</strong></h4>
 <p><strong><em>1. Do students need to bring their PLD daily or are they allowed to use school laptops?</em></strong>
 </p>
@@ -443,3 +462,4 @@ availability of stock).</p>
 <p>You may visit our <a href="https://www.haisingcatholic.moe.edu.sg/hsc-community/students/pdlp/permalink/" rel="noopener noreferrer nofollow" target="_blank">school website</a> for
 more information and resources pertaining to PLD usage and matters.</p>
 <p></p>
+</div>
