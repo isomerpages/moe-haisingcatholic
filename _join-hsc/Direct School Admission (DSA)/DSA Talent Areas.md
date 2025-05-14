@@ -15,7 +15,6 @@ third_nav_title: Direct School Admission (DSA)
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
         gap: 15px; 
         padding: 15px; 
-        background-color: #f8f9fa;
         border-radius: 10px;
     }
     .cca-card {
