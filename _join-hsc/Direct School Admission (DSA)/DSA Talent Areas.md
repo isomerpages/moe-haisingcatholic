@@ -8,16 +8,13 @@ third_nav_title: Direct School Admission (DSA)
 <style>
     .main-title {
         color: #2c3e50;
-        text-align: center;
         margin-bottom: 20px;
-        font-size: 1.8em;
-        font-weight: 500;
     }
     .cca-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Smaller cards */
-        gap: 15px; /* Reduced gap */
-        padding: 15px; /* Reduced padding */
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+        gap: 15px; 
+        padding: 15px; 
         background-color: #f8f9fa;
         border-radius: 10px;
     }
@@ -33,7 +30,7 @@ third_nav_title: Direct School Admission (DSA)
     }
     .cca-image-container {
         width: 100%;
-        height: 120px; /* Smaller image height */
+        height: 120px;
         overflow: hidden;
         border-top-left-radius: 8px;
         border-top-right-radius: 8px;
@@ -49,7 +46,7 @@ third_nav_title: Direct School Admission (DSA)
         text-align: center;
     }
     .cca-title {
-        font-size: 1em; /* Smaller title */
+        font-size: 1em; 
         margin: 5px 0;
         color: #343a40;
         font-weight: 600;
