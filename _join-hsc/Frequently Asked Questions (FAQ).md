@@ -27,17 +27,17 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-	<p><a href="sectionC">C. Academic Related Information about Hai Sing Catholic School</a></p>
+	<p><a href="#sectionC">C. Academic Related Information about Hai Sing Catholic School</a></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-	<p><a href="sectionD">D. CCA Matters</a></p>
+	<p><a href="#sectionD">D. CCA Matters</a></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="sectionE">E. PDLP Matters</a></p>
+<p><a href="#sectionE">E. PDLP Matters</a></p>
 </td>
 </tr>
 </tbody>
@@ -406,7 +406,7 @@ Comprehension.</p>
 </div>
 <br>
 <br>
-<div id="sectionB">
+<div id="sectionD">
 <h4><strong><u>D. Co-Curricular Activities (CCA) Matters</u></strong></h4>
 <p><strong><em>1. Is it compulsory for my child to take part in CCA?</em></strong>
 </p>
