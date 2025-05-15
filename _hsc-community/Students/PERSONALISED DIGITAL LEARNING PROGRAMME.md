@@ -152,8 +152,8 @@ variant: markdown
 <h1 class="main-title">PERSONALISED DIGITAL LEARNING PROGRAMME</h1>
 <div class="collapsible-container">
       <div class="collapsible-section">
-            <input class="collapsible-toggle" id="floorball" type="checkbox">
-            <label for="floorball" class="collapsible-header">General Information for Parents<span></span></label>
+            <input class="collapsible-toggle" id="item1" type="checkbox">
+            <label for="item1" class="collapsible-header">General Information for Parents<span></span></label>
             <div class="collapsible-content">
                 <ul data-tight="true" class="tight">
                     <li>
@@ -170,8 +170,8 @@ variant: markdown
 						</div>
         </div>
         <div class="collapsible-section">
-            <input class="collapsible-toggle" id="robotics" type="checkbox">
-            <label for="robotics" class="collapsible-header">Personal Learning Device Service and
+            <input class="collapsible-toggle" id="item2" type="checkbox">
+            <label for="item2" class="collapsible-header">Personal Learning Device Service and
                 Repair<span></span></label>
             <div class="collapsible-content">
                 <p style="margin-top: 15px;">The school technical team will help to provide basic troubleshooting and
@@ -191,8 +191,8 @@ variant: markdown
             </div>
         </div>
         <div class="collapsible-section">
-            <input class="collapsible-toggle" id="uniformedGroups" type="checkbox">
-            <label for="uniformedGroups" class="collapsible-header">Digital Parenting Resources<span></span></label>
+            <input class="collapsible-toggle" id="item3" type="checkbox">
+            <label for="item3" class="collapsible-header">Digital Parenting Resources<span></span></label>
             <div class="collapsible-content">
                 <p>This parents handbook shares more information on how to enhance your child's
                     learning using a personal learning device (PLD). There are some strategies
@@ -213,8 +213,8 @@ variant: markdown
             </div>
         </div>
         <div class="collapsible-section">
-            <input class="collapsible-toggle" id="concertBand" type="checkbox">
-            <label for="concertBand" class="collapsible-header">Device Management Application (DMA) for
+            <input class="collapsible-toggle" id="item4" type="checkbox">
+            <label for="item4" class="collapsible-header">Device Management Application (DMA) for
                 parents<span></span></label>
             <div class="collapsible-content">
                 <p>The Device Management Application (DMA) software will be installed on
@@ -246,8 +246,8 @@ variant: markdown
             </div>
         </div>
         <div class="collapsible-section">
-            <input class="collapsible-toggle" id="modernDance" type="checkbox">
-            <label for="modernDance" class="collapsible-header">Student Resource Kit<span></span></label>
+            <input class="collapsible-toggle" id="item5" type="checkbox">
+            <label for="item5" class="collapsible-header">Student Resource Kit<span></span></label>
             <div class="collapsible-content">
                 <p>Please click on the below link to view the Student's resource kit:</p>
                 <ul>
@@ -264,8 +264,8 @@ variant: markdown
             </div>
         </div>
         <div class="collapsible-section">
-            <input class="collapsible-toggle" id="dsaSelection" type="checkbox">
-            <label for="dsaSelection" class="collapsible-header">Help Desk<span></span></label>
+            <input class="collapsible-toggle" id="item6" type="checkbox">
+            <label for="item6" class="collapsible-header">Help Desk<span></span></label>
             <div class="collapsible-content">
                 <p>Enquiry on Personalised Device, Please click on the QR code below:
                     <br>
@@ -276,8 +276,8 @@ variant: markdown
             </div>
         </div>
         <div class="collapsible-section">
-            <input class="collapsible-toggle" id="dsaSelection1" type="checkbox">
-            <label for="dsaSelection1" class="collapsible-header">MIMS Students (Self Service Password Reset
+            <input class="collapsible-toggle" id="item7" type="checkbox">
+            <label for="item7" class="collapsible-header">MIMS Students (Self Service Password Reset
                 Service)
                 -SSPS<span></span></label>
             <div class="collapsible-content">
@@ -307,8 +307,8 @@ variant: markdown
             </div>
         </div>
         <div class="collapsible-section">
-            <input class="collapsible-toggle" id="dsaSelection2" type="checkbox">
-            <label for="dsaSelection2" class="collapsible-header">Other Useful Resources<span></span></label>
+            <input class="collapsible-toggle" id="item8" type="checkbox">
+            <label for="item8" class="collapsible-header">Other Useful Resources<span></span></label>
             <div class="collapsible-content">
                 <ul data-tight="true" class="tight">
                     <li>

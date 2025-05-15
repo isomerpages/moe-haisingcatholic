@@ -45,8 +45,8 @@ third_nav_title: Our People
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:leung_wai_ching_juliane@moe.edu.sg">leung_wai_ching_juliane@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Raihanah Bte Haron (FAJT)</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:raihanah_haron_1@moe.edu.sg">raihanah_haron_1@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Raihanah Bte Haron</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:raihanah_haron@moe.edu.sg">raihanah_haron@moe.edu.sg</a></td>
 			</tr>
   			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Independence</td>

@@ -14,7 +14,7 @@ third_nav_title: Our People
 			</tr>
 			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Truth</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Ng I-Ling Violet</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Ng I - Ling Violet</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:ng_i-_ling_violet@moe.edu.sg">ng_i-_ling_violet@moe.edu.sg</a></td>
 			</tr>
       <tr>
@@ -54,7 +54,7 @@ third_nav_title: Our People
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:chan_yu_wei_dominique@moe.edu.sg">chan_yu_wei_dominique@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Jamaliah Binte Mohamad Saleh</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Jamaliah Bte Mohamed Saleh</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:jamaliah_mohamad_saleh@moe.edu.sg">jamaliah_mohamad_saleh@moe.edu.sg</a></td>
 			</tr>
   			<tr>
@@ -63,7 +63,7 @@ third_nav_title: Our People
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:lee_wen_han@moe.edu.sg">lee_wen_han@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Syahrulnizam Bin Abdul Rahman (FAJT)</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Syahrulnizam Bin Abdul Rahman</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:syahrulnizam_abdul_rahman_a@moe.edu.sg">syahrulnizam_abdul_rahman_a@moe.edu.sg</a></td>
 			</tr>
   			<tr>
