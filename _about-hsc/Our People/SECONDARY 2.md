@@ -23,11 +23,11 @@ third_nav_title: Our People
 			</tr>  
 			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Charity</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Lau Heung Ying (Crystal)</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Crystal Lau Heung Ying</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:lau_heung_ying@moe.edu.sg">lau_heung_ying@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Dewi Juriah Binte Sudirman</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Dewi Juriah Bte Sudirman</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:dewi_juriah_sudirman@moe.edu.sg">dewi_juriah_sudirman@moe.edu.sg</a></td>
 			</tr>
   			<tr>
@@ -68,11 +68,11 @@ third_nav_title: Our People
 			</tr>
   			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Graciousness</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">A'zimah Binti Muhamad</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">A'zimah Bte Muhamad</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:azimah_muhamad@moe.edu.sg">azimah_muhamad@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Yong Chee Kong</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Yong Chee Kong (Daniel)</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:yong_chee_kong_daniel@moe.edu.sg">yong_chee_kong_daniel@moe.edu.sg</a></td>
 			</tr>
 			
