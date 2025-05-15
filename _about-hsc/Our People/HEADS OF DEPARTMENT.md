@@ -13,7 +13,7 @@ third_nav_title: Our People
 					<th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Email</th>
 			</tr>
 			<tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Stanley Gng Kuan Lai</td>
+						<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Gng Kuan Lai (Stanley)</td>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">School Staff Developer</td>
 					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:gng_kuan_lai@moe.edu.sg">gng_kuan_lai@moe.edu.sg</a></td>
 			</tr>  
@@ -28,7 +28,7 @@ third_nav_title: Our People
 					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:ten_en_ci_michelle@moe.edu.sg">ten_en_ci_michelle@moe.edu.sg</a></td>
 			</tr> 
 			<tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Sharon Goh Bee Hoon</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Goh Bee Hoon</td>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">HOD (Craft &amp; Technology)</td>
 					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:goh_bee_hoon@moe.edu.sg">goh_bee_hoon@moe.edu.sg</a></td>
 			</tr> 
