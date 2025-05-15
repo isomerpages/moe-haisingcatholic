@@ -12,11 +12,11 @@ third_nav_title: Our People
 					<th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Admin &amp; Opeartions Team</th>
 			</tr>
 			<tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Khairil Anuar</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Khairil Anuar Bin Mohamad Saleh</td>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Operations Manager</td>
 			</tr>  
 			<tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Tan Chee Choon(Robert)</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Tan Chee Choon (Robert)</td>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Administration Manager</td>
 			</tr> 
 </tbody>
