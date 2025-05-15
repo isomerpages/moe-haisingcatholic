@@ -23,7 +23,7 @@ third_nav_title: Our People
 			</tr>  
 			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Charity</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Lim Chuin Hsien Bernard</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Bernard Lim</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:bernard_lim@moe.edu.sg">bernard_lim@moe.edu.sg</a></td>
 			</tr>
       <tr>
