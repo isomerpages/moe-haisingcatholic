@@ -72,8 +72,13 @@ variant: tiptap
 <h2>Student Voice</h2>
 <p><em>‘When your motivation overcomes your doubt, you have fulfilled your potential. Strive to be a better version of yourself not others.’</em>
 </p>
-<p>Jayden Too
-<br>3 Integrity, Captain</p>
+<p><strong>Jayden Too <br>3 Integrity, Captain</strong>
+</p>
+<p></p>
+<p><em>'A growth mindset wasn’t just a buzzword we talked about — it became our way of life. Every practice, every match, was an opportunity to learn, to improve, and to challenge ourselves. We focused on the small steps, the tiny improvements, because we knew that if we did the work, the results would follow. But more importantly, the work itself was what mattered. Dedication wasn’t about winning, it was about showing up, giving our all, and staying committed no matter what the scoreboard showed.'</em>
+</p>
+<p><strong>Tan Zi Heng, 4 Truth</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQX-gGN3xgH_bFHQr6SM5-HPqcNXS-C8PGKgrZaa2ADBQ11h6hIIceK_sewahomV6n6IIiHVP-8UmK7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
