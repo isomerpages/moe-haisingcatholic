@@ -112,7 +112,7 @@ third_nav_title: Direct School Admission (DSA)
     </div>
     <div class="cca-card">
         <div class="cca-image-container">
-            <img class="cca-image" alt="Modern Dance CCA" src="/images/CCA/Dance.png">
+            <img style="height: 165px;" class="cca-image" alt="Modern Dance CCA" src="/images/CCA/Dance.png">
         </div>
         <div class="cca-info">
             <p class="cca-title"><a class="cca-link" title="Learn about Modern Dance" href="/hsc-experience/Co-Curriculum/dance-club/permalink/">Modern Dance</a></p>
