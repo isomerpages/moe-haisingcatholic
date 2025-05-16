@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1>DRAMA CLUB</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Drama.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/drama_CCA.jpg">
 </div>
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">

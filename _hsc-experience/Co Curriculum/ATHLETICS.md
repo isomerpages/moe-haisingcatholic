@@ -83,8 +83,17 @@ Country</p>
 <h2>Student Voice</h2>
 <p><em>‘I have gained a myriad of benefits from my CCA. Many think that running is a purely physical activity but it is actually a lot more than that. The training sessions not only allow me to have some understanding of the challenges faced by world-class athletes but more importantly, I have learnt to focus and develop the determination to overcome obstacles and fatigue. I have gained a new perspective on large and small problems alike. Running builds my capacity to endure and to overcome challenges and this gives me strength in other areas of my life. I will cherish the precious memories and friendships forged for a long, long time to come. HAI Athletics Club has trained me not just for competitions, but also for the race ahead - that is life!’</em>
 </p>
-<p>Warren Illias Tan
-<br>Captain</p>
+<p><strong>Warren Illias Tan (Captain)</strong>
+</p>
+<p></p>
+<p></p>
+<p><em>'One of the most important lessons I learned from CCA training is the value of pacing. You can’t rush at the beginning, or you’ll burn out before the finish line. In many ways, it’s like life knowing when to push, when to hold back, and how to stay focused on your goal no matter what’s happening around you.</em>
+</p>
+<p><em>Race walking, in particular, taught me something different: discipline and technique. It’s a unique event that requires you to follow strict rules while still moving fast. I had to train hard not just to build endurance, but to perfect my form. It taught me the importance of focus, detail, and consistency under pressure.'</em>
+</p>
+<p><strong>Lim Jun Feng Ryen, 4 Charity</strong>
+</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2-4DUn4Cq94hbeGVnLi7LvQFkln5DTQt4CG4aDtXPPQN1w_gbMqBEaT0uT7r9TtO11fLy--FC0aSj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
