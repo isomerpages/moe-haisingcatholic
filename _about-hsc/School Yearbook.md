@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>SCHOOL YEARBOOK</h1>
-<h2>2023 Yearbook</h2>
+<h2>2022 Yearbook</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About HSC/year book 2022.jpg">
 </div>
