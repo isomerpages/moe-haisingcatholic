@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1>DANCE CLUB</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Dance/Pls_credit_super24sg_and_hamsluminiq.jpg">
 </div>
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
@@ -35,6 +35,12 @@ variant: tiptap
 </li>
 </ul>
 <h2>Achievements</h2>
+<p>Singapore Youth Festival Arts Presentation For Dance (International) 2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of Distinction</p>
+</li>
+</ul>
 <p>Open Stage Dance Competition 2024</p>
 <ul data-tight="true" class="tight">
 <li>
