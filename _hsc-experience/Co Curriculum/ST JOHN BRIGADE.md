@@ -83,6 +83,6 @@ competitors and helpers)</p>
 <p><strong>Valdus Chew Jing Xuan, 4 Integrity</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS23i4ywLIIiI_n-czOzDNxE1pb09C0r82EkExlZWDe6gIOQl9FQfxO_53-H0RXfPijbq8WzMnps0TF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThjODCK6WKTJVx0F7bvuBVAZUkd36odU7j0p5NJqAlYEvHhk8Cye0s-cmVJA0P6AQlZeJQHHdANAA-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
