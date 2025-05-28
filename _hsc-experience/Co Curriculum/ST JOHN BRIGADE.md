@@ -78,11 +78,6 @@ competitors and helpers)</p>
 </li>
 </ul>
 <h2>Student Voice</h2>
-<p><em>‘I have learnt that working together as a team is crucial in SJB. A team is as strong as the weakest link. So a lack of cooperation and communication can potentially cause issues during CCA trainings and competition trainings. One of my fond memories as a SJB cadet would be training for the First Aid Competition. There were a number of challenges thrown our way, but we managed to work together as a team to overcome these obstacles. As a team, we also tried to find humour in the mistakes made during the competition trainings, instead of being frustrated.’</em>
-</p>
-<p><strong>Jeremy Nathanael Sutanto <br>SJB Chairman</strong>
-</p>
-<p></p>
 <p><em>'One of the biggest takeaways for me was understanding that challenges and setbacks are part of the process. It’s not about being perfect—it’s about growing stronger with each step. I’ve learned that perseverance, teamwork, and the right attitude make all the difference, even when the odds aren’t in your favour.'</em>
 </p>
 <p><strong>Valdus Chew Jing Xuan, 4 Integrity</strong>
