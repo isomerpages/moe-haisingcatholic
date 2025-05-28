@@ -83,5 +83,10 @@ variant: tiptap
 <h2>Student Voice</h2>
 <p><em>‘My NCC journey in Hai Sing was quite an eventful one. Even during the Covid-19 lock down, our teachers in charge and our seniors made an effort to give us the best experience in NCC as possible. They taught us all that we needed to know and organised engaging activities for all of us to grow as leaders. Now we feel empowered to lead and guide our juniors to be better leaders.’</em>
 </p>
-<p>Gabriel Lian Bing Han
-<br>3 Truth</p>
+<p><strong>Gabriel Lian Bing Han <br>3 Truth</strong>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsxfKlDwq5hkTyx9hDg3aOnYNTOQ2JNCr77rABngzEUv21a0oLSJkKB5h_SdvBS6o22b9xrhSAze9I/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
