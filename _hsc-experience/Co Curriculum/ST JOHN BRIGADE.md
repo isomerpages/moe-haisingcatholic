@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curriculum
 variant: tiptap
 ---
-<h1>ST. JOHN'S BRIGADE (SJB)</h1>
+<h1>ST JOHN BRIGADE (SJB)</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SJB" src="/images/CCA/cca%20sjb.png">
 </div>
@@ -78,16 +78,11 @@ competitors and helpers)</p>
 </li>
 </ul>
 <h2>Student Voice</h2>
-<p><em>‘I have learnt that working together as a team is crucial in SJB. A team is as strong as the weakest link. So a lack of cooperation and communication can potentially cause issues during CCA trainings and competition trainings. One of my fond memories as a SJB cadet would be training for the First Aid Competition. There were a number of challenges thrown our way, but we managed to work together as a team to overcome these obstacles. As a team, we also tried to find humour in the mistakes made during the competition trainings, instead of being frustrated.’</em>
-</p>
-<p><strong>Jeremy Nathanael Sutanto <br>SJB Chairman</strong>
-</p>
-<p></p>
 <p><em>'One of the biggest takeaways for me was understanding that challenges and setbacks are part of the process. It’s not about being perfect—it’s about growing stronger with each step. I’ve learned that perseverance, teamwork, and the right attitude make all the difference, even when the odds aren’t in your favour.'</em>
 </p>
 <p><strong>Valdus Chew Jing Xuan, 4 Integrity</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS23i4ywLIIiI_n-czOzDNxE1pb09C0r82EkExlZWDe6gIOQl9FQfxO_53-H0RXfPijbq8WzMnps0TF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThjODCK6WKTJVx0F7bvuBVAZUkd36odU7j0p5NJqAlYEvHhk8Cye0s-cmVJA0P6AQlZeJQHHdANAA-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

@@ -6,6 +6,10 @@ third_nav_title: Co Curriculum
 variant: tiptap
 ---
 <h1>NPCC</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Npcc/Area_5_Drill_Competition_2024.jpg">
+</div>
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
 <li>

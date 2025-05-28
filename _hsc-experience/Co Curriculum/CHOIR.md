@@ -17,6 +17,9 @@ variant: tiptap
 <li>
 <p>Ms Lee Yueli</p>
 </li>
+<li>
+<p>Madam Mariana</p>
+</li>
 </ol>
 <h2>Training schedule</h2>
 <p>Every Tuesday and Thursday: 3.30pm - 5.30pm</p>
@@ -25,16 +28,19 @@ variant: tiptap
 <h2>Highlights</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p>Teachers’ Day Performance</p>
+<p>Singapore Youth Festival Art Presentation</p>
 </li>
 <li>
-<p>Voices Singapore Festival 2022</p>
-</li>
-<li>
-<p>Choral Moments 2022</p>
+<p>Voices Singapore Festival</p>
 </li>
 </ul>
 <h2>Achievements</h2>
+<p>Singapore Youth Festival Art Presentation 2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of Accomplishment</p>
+</li>
+</ul>
 <p>Singapore Youth Festival Art Presentation 2023</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -47,17 +53,12 @@ variant: tiptap
 <p>Certificate of Accomplishment</p>
 </li>
 </ul>
-<p>Singapore Youth Festival Arts Presentation 2019, 2017</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Achievement</p>
-</li>
-</ul>
+<p></p>
 <h2>Student Voice</h2>
 <p><em>‘One of the most important skills for a choir to run smoothly is teamwork. We have to learn how to work together for us to perform the pieces well. Though there were many challenges faced as we practised for performances, we managed to overcome them by working together as a team and listening to each other for feedback on how we can better improve ourselves for future performances. On a personal level, being in choir not only taught me values such as discipline, teamwork, and respect, but also gave me many opportunities to develop my leadership skills and build my self- confidence.’</em>
 </p>
-<p>Lim Rei Ki
-<br>President</p>
+<p><strong>Lim Rei Ki <br>President</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQe0Z8DPA6D1y3hXbq5LKAjsFo8IF5noUo9pNXRcMqndddwcY9SxUbXxCJqJ2x5ncF3L9T2BiQXlPQS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>

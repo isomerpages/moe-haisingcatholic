@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1>FOOTBALL</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/cca%20soccer%20tab%201%20(2).png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Skill_Perfection_1__1_.jpg">
 </div>
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
@@ -17,19 +17,16 @@ variant: tiptap
 <li>
 <p>Miss Ng I-Ling Violet</p>
 </li>
+<li>
+<p>Mr Mohammed Zulkifli Abdul Rasheed</p>
+</li>
 </ol>
 <h2>Training schedule</h2>
 <p>Every Tuesday and Thursday 3.30 - 5.30pm</p>
 <h2>Venue</h2>
 <p>School field</p>
 <h2>Highlights</h2>
-<ul data-tight="true" class="tight">
-<li>
-<p>Our 2022 secondary one boys are forming the first, new and young batch
-of HSC Football team who aspires to train with positive mental strength
-so as to excel with strength.</p>
-</li>
-</ul>
+<p>National School Games</p>
 <h2>Achievements</h2>
 <p>C Div NSG Boys 2024</p>
 <ul data-tight="true" class="tight">
@@ -40,9 +37,10 @@ so as to excel with strength.</p>
 <h2>Student Voice</h2>
 <p><em>‘Nobody who gave his best ever regretted it’</em>
 </p>
-<p>Ng Yan Lin Sean
-<br>Year 1 Boys, Captain</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/football.jpeg">
+<p><strong>Ng Yan Lin Sean <br>Captain</strong>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR3UEsY4xACsVuj_EXle7UvQU1oFnjac1QclK4DGC7X7YrRNUd2I8TTQUoc7piVEAhH6WTvjwenub3v/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
