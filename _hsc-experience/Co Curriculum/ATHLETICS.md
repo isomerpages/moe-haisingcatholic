@@ -12,16 +12,16 @@ variant: tiptap
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Dewi Juriah Bte Sudirman</p>
-</li>
-<li>
-<p>Jael Ng</p>
-</li>
-<li>
 <p>Mdm Lee Wan Yin</p>
 </li>
 <li>
 <p>Mr Chew Tze Inn</p>
+</li>
+<li>
+<p>Miss Jael Ng</p>
+</li>
+<li>
+<p>Mr Chong Chee Leong</p>
 </li>
 </ol>
 <h2>Training schedule</h2>
