@@ -117,16 +117,13 @@ variant: tiptap
 <p>National School Games</p>
 </li>
 </ul>
-<p><strong>Student Voice</strong>
+<h2>Student Voice</h2>
+<p><em>"During CCA, we are given opportunities to work together so that we can prepare for competitions to the best of our abilities. The teachers and trainers in the CCA are also very supportive. They always motivate us to do better and always believe the best in us. Robotics has allowed me to develop in many aspects such as my leadership capabilities and my communication skills. Throughout my years in Robotics, me and my CCA mates have become very close. Robotics has helped me become a better person and has taught me many things that will even help me after my journey in Hai Sing Catholic School."</em>
 </p>
-<p><em>"During CCA, we are given opportunities to work together so that we can prepare for competitions to the best of our abilities. The teachers and trainers in the CCA are also very supportive. They always motivate us to do better and always believe the best in us. Robotics has allowed me to develop in many aspects such as my leadership capabilities and my communication skills. Throughout my years in Robotics, me and my CCA mates have become very close. Robotics has helped me become a better person and has taught me many things that will even help me after my journey in Hai Sing Catholic School." Punyyaah Sahni</em>
+<p><strong><em>Punyyaah Sahni</em></strong>
 </p>
-<p>*"Robotics has taught me to have determination, teamwork and be united
-as one. Even though robotics is seperated into 3 parts, Lego, Vex IQ and
-Vex, we still work together to help each other out when preparing for competition.During
-competition season, we have training sessions almost everyday. In the past
-3 years, we have participated in 3 competitions even though we did not
-manage to win either we learn from our mistakes and improve our robots.
-Everyone is very determined and we strive to regain our title as Robotics
-champions."</p>
-<p>Glenn Tia*</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIOkH3UHXvu3_XVMltpNxnDunLcZrJNaCX5iVnQAucLujViQIJ6ODc_WZHLyT2tnEwB2QkjGGtuNG-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
