@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curriculum
 variant: tiptap
 ---
-<h1>ST. JOHN'S BRIGADE (SJB)</h1>
+<h1>ST. JOHN BRIGADE (SJB)</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SJB" src="/images/CCA/cca%20sjb.png">
 </div>
