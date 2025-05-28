@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1>VOLLEYBALL (GIRLS)</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/cca%20volleyball%20tab%201%20(2).png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball/IMG_1275.jpg">
 </div>
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
@@ -32,7 +32,7 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<h2>Achievements </h2>
+<h2>Achievements</h2>
 <p>National School Games C Div (Boys) 2024</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -50,6 +50,6 @@ variant: tiptap
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRbO_grAif99y9hppTdiTguaMknjMlBcntOfYrMdIpyitncj8A8V82ZSO-jPqiz5Lxg6J9xVriZquot/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSw2_LxipiApJeYJao9t-epMXo7rMqAG3lhfV2OOjn2-WF9qm1QzB4YK-dzKT1LPWqONYkSGuyua1I5/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
