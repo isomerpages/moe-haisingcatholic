@@ -33,17 +33,13 @@ variant: tiptap
 </ul>
 <p></p>
 <h2>Achievements</h2>
-<p>National School Games C Div (Boys) 2024</p>
+<p>National School Games C Div (Girls) 2024</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>3rd in League 4</p>
 </li>
 </ul>
 <h2>Student voice</h2>
-<p><em>‘Sports isn’t only a form of exercise; it teaches us character and resilience, that never-say-die attitude. Volleyball wasn’t a sport I grew up playing but it’s a sport I'm so glad I decided to learn when I came to secondary school. Through volleyball, I made some of my closest friends and learned more about discipline and hard work. Although the training can seem long and tiring, it taught me how to manage my time well and to always persevere. This CCA has taught me more than just the skills of the sport and I will always be grateful for it.’</em>
-</p>
-<p>Orantia Arianna Venice Dela Cruz
-<br>Secondary 3, C Division Vice-captain</p>
 <p><em>The mindset of how you train is the mindset you compete in, this is what my coach taught me. There's no doubt we have our hardships in CCA. However, it has enabled me to maximise my potential in leadership and instil important values in me. Perseverance, teamwork, discipline, trust and faith and more, volleyball has given me something to look forward to when I step into the school. While studies are an important part of one's school life, I believe that volleyball holds just as important a role, competing or not. My teachers, Coach and teammates of all levels are those who encourage and stand by my side to guide me to success. Volleyball is more than a sport and has refined me to be a better person. Being courageous is not going to be easy but if you want to take that step to that goal, take that step because you won’t have time to look back ever again. “You have to be willing to fail to improve”</em>
 </p>
 <p><strong>Kacia Pon </strong>
