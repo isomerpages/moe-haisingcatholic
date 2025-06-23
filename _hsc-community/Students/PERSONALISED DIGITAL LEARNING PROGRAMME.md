@@ -10,7 +10,6 @@ variant: markdown
             font-family: 'Inter', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f3f4f6;
         }
 
         .main-title {
