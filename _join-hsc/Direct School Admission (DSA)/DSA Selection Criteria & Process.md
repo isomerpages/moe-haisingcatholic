@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Direct School Admission (DSA)
 ---
 <style>
+	      body{
+	         background-color: white;
+	     }
         .main-title {
             color: #1e3a8a;
         }
