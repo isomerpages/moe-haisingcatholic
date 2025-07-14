@@ -16,27 +16,27 @@ Thank You.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Secondary 1 Class timetable : <a href="https://drive.google.com/file/d/1alcowm5GAoQvOZE0Y69WQsMH4Dr0jmOy/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec One Timetable</a> 
+<p>Secondary 1 Class timetable : <a href="https://drive.google.com/file/d/1umXUKe7WrPQWJjjFr7-LpFahuLRoQRCD/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec One Timetable</a> 
 <br>
 </p>
 </li>
 <li>
-<p>Secondary 2 Class timetable : <a href="https://drive.google.com/file/d/1awwyzv4nft_X7y5SaDk-6CVoTCE_Uf5d/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Two Timetable</a>
+<p>Secondary 2 Class timetable : <a href="https://drive.google.com/file/d/1A-B-WUwl7MutExS-pIITRFUfSM12WqJx/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Two Timetable</a>
 <br>
 </p>
 </li>
 <li>
-<p>Secondary 3 Class timetable: <a href="https://drive.google.com/file/d/1Uh6o4oh-GulpM0qPjn41fA8Cq0ww5OUt/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Three timetable</a> 
+<p>Secondary 3 Class timetable: <a href="https://drive.google.com/file/d/1sdFa9qfCpacOYbehtHD93IKEQqAVmmuD/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Three timetable</a> 
 <br>
 </p>
 </li>
 <li>
-<p>Secondary 4 Class timetable: <a href="https://drive.google.com/file/d/1BuV-w8wXn1IZ6qbO9LLbkmFvWIHwY2Ry/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Four Timetable</a>
+<p>Secondary 4 Class timetable: <a href="https://drive.google.com/file/d/1lYqE1rxiCu5x1fGXolqFRl1PGnBr-RSx/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Four Timetable</a>
 <br>
 </p>
 </li>
 <li>
-<p>Secondary 5 Class timetable: <a href="https://drive.google.com/file/d/1zJ7SVxFMkIbMpjwDNnjphNHaVz4oRpSv/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Five Timetable</a>
+<p>Secondary 5 Class timetable: <a href="https://drive.google.com/file/d/1GWm7kdU5oaT4cBrEx9l9DC1KDqgv0xFd/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Five Timetable</a>
 </p>
 <p></p>
 </li>
