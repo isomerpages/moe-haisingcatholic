@@ -51,4 +51,9 @@ variant: markdown
 | 1 | [Ministry of Education (MOE)](https://www.moe.gov.sg/) |
 | 2 |  [Haze Situation Update](https://www.haze.gov.sg/) |
 | 3 | [NEA Weather 2-hour forecast](http://www.nea.gov.sg/weather-climate/forecasts/2-hour-nowcast)  
- |
+
+### Useful Documents 
+
+|  | Information Sites |
+| --- | --- |
+| 1 | [MMIS Password Reseting Procedure](https://drive.google.com/file/d/1mhHaoPML0AeaSbJU3e9ZNHjtsIjbM2mP/view?usp=sharing)|
