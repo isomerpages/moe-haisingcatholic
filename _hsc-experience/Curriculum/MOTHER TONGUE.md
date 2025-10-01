@@ -137,9 +137,8 @@ This is to facilitate the arrangement of TL classes and timetable.</p>
 <p>Non-Tamil speaking students of Indian ethnicity can apply to study Non-Tamil
 Indian Language (Bengali, Gujarati, Hindi, Punjabi or Urdu). These language
 classes are not provided by MOE and are usually conducted outside of school
-premises and hours. Find out more information from the Board for the Teaching
-and Testing of South Asian Languages' website: <a rel="noopener noreferrer nofollow" target="_blank">http://bttsal.com/index.php</a>
-</p>
+premises and hours. Find out more information from <a href="http://bttsal.com/index.php" rel="noopener nofollow" target="_blank">the Board for the Teaching and Testing of South Asian Languages' website</a>.</p>
+<p></p>
 <h3><strong>Third Languages (French, German, Spanish, Japanese, Arabic, Bahasa Indonesia, MSP, CSP)</strong></h3>
 <p>Secondary 1 students who have applied to read a Third Language will be
 informed of the outcome via Parents Gateway.</p>
@@ -162,12 +161,11 @@ Bahasa Indonesia</p>
 </p>
 <p>Lessons are held once a week.</p>
 <p>For more information on Third Languages, please click on the following
-link:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/courses/</a>
-</p>
-<p>Successful Applicants may check out this link to complete your registration:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/2020/12/22/secondary-1-online-registration/</a>
-</p>
+<a href="https://www.moelc.moe.edu.sg/courses/" rel="noopener nofollow" target="_blank">link</a>.</p>
+<p>Successful applicants will be able to complete their registration through
+a dedicated link. This registration link will be published here once it
+is available.</p>
+<p></p>
 </td>
 </tr>
 <tr>
