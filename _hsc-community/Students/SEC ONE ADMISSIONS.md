@@ -73,5 +73,6 @@ criteria.</p>
 <p>The application is deemed to be unsuccessful if you do not hear from the
 school by end of January 2025.&nbsp;</p>
 <hr>
-<p></p>
+<p><em>⚠️ </em><strong><em>Note:</em></strong><em> Some of the information (e.g., dates, forms, cut-off points) refers to the previous admission cycle. The page will be updated with 2025 details once they are confirmed.</em>
+</p>
 <p></p>

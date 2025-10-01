@@ -1,59 +1,16 @@
 ---
-title: HSC Open House 2024
-permalink: /hsc-open-house-2024/
+title: HSC Open House 2025
+permalink: /hsc-open-house-2025/
 variant: tiptap
 description: ""
 ---
-<h1>HSC Open House 2024</h1>
+<h1>HSC Open House 2025</h1>
 <p>Embarking on a new journey as a secondary school student? Ready to set
 sail on a new school adventure? You’re at the right place! Calling all
 Primary 6 students!</p>
+<p>Details of our Open House (date, time, and registration link) will be
+published here soon. Please check back later for updates.</p>
 <p>Save the date! It’s Hai Sing Catholic’s Open House.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Location:</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>15 Pasir Ris Street 21, Singapore 518969</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Date:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16 November 2024, Saturday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Time:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9am to 12pm</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Open_House_Programme.png">
-</div>
-<p>Please scan the QR code below to register your interest in the Open House
-and In Conversation With segment.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_Code.png">
-</div>
-<p>We look forward to seeing you there!</p>
 <p></p>
 <hr>
 <p>A warm welcome to all Primary 6 students! If you’re keen to find out more
