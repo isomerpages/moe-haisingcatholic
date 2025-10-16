@@ -9,19 +9,46 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hsccommunity%20uniform%20and%20Booklist1.png">
 </div>
-<h2>2025 Booklist</h2>
-<p><strong><u>2025 Booklist for Secondary 1</u></strong>
-</p>
-<p>Please find the 2025 Booklist for Secondary 1 <a href="https://drive.google.com/file/d/1ywM-YJePC_ZDc_SpYOgV_564xc93cQ_9/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
-</p>
-<p>For purchase of school uniform &amp; PE Attire for Sec 1 Students <a href="https://drive.google.com/file/d/1JmDRS1_GWOdlYDaJ0zyN_L5X5YbYqKiz/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
+<h2>2026 Booklist</h2>
+<h2>School Uniform and PE Attire</h2>
+<p>Information on the 2026 uniform and textbook sales can be found via this
+<a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <p></p>
-<p><strong><u>2025 Booklist for Secondary 2</u></strong>
+<p><strong>For 2026 Secondary 1 Students</strong>
 </p>
-<p>Please find the 2025 Booklist for Secondary 2 <a href="/files/HSCS_Booklist_2025__S2_Final.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1 Textbooks &amp; Uniform Sales Details can be found via this
+<a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
+</p>
+</li>
+<li>
+<p>Secondary 1 Booklist Details can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
+</p>
+</li>
+</ul>
 <p></p>
-<p><strong><u>2025 Booklist for Secondary 3 and 4</u></strong>
+<p><strong>For 2026 Secondary 2 to 3 Students</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 2 to 4 Textbooks &amp; Uniform Sales Details can be found via this
+<a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>– <strong>please upload the attached Sec 2 to 4 sales details</strong>
+</p>
+</li>
+<li>
+<p>2026 Secondary 2 Booklist – can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a><strong> please upload Sec 2 booklist</strong>
+</p>
+</li>
+<li>
+<p>2026 Secondary 3 Booklist – can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>  <strong>please upload Sec 3 booklist</strong>
+</p>
+<p></p>
+<p></p>
+</li>
+</ul>
+<p><strong><u>2026 Booklist for Secondary 4</u></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -47,23 +74,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/HSCS_Booklist_2025__S3E_Final.pdf" rel="noopener nofollow" target="_blank">Sec 3 (Exp)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/HSCS_Booklist_2025__S3NA_Final.pdf" rel="noopener nofollow" target="_blank">Sec 3 (NA)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/HSCS_Booklist_2025__S3NT_Final_R.pdf" rel="noopener nofollow" target="_blank">Sec 3 (NT)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Secondary 4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,13 +92,17 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong><u>2025 Sale of Uniform and booklist for Secondary Five</u></strong>
+<p><strong>For 2026 Secondary 5 Students</strong>
 </p>
-<p>Please find the information <a href="https://drive.google.com/file/d/1l-Ou_ROGixYSO71Ln18t_8efXldfE7gr/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 5 Textbooks &amp; Uniform Sales Details – can be found via this
+<a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> <strong>please upload the attached Sec 5 sales details</strong>
 </p>
-<p>For 2025 Booklist for Secondary 5 <a href="https://drive.google.com/file/d/1nytvGTtrl2HUNzK7386GTua9CJubjlf2/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
+</li>
+<li>
+<p>2025 Secondary 5 Booklist – can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>  <strong>please upload Sec 5 booklist here</strong>
 </p>
-<h2>Sales of School Uniform and PE Attire</h2>
-<p>Information on the 2025 uniform and textbook sales can be found via this
-<a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
-</p>
+</li>
+</ul>
+<p></p>
