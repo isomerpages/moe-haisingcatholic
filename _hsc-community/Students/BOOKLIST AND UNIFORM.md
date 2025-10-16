@@ -19,12 +19,12 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1 Textbooks &amp; Uniform Sales Details can be found via this
+<p>Secondary 1 Textbooks &amp; Uniform Sales - Details can be found via this
 <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
 </p>
 </li>
 <li>
-<p>Secondary 1 Booklist Details can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
+<p>Secondary 1 Booklist - Details can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
 </p>
 </li>
 </ul>
@@ -33,16 +33,16 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 2 to 4 Textbooks &amp; Uniform Sales Details can be found via this
+<p>Sec 2 to 4 Textbooks &amp; Uniform Sales - Details can be found via this
 <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>– <strong>please upload the attached Sec 2 to 4 sales details</strong>
 </p>
 </li>
 <li>
-<p>2026 Secondary 2 Booklist – can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a><strong> please upload Sec 2 booklist</strong>
+<p>2026 Secondary 2 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a><strong> please upload Sec 2 booklist</strong>
 </p>
 </li>
 <li>
-<p>2026 Secondary 3 Booklist – can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>  <strong>please upload Sec 3 booklist</strong>
+<p>2026 Secondary 3 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>  <strong>please upload Sec 3 booklist</strong>
 </p>
 <p></p>
 </li>
@@ -95,12 +95,12 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 5 Textbooks &amp; Uniform Sales Details – can be found via this
+<p>Sec 5 Textbooks &amp; Uniform Sales - Details can be found via this
 <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> <strong>please upload the attached Sec 5 sales details</strong>
 </p>
 </li>
 <li>
-<p>2025 Secondary 5 Booklist – can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>  <strong>please upload Sec 5 booklist here</strong>
+<p>2025 Secondary 5 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>  <strong>please upload Sec 5 booklist here</strong>
 </p>
 </li>
 </ul>
