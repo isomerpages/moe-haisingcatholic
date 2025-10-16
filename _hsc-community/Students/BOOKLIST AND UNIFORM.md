@@ -15,7 +15,7 @@ variant: tiptap
 <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <p></p>
-<p><strong>For 2026 Secondary 1 Students</strong>
+<p><strong>2026 Secondary 1 Students</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -29,7 +29,7 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><strong>For 2026 Secondary 2 to 3 Students</strong>
+<p><strong>2026 Secondary 2 to 3 Students</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -44,7 +44,6 @@ variant: tiptap
 <li>
 <p>2026 Secondary 3 Booklist – can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>  <strong>please upload Sec 3 booklist</strong>
 </p>
-<p></p>
 <p></p>
 </li>
 </ul>
@@ -92,7 +91,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>For 2026 Secondary 5 Students</strong>
+<p><strong>2026 Secondary 5 Students</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
