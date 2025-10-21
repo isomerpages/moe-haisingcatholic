@@ -11,8 +11,8 @@ variant: tiptap
 </div>
 <h2>2026 Booklist</h2>
 <h2>School Uniform and PE Attire</h2>
-<p>Information on the 2026 uniform and textbook sales can be found via this
-<a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
+<p>Information on the 2026 uniform and textbook sales - Details can be found
+via this <a href="https://drive.google.com/file/d/1LQA9YFAT7DK39jn2VRjH9Ej7NK7e2AMP/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <p></p>
 <p><strong>2026 Secondary 1 Students</strong>
@@ -34,15 +34,15 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Sec 2 to 4 Textbooks &amp; Uniform Sales - Details can be found via this
-<a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>– <strong>please upload the attached Sec 2 to 4 sales details</strong>
+<a href="https://drive.google.com/file/d/1EDMq_s-fGG-7D4a5n5sJ7z4lGnKnBCJL/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
 </p>
 </li>
 <li>
-<p>2026 Secondary 2 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a><strong> please upload Sec 2 booklist</strong>
+<p>2026 Secondary 2 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1Bsf3itkhBgZrLAOKrJFyMmemkHZqCwLb/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a><strong> </strong>
 </p>
 </li>
 <li>
-<p>2026 Secondary 3 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>  <strong>please upload Sec 3 booklist</strong>
+<p>2026 Secondary 3 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1nsG83JsKUkAGjmApxHo6ykxzDKhT9VX8/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a> 
 </p>
 <p></p>
 </li>
@@ -76,15 +76,15 @@ variant: tiptap
 <p>Secondary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/HSCS_Booklist_2025__S4E_Final.pdf" rel="noopener nofollow" target="_blank">Sec 4 (Exp)</a>
+<p><a href="https://drive.google.com/file/d/1dgmMty0-SvO5A4pdrjXc6xBU_9vnVNNr/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 4 (E)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/HSCS_Booklist_2025__S4NA_Final.pdf" rel="noopener nofollow" target="_blank">Sec 4 (NA)</a>
+<p><a href="https://drive.google.com/file/d/1hrhPnBwVM8TCjspZTf9gVmJ8EBD9Lb7b/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 4 (NA)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/HSCS_Booklist_2025__S4NT_Final.pdf" rel="noopener nofollow" target="_blank">Sec 4 (NT)</a>
+<p><a href="https://drive.google.com/file/d/1DZuMqk-ZKCgCgmPaXcr1C8Bo_fvLguBb/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec 4 (NT)</a>
 </p>
 </td>
 </tr>
@@ -96,11 +96,11 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Sec 5 Textbooks &amp; Uniform Sales - Details can be found via this
-<a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a> <strong>please upload the attached Sec 5 sales details</strong>
+<a href="https://drive.google.com/file/d/1LwqDvE2axrj1Lls9TvyCPW00yaQkIoXX/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
 </p>
 </li>
 <li>
-<p>2025 Secondary 5 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>  <strong>please upload Sec 5 booklist here</strong>
+<p>2026 Secondary 5 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/10-aE2oiTgkXLkmF_eNDpjCNs1YC3ZwVt/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a> 
 </p>
 </li>
 </ul>
