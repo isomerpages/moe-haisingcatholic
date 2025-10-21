@@ -38,11 +38,11 @@ via this <a href="https://drive.google.com/file/d/1LQA9YFAT7DK39jn2VRjH9Ej7NK7e2
 </p>
 </li>
 <li>
-<p>2026 Secondary 2 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1Bsf3itkhBgZrLAOKrJFyMmemkHZqCwLb/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a><strong> </strong>
+<p>2026 Secondary 2 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1Bsf3itkhBgZrLAOKrJFyMmemkHZqCwLb/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
 </p>
 </li>
 <li>
-<p>2026 Secondary 3 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1nsG83JsKUkAGjmApxHo6ykxzDKhT9VX8/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a> 
+<p>2026 Secondary 3 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1nsG83JsKUkAGjmApxHo6ykxzDKhT9VX8/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <p></p>
 </li>
@@ -100,7 +100,7 @@ via this <a href="https://drive.google.com/file/d/1LQA9YFAT7DK39jn2VRjH9Ej7NK7e2
 </p>
 </li>
 <li>
-<p>2026 Secondary 5 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/10-aE2oiTgkXLkmF_eNDpjCNs1YC3ZwVt/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a> 
+<p>2026 Secondary 5 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/10-aE2oiTgkXLkmF_eNDpjCNs1YC3ZwVt/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
 </p>
 </li>
 </ul>
