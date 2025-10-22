@@ -11,8 +11,7 @@ variant: tiptap
 </div>
 <h2>2026 Booklist</h2>
 <h2>School Uniform and PE Attire</h2>
-<p>Information on the 2026 uniform and textbook sales - Details can be found
-via this <a href="https://drive.google.com/file/d/1LQA9YFAT7DK39jn2VRjH9Ej7NK7e2AMP/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
+<p>Price List of School Uniform and PE Attire can be found via this <a href="https://drive.google.com/file/d/1LQA9YFAT7DK39jn2VRjH9Ej7NK7e2AMP/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <p></p>
 <p><strong>2026 Secondary 1 Students</strong>
