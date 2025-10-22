@@ -19,13 +19,10 @@ via this <a href="https://drive.google.com/file/d/1LQA9YFAT7DK39jn2VRjH9Ej7NK7e2
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1 Textbooks &amp; Uniform Sales - Details can be found via this
-<a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
-</p>
+<p>Secondary 1 Textbooks &amp; Uniform Sales</p>
 </li>
 <li>
-<p>Secondary 1 Booklist - Details can be found via this <a href="https://drive.google.com/file/d/1gKStBaEaqSmVhEr2cSzldr5STn0ZHkzR/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
-</p>
+<p>Secondary 1 Booklist</p>
 </li>
 </ul>
 <p></p>
