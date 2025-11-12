@@ -29,8 +29,8 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 2 to 4 Textbooks &amp; Uniform Sales - Details can be found via this
-<a href="https://drive.google.com/file/d/1EDMq_s-fGG-7D4a5n5sJ7z4lGnKnBCJL/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
+<p>Secondary 2 to 4 Textbooks &amp; Uniform Sales - Details can be found
+via this <a href="https://drive.google.com/file/d/1EDMq_s-fGG-7D4a5n5sJ7z4lGnKnBCJL/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
 </p>
 </li>
 <li>
