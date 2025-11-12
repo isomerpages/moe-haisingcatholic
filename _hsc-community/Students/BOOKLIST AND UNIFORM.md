@@ -30,7 +30,7 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Secondary 2 to 4 Textbooks &amp; Uniform Sales - Details can be found
-via this <a href="https://drive.google.com/file/d/1EDMq_s-fGG-7D4a5n5sJ7z4lGnKnBCJL/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
+via this <a href="https://drive.google.com/file/d/1tk34glot_YtLGssFOtz9MZRnNGb783oq/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
 </p>
 </li>
 <li>
@@ -38,7 +38,7 @@ via this <a href="https://drive.google.com/file/d/1EDMq_s-fGG-7D4a5n5sJ7z4lGnKnB
 </p>
 </li>
 <li>
-<p>2026 Secondary 3 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1nsG83JsKUkAGjmApxHo6ykxzDKhT9VX8/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
+<p>2026 Secondary 3 Booklist – Details can be found via this <a href="https://drive.google.com/file/d/1a3HBYb7fWJaN7aiGOECmJjJ71IWc9mNn/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <p></p>
 </li>
