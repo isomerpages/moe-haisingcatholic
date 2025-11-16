@@ -29,4 +29,13 @@ sections:
       url: https://youtu.be/qlWlwAZJi4s
       image: /images/website logo.png
       alt: Image alt text
+  - infopic:
+      title: 2025 OPEN HOUSE
+      subtitle: Hai Sing Catholic school
+      id: infopic
+      button: EXPLORE MORE
+      url: /hsc-open-house-2025/
+      image: /images/2026 Open
+        House/WhatsApp_Image_2025_11_16_at_12_09_13_b4a6e0d0.jpg
+      alt: 2025 open house
 ---
