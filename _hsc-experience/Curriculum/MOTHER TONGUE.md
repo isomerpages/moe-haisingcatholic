@@ -49,11 +49,10 @@ Mother Tongue Languages:</p>
 <p><a href="https://docs.google.com/document/d/1lax4Bv1vLTd-A95s6fbultz5aVzjzf_G/edit?usp=sharing&amp;ouid=112286528123252573144&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">https://www.haisingcatholic.moe.edu.sg/join-hsc/faq/permalink/</a>
 </p>
 <h3><strong>Higher Mother Tongue Languages</strong></h3>
-<p>Students with an overall PSLE score of 8 or better, or an overall PSLE
-score of 9 to 14 and attains AL1/AL2 in MTL or Distinction/ Merit in HMTL
-will be deemed by MOE to be eligible to take Higher Mother Tongue Language.
+<p>Students who attain AL1/AL2 in MTL or Distinction/ Merit in HMTL will
+be deemed by MOE to be eligible to take Higher Mother Tongue Language.
 He/She will receive an “Eligibility Form” from MOE via Parent’s Gateway
-upon entry to Secondary One.</p>
+upon entry to&nbsp;Secondary&nbsp;One.</p>
 <h3><strong>Higher Chinese Language</strong></h3>
 <p>Hai Sing Catholic School has the autonomy to offer Higher Chinese to students
 with an AL1/AL2 in CL or Distinction/ Merit in HCL. Eligible students who
@@ -216,7 +215,8 @@ is available.</p>
 </tbody>
 </table>
 <p>Successful Applicants may check out the following link to complete your
-registration: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/csp2024</a>
+registration:</p>
+<p><a href="https://www.changkatchangisec.moe.edu.sg/quick-links/csp/" rel="noopener noreferrer nofollow" target="_blank">https://www.changkatchangisec.moe.edu.sg/quick-links/csp/https://www.changkatchangisec.moe.edu.sg/quick-links/csp/</a>
 </p>
 </td>
 </tr>

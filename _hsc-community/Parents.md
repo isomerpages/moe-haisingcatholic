@@ -1,6 +1,6 @@
 ---
-title: PSG
-permalink: /hsc-community/psg/permalink/
+title: Parents
+permalink: /hsc-community/parents/permalink/
 description: ""
 variant: markdown
 ---
@@ -43,5 +43,3 @@ For more information on Parent Engagement, please contact 
 Mr Daniel Yong, [yong\_chee\_kong\_daniel@schools.gov.sg](mailto:yong_chee_kong_daniel@schools.gov.sg) or
 
 Mr Jonathan Tan [chu\_chze\_jonathan\_tan@schools.gov.sg](mailto:chu_chze_jonathan_tan@schools.gov.sg)
-
- 
