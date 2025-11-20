@@ -13,4 +13,4 @@ variant: tiptap
 <p>Mr Martin Tan (Member), Sr Veronica De Roza (Member), Sr Elizabeth (Member),
 Mrs Margaret Chye (Treasurer), Mr Damien Lam (Member)</p>
 <p>Seated from left to right</p>
-<p>Mr Joseph Kwok (Chairman), Ms Adeline Lim (Secretary), Sr Maria Ng (Supervisor)</p>
+<p>Mr Joseph Kwok (Chairman), Sr Maria Ng (Supervisor), Ms Adeline Lim (Secretary)</p>
