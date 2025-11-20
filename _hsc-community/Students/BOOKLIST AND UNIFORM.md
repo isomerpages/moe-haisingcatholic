@@ -21,7 +21,8 @@ variant: tiptap
 <p>Secondary 1 Textbooks &amp; Uniform Sales</p>
 </li>
 <li>
-<p>Secondary 1 Booklist</p>
+<p>Secondary 1 Booklist <a href="https://drive.google.com/file/d/1e_cpKsNez93u0n1M7h0zVZh-U2uAG0Oa/view?usp=sharing" rel="noopener nofollow" target="_blank">Link </a>
+</p>
 </li>
 </ul>
 <p></p>
