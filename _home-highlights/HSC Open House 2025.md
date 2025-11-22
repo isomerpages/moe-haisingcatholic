@@ -8,8 +8,10 @@ description: ""
 <p>Embarking on a new journey as a secondary school student? Ready to set
 sail on a new school adventure? You’re at the right place! Calling all
 Primary 6 students!</p>
-<p>Details of our Open House (date, time, and registration link) will be
-published here soon. Please check back later for updates.</p>
+<p>OPEN HOUSE: 22 NOV 2025 (SAT), 0900–1200</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026 Open House/WhatsApp_Image_2025_11_16_at_12_09_13_b4a6e0d0.jpg">
+</div>
 <p>Save the date! It’s Hai Sing Catholic’s Open House.</p>
 <p></p>
 <hr>
