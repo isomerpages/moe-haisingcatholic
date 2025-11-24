@@ -15,6 +15,9 @@ sections:
         - title: School Based Assessment
           description: ""
           url: /hsc-community/students/school-based-assessment/permalink/
+        - title: BOOKLIST AND UNIFORM
+          description: ""
+          url: /hsc-community/Students/booklist-and-uniform/permalink/
       title: Hai Sing Catholic School
       subtitle: Ad Veritatem Per Caritatem - To Truth Through Charity
   - infobar:
