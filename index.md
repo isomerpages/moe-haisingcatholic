@@ -12,9 +12,6 @@ sections:
         - title: Direct School Admission
           description: ""
           url: https://haisingcatholic.moe.edu.sg/join-hsc/permalink/
-        - title: HSC Upgrading Programme
-          description: ""
-          url: https://haisingcatholic.moe.edu.sg/hsc-prime-update-2025/
         - title: School Based Assessment
           description: ""
           url: /hsc-community/students/school-based-assessment/permalink/
@@ -29,13 +26,4 @@ sections:
       url: https://youtu.be/qlWlwAZJi4s
       image: /images/website logo.png
       alt: Image alt text
-  - infopic:
-      title: 2025 OPEN HOUSE
-      subtitle: Hai Sing Catholic school
-      id: infopic
-      button: EXPLORE MORE
-      url: /hsc-open-house-2025/
-      image: /images/2026 Open
-        House/WhatsApp_Image_2025_11_16_at_12_09_13_b4a6e0d0.jpg
-      alt: 2025 open house
 ---
