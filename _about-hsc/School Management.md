@@ -11,6 +11,6 @@ variant: tiptap
 </div>
 <p>Standing Row from left to right</p>
 <p>Mr Martin Tan (Member), Sr Veronica De Roza (Member), Sr Elizabeth (Member),
-Mrs Margaret Chye (Treasurer), Mr Damien Lam (Member)</p>
+Mrs Margaret Chye (Member), Mr Damien Lam (Treasurer)</p>
 <p>Seated from left to right</p>
 <p>Mr Joseph Kwok (Chairman), Sr Maria Ng (Supervisor), Ms Adeline Lim (Secretary)</p>
