@@ -10,7 +10,6 @@ CONTACT US
 Hai Sing Catholic School
 ------------------------
 Tel: 6582 7864 
-| Fax: 6582 2543
 
 | School Location              |  |  |
 | -------- | -------- | -------- |
