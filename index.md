@@ -22,6 +22,15 @@ sections:
       subtitle: Ad Veritatem Per Caritatem - To Truth Through Charity
   - infobar:
       title: Highlights
+  - announcements:
+      id: announcements
+      announcement_items:
+        - title: New Announcement
+          date: 25 November 2025
+          announcement: "Advisory to Former Students: Collection of School Graduation
+            Certificates"
+          link_text: READ MORE
+          link_url: /advisory-to-former-students/
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
