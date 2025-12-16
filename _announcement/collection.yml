@@ -1,5 +1,0 @@
-collections:
-  announcement:
-    output: true
-    order:
-      - Advisory to Former Students.md
