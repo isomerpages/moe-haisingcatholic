@@ -18,10 +18,12 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1 Textbooks &amp; Uniform Sales</p>
+<p>Secondary 1 Textbooks &amp; Uniform Sales - Details can be found via this
+<a href="https://drive.google.com/file/d/1rBMyvdfGpOLDrMlGM4mTfnfMh7hcG7su/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
+</p>
 </li>
 <li>
-<p>Secondary 1 Booklist <a href="https://drive.google.com/file/d/1e_cpKsNez93u0n1M7h0zVZh-U2uAG0Oa/view?usp=sharing" rel="noopener nofollow" target="_blank">Link </a>
+<p>Secondary 1 Booklist - Details can be found via this <a href="https://drive.google.com/file/d/1e_cpKsNez93u0n1M7h0zVZh-U2uAG0Oa/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
 </p>
 </li>
 </ul>
@@ -93,7 +95,7 @@ via this <a href="https://drive.google.com/file/d/1tk34glot_YtLGssFOtz9MZRnNGb78
 <ul data-tight="true" class="tight">
 <li>
 <p>Sec 5 Textbooks &amp; Uniform Sales - Details can be found via this
-<a href="https://drive.google.com/file/d/1LwqDvE2axrj1Lls9TvyCPW00yaQkIoXX/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
+<a href="https://drive.google.com/file/d/1wtP75pSS-Q8j7Ki8Je8NuIDfhpDIQjFh/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
 </p>
 </li>
 <li>
