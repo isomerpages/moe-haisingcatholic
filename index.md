@@ -23,12 +23,13 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: SEC ONE ADMISSION 2026
+      subtitle: HAI SING CATHOLIC SCHOOL
       id: infopic
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/News and Announcement/S1_Admissions_2026.png
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
