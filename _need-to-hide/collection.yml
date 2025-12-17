@@ -1,0 +1,4 @@
+collections:
+  need-to-hide:
+    output: true
+    order: []
