@@ -30,6 +30,8 @@ sections:
         Release on 19 Dec 2025
       alt: Image alt text
       image: /images/News and Announcement/S1_Admissions_2026.png
+      url: /sec-1-admissions-2026/
+      button: read more
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
