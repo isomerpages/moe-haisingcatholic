@@ -4,7 +4,7 @@ permalink: /about-hsc/school-management/permalink/
 description: ""
 variant: tiptap
 ---
-<h1><strong>School Management Committee</strong></h1>
+<h1>School Management Committee</h1>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About HSC/IMG_0294_EDIT.jpg">
