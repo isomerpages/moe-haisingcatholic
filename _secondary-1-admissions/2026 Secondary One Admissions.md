@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 image: /images/S1_Admisssion_2025.png
 ---
-<h2>2026 Secondary One Admissions</h2>
+<h1>2026 Secondary One Admissions</h1>
 <p>Dear Parents/Guardians,</p>
 <p>Congratulations on the posting of your child/ ward to Hai Sing Catholic
 School!</p>
