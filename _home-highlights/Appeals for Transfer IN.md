@@ -4,7 +4,7 @@ permalink: /appeal-in/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Appeals for Transfer IN</strong></h2>
+<h1>Appeals for Transfer IN</h1>
 <p>Students who wish to appeal to transfer to Hai Sing Catholic School are
 to submit an appeal via this <a href="https://form.gov.sg/6191e66b57be1c00123b5cb5" rel="noopener noreferrer nofollow" target="_blank"><u>online form</u></a>  <strong>by Wednesday, 24 Dec 2025</strong>.
 Late submissions will not be considered for admissions in Jan 2026.</p>
