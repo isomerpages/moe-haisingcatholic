@@ -1,0 +1,4 @@
+collections:
+  secondary-1-admissions:
+    output: true
+    order: []
