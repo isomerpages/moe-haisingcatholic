@@ -23,6 +23,14 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
+      title: Sec 1 Admissions
+      subtitle: HAI SING CATHOLIC SCHOOL
+      id: infopic
+      description: More information will be shared after the Sec 1 Posting Results
+        Release on 19 Dec 2025
+      alt: Image alt text
+      image: /images/News and Announcement/S1_Admissions_2026.png
+  - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
       button: Haisian Experience
