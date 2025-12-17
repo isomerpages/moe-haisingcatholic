@@ -39,7 +39,7 @@ sections:
       description: Students who wish to appeal to transfer to Hai Sing Catholic School
         are to submit an appeal via online form by Wednesday, 24 Dec 2025.
       button: read more
-      url: /transfer-in/
+      url: /appeal-in/
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
