@@ -4,7 +4,7 @@ permalink: /about-hsc/message-from-school-leaders/permalink/
 variant: tiptap
 description: ""
 ---
-<h1><strong>School Leaders' Message</strong></h1>
+<h1>School Leaders' Message</h1>
 <p><strong>A warm and heartfelt welcome to Hai Sing Catholic School.</strong>
 </p>
 <div class="isomer-image-wrapper">
