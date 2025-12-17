@@ -33,7 +33,7 @@ sections:
       url: /sec-1-admissions-2026/
       button: read more
   - infobar:
-      title: Appeals for Transfer IN
+      title: Appeals for Transfer IN (2026)
       subtitle: Hai sing catholic school
       id: infobar
       description: Students who wish to appeal to transfer to Hai Sing Catholic School
