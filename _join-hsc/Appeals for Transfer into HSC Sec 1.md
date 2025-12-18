@@ -1,5 +1,5 @@
 ---
-title: Appeals for Transfer IN
+title: Appeals for Transfer into HSC Sec 1
 permalink: /appeal-in/
 variant: tiptap
 description: ""
