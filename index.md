@@ -42,7 +42,7 @@ sections:
       button: read more
       url: /appeal-in/
   - infobar:
-      title: 2025 N Level JIT Information
+      title: N Level Post Secondary Information Package
       subtitle: hai sing catholic school
       id: infobar
       description: Essential information to guide 2025 N Level students in their
