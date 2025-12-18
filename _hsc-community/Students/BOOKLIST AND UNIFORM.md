@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <h2>2026 Booklist</h2>
 <h2>School Uniform and PE Attire</h2>
-<p>Price List of School Uniform and PE Attire can be found via this <a href="https://drive.google.com/file/d/1LQA9YFAT7DK39jn2VRjH9Ej7NK7e2AMP/view?usp=drive_link" rel="noopener nofollow" target="_blank">link</a>
+<p>Price List of School Uniform and PE Attire can be found via this <a href="https://drive.google.com/file/d/17uNM-RWes-goAXloi0huhK_nm3iqTm-G/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
 </p>
 <p></p>
 <p><strong>2026 Secondary 1 Students</strong>
@@ -95,7 +95,7 @@ via this <a href="https://drive.google.com/file/d/1tk34glot_YtLGssFOtz9MZRnNGb78
 <ul data-tight="true" class="tight">
 <li>
 <p>Sec 5 Textbooks &amp; Uniform Sales - Details can be found via this
-<a href="https://drive.google.com/file/d/1wtP75pSS-Q8j7Ki8Je8NuIDfhpDIQjFh/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
+<a href="https://drive.google.com/file/d/1VmRh_oXYYf4tRU77VWa1EWJaAdm7pY_T/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
 </p>
 </li>
 <li>
