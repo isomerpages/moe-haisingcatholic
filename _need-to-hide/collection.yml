@@ -1,0 +1,5 @@
+collections:
+  need-to-hide:
+    output: true
+    order:
+      - 2026 Secondary One Admissions.md

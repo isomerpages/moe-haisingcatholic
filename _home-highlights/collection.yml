@@ -2,6 +2,5 @@ collections:
   home-highlights:
     output: true
     order:
-      - 2025 Secondary One Admissions.md
       - HSC Open House 2025.md
       - HSC PRIME Update 2025.md
