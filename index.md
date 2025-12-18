@@ -32,7 +32,7 @@ sections:
       alt: Image alt text
       image: /images/News and Announcement/S1_Admissions_2026.png
       button: read more
-      url: /
+      url: /sec-1-admissions-2026/
   - infobar:
       title: Appeals for Transfer IN (2026)
       subtitle: Hai sing catholic school
