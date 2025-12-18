@@ -41,6 +41,15 @@ sections:
         are to submit an appeal via online form by Wednesday, 24 Dec 2025.
       button: read more
       url: /appeal-in/
+  - infobar:
+      title: 2025 N Level JIT Information
+      subtitle: hai sing catholic school
+      id: infobar
+      description: Essential information to guide 2025 N Level students in their
+        post-secondary pathways, including JIE applications, DPP choices, and
+        PFP factsheets.
+      button: View Information
+      url: https://drive.google.com/file/d/1X_Fvrekfx1EL55Zhk7G5BqNnXk6hdc7Q/view?usp=sharing
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
