@@ -26,10 +26,13 @@ sections:
       title: Sec 1 Admissions
       subtitle: HAI SING CATHOLIC SCHOOL
       id: infopic
-      description: More information will be shared after the Sec 1 Posting Results
-        Release on 19 Dec 2025
+      description: Congratulations on the posting of your child/ ward to Hai Sing
+        Catholic School!
       alt: Image alt text
       image: /images/News and Announcement/S1_Admissions_2026.png
+      button: Please click here to access important information regarding Sec 1
+        Admissions.
+      url: /
   - infobar:
       title: Appeals for Transfer IN (2026)
       subtitle: Hai sing catholic school
