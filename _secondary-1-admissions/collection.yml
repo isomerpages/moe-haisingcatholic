@@ -1,5 +1,4 @@
 collections:
   secondary-1-admissions:
     output: true
-    order:
-      - Appeals for Transfer IN.md
+    order: []
