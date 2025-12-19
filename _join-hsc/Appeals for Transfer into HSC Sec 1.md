@@ -10,7 +10,7 @@ to submit an appeal via this <a href="https://form.gov.sg/6191e66b57be1c00123b5c
 Late submissions will not be considered for admissions in Jan 2026.</p>
 <p>Please note that the appellant’s PSLE score must meet the school's cut-off
 point of the respective posting group before it can be considered.</p>
-<p>For reference, the 2025 S1 Cohort cut-off points are as follows:</p>
+<p>The 2026 S1 Cohort cut-off points are as follows:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -34,13 +34,13 @@ point of the respective posting group before it can be considered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9-15</p>
+<p>11-15</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21-23</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25-28</p>
+<p>25-27</p>
 </td>
 </tr>
 </tbody>
