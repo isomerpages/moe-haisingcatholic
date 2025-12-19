@@ -52,7 +52,7 @@ variant: markdown
 </p>
 </li>
 </ol>
-<p>Students and parents must refer to our <a href="https://haisingcatholic.moe.edu.sg/sec-1-admissions-2025/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Admissions webpage</a> for
+<p>Students and parents must refer to our <a href="https://www.haisingcatholic.moe.edu.sg/sec-1-admissions-2026/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Admissions webpage</a> for
 important information, as well as read important messages that will be
 progressively sent via Parents Gateway (PG) for further information on
 the Secondary 1 Admissions exercise to Hai Sing Catholic School. The first
@@ -69,9 +69,7 @@ the posting results are out.
 </p>
 </li>
 </ol>
-<p>Books and uniforms will be available for purchase in the school canteen
-between 20 and 30 Dec 2024. Please use the QR code (below) to make a booking
-to enter the school.</p>
+<p>Textbooks, name tags and uniforms are available for purchase at the school premises on an <strong>appointment basis</strong> on the following dates: 22, 23, 26, 29 and 30 Dec 2025.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR4.png">
 </div>
