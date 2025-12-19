@@ -12,7 +12,7 @@ School!</p>
 <p>Please note that students <strong>do not</strong> need to report to their
 posted secondary schools upon receiving their S1 posting results.</p>
 <p>Please refer to <strong>this S1 Admissions information package </strong>
-<a href="https://drive.google.com/file/d/13py3tJ2gTxt3SmRzKodROwPbEBqtZr5-/view?usp=sharing" rel="noopener nofollow" target="_blank">(left-click to download)</a>for key information, such as that on the purchase
+<a href="https://drive.google.com/file/d/1aOrVxKcFC-5D3H_PHH4h0PCfk1lJA9Pg/view?usp=sharing" rel="noopener nofollow" target="_blank">(left-click to download)</a>for key information, such as that on the purchase
 of uniforms and books, first day of school, etc.&nbsp;</p>
 <p>The school will utilise Parents Gateway (PG) as the primary communication
 channel to provide pertinent information once it is available, by Monday,
