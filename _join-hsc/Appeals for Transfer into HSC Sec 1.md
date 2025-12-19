@@ -34,13 +34,13 @@ point of the respective posting group before it can be considered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>15</p>
+<p>11-15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23</p>
+<p>21-23</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27</p>
+<p>25-27</p>
 </td>
 </tr>
 </tbody>
