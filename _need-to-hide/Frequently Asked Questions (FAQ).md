@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions (FAQ)
-permalink: /join-hsc/faq/permalink/
+permalink: /join-hsc/faq/permalink/extra/
 description: ""
 variant: markdown
 ---
