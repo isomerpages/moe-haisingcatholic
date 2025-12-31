@@ -21,5 +21,5 @@ channel to provide pertinent information once it is available, by Monday,
 <p>Additionally, you can access your child’s/ ward’s 2025 Sec 1 class allocation
 through Parents Gateway.&nbsp;</p>
 <p><strong>FAQs</strong>
-<br>You may refer to our school’s <a href="https://haisingcatholic.moe.edu.sg/join-hsc/faq/permalink/" rel="noopener nofollow" target="_blank">(FAQ)</a> page
-for further information as well.</p>
+<br>You may refer to our school’s <a href="https://www.haisingcatholic.moe.edu.sg/faq-2026/" rel="noopener nofollow" target="_blank">(FAQ)</a> page for
+further information as well.</p>
