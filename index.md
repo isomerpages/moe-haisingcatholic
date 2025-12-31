@@ -41,15 +41,24 @@ sections:
         are to submit an appeal via online form by Wednesday, 24 Dec 2025.
       button: read more
       url: /appeal-in/
-  - infobar:
-      title: N Level Post Secondary Information Package
-      subtitle: hai sing catholic school
-      id: infobar
-      description: Essential information to guide 2025 N Level students in their
-        post-secondary pathways, including JIE applications, DPP choices, and
-        PFP factsheets.
-      button: View Information
-      url: https://drive.google.com/file/d/1X_Fvrekfx1EL55Zhk7G5BqNnXk6hdc7Q/view?usp=sharing
+  - infopic:
+      title: Held Dear
+      subtitle: HAI SING CATHOLIC SCHOOL
+      id: infopic
+      description: Our students share what they treasured most at the holding site.
+      button: watch here
+      url: https://drive.google.com/file/d/1pIj47saNAh_tt61cLB1EVHVtLawmCK8K/view?usp=sharing
+      image: /images/Home/held_here_1.png
+      alt: Held Dear
+  - infopic:
+      title: Back Here
+      subtitle: Hai sing catholic school
+      id: infopic
+      description: Our students share their excitement about the refreshed campus.
+      button: watch here
+      url: https://drive.google.com/file/d/1_5x75FrAvDSmNFZgWigUgUZfUY8s2u_K/view?usp=sharing
+      image: /images/Home/back_here_1.png
+      alt: Back Here
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
