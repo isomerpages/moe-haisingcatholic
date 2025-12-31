@@ -23,6 +23,24 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
+      title: Held Dear
+      subtitle: HAI SING CATHOLIC SCHOOL
+      id: infopic
+      description: Our students share what they treasured most at the holding site.
+      button: watch here
+      url: https://drive.google.com/file/d/1pIj47saNAh_tt61cLB1EVHVtLawmCK8K/view?usp=sharing
+      image: /images/Home/held_here_1.png
+      alt: Held Dear
+  - infopic:
+      title: Back Here
+      subtitle: Hai sing catholic school
+      id: infopic
+      description: Our students share their excitement about the refreshed campus.
+      button: watch here
+      url: https://drive.google.com/file/d/1_5x75FrAvDSmNFZgWigUgUZfUY8s2u_K/view?usp=sharing
+      image: /images/Home/back_here_1.png
+      alt: Back Here
+  - infopic:
       title: Sec 1 Admissions
       subtitle: HAI SING CATHOLIC SCHOOL
       id: infopic
@@ -41,24 +59,6 @@ sections:
         are to submit an appeal via online form by Wednesday, 24 Dec 2025.
       button: read more
       url: /appeal-in/
-  - infopic:
-      title: Held Dear
-      subtitle: HAI SING CATHOLIC SCHOOL
-      id: infopic
-      description: Our students share what they treasured most at the holding site.
-      button: watch here
-      url: https://drive.google.com/file/d/1pIj47saNAh_tt61cLB1EVHVtLawmCK8K/view?usp=sharing
-      image: /images/Home/held_here_1.png
-      alt: Held Dear
-  - infopic:
-      title: Back Here
-      subtitle: Hai sing catholic school
-      id: infopic
-      description: Our students share their excitement about the refreshed campus.
-      button: watch here
-      url: https://drive.google.com/file/d/1_5x75FrAvDSmNFZgWigUgUZfUY8s2u_K/view?usp=sharing
-      image: /images/Home/back_here_1.png
-      alt: Back Here
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
