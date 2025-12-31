@@ -1,0 +1,5 @@
+collections:
+  update-in-progress:
+    output: true
+    order:
+      - Page Update in Progress.md
