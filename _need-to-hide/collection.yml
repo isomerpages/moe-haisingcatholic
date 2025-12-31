@@ -2,4 +2,5 @@ collections:
   need-to-hide:
     output: true
     order:
+      - SECONDARY 1.md
       - Frequently Asked Questions (FAQ).md
