@@ -2,6 +2,7 @@ collections:
   need-to-hide:
     output: true
     order:
+      - SECONDARY 5.md
       - SECONDARY 4.md
       - SECONDARY 3.md
       - SECONDARY 2.md
