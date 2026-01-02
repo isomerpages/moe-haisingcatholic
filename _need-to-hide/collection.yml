@@ -2,6 +2,7 @@ collections:
   need-to-hide:
     output: true
     order:
+      - SCHOOL BASED ASSESSMENT.md
       - SEC ONE ADMISSIONS.md
       - STUDENTS TIMETABLE.md
       - SECONDARY 5.md
