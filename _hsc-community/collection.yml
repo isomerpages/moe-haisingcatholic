@@ -2,6 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
+      - Students/SCHOOL BASED ASSESSMENT 2026.md
       - Students/.keep
       - Students/NOTIFCATION ON DEEMED CONSENT.md
       - Students/STUDENTS TIME TABLE 2026.md
