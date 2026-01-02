@@ -1,5 +1,4 @@
 collections:
   secondary-1-admissions:
     output: true
-    order:
-      - 2026 Secondary One Admissions.md
+    order: []
