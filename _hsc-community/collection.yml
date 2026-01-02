@@ -2,9 +2,9 @@ collections:
   hsc-community:
     output: true
     order:
-      - Students/STUDENTS TIME TABLE 2026.md
       - Students/.keep
       - Students/NOTIFCATION ON DEEMED CONSENT.md
+      - Students/STUDENTS TIME TABLE 2026.md
       - Students/2026 SECONDARY ONE ADMISSIONS.md
       - Students/BOOKLIST AND UNIFORM.md
       - Students/SCHOOL BASED ASSESSMENT.md
