@@ -1,9 +1,10 @@
 ---
-title: 2026 Secondary One Admissions
+title: 2026 SECONDARY ONE ADMISSIONS
 permalink: /sec-1-admissions-2026/
 variant: tiptap
 description: ""
 image: /images/S1_Admisssion_2025.png
+third_nav_title: Students
 ---
 <h1>2026 Secondary One Admissions</h1>
 <p>Dear Parents/Guardians,</p>

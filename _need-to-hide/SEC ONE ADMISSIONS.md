@@ -3,7 +3,6 @@ title: SEC ONE ADMISSIONS
 permalink: /hsc-community/students/sec-one-registration/permalink/
 variant: tiptap
 description: ""
-third_nav_title: Students
 ---
 <h1><strong>Sec One Admissions</strong></h1>
 <p>Dear Parents/Guardians,</p>

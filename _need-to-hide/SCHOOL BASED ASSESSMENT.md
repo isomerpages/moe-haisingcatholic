@@ -3,7 +3,6 @@ title: SCHOOL BASED ASSESSMENT
 permalink: /hsc-community/students/school-based-assessment/permalink/
 description: ""
 image: /images/Curriculum/Mother.png
-third_nav_title: Students
 variant: tiptap
 ---
 <h1><strong><u>Assessment 2025</u></strong></h1>

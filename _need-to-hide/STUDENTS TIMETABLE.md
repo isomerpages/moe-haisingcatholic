@@ -2,7 +2,6 @@
 title: STUDENTS TIMETABLE
 permalink: /hsc-community/students/students-timetable/permalink/
 description: ""
-third_nav_title: Students
 variant: tiptap
 ---
 <h1>2025 CLASS TIME-TABLE</h1>
