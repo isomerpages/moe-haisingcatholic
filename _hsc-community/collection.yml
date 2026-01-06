@@ -2,6 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
+      - Students/STUDENTS TIMETABLE.md
       - Students/.keep
       - Students/NOTIFCATION ON DEEMED CONSENT.md
       - Students/2026 SECONDARY ONE ADMISSIONS.md
