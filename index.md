@@ -23,42 +23,13 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: Held Dear
-      subtitle: HAI SING CATHOLIC SCHOOL
+      title: 2025 GCE O-Level Results Release
+      subtitle: hai sing catholic school
       id: infopic
-      description: Our students share what they treasured most at the holding site.
-      button: watch here
-      url: https://drive.google.com/file/d/1pIj47saNAh_tt61cLB1EVHVtLawmCK8K/view?usp=sharing
-      image: /images/Home/held_here_1.png
-      alt: Held Dear
-  - infopic:
-      title: Back Here
-      subtitle: Hai sing catholic school
-      id: infopic
-      description: Our students share their excitement about the refreshed campus.
-      button: watch here
-      url: https://drive.google.com/file/d/1_5x75FrAvDSmNFZgWigUgUZfUY8s2u_K/view?usp=sharing
-      image: /images/Home/back_here_1.png
-      alt: Back Here
-  - infopic:
-      title: Sec 1 Admissions
-      subtitle: HAI SING CATHOLIC SCHOOL
-      id: infopic
-      description: Congratulations on the posting of your child/ ward to Hai Sing
-        Catholic School! Please click below to access important information
-        regarding Sec 1 Admissions.
+      button: read more
+      url: https://drive.google.com/file/d/1ZatHKmLisb1_2P--2X7BS-iS9I3_lcF0/view?usp=sharing
+      image: /images/Home/Information_about_2025_GCE_O_Level_Result_Release.jpg
       alt: Image alt text
-      image: /images/News and Announcement/S1_Admissions_2026.png
-      button: read more
-      url: /sec-1-admissions-2026/
-  - infobar:
-      title: Appeals for Transfer IN (2026)
-      subtitle: Hai sing catholic school
-      id: infobar
-      description: Students who wish to appeal to transfer to Hai Sing Catholic School
-        are to submit an appeal via online form by Wednesday, 24 Dec 2025.
-      button: read more
-      url: /appeal-in/
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
