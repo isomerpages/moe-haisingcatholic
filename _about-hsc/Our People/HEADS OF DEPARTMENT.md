@@ -46,12 +46,7 @@ third_nav_title: Our People
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mr Koh Wei Ping</td>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">HOD (Mathematics)</td>
 					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:koh_wei_ping@moe.edu.sg">koh_wei_ping@moe.edu.sg</a></td>
-			</tr> 
-			<tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Tan En Ci Michelle</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">HOD (Character &amp; Citizenship Education)</td>
-					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:ten_en_ci_michelle@moe.edu.sg">ten_en_ci_michelle@moe.edu.sg</a></td>
-			</tr> 
+			</tr>  
             <tr>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mr Seow Han Chien</td>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">HOD (PE, CCA &amp; Aesthetics)</td>
@@ -73,12 +68,12 @@ third_nav_title: Our People
 					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:rizal_subani@moe.edu.sg">rizal_subani@moe.edu.sg</a></td>
 			</tr> 
 			<tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Christine Sarah Toh</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Ms Christine Sarah Toh</td>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Year Head</td>
 					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:christine_sarah_toh@moe.edu.sg">christine_sarah_toh@moe.edu.sg</a></td>
 			</tr> 
 			<tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Lee Wan Xin</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Ms Lee Wan Xin</td>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Year Head</td>
 					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:lee_wan_xin@moe.edu.sg">lee_wan_xin@moe.edu.sg</a></td>
 			</tr> 
