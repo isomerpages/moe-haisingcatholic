@@ -23,7 +23,7 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: Post Secondary School Information Package
+      title: GCE O-Level Post Secondary School Information Package
       subtitle: HAI SING CATHOLIC SCHOOL
       id: infopic
       button: read more
