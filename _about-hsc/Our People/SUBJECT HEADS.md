@@ -19,7 +19,7 @@ third_nav_title: Our People
 			</tr> 
 			<tr>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mrs June Ng</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">SH (Character &amp; Citizenship Education),<br>Acting</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">SH (Character &amp; Citizenship Education), Acting</td>
 					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:june_ng_goh_suat_hong@moe.edu.sg">june_ng_goh_suat_hong@moe.edu.sg</a></td>
 			</tr> 
 			<tr>
