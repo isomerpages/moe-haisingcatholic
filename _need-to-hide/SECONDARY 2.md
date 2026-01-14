@@ -13,66 +13,66 @@ description: ""
 			</tr>
 			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Truth</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Lee Chin Ling Juliana</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:juliana_lee_chin_ling@moe.edu.sg">juliana_lee_chin_ling@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mrs Violet Ng</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:ng_i-_ling_violet@moe.edu.sg">ng_i-_ling_violet@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Ariston Tay Jing Yan</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:ariston_tay_jing_yan@moe.edu.sg">ariston_tay_jing_yan@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Ms Sabrina Thang</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:thang_sabrina_lisa@moe.edu.sg">thang_sabrina_lisa@moe.edu.sg</a></td>
 			</tr>  
 			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Charity</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Crystal Lau Heung Ying</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:lau_heung_ying@moe.edu.sg">lau_heung_ying@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mr Fauzan Bin Abdul Rahhim</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:fauzan_abdul_rahhim@moe.edu.sg">fauzan_abdul_rahhim@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Dewi Juriah Bte Sudirman</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:dewi_juriah_sudirman@moe.edu.sg">dewi_juriah_sudirman@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Ms Jael Ng</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:jael_ng_geng_hui_a@moe.edu.sg">jael_ng_geng_hui_a@moe.edu.sg</a></td>
 			</tr>
   			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Compassion</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Kok Hoe Ming</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:kok_hoe_ming@moe.edu.sg">kok_hoe_ming@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mdm Kiranjit Kaur</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:kiranjit_kaur_tarlok_singh@moe.edu.sg">kiranjit_kaur_tarlok_singh@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Bharathi D/O Jayakumaran</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:bharathi_jayakumaran@moe.edu.sg">bharathi_jayakumaran@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mr Edmund Tham</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:tham_mun_kin_edmund@moe.edu.sg">tham_mun_kin_edmund@moe.edu.sg</a></td>
 			</tr>
   		<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Integrity</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mukmien Bin Mohammad Kassim</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:mukmien_mohammad_kassim@moe.edu.sg">mukmien_mohammad_kassim@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Ms Amy Lui</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:lui_amy@moe.edu.sg">lui_amy@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Fazzera Binte Kamal</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:fazzera_kamal@moe.edu.sg">fazzera_kamal@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mdm Yasmin Bte A Aziz</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:yasmin_a_aziz@moe.edu.sg">yasmin_a_aziz@moe.edu.sg</a></td>
 			</tr>
   			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Independence</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Nabilah Bte Syed Sultan</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:nabilah_syed_sultan@moe.edu.sg">nabilah_syed_sultan@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mr Eugene Hui</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:hui_zhi_sheng_eugene@moe.edu.sg">hui_zhi_sheng_eugene@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Chong Shu Fen Sandra</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:chong_shu_fen_sandra@moe.edu.sg">chong_shu_fen_sandra@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mdm Jamaliah Bte Mohamed Saleh</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:jamaliah_mohamed_saleh@moe.edu.sg">jamaliah_mohamed_saleh@moe.edu.sg</a></td>
 			</tr>
   			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Adaptability</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Raihan Bin Omar</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:raihan_omar@moe.edu.sg">raihan_omar@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mr Lee Wen Han</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:lee_wen_han@moe.edu.sg">lee_wen_han@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Maria Loida Raju</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:maria_loida_raju@moe.edu.sg">maria_loida_raju@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mr  Syahrulnizam Bin Abdul Rahman </td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:syahrulnizam_abdul_rahman_a@moe.edu.sg">syahrulnizam_abdul_rahman_a@moe.edu.sg</a></td>
 			</tr>
   			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Graciousness</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">A'zimah Bte Muhamad</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:azimah_muhamad@moe.edu.sg">azimah_muhamad@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Ms Rafiqah Bte Nordin</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:rafiqah_nordin@moe.edu.sg">rafiqah_nordin@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Yong Chee Kong (Daniel)</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:yong_chee_kong_daniel@moe.edu.sg">yong_chee_kong_daniel@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mr Ariston Tay</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:ariston_tay_jing_yan@moe.edu.sg">ariston_tay_jing_yan@moe.edu.sg</a></td>
 			</tr>
 			
 </tbody>
