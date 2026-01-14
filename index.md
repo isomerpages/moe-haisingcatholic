@@ -29,6 +29,7 @@ sections:
       button: read more
       url: https://drive.google.com/file/d/1nv-n9ae3-iScNTyT4RAG4WCSCc6pSAf0/view?usp=sharing
       image: /images/Home/Post_Secondary_school_information_package.jpg
+      alt: Image alt text
   - infopic:
       title: 2025 GCE O-Level Results Release
       subtitle: hai sing catholic school
