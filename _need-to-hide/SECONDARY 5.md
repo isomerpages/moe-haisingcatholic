@@ -13,8 +13,8 @@ description: ""
 			</tr>
 			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Adaptability</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Siti Mariam Bte Kamaruddin</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:siti_mariam_kamaruddin@moe.edu.sg">siti_mariam_kamaruddin@moe.edu.sg</a></td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Ms Pricilla Seah</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:seah_kai_sing_pricilla@moe.edu.sg">seah_kai_sing_pricilla@moe.edu.sg&nbsp;</a></td>
 			</tr>
 </tbody>
 </table>
