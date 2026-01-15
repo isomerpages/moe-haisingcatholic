@@ -22,13 +22,17 @@ third_nav_title: Our People
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:phua_qian_qi@moe.edu.sg">phua_qian_qi@moe.edu.sg</a></td>
 			</tr>  
 			<tr>
-					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Charity</td>
+					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="3">Charity</td>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mr Bernard Lim</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:bernard_lim@moe.edu.sg">bernard_lim@moe.edu.sg</a></td>
 			</tr>
       <tr>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mr Nur Hanis Bin Samad</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:nur_hanis_samad@moe.edu.sg">nur_hanis_samad@moe.edu.sg</a></td>
+			</tr>
+	<tr>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Ms Yang Jie</td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:yang_jie_a_1@moe.edu.sg">yang_jie_a_1@moe.edu.sg</a></td>
 			</tr>
   			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="3">Compassion</td>
