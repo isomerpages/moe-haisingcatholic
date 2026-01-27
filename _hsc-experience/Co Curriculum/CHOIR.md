@@ -12,13 +12,13 @@ variant: tiptap
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mdm Noor Aishah</p>
+<p>Noor Aishah Binte Haja Mohideen</p>
 </li>
 <li>
-<p>Ms Lee Yueli</p>
+<p>Seerin Jaffer</p>
 </li>
 <li>
-<p>Madam Mariana</p>
+<p>Lee Guat Lia (Lee Yueli)</p>
 </li>
 </ol>
 <h2>Training schedule</h2>
@@ -60,6 +60,6 @@ variant: tiptap
 <p><strong>Lim Rei Ki <br>President</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQe0Z8DPA6D1y3hXbq5LKAjsFo8IF5noUo9pNXRcMqndddwcY9SxUbXxCJqJ2x5ncF3L9T2BiQXlPQS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQe0Z8DPA6D1y3hXbq5LKAjsFo8IF5noUo9pNXRcMqndddwcY9SxUbXxCJqJ2x5ncF3L9T2BiQXlPQS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
