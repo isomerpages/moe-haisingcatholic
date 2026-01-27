@@ -12,13 +12,16 @@ variant: tiptap
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr Tan Song Teck</p>
+<p>Rafi B Mohamed Rais</p>
 </li>
 <li>
-<p>Miss Ng I-Ling Violet</p>
+<p>Hui Zhi Sheng Eugene</p>
 </li>
 <li>
-<p>Mr Mohammed Zulkifli Abdul Rasheed</p>
+<p>FAJT Mohammed Zulkifli</p>
+</li>
+<li>
+<p>Nur Hanis Samad</p>
 </li>
 </ol>
 <h2>Training schedule</h2>
@@ -41,6 +44,6 @@ variant: tiptap
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR3UEsY4xACsVuj_EXle7UvQU1oFnjac1QclK4DGC7X7YrRNUd2I8TTQUoc7piVEAhH6WTvjwenub3v/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR3UEsY4xACsVuj_EXle7UvQU1oFnjac1QclK4DGC7X7YrRNUd2I8TTQUoc7piVEAhH6WTvjwenub3v/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
