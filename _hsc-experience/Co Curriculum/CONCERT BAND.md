@@ -15,10 +15,10 @@ variant: tiptap
 <p>Mr Tan Yong An</p>
 </li>
 <li>
-<p>Mr Chan Yu Wei, Dominique</p>
+<p>Champion Grace</p>
 </li>
 <li>
-<p>Madam Zaibon Nisah Bte Abdul Hamid</p>
+<p>FAJT Azlina</p>
 <p></p>
 </li>
 </ol>
@@ -73,6 +73,6 @@ variant: tiptap
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcKwrmQ1NKM3dYWbla8-Y2O7jU-lB0AeYWqKcs-SJkqwHMKZyTCLN8FFOLU-MWr7ALeH0lzTfKl9oR/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRcKwrmQ1NKM3dYWbla8-Y2O7jU-lB0AeYWqKcs-SJkqwHMKZyTCLN8FFOLU-MWr7ALeH0lzTfKl9oR/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
