@@ -18,10 +18,7 @@ variant: tiptap
 <p>Ms Siti Mariam Binte Kamaruddin</p>
 </li>
 <li>
-<p>Ms Joaquina Jye Shiow</p>
-</li>
-<li>
-<p>Madma Rafidah Banu Bte Abdul Razak (KP Support)</p>
+<p>FAJT Huang Yin-Chiao</p>
 <p></p>
 </li>
 </ol>
@@ -46,6 +43,6 @@ variant: tiptap
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHQaOG_NyNhhCv9cbw7RT6qLLrrRaD7_6Uv7LBfr0DInQfTayS9vp_POgVM0fzDDrwypUOcmmoeHgC/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHQaOG_NyNhhCv9cbw7RT6qLLrrRaD7_6Uv7LBfr0DInQfTayS9vp_POgVM0fzDDrwypUOcmmoeHgC/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
