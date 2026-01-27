@@ -12,16 +12,16 @@ variant: tiptap
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr Edmund Tham</p>
+<p>Tham Mun Kin Edmund</p>
 </li>
 <li>
-<p>Ms Shanthini D/O Sinivasan</p>
+<p>Kiranjit Kaur</p>
 </li>
 <li>
-<p>Miss Ye Yiping</p>
+<p>Nalini Moorthi</p>
 </li>
 <li>
-<p>Mr Benjamin Yeo</p>
+<p>Quek Kar Men</p>
 </li>
 </ol>
 <h2>Training schedule</h2>
@@ -49,6 +49,6 @@ variant: tiptap
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdGwVg3iLKgjozx4cAjrkwbr7taCMqU1gy1Hc-zFV21_ZvE49fO6MVnA4Jfl30sVumJYkiXV0LvIl2/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdGwVg3iLKgjozx4cAjrkwbr7taCMqU1gy1Hc-zFV21_ZvE49fO6MVnA4Jfl30sVumJYkiXV0LvIl2/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
