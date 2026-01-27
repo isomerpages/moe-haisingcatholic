@@ -21,7 +21,11 @@ variant: tiptap
 <p>Miss Jael Ng</p>
 </li>
 <li>
-<p>Mr Chong Chee Leong</p>
+<p>FAJT Kelvin Chong</p>
+</li>
+<li>
+<p>Jeremy Kho (From Term 2)</p>
+<p></p>
 </li>
 </ol>
 <h2>Training schedule</h2>
@@ -89,6 +93,6 @@ Country</p>
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMrBDveBsHT3NKPvpfyrXvJBj0R8kITJ645UPddXThRj42le1bpWpE_Fee5P_AWsHovCbIxkH4vFJq/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQMrBDveBsHT3NKPvpfyrXvJBj0R8kITJ645UPddXThRj42le1bpWpE_Fee5P_AWsHovCbIxkH4vFJq/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
