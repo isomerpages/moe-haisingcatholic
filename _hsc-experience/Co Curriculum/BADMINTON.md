@@ -15,13 +15,13 @@ variant: tiptap
 <p>Mr Zainudin Bin Abdul Razak</p>
 </li>
 <li>
-<p>Ms Seah Kai Sing Pricilla</p>
-</li>
-<li>
 <p>Miss Amy Lui</p>
 </li>
 <li>
-<p>Miss Chen Feng Mei</p>
+<p>Ng I-Ling Violet</p>
+</li>
+<li>
+<p>FAJT Chrisopher Silva</p>
 </li>
 </ol>
 <h2>Training schedule</h2>
@@ -54,6 +54,6 @@ variant: tiptap
 <p>Jun Yuan Secondary 3, Captain</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThshb_YTJ2yFWVm4p7x4jKjsZAgwlpPBRco044pnvpAG4WqyGmyvj9iC45IVrOhZabP6hi1Y0KXzKF/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThshb_YTJ2yFWVm4p7x4jKjsZAgwlpPBRco044pnvpAG4WqyGmyvj9iC45IVrOhZabP6hi1Y0KXzKF/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
