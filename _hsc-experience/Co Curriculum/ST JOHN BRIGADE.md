@@ -18,7 +18,7 @@ variant: tiptap
 <p>Mr Lee Wen Han</p>
 </li>
 <li>
-<p>Ms Thang Sabrina Lisa</p>
+<p>Elyana Insyirah Binte Esman</p>
 <p></p>
 </li>
 </ol>
@@ -83,6 +83,6 @@ competitors and helpers)</p>
 <p><strong>Valdus Chew Jing Xuan, 4 Integrity</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThjODCK6WKTJVx0F7bvuBVAZUkd36odU7j0p5NJqAlYEvHhk8Cye0s-cmVJA0P6AQlZeJQHHdANAA-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vThjODCK6WKTJVx0F7bvuBVAZUkd36odU7j0p5NJqAlYEvHhk8Cye0s-cmVJA0P6AQlZeJQHHdANAA-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
