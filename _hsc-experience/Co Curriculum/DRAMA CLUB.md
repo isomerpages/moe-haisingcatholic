@@ -12,13 +12,13 @@ variant: tiptap
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Ms Juliana Lee Chin Ling</p>
+<p>Lee Chin Ling Juliana</p>
 </li>
 <li>
-<p>Mdm Siti Nurhuda Hamsani</p>
+<p>Mdm Siti Nurhuda Bte Hamsani</p>
 </li>
 <li>
-<p>Ms Delsiese Foo</p>
+<p>FAJT Delsise Foo</p>
 <p></p>
 </li>
 </ol>
@@ -62,6 +62,6 @@ the drama club, a drama family and I am proud to be in our drama family.’_</p>
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRF0MB4mdtQGBjP7I8_yBUBY5v9hVFUsk4xS_LGtw1HiWaescwzb-tWK40mbToFDSjnBTQTqPevQbp1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRF0MB4mdtQGBjP7I8_yBUBY5v9hVFUsk4xS_LGtw1HiWaescwzb-tWK40mbToFDSjnBTQTqPevQbp1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
