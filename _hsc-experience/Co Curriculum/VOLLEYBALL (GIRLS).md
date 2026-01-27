@@ -12,13 +12,19 @@ variant: tiptap
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Ms Virgil Chew Boon Kean</p>
+<p>Seah Kai Sing Pricilla</p>
 </li>
 <li>
-<p>Mrs Maria Loida Raju</p>
+<p>Chew Boon Kean (Virgil) - Sem 1</p>
 </li>
 <li>
-<p>Ms June Goh Suat Hong (Mrs June Ng)</p>
+<p>Tan Ai Lay - Sem 2</p>
+</li>
+<li>
+<p>Maria Loida Raju</p>
+</li>
+<li>
+<p>FAJT Raihana</p>
 </li>
 </ol>
 <h2>Training schedule</h2>
@@ -46,6 +52,6 @@ variant: tiptap
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSw2_LxipiApJeYJao9t-epMXo7rMqAG3lhfV2OOjn2-WF9qm1QzB4YK-dzKT1LPWqONYkSGuyua1I5/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSw2_LxipiApJeYJao9t-epMXo7rMqAG3lhfV2OOjn2-WF9qm1QzB4YK-dzKT1LPWqONYkSGuyua1I5/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
