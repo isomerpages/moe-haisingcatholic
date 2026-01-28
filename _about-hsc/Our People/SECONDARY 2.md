@@ -55,7 +55,7 @@ third_nav_title: Our People
 			</tr>
       <tr>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mdm Jamaliah Bte Mohamed Saleh</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:jamaliah_mohamed_saleh@moe.edu.sg">jamaliah_mohamed_saleh@moe.edu.sg</a></td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:jamaliah_mohamad_saleh@moe.edu.sg">jamaliah_mohamad_saleh@moe.edu.sg</a></td>
 			</tr>
   			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Adaptability</td>
