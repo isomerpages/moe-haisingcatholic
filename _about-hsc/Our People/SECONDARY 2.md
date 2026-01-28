@@ -46,7 +46,7 @@ third_nav_title: Our People
 			</tr>
       <tr>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mdm Yasmin Bte A Aziz</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:yasmin_a_aziz@moe.edu.sg">yasmin_a_aziz@moe.edu.sg</a></td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:yasmin_a_aziz_a@moe.edu.sg">yasmin_a_aziz_a@moe.edu.sg</a></td>
 			</tr>
   			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Independence</td>
