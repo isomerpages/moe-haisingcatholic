@@ -12,10 +12,13 @@ variant: tiptap
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr Raihan Omar</p>
+<p>Raihan Bin Omar</p>
 </li>
 <li>
 <p>Mr Basheer Ahamed Hamid Maricar</p>
+</li>
+<li>
+<p>FAJT Amy Wong</p>
 </li>
 </ol>
 <h2>Training schedule</h2>
@@ -87,6 +90,6 @@ variant: tiptap
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsxfKlDwq5hkTyx9hDg3aOnYNTOQ2JNCr77rABngzEUv21a0oLSJkKB5h_SdvBS6o22b9xrhSAze9I/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsxfKlDwq5hkTyx9hDg3aOnYNTOQ2JNCr77rABngzEUv21a0oLSJkKB5h_SdvBS6o22b9xrhSAze9I/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

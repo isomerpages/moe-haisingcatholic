@@ -15,16 +15,13 @@ variant: tiptap
 <p>Miss Wendy Koh Wen Yi</p>
 </li>
 <li>
+<p>Yong Chee Kong (Daniel)</p>
+</li>
+<li>
 <p>Ms Lau Heung Ying (Crystal)</p>
 </li>
 <li>
-<p>Miss Nabilah Binte Syed Sultan</p>
-</li>
-<li>
-<p>Madam Jamaliah Binte Mohamad Saleh</p>
-</li>
-<li>
-<p>Mr Daniel (KP Support)</p>
+<p>Jamaliah Binte Mohamad Saleh</p>
 </li>
 </ol>
 <h2>Training schedule</h2>
@@ -81,6 +78,6 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQveBZGASp7hd_wlFBO5ssLzfv02LIiWnky_A3zABBES5c9t3sgHVyTxWQkuLXM15ip1p2kB1GiI7p3/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQveBZGASp7hd_wlFBO5ssLzfv02LIiWnky_A3zABBES5c9t3sgHVyTxWQkuLXM15ip1p2kB1GiI7p3/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>

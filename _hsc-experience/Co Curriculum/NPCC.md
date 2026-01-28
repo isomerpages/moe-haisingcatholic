@@ -13,13 +13,16 @@ variant: tiptap
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr. Rafi Bin Mohamed Rais</p>
+<p>Fazzera Binte Kamal</p>
 </li>
 <li>
-<p>Mr. Mohammed Farhan Bin Mohammed Tayib</p>
+<p>Tan Song Teck</p>
 </li>
 <li>
-<p>Ms. Fazzera Binte Kamal</p>
+<p>Faizah Khairunnisa Bte Raihan</p>
+</li>
+<li>
+<p>Syahrulnizam Bin Abdul Rahman</p>
 <p></p>
 </li>
 </ol>
@@ -128,6 +131,6 @@ variant: tiptap
 <p>SGT Tan Jun Yang
 <br>NPCC Vice Chairman (Head Training)</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSB2Z1NPA1f1FvqA7e9fc85JGoZvpvq8XvNqKi2HMZgMuVL8NAm_PtQXEWp6PJ62gnyCN95JUCOVxAD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSB2Z1NPA1f1FvqA7e9fc85JGoZvpvq8XvNqKi2HMZgMuVL8NAm_PtQXEWp6PJ62gnyCN95JUCOVxAD/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>

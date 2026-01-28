@@ -12,10 +12,13 @@ variant: tiptap
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mrs Felicia Teo</p>
+<p>Teo Felicia (Zhang Felicia)</p>
 </li>
 <li>
 <p>Madam De Witt Cassandra Shivani</p>
+</li>
+<li>
+<p>FAJT Sharon Heng</p>
 </li>
 </ol>
 <h2>Training schedule</h2>
@@ -65,6 +68,6 @@ variant: tiptap
 <p>Nuha Syafeqah Binte Mohamed Nizaar
 <br>President</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTppRlW7BntGGU5X4v8-jClE63SYxyIvGsqyDkSKxyq1zN0Wsn1-L13WE-ZFFj_M_FBAF3sSJPyTea4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTppRlW7BntGGU5X4v8-jClE63SYxyIvGsqyDkSKxyq1zN0Wsn1-L13WE-ZFFj_M_FBAF3sSJPyTea4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>

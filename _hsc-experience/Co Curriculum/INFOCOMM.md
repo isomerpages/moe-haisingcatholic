@@ -15,10 +15,10 @@ variant: tiptap
 <p>Mr Ariston Tay Jing Yan</p>
 </li>
 <li>
-<p>Miss Siti Nur Aisha Bte Osman</p>
+<p>A'zimah Binti Muhamad</p>
 </li>
 <li>
-<p>Miss A'zimah Binti Muhamad</p>
+<p>Wang Yifei</p>
 </li>
 </ol>
 <h2>Training schedule</h2>
@@ -36,6 +36,6 @@ variant: tiptap
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTADXVw-yc8pQhIot3GPOk7AyrhFBflTku8NiujB3xsNuYk225wFK3z6nPH895ZHfXunDtycBcoF0VL/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTADXVw-yc8pQhIot3GPOk7AyrhFBflTku8NiujB3xsNuYk225wFK3z6nPH895ZHfXunDtycBcoF0VL/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

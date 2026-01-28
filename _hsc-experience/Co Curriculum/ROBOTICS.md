@@ -12,16 +12,16 @@ variant: tiptap
 <h2>Teachers in charge</h2>
 <ol data-tight="true" class="tight">
 <li>
-<p>Ms Zhao Xu Ying</p>
-</li>
-<li>
-<p>Mr Kok Hoe Ming</p>
+<p>Ms Zhao Xuying</p>
 </li>
 <li>
 <p>Ms Cheryl Ng Bee Leng</p>
 </li>
 <li>
-<p>Mr Teo Yee Ming (KP Support)</p>
+<p>Yang Jie</p>
+</li>
+<li>
+<p>Jeremy Kho (Term 1)</p>
 </li>
 </ol>
 <p></p>
@@ -124,6 +124,6 @@ variant: tiptap
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIOkH3UHXvu3_XVMltpNxnDunLcZrJNaCX5iVnQAucLujViQIJ6ODc_WZHLyT2tnEwB2QkjGGtuNG-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIOkH3UHXvu3_XVMltpNxnDunLcZrJNaCX5iVnQAucLujViQIJ6ODc_WZHLyT2tnEwB2QkjGGtuNG-/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
