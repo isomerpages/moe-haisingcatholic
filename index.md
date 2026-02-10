@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home/bg_gif_2026.gif
+      background: /images/Home/home_bg_2026.gif
       key_highlights:
         - title: Direct School Admission
           description: ""
