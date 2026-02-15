@@ -126,4 +126,4 @@ the year and is also available <a href="https://drive.google.com/file/d/1qHzGdo7
 completed form is to be submitted by 20/02/2026.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 65827864
 for discussion or to seek clarification about the school’s Sexuality Education
-programme</p>
+programme.</p>
