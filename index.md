@@ -23,6 +23,16 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
+      title: A Special Visit
+      subtitle: COMING SOON
+      id: infopic
+      description: We are preparing to welcome a distinguished guest to our school.
+        More details will be announced soon.
+      button: STAY TUNED →
+      url: https://drive.google.com/drive/folders/10I3ADxkBpi4nrYuu3_cllDMAaYWp34r0?usp=sharing
+      image: /images/school crest.png
+      alt: Image alt text
+  - infopic:
       title: GCE O-Level Post Secondary School Information Package
       subtitle: HAI SING CATHOLIC SCHOOL
       id: infopic
