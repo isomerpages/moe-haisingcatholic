@@ -2,7 +2,6 @@ collections:
   about-hsc:
     output: true
     order:
-      - Blessing by Cardinal William Goh.md
       - Message from School Leaders.md
       - Franciscan Missionaries of Mary.md
       - School Identity.md
@@ -20,4 +19,5 @@ collections:
       - Our People/SECONDARY 4.md
       - Our People/SECONDARY 5.md
       - School Yearbook.md
+      - Blessing by Cardinal William Goh.md
       - Contact Us.md
