@@ -1,8 +1,9 @@
 ---
-title: Blessing by Cardinal William Goh
+title: Blessing for Schools
 permalink: /blessing-by-cardinal-william-goh/
 variant: tiptap
 description: ""
+third_nav_title: School Heritage
 ---
 <h1>SITE TO BE UPDATED</h1>
 <p></p>
