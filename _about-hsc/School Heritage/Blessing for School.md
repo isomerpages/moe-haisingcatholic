@@ -1,5 +1,5 @@
 ---
-title: Blessing for Schools
+title: Blessing for School
 permalink: /blessing-by-cardinal-william-goh/
 variant: tiptap
 description: ""

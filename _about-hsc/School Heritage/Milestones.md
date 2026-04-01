@@ -1,5 +1,5 @@
 ---
-title: School Heritage
+title: Milestones
 permalink: /about-hsc/school-heritage/permalink/
 description: ""
 variant: markdown
