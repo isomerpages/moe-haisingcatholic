@@ -2,12 +2,12 @@ collections:
   about-hsc:
     output: true
     order:
-      - School Heritage/.keep
-      - School Heritage/School Heritage.md
-      - School Heritage/Blessing for Schools.md
       - Message from School Leaders.md
       - Franciscan Missionaries of Mary.md
       - School Identity.md
+      - School Heritage/.keep
+      - School Heritage/School Heritage.md
+      - School Heritage/Blessing for Schools.md
       - School Management.md
       - Our People/.keep
       - Our People/HEADS OF DEPARTMENT.md
