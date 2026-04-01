@@ -2,6 +2,7 @@ collections:
   about-hsc:
     output: true
     order:
+      - School H/Blessing for Schools.md
       - School H/School Heritage.md
       - School H/.keep
       - Message from School Leaders.md
