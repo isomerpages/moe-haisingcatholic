@@ -8,4 +8,4 @@ third_nav_title: Milestones
 SCHOOL HERITAGE
 ===============
 
-![](/images/About%20HSC/HSC_Heritage.jpg)
+![](/images/About%20HSC/HSC_Heritage_Updated.jpg)
