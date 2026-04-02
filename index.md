@@ -32,6 +32,14 @@ sections:
       alt: Image alt text
       url: https://youtube.com/shorts/soVH5nTnZsk?feature=share
       image: /images/Home/Homepage.png
+  - infobar:
+      title: Thank you for being a light!
+      id: infobar
+      description: This video shows the creative process behind a gift design inspired
+        by the Star of the Sea, celebrating unity, growth and gratitude to our
+        partners.
+      button: VIEW THE JOURNEY
+      url: https://www.youtube.com/shorts/soVH5nTnZsk
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
