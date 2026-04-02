@@ -23,21 +23,15 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
-      title: GCE O-Level Post Secondary School Information Package
-      subtitle: HAI SING CATHOLIC SCHOOL
+      title: Thank you for being a light!
       id: infopic
-      button: read more
-      url: https://drive.google.com/file/d/1nv-n9ae3-iScNTyT4RAG4WCSCc6pSAf0/view?usp=sharing
-      image: /images/Home/Post_Secondary_school_information_package.jpg
+      description: This video shows the creative process behind a gift design inspired
+        by the Star of the Sea, celebrating unity, growth and gratitude to our
+        partners.
+      button: VIEW THE JOURNEY
       alt: Image alt text
-  - infopic:
-      title: 2025 GCE O-Level Results Release
-      subtitle: hai sing catholic school
-      id: infopic
-      button: read more
-      url: https://drive.google.com/file/d/1ZatHKmLisb1_2P--2X7BS-iS9I3_lcF0/view?usp=sharing
-      image: /images/Home/Information_about_2025_GCE_O_Level_Result_Release.jpg
-      alt: Image alt text
+      url: https://youtube.com/shorts/soVH5nTnZsk?feature=share
+      image: /images/Home/Homepage_2.png
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
