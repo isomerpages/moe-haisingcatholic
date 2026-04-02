@@ -31,6 +31,7 @@ sections:
       button: VIEW THE JOURNEY
       alt: Image alt text
       url: https://youtube.com/shorts/soVH5nTnZsk?feature=share
+      image: /images/Home/Homepage.png
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
