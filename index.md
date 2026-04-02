@@ -28,8 +28,9 @@ sections:
       description: This video shows the creative process behind a gift design inspired
         by the Star of the Sea, celebrating unity, growth and gratitude to our
         partners.
-      button: Button Text
+      button: VIEW THE JOURNEY
       alt: Image alt text
+      url: https://youtube.com/shorts/soVH5nTnZsk?feature=share
   - infopic:
       title: HSC School Video
       subtitle: Hai Sing Catholic School
