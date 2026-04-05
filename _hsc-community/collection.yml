@@ -2,7 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
-      - SCHOOL LEADERS.md
+      - School Leaders.md
       - Students/.keep
       - Students/NOTIFCATION ON DEEMED CONSENT.md
       - Students/STUDENTS TIMETABLE.md
