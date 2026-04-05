@@ -1,7 +1,0 @@
-collections:
-  need-to-hide:
-    output: true
-    order:
-      - SCHOOL LEADERS.md
-      - SEC ONE ADMISSIONS.md
-      - Frequently Asked Questions (FAQ).md
