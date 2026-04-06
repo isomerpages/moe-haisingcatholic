@@ -1,6 +1,6 @@
 ---
 title: Blessing of the School
-permalink: /blessing-by-cardinal-william-goh/
+permalink: /blessing-of-the-school/
 variant: tiptap
 description: ""
 third_nav_title: Milestones
