@@ -1,4 +1,5 @@
 collections:
   update-in-progress:
     output: true
-    order: []
+    order:
+      - Page Update in Progress.md
