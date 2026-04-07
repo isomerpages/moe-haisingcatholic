@@ -2,5 +2,4 @@ collections:
   update-in-progress:
     output: true
     order:
-      - Test bed.md
       - Page Update in Progress.md
