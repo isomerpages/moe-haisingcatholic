@@ -30,7 +30,7 @@ sections:
         partners.
       button: VIEW THE JOURNEY
       alt: Image alt text
-      url: https://youtube.com/shorts/soVH5nTnZsk?feature=share
+      url: https://www.youtube.com/watch?v=u_M_gk_mVfE
       image: /images/Home/Homepage_2.png
   - infopic:
       title: HSC School Video
