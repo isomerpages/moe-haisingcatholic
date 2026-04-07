@@ -61,17 +61,13 @@ third_nav_title: Our People
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:joey_sergeoh_a@moe.edu.sg">joey_sergeoh_a@moe.edu.sg</a></td>
 			</tr>
   			<tr>
-					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="3">Independence</td>
+					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Independence</td>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mr Shah Dhaval Prabhaker</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:shah_dhaval_prabhaker@moe.edu.sg">shah_dhaval_prabhaker@moe.edu.sg</a></td>
 			</tr>
       <tr>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Ms Elyana Insyirah Binte Esman</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:elyana_insyirah_esman@moe.edu.sg">elyana_insyirah_esman@moe.edu.sg</a></td>
-			</tr>
-        <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Mr David Wong</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:wong_chun_sheng_david@moe.edu.sg">wong_chun_sheng_david@moe.edu.sg</a></td>
 			</tr>
   			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Adaptability</td>
