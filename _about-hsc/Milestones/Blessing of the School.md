@@ -17,4 +17,5 @@ We are honoured that William Cardinal Goh will bless our school on 17 April 2026
 <br><br>
 As a token of our appreciation, guests will receive a gift featuring an artwork by one of our students. Watch the video to find out more.
 <br><br>
+
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u_M_gk_mVfE?si=7rO5btl4ZnNvZh3x" height="315" width="560"></iframe>
