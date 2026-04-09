@@ -17,9 +17,8 @@ third_nav_title: Milestones
 
 <p>As a token of our appreciation, guests will receive a gift featuring an artwork by one of our students. Watch the video to find out more.</p>
 
-<br>
+
 <hr style="border:none;border-top:3px solid #00A3E0;margin-bottom:16px;">
-<br>
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u_M_gk_mVfE?si=7rO5btl4ZnNvZh3x" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
