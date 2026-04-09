@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Milestones
 ---
+<h2>Blessing of the School by William Cardinal Goh</h2>
 <img alt="Blessing of the School by William Cardinal Goh" src="/images/HSC Experience/Cardinal.png">
 
-<h2>Blessing of the School by William Cardinal Goh</h2>
 
 <p>Through the generous support of our donors and alumni, our campus at 9 Pasir Ris Drive 6 underwent refurbishment from 2023 to 2025. We are pleased to have returned and resumed full operations in January 2026.</p>
 
