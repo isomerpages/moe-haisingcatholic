@@ -18,7 +18,7 @@ third_nav_title: Milestones
 </div>
 <br><br>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/K1AIMfVz9hg?si=A7VW9XHftd4PX5Lo" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/K1AIMfVz9hg?si=0QpZU9-lF1jyG9X8&amp;start=1035" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
 </div>
 <br><br>
 <div style="max-width:400px;position:relative;padding-bottom:177.78%;height:0;overflow:hidden;">
