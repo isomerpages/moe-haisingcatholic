@@ -10,7 +10,7 @@ third_nav_title: Milestones
 <p>Through the generous support of our donors and alumni, our campus at 9 Pasir Ris Drive 6 underwent refurbishment from 2023 to 2025. We are pleased to have returned and resumed full operations in January 2026.</p>
 <p>We are deeply grateful for the support and belief in our mission shown by so many.</p>
 <p>We are honoured that William Cardinal Goh will bless our school on 17 April 2026. Among our invited guests are our valued donors, as well as partners from the Catholic community.</p>
-<p>As a token of our appreciation, guests will receive a gift featuring an artwork by one of our students. Watch the video to find out more.</p>
+<p>As a token of our appreciation, guests will receive a gift featuring an artwork by one of our students. Watch the videos to find out more.</p>
 <hr style="border:none;border-top:3px solid #00A3E0;margin-bottom:16px;">
 <br><br>
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
