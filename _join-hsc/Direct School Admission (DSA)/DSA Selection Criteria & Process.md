@@ -143,9 +143,7 @@ third_nav_title: Direct School Admission (DSA)
 <h2 class="main-title">1) DSA Selection Criteria</h2>
 <p>Selection criteria for the respective talent areas as below.</p>
 <p>
-</p>
-<h3>Develop Talent Areas</h3>
-<div class="collapsible-container">
+</p><div class="collapsible-container">
         <div class="collapsible-section">
             <input class="collapsible-toggle" id="concertBand" type="checkbox">
             <label for="concertBand" class="collapsible-header">Concert Band<span></span></label>
@@ -189,35 +187,36 @@ third_nav_title: Direct School Admission (DSA)
                 <p>The Hai Sing Catholic School Uniformed Groups welcome applications from Primary 6 pupils who meet at least two of the following criteria:</p>
                 <ol>
                     <li>The pupil is an active member of a Uniformed Group in primary school.</li>
-                    <li>The pupil has demonstrated excellence through strong individual attainment in the relevant progress schemes or awards of their respective Uniformed Group, such as those listed below.</li>
+                    <li>The pupil has demonstrated excellence through strong individual attainment in the relevant progress schemes or awards of their respective Uniformed Group, such as:
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>CCA</th>
+                                    <th>Award</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Scouts</td>
+                                    <td>Akela Award</td>
+                                </tr>
+                                <tr>
+                                    <td>Boys' Brigade</td>
+                                    <td>Chief Leading Boy and Gold Award</td>
+                                </tr>
+                                <tr>
+                                    <td>Brownies</td>
+                                    <td>Chief Commissioner's Award</td>
+                                    </tr>
+                                <tr>
+                                    <td>Red Cross</td>
+                                    <td>Director's Award</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </li>
                     <li>The pupil has attained at least a Very Good conduct grade and has demonstrated relevant leadership qualities during the last two years of primary school.</li>
                 </ol>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>CCA</th>
-                            <th>Award</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Scouts</td>
-                            <td>Akela Award</td>
-                        </tr>
-                        <tr>
-                            <td>Boys' Brigade</td>
-                            <td>Chief Leading Boy and Gold Award</td>
-                        </tr>
-                        <tr>
-                            <td>Brownies</td>
-                            <td>Chief Commissioner's Award</td>
-                            </tr>
-                        <tr>
-                            <td>Red Cross</td>
-                            <td>Director's Award</td>
-                        </tr>
-                    </tbody>
-                </table>
                 <p><strong>Uniformed Groups offered in Hai Sing Catholic School:</strong></p>
                 <ol>
                     <li>National Cadet Corps (NCC)</li>
@@ -238,9 +237,6 @@ third_nav_title: Direct School Admission (DSA)
                 </ol>
             </div>
         </div>
-    </div>
-<h3>Explore Talent Areas</h3>
-<div class="collapsible-container">
         <div class="collapsible-section">
             <input class="collapsible-toggle" id="badmintonGirls" type="checkbox">
             <label for="badmintonGirls" class="collapsible-header">Badminton (Girls)<span></span></label>
