@@ -140,7 +140,7 @@ third_nav_title: Direct School Admission (DSA)
         }
 
     </style>
-<h2 class="main-title">1) DSA Selection Criteria</h2>
+<h2 class="main-title">1) Published DSA categories and criteria</h2>
 <p>Selection criteria for the respective talent areas as below.</p>
 <p>
 </p><div class="collapsible-container">
