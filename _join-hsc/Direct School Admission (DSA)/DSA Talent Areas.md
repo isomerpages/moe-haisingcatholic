@@ -120,7 +120,7 @@ third_nav_title: Direct School Admission (DSA)
     </div>
 <div class="cca-card">
     <div class="cca-image-container">
-        <img class="cca-image" alt="Badminton CCA" src="/images/CCA/cca badminton tab 1.png">
+        <img class="cca-image" alt="Badminton CCA" src="/images/CCA/cca_badminton_tab_1.png">
     </div>
     <div class="cca-info">
         <p class="cca-title"><a class="cca-link" title="Learn about Badminton (Girls)" href="/hsc-experience/Co-Curriculum/badminton/permalink/">Badminton (Girls)</a></p>
@@ -128,7 +128,7 @@ third_nav_title: Direct School Admission (DSA)
 </div>
 <div class="cca-card">
     <div class="cca-image-container">
-        <img class="cca-image" alt="Bowling CCA" src="/images/CCA/cca bowling tab 1.png">
+        <img class="cca-image" alt="Bowling CCA" src="/images/CCA/cca_bowling_tab_1.png">
     </div>
     <div class="cca-info">
         <p class="cca-title"><a class="cca-link" title="Explore Bowling" href="/hsc-experience/Co-Curriculum/bowling/permalink/">Bowling</a></p>
