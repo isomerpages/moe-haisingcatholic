@@ -140,81 +140,19 @@ third_nav_title: Direct School Admission (DSA)
         }
 
     </style>
-<h2 class="main-title">1) DSA Selection Criteria</h2>
-<p>Selection criteria for the respective talent areas as below.</p><p>
+<h2 class="main-title">1) Published DSA categories and criteria</h2>
+<p>Selection criteria for the respective talent areas as below.</p>
+<p>
 </p><div class="collapsible-container">
-        <div class="collapsible-section">
-            <input class="collapsible-toggle" id="floorball" type="checkbox">
-            <label for="floorball" class="collapsible-header">Floorball<span></span></label>
-            <div class="collapsible-content">
-                <p>Hai Sing Catholic School Floorball Team is looking for Primary 6 students who meet two or more of the following conditions.</p>
-                <ol>
-                    <li>Active member in a floorball team (school/club)</li>
-                    <li>Awards in National School Games Floorball competitions or any relevant competition</li>
-                    <li>The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last two years of Primary School Education.</li>
-                </ol>
-            </div>
-        </div>
-        <div class="collapsible-section">
-            <input class="collapsible-toggle" id="robotics" type="checkbox">
-            <label for="robotics" class="collapsible-header">Robotics<span></span></label>
-            <div class="collapsible-content">
-                <p>Hai Sing Catholic School Robotics Club is looking for Primary 6 students who possess two or more of the following competencies.</p>
-                <ol>
-                    <li>Robotics building and programming skills.</li>
-                    <li>Awards in Robotics, ICT or Science-related competitions.</li>
-                    <li>The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last two years of Primary School Education.</li>
-                </ol>
-            </div>
-        </div>
-        <div class="collapsible-section">
-            <input class="collapsible-toggle" id="uniformedGroups" type="checkbox">
-            <label for="uniformedGroups" class="collapsible-header">Uniformed Groups<span></span></label>
-            <div class="collapsible-content">
-                <p>Hai Sing Catholic School Uniformed Groups is looking for Primary 6 pupils who exhibit the following:</p>
-                <ol>
-                    <li>The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last 2 years in Primary School Education.</li>
-                    <li>The student demonstrates consistency and commitment to development by attaining at least 90 % attendance for the CCA during the last two years of Primary School Education.</li>
-                    <li>The student demonstrates strong potential for further leadership development by assuming key leadership positions in their CCA for at least a year.</li>
-                    <li>The student demonstrates excellence through strong individual attainment in progress schemes/awards in the various Uniformed Groups</li>
-                </ol>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>CCA</th>
-                            <th>Award</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Scouts</td>
-                            <td>Akela Award</td>
-                        </tr>
-                        <tr>
-                            <td>Boys Brigade</td>
-                            <td>Chief Leading Boy and Gold Award</td>
-                        </tr>
-                        <tr>
-                            <td>Brownies</td>
-                            <td>Chief Commissioner Award</td>
-                            </tr>
-                        <tr>
-                            <td>Red Cross</td>
-                            <td>Directors Award</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
         <div class="collapsible-section">
             <input class="collapsible-toggle" id="concertBand" type="checkbox">
             <label for="concertBand" class="collapsible-header">Concert Band<span></span></label>
             <div class="collapsible-content">
-                <p>Hai Sing Catholic School Concert Band is open to all Primary 6 pupils who meet two or more of the following conditions.</p>
+                <p>The Hai Sing Catholic School Concert Band welcomes applications from Primary 6 pupils who meet at least two of the following criteria:</p>
                 <ol>
-                    <li>Active member in a concert band (school/club)</li>
-                    <li>Awards in Singapore Youth Festival Art Presentation or any relevant competition</li>
-                    <li>The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last two years of Primary School Education.</li>
+                    <li>The pupil is an active member of a concert band in school or in an external club.</li>
+                    <li>The pupil has represented their school in SYF Arts Presentation and/or achieved an award in other relevant competitions.</li>
+                    <li>The pupil has attained at least a Very Good conduct grade and has demonstrated relevant leadership qualities during the last two years of primary school.</li>
                 </ol>
             </div>
         </div>
@@ -222,11 +160,104 @@ third_nav_title: Direct School Admission (DSA)
             <input class="collapsible-toggle" id="modernDance" type="checkbox">
             <label for="modernDance" class="collapsible-header">Modern Dance<span></span></label>
             <div class="collapsible-content">
-                <p>Hai Sing Catholic School Dance is open to all Primary 6 pupils who meet two or more of the following conditions.</p>
+                <p>The Hai Sing Catholic School Dance welcomes applications from Primary 6 pupils who meet at least two of the following criteria:</p>
                 <ol>
-                    <li>Active member in a dance club (school/club)</li>
-                    <li>Awards in Singapore Youth Festival Art Presentation or any relevant competition</li>
-                    <li>The student must obtain at least a Very Good conduct grade with relevant leadership skills during the last two years of Primary School Education.</li>
+                    <li>The pupil is an active member of a dance club in school or an external dance group.</li>
+                    <li>The pupil has received awards in the Singapore Youth Festival Arts Presentation or other relevant competitions.</li>
+                    <li>The pupil has attained at least a Very Good conduct grade and has demonstrated relevant leadership qualities during the last two years of primary school.</li>
+                </ol>
+            </div>
+        </div>
+        <div class="collapsible-section">
+            <input class="collapsible-toggle" id="robotics" type="checkbox">
+            <label for="robotics" class="collapsible-header">Robotics<span></span></label>
+            <div class="collapsible-content">
+                <p>The Hai Sing Catholic School Robotics Club welcomes applications from Primary 6 pupils who meet at least two of the following criteria:</p>
+                <ol>
+                    <li>The pupil is an active member of a robotics club in school or an external robotics programme.</li>
+                    <li>The pupil has received awards in robotics, ICT, or science-related competitions.</li>
+                    <li>The pupil has attained at least a Very Good conduct grade and has demonstrated relevant leadership qualities during the last two years of primary school.</li>
+                </ol>
+            </div>
+        </div>
+        <div class="collapsible-section">
+            <input class="collapsible-toggle" id="uniformedGroups" type="checkbox">
+            <label for="uniformedGroups" class="collapsible-header">Uniformed Groups<span></span></label>
+            <div class="collapsible-content">
+                <p>The Hai Sing Catholic School Uniformed Groups welcome applications from Primary 6 pupils who meet at least two of the following criteria:</p>
+                <ol>
+                    <li>The pupil is an active member of a Uniformed Group in primary school.</li>
+                    <li>The pupil has demonstrated excellence through strong individual attainment in the relevant progress schemes or awards of their respective Uniformed Group, such as:
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>CCA</th>
+                                    <th>Award</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Scouts</td>
+                                    <td>Akela Award</td>
+                                </tr>
+                                <tr>
+                                    <td>Boys' Brigade</td>
+                                    <td>Chief Leading Boy and Gold Award</td>
+                                </tr>
+                                <tr>
+                                    <td>Brownies</td>
+                                    <td>Chief Commissioner's Award</td>
+                                    </tr>
+                                <tr>
+                                    <td>Red Cross</td>
+                                    <td>Director's Award</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </li>
+                    <li>The pupil has attained at least a Very Good conduct grade and has demonstrated relevant leadership qualities during the last two years of primary school.</li>
+                </ol>
+                <p><strong>Uniformed Groups offered in Hai Sing Catholic School:</strong></p>
+                <ol>
+                    <li>National Cadet Corps (NCC)</li>
+                    <li>National Police Cadet Corps (NPCC)</li>
+                    <li>St John Brigade (SJB)</li>
+                </ol>
+            </div>
+        </div>
+        <div class="collapsible-section">
+            <input class="collapsible-toggle" id="floorball" type="checkbox">
+            <label for="floorball" class="collapsible-header">Floorball<span></span></label>
+            <div class="collapsible-content">
+                <p>The Hai Sing Catholic School Floorball Team welcomes applications from Primary 6 pupils who meet at least two of the following criteria:</p>
+                <ol>
+                    <li>The pupil is an active member of a floorball team in school or an external club.</li>
+                    <li>The pupil has received awards in the National School Games Floorball competition or other relevant competitions.</li>
+                    <li>The pupil has attained at least a Very Good conduct grade and has demonstrated relevant leadership qualities during the last two years of primary school.</li>
+                </ol>
+            </div>
+        </div>
+        <div class="collapsible-section">
+            <input class="collapsible-toggle" id="badmintonGirls" type="checkbox">
+            <label for="badmintonGirls" class="collapsible-header">Badminton (Girls)<span></span></label>
+            <div class="collapsible-content">
+                <p>The Hai Sing Catholic School Badminton Team welcomes applications from Primary 6 pupils who meet at least two of the following criteria:</p>
+                <ol>
+                    <li>The pupil is an active member of a badminton team in school or an external club.</li>
+                    <li>The pupil has received awards in the National School Games Badminton competition or other relevant competitions.</li>
+                    <li>The pupil has attained at least a Very Good conduct grade and has demonstrated relevant leadership qualities during the last two years of primary school.</li>
+                </ol>
+            </div>
+        </div>
+        <div class="collapsible-section">
+            <input class="collapsible-toggle" id="bowling" type="checkbox">
+            <label for="bowling" class="collapsible-header">Bowling<span></span></label>
+            <div class="collapsible-content">
+                <p>The Hai Sing Catholic School Bowling Team welcomes applications from Primary 6 pupils who meet at least two of the following criteria:</p>
+                <ol>
+                    <li>The pupil is an active member of a bowling team in school or an external club.</li>
+                    <li>The pupil has received awards in the National School Games Bowling competition or other relevant competitions.</li>
+                    <li>The pupil has attained at least a Very Good conduct grade and has demonstrated relevant leadership qualities during the last two years of primary school.</li>
                 </ol>
             </div>
         </div>
@@ -235,17 +266,17 @@ third_nav_title: Direct School Admission (DSA)
 <hr>
 <h2>2) DSA Application Process</h2>
 <p>Applications for the DSA-Sec are free-of-charge and must be submitted
-    through the online DSA-Sec Portal. Applications open on 7 May 2025 (Wed),
-    11 am and close on 3 Jun 2025 (Tue), 3 pm.</p>
+    through the online DSA-Sec Portal. Applications open from 6 May 2026 to
+    2 Jun 2026.</p>
 <hr>
 <h2>3) DSA Selection Process</h2>
 <p>All shortlisted candidates will be notified via email by early August
-    2025 to attend an in-person audition / trial held in Hai Sing Catholic
+    2026 to attend an in-person audition / trial held in Hai Sing Catholic
     School. More details on the performance task will be provided in the email
     notification.</p>
 <hr>
 <h2>4) Release of Application Results</h2>
-<p>All applicants will be notified of their DSA-Sec application results between 25 August and 4 September 2025 via email.</p>
+<p>All applicants will be notified of their DSA-Sec application results between 17 August and 28 August 2026 via email.</p>
 <p>For further information about the DSA-Sec Exercise, please refer to the following MOE webpage:
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School
       Admission for secondary schools (DSA-Sec) | MOE</a></p>
