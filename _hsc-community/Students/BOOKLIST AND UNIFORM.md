@@ -13,6 +13,8 @@ variant: tiptap
 <h2>School Uniform and PE Attire</h2>
 <p>Price List of School Uniform and PE Attire can be found via this <a href="https://drive.google.com/file/d/17uNM-RWes-goAXloi0huhK_nm3iqTm-G/view?usp=sharing" rel="noopener nofollow" target="_blank">link</a>
 </p>
+<p>School Uniform &amp; PE Attire will be available for purchase at the <strong><u>School Bookshop</u></strong> from <strong><u>March to October</u></strong> of
+the year.</p>
 <p></p>
 <p><strong>2026 Secondary 1 Students</strong>
 </p>
