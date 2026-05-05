@@ -16,6 +16,7 @@ variant: tiptap
 <p>School Uniform &amp; PE Attire will be available for purchase at the <strong><u>School Bookshop</u></strong> from <strong><u>March to October</u></strong> of
 the year.</p>
 <p></p>
+<p></p>
 <p><strong>2026 Secondary 1 Students</strong>
 </p>
 <ul data-tight="true" class="tight">
