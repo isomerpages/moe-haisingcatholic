@@ -16,22 +16,22 @@ Thank You.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Secondary 1 Class timetable : <a href="https://drive.google.com/file/d/1NWZXV59Ngv1KuB4dRoxu3_o9_GVpBFR-/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec One Timetable</a> 
+<p>Secondary 1 Class timetable : <a href="https://drive.google.com/file/d/19Fxf-V4DXTlzsu2JQbEGV7_Mx35mP2g-/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec One Timetable</a> 
 <br>
 </p>
 </li>
 <li>
-<p>Secondary 2 Class timetable : <a href="https://drive.google.com/file/d/1SDFBlsiXWc59jGddZhXs-c68ShcdWcz0/view?usp=drive_link" rel="noopener nofollow" target="_blank">Sec Two Timetable</a>
+<p>Secondary 2 Class timetable : <a href="https://drive.google.com/file/d/1YGuCE9hp8bIHRetCZEAn0tXQqNCF5jmw/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Two Timetable</a>
 <br>
 </p>
 </li>
 <li>
-<p>Secondary 3 Class timetable: <a href="https://drive.google.com/file/d/12Ya18WX93eAC5sGH3p97FFGdikd8Wp7J/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Three timetable</a> 
+<p>Secondary 3 Class timetable: <a href="https://drive.google.com/file/d/1YlFk5EdByFk8QDlDL3B2pENGIYJoKvTk/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Three timetable</a> 
 <br>
 </p>
 </li>
 <li>
-<p>Secondary 4 Class timetable: <a href="https://drive.google.com/file/d/1C1gcAZfRbckr1VMijby202JuFQlmmrNY/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Four Timetable</a>
+<p>Secondary 4 Class timetable: <a href="https://drive.google.com/file/d/17JtByjKVIcU9XaFYsvRQcyqn_mE24OMI/view?usp=sharing" rel="noopener nofollow" target="_blank">Sec Four Timetable</a>
 <br>
 </p>
 </li>
