@@ -24,11 +24,11 @@ guidelines for each level.</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1F6dzSsnJyn_9_2inktWYwkqO5EuVZyvP/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 Sec 4 NWA2 Schedule and Assessment Information</a>
+<p><a href="https://drive.google.com/file/d/1F6dzSsnJyn_9_2inktWYwkqO5EuVZyvP/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 O Level Preliminary Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1BmkxRbp_GIk6jI65lUWvTiNRUwSSEocU/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 Sec 5 NWA2 Schedule and Assessment Information</a>
+<p><a href="https://drive.google.com/file/d/1BmkxRbp_GIk6jI65lUWvTiNRUwSSEocU/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 N Level Preliminary Schedule </a>
 </p>
 </li>
 </ul>
