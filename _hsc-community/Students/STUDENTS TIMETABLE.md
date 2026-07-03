@@ -9,8 +9,8 @@ third_nav_title: Students
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/timetable.jpeg">
 </div>
-<h2><strong>Semester 1 Timetable 2026</strong></h2>
-<p>Class timetable for 2026 Semester 1 is available for download.&nbsp;Please
+<h2><strong>Semester 2 Timetable 2026</strong></h2>
+<p>Class timetable for 2026 Semester 2 is available for download.&nbsp;Please
 click on the link below to download the timetable for your respective classes.
 Thank You.</p>
 <p></p>
