@@ -12,15 +12,15 @@ School Based Assessments, including assessment schedules and subject-specific
 guidelines for each level.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1P0IHI2dxBmXzH8CAbJYm3lf4ccoe11ud/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 Sec 1 WA2 Schedule and Assessment Information</a>
+<p><a href="https://drive.google.com/file/d/1fbtSM1gK6HswCAlUfOZ0W6v2jE0MimDC/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 Sec 1 WA2 Schedule and Assessment Information</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1gqAuQOXnMJR4CecAkuXjh3bF4gHJpjKY/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 Sec 2 WA2 Schedule and Assessment Information</a>
+<p><a href="https://drive.google.com/file/d/1l_RJa9bUFzQTILLyrCXZLhlp01WSAa1S/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 Sec 2 WA2 Schedule and Assessment Information</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1qseTZIzZGDHUWCIwiE-Rm_acj96J4mYV/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 Sec 3 WA2 Schedule and Assessment Information</a>
+<p><a href="https://drive.google.com/file/d/1idV5Sf-kr6Dzm-6-sUtVFp2IBarv4plP/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 Sec 3 WA2 Schedule and Assessment Information</a>
 </p>
 </li>
 <li>
