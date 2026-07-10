@@ -23,6 +23,15 @@ sections:
   - infobar:
       title: Highlights
   - infopic:
+      title: Singapore Graduation Certificates ready for collection
+      subtitle: For 2025 graduates
+      id: infopic
+      description: The Singapore Graduation Certificates for the 2025 Secondary 4 and
+        5 cohort are now ready for collection from the school.
+      button: View collection details
+      url: /singapore-graduation-certificates-2025/
+      alt: Image alt text
+  - infopic:
       title: Thank you for being a light!
       id: infopic
       description: This video shows the creative process behind a gift design inspired
