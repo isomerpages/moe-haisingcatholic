@@ -30,7 +30,8 @@ sections:
         5 cohort are now ready for collection from the school.
       button: View collection details
       url: /singapore-graduation-certificates-2025/
-      alt: Image alt text
+      alt: Graduation picture
+      image: /images/Grad.jpg
   - infopic:
       title: Thank you for being a light!
       id: infopic
