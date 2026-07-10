@@ -2,9 +2,9 @@ collections:
   hsc-community:
     output: true
     order:
-      - Alumni/Singapore Graduation Certificates 2025.md
-      - Alumni/One Haising Alumni.md
       - Alumni/.keep
+      - Alumni/One Haising Alumni.md
+      - Alumni/Singapore Graduation Certificates 2025.md
       - Students/.keep
       - Students/NOTIFCATION ON DEEMED CONSENT.md
       - Students/STUDENTS TIMETABLE.md
