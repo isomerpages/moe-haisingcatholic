@@ -1,7 +1,9 @@
 ---
-title: Alumni
+title: One Haising Alumni
 permalink: /hsc-community/alumni/permalink/
 description: ""
+third_nav_title: Alumni
+variant: tiptap
 ---
 ALUMNI
 ======
