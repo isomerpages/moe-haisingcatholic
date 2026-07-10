@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Alumni
 ---
-<h1><strong>Collection of Singapore Graduation Certificates (SGCs) for the 2025 Secondary 4 &amp; 5 Cohort</strong></h1>
+<h2>Collection of Singapore Graduation Certificates (SGCs) for the 2025 Secondary 4 &amp; 5 Cohort</h2>
 <p>The <strong>Singapore Graduation Certificates (SGCs)</strong> for the 2025
 Secondary 4 and 5 cohort are ready for collection.</p>
 <p><strong>Collection Details</strong>
